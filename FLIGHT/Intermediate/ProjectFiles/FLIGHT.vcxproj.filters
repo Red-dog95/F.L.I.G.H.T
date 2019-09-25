@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\FLIGHT.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{705D8903-84D6-48DE-A7E9-402730FE12DE}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FLIGHT.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\FLIGHTEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Retro8BitSounds.png" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{5098AAE2-27E8-4030-BD59-70CFD6F41B5A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\FLIGHT">
+      <UniqueIdentifier>{F9FB4AFE-DB43-4A50-97E8-EC3A60D2EE82}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FLIGHT\FLIGHT.Build.cs">
+      <Filter>Source\FLIGHT</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\FLIGHT\FLIGHT.cpp">
+      <Filter>Source\FLIGHT</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FLIGHT\FLIGHT.h">
+      <Filter>Source\FLIGHT</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FLIGHT\MyBlueprintFunctionLibrary.cpp">
+      <Filter>Source\FLIGHT</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FLIGHT\MyBlueprintFunctionLibrary.h">
+      <Filter>Source\FLIGHT</Filter>
+    </ClInclude>
+    <Filter Include="Source\FLIGHT\Private">
+      <UniqueIdentifier>{9E0EF1CC-9CB8-4E68-A133-9D965C46479C}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\FLIGHT\Private\GamepadDetection.cpp">
+      <Filter>Source\FLIGHT\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\FLIGHT\Public">
+      <UniqueIdentifier>{539F2F06-3BC0-482A-9FAB-9849E6A8E7FB}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\FLIGHT\Public\GamepadDetection.h">
+      <Filter>Source\FLIGHT\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
