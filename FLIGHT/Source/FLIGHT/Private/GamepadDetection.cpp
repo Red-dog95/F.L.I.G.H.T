@@ -3,7 +3,7 @@
 
 #include "GamepadDetection.h"
 #include "SlateBasics.h"
-
+/*
 bool UGamepadDetection::IsGamePadConnected()
 {
 	auto genericApplication = FSlateApplication::Get().GetPlatformApplication();
@@ -12,4 +12,4 @@ bool UGamepadDetection::IsGamePadConnected()
 		return true;
 	}
 	return false;
-}
+}*/

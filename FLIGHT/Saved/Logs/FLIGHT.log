@@ -5656,3 +5656,182 @@ Script Stack (0 frames):
 [2019.09.28-21.44.32:264][239]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/MapSelectScreenF101112647D3416401714F8F4FBC130C.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Widgets/MapSelectScreen.uasset'
 [2019.09.28-21.44.34:506][366]BlueprintLog: New page: Compile Default_GM
 [2019.09.28-21.44.34:915][366]LogUObjectHash: Compacting FUObjectHashTables data took   6.54ms
+[2019.09.28-21.46.44:683][382]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.28-21.46.44:758][382]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2019.09.28-21.46.44:758][382]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.28-21.46.44:758][382]PIE: New page: PIE session: Menu (Sep 28, 2019, 1:46:44 PM)
+[2019.09.28-21.46.44:759][382]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Menu
+[2019.09.28-21.46.44:761][382]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001866s)
+[2019.09.28-21.46.44:761][382]LogAIModule: Creating AISystem for world Menu
+[2019.09.28-21.46.44:762][382]LogPlayLevel: PIE: World Init took: (0.000775s)
+[2019.09.28-21.46.44:762][382]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menu.Menu to /Game/Maps/UEDPIE_0_Menu.Menu (0.002784s)
+[2019.09.28-21.46.44:843][382]LogUObjectHash: Compacting FUObjectHashTables data took   8.83ms
+[2019.09.28-21.46.44:884][382]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.28-21.46.44:998][382]LogInit: FAudioDevice initialized.
+[2019.09.28-21.46.45:010][382]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.28-21.46.45:047][382]LogLoad: Game class is 'MenuGameMode_C'
+[2019.09.28-21.46.45:049][382]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2019.09.28-17.46.45
+[2019.09.28-21.46.45:049][382]LogWorld: Bringing up level for play took: 0.000574
+[2019.09.28-21.46.45:063][382]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.09.28-21.46.45:063][382]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.09.28-21.46.45:064][382]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 0,
+[2019.09.28-21.46.45:064][382]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.09.28-21.46.45:064][382]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.09.28-21.46.45:066][382]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.09.28-21.46.45:066][382]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.09.28-21.46.45:067][382]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.09.28-21.46.45:067][382]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.09.28-21.46.45:075][382]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Menu 0.08
+[2019.09.28-21.46.45:076][382]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2019.09.28-21.46.58:378][170]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2019.09.28-21.46.58:379][170]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.28-21.46.58:401][170]LogSlate: Window 'FLIGHT Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.09.28-21.46.58:440][170]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.28-21.46.58:440][170]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2019.09.28-21.46.58:528][170]LogUObjectHash: Compacting FUObjectHashTables data took   5.45ms
+[2019.09.28-21.46.58:576][171]LogPlayLevel: Display: Destroying online subsystem :Context_82
+[2019.09.28-21.46.59:337][213]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.28-21.46.59:393][213]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2019.09.28-21.46.59:393][213]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.28-21.46.59:394][213]PIE: New page: PIE session: Menu (Sep 28, 2019, 1:46:59 PM)
+[2019.09.28-21.46.59:394][213]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Menu
+[2019.09.28-21.46.59:396][213]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001583s)
+[2019.09.28-21.46.59:396][213]LogAIModule: Creating AISystem for world Menu
+[2019.09.28-21.46.59:396][213]LogPlayLevel: PIE: World Init took: (0.000682s)
+[2019.09.28-21.46.59:396][213]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menu.Menu to /Game/Maps/UEDPIE_0_Menu.Menu (0.002390s)
+[2019.09.28-21.46.59:458][213]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2019.09.28-21.46.59:491][213]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.28-21.46.59:591][213]LogInit: FAudioDevice initialized.
+[2019.09.28-21.46.59:602][213]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.28-21.46.59:639][213]LogLoad: Game class is 'MenuGameMode_C'
+[2019.09.28-21.46.59:641][213]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2019.09.28-17.46.59
+[2019.09.28-21.46.59:641][213]LogWorld: Bringing up level for play took: 0.000635
+[2019.09.28-21.46.59:654][213]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.09.28-21.46.59:654][213]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.09.28-21.46.59:655][213]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 0,
+[2019.09.28-21.46.59:655][213]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.09.28-21.46.59:656][213]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.09.28-21.46.59:656][213]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.09.28-21.46.59:656][213]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.09.28-21.46.59:657][213]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.09.28-21.46.59:657][213]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.09.28-21.46.59:664][213]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Menu 0.669
+[2019.09.28-21.46.59:664][213]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2019.09.28-21.47.00:660][264]LogBlueprintUserMessages: [MenuGameMode_C_0] 4
+[2019.09.28-21.47.00:660][264]LogBlueprintUserMessages: [MenuGameMode_C_0] Lander_PC
+[2019.09.28-21.47.00:663][264]LogBlueprintUserMessages: [MenuGameMode_C_0] Lander_PC1
+[2019.09.28-21.47.00:666][264]LogBlueprintUserMessages: [MenuGameMode_C_0] Lander_PC2
+[2019.09.28-21.47.00:670][264]LogBlueprintUserMessages: [MenuGameMode_C_0] Lander_PC3
+[2019.09.28-21.47.03:637][440]LogBlueprintUserMessages: [MapSelectScreen_C_0] Moon
+[2019.09.28-21.47.05:257][538]LogBlueprintUserMessages: [MapSelectScreen_C_0] Mars
+[2019.09.28-21.47.05:757][568]LogBlueprintUserMessages: [MapSelectScreen_C_0] Moon
+[2019.09.28-21.47.07:026][644]LogNet: Browse: /Game/Maps/Moon
+[2019.09.28-21.47.07:027][644]LogLoad: LoadMap: /Game/Maps/Moon
+[2019.09.28-21.47.07:103][644]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2019.09.28-21.47.07:222][644]LogAIModule: Creating AISystem for world Moon
+[2019.09.28-21.47.07:222][644]LogLoad: Game class is 'Default_GM_C'
+[2019.09.28-21.47.07:228][644]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Moon.Moon up for play (max tick rate 60) at 2019.09.28-17.47.07
+[2019.09.28-21.47.07:229][644]LogWorld: Bringing up level for play took: 0.005066
+[2019.09.28-21.47.07:232][644]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 0,
+[2019.09.28-21.47.07:233][644]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (ShowID) or object (Lander_C_0)
+[2019.09.28-21.47.07:233][644]LogBlueprintUserMessages: [Lander_PC_C_0] PLayer 0: GamePad Connected        false
+[2019.09.28-21.47.07:233][644]LogBlueprintUserMessages: [Lander_C_0] 4
+[2019.09.28-21.47.07:233][644]LogBlueprintUserMessages: [Lander_C_0] true
+[2019.09.28-21.47.07:238][644]LogBlueprintUserMessages: [Default_GM_C_0] 4
+[2019.09.28-21.47.07:238][644]LogBlueprintUserMessages: [Default_GM_C_0] 4
+[2019.09.28-21.47.07:238][644]LogLoad: Took 0.211539 seconds to LoadMap(/Game/Maps/Moon)
+[2019.09.28-21.47.08:974][741]LogBlueprintUserMessages: [Lander_C_0] W
+[2019.09.28-21.47.10:175][813]LogBlueprintUserMessages: [Lander_C_0] W
+[2019.09.28-21.47.13:239][994]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2019.09.28-21.47.13:240][994]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.28-21.47.13:260][994]LogSlate: Window 'FLIGHT Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.09.28-21.47.13:303][994]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.28-21.47.13:303][994]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2019.09.28-21.47.13:388][994]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2019.09.28-21.47.13:424][995]LogPlayLevel: Display: Destroying online subsystem :Context_83
+[2019.09.28-21.47.14:808][ 74]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.28-21.47.14:864][ 74]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2019.09.28-21.47.14:864][ 74]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.28-21.47.14:864][ 74]PIE: New page: PIE session: Menu (Sep 28, 2019, 1:47:14 PM)
+[2019.09.28-21.47.14:865][ 74]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Menu
+[2019.09.28-21.47.14:866][ 74]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001623s)
+[2019.09.28-21.47.14:867][ 74]LogAIModule: Creating AISystem for world Menu
+[2019.09.28-21.47.14:867][ 74]LogPlayLevel: PIE: World Init took: (0.000808s)
+[2019.09.28-21.47.14:867][ 74]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menu.Menu to /Game/Maps/UEDPIE_0_Menu.Menu (0.002559s)
+[2019.09.28-21.47.14:930][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2019.09.28-21.47.14:965][ 74]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.28-21.47.15:062][ 74]LogInit: FAudioDevice initialized.
+[2019.09.28-21.47.15:075][ 74]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.28-21.47.15:109][ 74]LogLoad: Game class is 'MenuGameMode_C'
+[2019.09.28-21.47.15:110][ 74]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2019.09.28-17.47.15
+[2019.09.28-21.47.15:111][ 74]LogWorld: Bringing up level for play took: 0.000594
+[2019.09.28-21.47.15:123][ 74]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.09.28-21.47.15:124][ 74]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.09.28-21.47.15:124][ 74]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 0,
+[2019.09.28-21.47.15:125][ 74]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.09.28-21.47.15:125][ 74]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.09.28-21.47.15:126][ 74]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.09.28-21.47.15:126][ 74]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.09.28-21.47.15:128][ 74]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.09.28-21.47.15:128][ 74]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.09.28-21.47.15:136][ 74]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Menu 0.141
+[2019.09.28-21.47.15:137][ 74]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2019.09.28-21.47.18:396][260]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2019.09.28-21.47.18:396][260]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.28-21.47.18:425][260]LogSlate: Window 'FLIGHT Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.09.28-21.47.18:463][260]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.28-21.47.18:463][260]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2019.09.28-21.47.18:554][260]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2019.09.28-21.47.18:593][261]LogPlayLevel: Display: Destroying online subsystem :Context_84
+[2019.09.28-21.47.21:911][458]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.28-21.47.21:977][458]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2019.09.28-21.47.21:977][458]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.28-21.47.21:978][458]PIE: New page: PIE session: Menu (Sep 28, 2019, 1:47:21 PM)
+[2019.09.28-21.47.21:978][458]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Menu
+[2019.09.28-21.47.21:981][458]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002487s)
+[2019.09.28-21.47.21:981][458]LogAIModule: Creating AISystem for world Menu
+[2019.09.28-21.47.21:982][458]LogPlayLevel: PIE: World Init took: (0.000786s)
+[2019.09.28-21.47.21:982][458]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menu.Menu to /Game/Maps/UEDPIE_0_Menu.Menu (0.003448s)
+[2019.09.28-21.47.22:045][458]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2019.09.28-21.47.22:083][458]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.28-21.47.22:190][458]LogInit: FAudioDevice initialized.
+[2019.09.28-21.47.22:201][458]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.28-21.47.22:232][458]LogLoad: Game class is 'MenuGameMode_C'
+[2019.09.28-21.47.22:234][458]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2019.09.28-17.47.22
+[2019.09.28-21.47.22:234][458]LogWorld: Bringing up level for play took: 0.000758
+[2019.09.28-21.47.22:247][458]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.09.28-21.47.22:248][458]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.09.28-21.47.22:248][458]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 0,
+[2019.09.28-21.47.22:248][458]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.09.28-21.47.22:249][458]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.09.28-21.47.22:249][458]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.09.28-21.47.22:250][458]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.09.28-21.47.22:250][458]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.09.28-21.47.22:251][458]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.09.28-21.47.22:260][458]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Menu 1.264
+[2019.09.28-21.47.22:261][458]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2019.09.28-21.47.23:037][498]LogBlueprintUserMessages: [MenuGameMode_C_0] 4
+[2019.09.28-21.47.23:037][498]LogBlueprintUserMessages: [MenuGameMode_C_0] Lander_PC
+[2019.09.28-21.47.23:041][498]LogBlueprintUserMessages: [MenuGameMode_C_0] Lander_PC1
+[2019.09.28-21.47.23:046][498]LogBlueprintUserMessages: [MenuGameMode_C_0] Lander_PC2
+[2019.09.28-21.47.23:050][498]LogBlueprintUserMessages: [MenuGameMode_C_0] Lander_PC3
+[2019.09.28-21.47.24:422][580]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2019.09.28-21.47.24:423][580]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.28-21.47.24:443][580]LogSlate: Window 'FLIGHT Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.09.28-21.47.24:482][580]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.28-21.47.24:482][580]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2019.09.28-21.47.24:569][580]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2019.09.28-21.47.24:606][581]LogPlayLevel: Display: Destroying online subsystem :Context_85
+[2019.09.28-21.48.37:154][898]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UKismetSystemLibrary::PrintString' [Element not found.]
+[2019.09.28-21.49.14:113][ 71]LogSlate: Window 'Find in Blueprints' being destroyed
+[2019.09.28-21.55.35:925][105]LogUObjectHash: Compacting FUObjectHashTables data took   8.39ms
+[2019.09.28-21.55.35:925][105]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Menu' took 0.082
+[2019.09.28-21.55.35:927][105]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/FLIGHT_GI] ([1] browsable assets)...
+[2019.09.28-21.55.35:927][105]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/FLIGHT_GI]
+[2019.09.28-21.55.35:927][105]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FLIGHT_GI" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Autosaves/Game/Blueprints/FLIGHT_GI_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2019.09.28-21.55.36:024][105]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/FLIGHT_GI_Auto4D587C2D5477A10DEE20C9084D4168AE5.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Autosaves/Game/Blueprints/FLIGHT_GI_Auto4.uasset'
+[2019.09.28-21.55.36:027][105]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Widgets/PlayerRegistryScreen] ([1] browsable assets)...
+[2019.09.28-21.55.36:027][105]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/PlayerRegistryScreen]
+[2019.09.28-21.55.36:027][105]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/PlayerRegistryScreen" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Autosaves/Game/Widgets/PlayerRegistryScreen_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2019.09.28-21.55.36:367][105]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/PlayerRegistryScreen_Auto4C2794C2D422B9E0D1D67D4BFD5809966.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Autosaves/Game/Widgets/PlayerRegistryScreen_Auto4.uasset'
+[2019.09.28-21.55.36:369][105]LogFileHelpers: Auto-saving content packages took 0.442
