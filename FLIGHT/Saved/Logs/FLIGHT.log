@@ -5835,3 +5835,10 @@ Script Stack (0 frames):
 [2019.09.28-21.55.36:027][105]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/PlayerRegistryScreen" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Autosaves/Game/Widgets/PlayerRegistryScreen_Auto4.uasset" SILENT=false AUTOSAVING=true
 [2019.09.28-21.55.36:367][105]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/PlayerRegistryScreen_Auto4C2794C2D422B9E0D1D67D4BFD5809966.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Autosaves/Game/Widgets/PlayerRegistryScreen_Auto4.uasset'
 [2019.09.28-21.55.36:369][105]LogFileHelpers: Auto-saving content packages took 0.442
+[2019.09.28-22.05.36:839][281]LogUObjectHash: Compacting FUObjectHashTables data took   7.46ms
+[2019.09.28-22.05.36:840][281]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Menu' took 0.088
+[2019.09.28-22.05.36:842][281]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/FLIGHT_GI] ([1] browsable assets)...
+[2019.09.28-22.05.36:842][281]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/FLIGHT_GI]
+[2019.09.28-22.05.36:842][281]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FLIGHT_GI" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Autosaves/Game/Blueprints/FLIGHT_GI_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2019.09.28-22.05.36:913][281]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/FLIGHT_GI_Auto5C8A718BD47607D09EF3B598DCA646918.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Autosaves/Game/Blueprints/FLIGHT_GI_Auto5.uasset'
+[2019.09.28-22.05.36:957][281]LogFileHelpers: Auto-saving content packages took 0.115
