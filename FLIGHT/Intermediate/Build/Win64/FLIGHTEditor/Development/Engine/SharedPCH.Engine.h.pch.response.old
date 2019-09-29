@@ -190,15 +190,15 @@
 /I ThirdParty\libSampleRate\Public
 /I "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.15063.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.15063.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.15063.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.15063.0\winrt"
-/I E:\AstroSourceGames\F.L.I.G.H.T\FLIGHT\Intermediate\Build\Win64\FLIGHTEditor\Development\Engine
-/Yc"E:\AstroSourceGames\F.L.I.G.H.T\FLIGHT\Intermediate\Build\Win64\FLIGHTEditor\Development\Engine\SharedPCH.Engine.h"
-/Fp"E:\AstroSourceGames\F.L.I.G.H.T\FLIGHT\Intermediate\Build\Win64\FLIGHTEditor\Development\Engine\SharedPCH.Engine.h.pch"
-"E:\AstroSourceGames\F.L.I.G.H.T\FLIGHT\Intermediate\Build\Win64\FLIGHTEditor\Development\Engine\SharedPCH.Engine.cpp"
-/Fo"E:\AstroSourceGames\F.L.I.G.H.T\FLIGHT\Intermediate\Build\Win64\FLIGHTEditor\Development\Engine\SharedPCH.Engine.h.obj"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"
+/I C:\Users\haber\Documents\GitHub\F.L.I.G.H.T\FLIGHT\Intermediate\Build\Win64\FLIGHTEditor\Development\Engine
+/Yc"C:\Users\haber\Documents\GitHub\F.L.I.G.H.T\FLIGHT\Intermediate\Build\Win64\FLIGHTEditor\Development\Engine\SharedPCH.Engine.h"
+/Fp"C:\Users\haber\Documents\GitHub\F.L.I.G.H.T\FLIGHT\Intermediate\Build\Win64\FLIGHTEditor\Development\Engine\SharedPCH.Engine.h.pch"
+"C:\Users\haber\Documents\GitHub\F.L.I.G.H.T\FLIGHT\Intermediate\Build\Win64\FLIGHTEditor\Development\Engine\SharedPCH.Engine.cpp"
+/Fo"C:\Users\haber\Documents\GitHub\F.L.I.G.H.T\FLIGHT\Intermediate\Build\Win64\FLIGHTEditor\Development\Engine\SharedPCH.Engine.h.obj"
 /TP
 /GR-
 /W4
