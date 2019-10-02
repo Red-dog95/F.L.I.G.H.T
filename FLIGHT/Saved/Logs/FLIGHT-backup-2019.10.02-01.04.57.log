@@ -1,0 +1,975 @@
+﻿Log file open, 10/01/19 18:42:44
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: FLIGHT
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.283285
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogWindows: Failed to load '../../../Engine/Binaries/ThirdParty/libsndfile/Win64/libsndfile-1.dll' (GetLastError=126)
+LogWindows: File '../../../Engine/Binaries/ThirdParty/libsndfile/Win64/libsndfile-1.dll' does not exist
+LogAudioMixer: Display: Failed to load Sound File dll
+LogAudioEditor: Display: LibSoundFile failed to load. Importing audio will not work correctly.
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin ConcertFrontend
+LogPluginManager: Mounting plugin ConcertMain
+LogPluginManager: Mounting plugin ConcertSyncClient
+LogPluginManager: Mounting plugin ConcertSyncCore
+LogPluginManager: Found config from plugin[ConcertSyncCore] C:/Users/haber/Documents/GitHub/F.L.I.G.H.T/FLIGHT/Saved/Config/Windows/Engine.ini
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Warning: Incompatible or missing module: FLIGHT
+Running D:/UnrealEngine/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe Development Win64 -Project="C:/Users/haber/Documents/GitHub/F.L.I.G.H.T/FLIGHT/FLIGHT.uproject" -TargetType=Editor -Progress -NoHotReloadFromIDE
+Using 'git status' to determine working set for adaptive non-unity build (C:\Users\haber\Documents\GitHub\F.L.I.G.H.T).
+Creating makefile for FLIGHTEditor (ini files are newer than makefile)
+@progress push 5%
+Parsing headers for FLIGHTEditor
+  Running UnrealHeaderTool "C:\Users\haber\Documents\GitHub\F.L.I.G.H.T\FLIGHT\FLIGHT.uproject" "C:\Users\haber\Documents\GitHub\F.L.I.G.H.T\FLIGHT\Intermediate\Build\Win64\FLIGHTEditor\Development\FLIGHTEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+Reflection code generated for FLIGHTEditor in 20.3669182 seconds
+@progress pop
+Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+Building 9 actions with 8 processes...
+  @progress 'Compiling C++ source code...' 0%
+  @progress 'Compiling C++ source code...' 11%
+  [1/9] SharedPCH.Engine.cpp
+  @progress 'Compiling C++ source code...' 22%
+  [2/9] FLIGHT.cpp
+  @progress 'Compiling C++ source code...' 33%
+  [3/9] MyBlueprintFunctionLibrary.gen.cpp
+  @progress 'Compiling C++ source code...' 44%
+  [4/9] MyBlueprintFunctionLibrary.cpp
+  @progress 'Compiling C++ source code...' 56%
+  [5/9] FLIGHT.init.gen.cpp
+  @progress 'Compiling C++ source code...' 67%
+  [6/9] GamepadDetection.cpp
+  @progress 'Compiling C++ source code...' 78%
+  [7/9] UE4Editor-FLIGHT.lib
+     Creating library C:\Users\haber\Documents\GitHub\F.L.I.G.H.T\FLIGHT\Intermediate\Build\Win64\UE4Editor\Development\FLIGHT\UE4Editor-FLIGHT.lib and object C:\Users\haber\Documents\GitHub\F.L.I.G.H.T\FLIGHT\Intermediate\Build\Win64\UE4Editor\Development\FLIGHT\UE4Editor-FLIGHT.exp
+  @progress 'Compiling C++ source code...' 89%
+  [8/9] UE4Editor-FLIGHT.dll
+     Creating library C:\Users\haber\Documents\GitHub\F.L.I.G.H.T\FLIGHT\Intermediate\Build\Win64\UE4Editor\Development\FLIGHT\UE4Editor-FLIGHT.suppressed.lib and object C:\Users\haber\Documents\GitHub\F.L.I.G.H.T\FLIGHT\Intermediate\Build\Win64\UE4Editor\Development\FLIGHT\UE4Editor-FLIGHT.suppressed.exp
+  @progress 'Compiling C++ source code...' 100%
+  [9/9] FLIGHTEditor.target
+Total time in Parallel executor: 33.02 seconds
+Total execution time: 56.70 seconds
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-5660361
+LogInit: Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz, GPU: Intel(R) HD Graphics 530
+LogInit: Compiled (64-bit): Mar 31 2019 02:05:09
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UnrealEngine/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.10.02-00.43.44:324][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.10.02-00.43.44:324][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.10.02-00.43.44:324][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/haber/Documents/GitHub/F.L.I.G.H.T/FLIGHT/Saved/Config/Windows/Engine.ini]
+[2019.10.02-00.43.44:324][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.10.02-00.43.44:324][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.10.02-00.43.44:324][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/haber/Documents/GitHub/F.L.I.G.H.T/FLIGHT/Saved/Config/Windows/Engine.ini]
+[2019.10.02-00.43.44:324][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/haber/Documents/GitHub/F.L.I.G.H.T/FLIGHT/Saved/Config/Windows/Engine.ini]
+[2019.10.02-00.43.44:324][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.10.02-00.43.44:324][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.10.02-00.43.44:324][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.10.02-00.43.44:324][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.10.02-00.43.44:324][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.10.02-00.43.44:324][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.10.02-00.43.44:324][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.10.02-00.43.44:324][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.10.02-00.43.44:324][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.10.02-00.43.44:324][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.10.02-00.43.44:324][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.10.02-00.43.44:324][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.10.02-00.43.44:324][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.10.02-00.43.44:324][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/haber/Documents/GitHub/F.L.I.G.H.T/FLIGHT/Saved/Config/Windows/Engine.ini]
+[2019.10.02-00.43.44:324][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.10.02-00.43.44:324][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.10.02-00.43.44:324][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.10.02-00.43.44:324][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.10.02-00.43.44:324][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.10.02-00.43.44:324][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.10.02-00.43.44:324][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.10.02-00.43.44:324][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.10.02-00.43.44:324][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.10.02-00.43.44:324][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.10.02-00.43.44:324][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.10.02-00.43.44:324][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.10.02-00.43.44:324][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.10.02-00.43.44:324][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/haber/Documents/GitHub/F.L.I.G.H.T/FLIGHT/Saved/Config/Windows/Engine.ini]
+[2019.10.02-00.43.44:324][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/haber/Documents/GitHub/F.L.I.G.H.T/FLIGHT/Saved/Config/Windows/Engine.ini]
+[2019.10.02-00.43.44:326][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/haber/Documents/GitHub/F.L.I.G.H.T/FLIGHT/Saved/Config/Windows/Scalability.ini]
+[2019.10.02-00.43.44:326][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.02-00.43.44:326][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.02-00.43.44:326][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/haber/Documents/GitHub/F.L.I.G.H.T/FLIGHT/Saved/Config/Windows/Scalability.ini]
+[2019.10.02-00.43.44:326][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.02-00.43.44:326][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/haber/Documents/GitHub/F.L.I.G.H.T/FLIGHT/Saved/Config/Windows/Scalability.ini]
+[2019.10.02-00.43.44:327][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.02-00.43.44:327][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.02-00.43.44:327][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.02-00.43.44:327][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.02-00.43.44:327][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.02-00.43.44:327][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.02-00.43.44:327][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.02-00.43.44:327][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.02-00.43.44:327][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.02-00.43.44:327][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.02-00.43.44:327][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.02-00.43.44:327][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.02-00.43.44:327][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.02-00.43.44:327][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.02-00.43.44:327][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.02-00.43.44:327][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.02-00.43.44:327][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.02-00.43.44:327][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.02-00.43.44:327][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/haber/Documents/GitHub/F.L.I.G.H.T/FLIGHT/Saved/Config/Windows/Scalability.ini]
+[2019.10.02-00.43.44:327][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.02-00.43.44:327][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.02-00.43.44:327][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.02-00.43.44:327][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.02-00.43.44:327][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.02-00.43.44:327][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.02-00.43.44:327][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.02-00.43.44:327][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.02-00.43.44:327][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.02-00.43.44:327][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.02-00.43.44:327][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.02-00.43.44:327][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.02-00.43.44:327][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.02-00.43.44:327][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.02-00.43.44:327][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.02-00.43.44:327][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.02-00.43.44:327][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.02-00.43.44:327][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.02-00.43.44:327][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.02-00.43.44:327][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.02-00.43.44:327][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.02-00.43.44:327][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.02-00.43.44:327][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.02-00.43.44:327][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.02-00.43.44:327][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.02-00.43.44:327][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.02-00.43.44:327][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.02-00.43.44:327][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.02-00.43.44:327][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.02-00.43.44:327][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.02-00.43.44:327][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/haber/Documents/GitHub/F.L.I.G.H.T/FLIGHT/Saved/Config/Windows/Scalability.ini]
+[2019.10.02-00.43.44:327][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.02-00.43.44:327][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.02-00.43.44:327][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.02-00.43.44:327][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.02-00.43.44:327][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.02-00.43.44:327][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.02-00.43.44:327][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.02-00.43.44:328][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.02-00.43.44:328][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/haber/Documents/GitHub/F.L.I.G.H.T/FLIGHT/Saved/Config/Windows/Scalability.ini]
+[2019.10.02-00.43.44:328][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.02-00.43.44:328][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.02-00.43.44:328][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.02-00.43.44:328][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.02-00.43.44:328][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.02-00.43.44:328][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.02-00.43.44:328][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.02-00.43.44:328][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.02-00.43.44:328][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.02-00.43.44:328][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.02-00.43.44:328][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.02-00.43.44:328][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.02-00.43.44:328][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.02-00.43.44:328][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/haber/Documents/GitHub/F.L.I.G.H.T/FLIGHT/Saved/Config/Windows/Scalability.ini]
+[2019.10.02-00.43.44:328][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.02-00.43.44:328][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.02-00.43.44:328][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.02-00.43.44:328][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.10.02-00.43.44:341][  0]LogHAL: Display: Platform has ~ 16 GB [17086197760 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.10.02-00.43.44:341][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.10.02-00.43.44:341][  0]LogInit: Going up to parent DeviceProfile []
+[2019.10.02-00.43.44:341][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/haber/Documents/GitHub/F.L.I.G.H.T/FLIGHT/Saved/Config/Windows/Scalability.ini]
+[2019.10.02-00.43.44:341][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.02-00.43.44:341][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.02-00.43.44:341][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/haber/Documents/GitHub/F.L.I.G.H.T/FLIGHT/Saved/Config/Windows/Scalability.ini]
+[2019.10.02-00.43.44:341][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.02-00.43.44:341][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/haber/Documents/GitHub/F.L.I.G.H.T/FLIGHT/Saved/Config/Windows/Scalability.ini]
+[2019.10.02-00.43.44:341][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.02-00.43.44:341][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.02-00.43.44:341][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.02-00.43.44:342][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.02-00.43.44:342][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.02-00.43.44:342][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.02-00.43.44:342][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.02-00.43.44:342][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.02-00.43.44:342][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.02-00.43.44:342][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.02-00.43.44:342][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.02-00.43.44:342][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.02-00.43.44:342][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.02-00.43.44:342][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.02-00.43.44:342][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.02-00.43.44:342][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.02-00.43.44:342][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.02-00.43.44:342][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.02-00.43.44:342][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/haber/Documents/GitHub/F.L.I.G.H.T/FLIGHT/Saved/Config/Windows/Scalability.ini]
+[2019.10.02-00.43.44:342][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.02-00.43.44:342][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.02-00.43.44:342][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.02-00.43.44:342][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.02-00.43.44:342][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.02-00.43.44:342][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.02-00.43.44:342][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.02-00.43.44:342][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.02-00.43.44:342][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.02-00.43.44:342][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.02-00.43.44:342][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.02-00.43.44:342][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.02-00.43.44:342][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.02-00.43.44:342][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.02-00.43.44:342][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.02-00.43.44:342][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.02-00.43.44:342][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.02-00.43.44:342][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.02-00.43.44:342][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.02-00.43.44:342][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.02-00.43.44:342][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.02-00.43.44:342][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.02-00.43.44:342][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.02-00.43.44:342][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.02-00.43.44:342][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.02-00.43.44:342][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.02-00.43.44:342][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.02-00.43.44:342][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.02-00.43.44:342][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.02-00.43.44:342][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.02-00.43.44:342][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/haber/Documents/GitHub/F.L.I.G.H.T/FLIGHT/Saved/Config/Windows/Scalability.ini]
+[2019.10.02-00.43.44:342][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.02-00.43.44:342][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.02-00.43.44:342][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.02-00.43.44:342][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.02-00.43.44:342][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.02-00.43.44:342][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.02-00.43.44:342][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.02-00.43.44:342][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.02-00.43.44:342][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/haber/Documents/GitHub/F.L.I.G.H.T/FLIGHT/Saved/Config/Windows/Scalability.ini]
+[2019.10.02-00.43.44:342][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.02-00.43.44:342][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.02-00.43.44:342][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.02-00.43.44:342][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.02-00.43.44:342][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.02-00.43.44:342][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.02-00.43.44:343][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.02-00.43.44:343][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.02-00.43.44:343][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.02-00.43.44:343][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.02-00.43.44:343][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.02-00.43.44:343][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.02-00.43.44:343][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.02-00.43.44:343][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/haber/Documents/GitHub/F.L.I.G.H.T/FLIGHT/Saved/Config/Windows/Scalability.ini]
+[2019.10.02-00.43.44:343][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.02-00.43.44:343][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.02-00.43.44:343][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.10.02-00.43.44:343][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.10.02-00.43.44:343][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.10.02-00.43.44:343][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/haber/Documents/GitHub/F.L.I.G.H.T/FLIGHT/Saved/Config/Windows/Engine.ini]
+[2019.10.02-00.43.44:343][  0]LogInit: Computer: MSI
+[2019.10.02-00.43.44:343][  0]LogInit: User: haber
+[2019.10.02-00.43.44:343][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.10.02-00.43.44:343][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.10.02-00.43.44:343][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.10.02-00.43.44:343][  0]LogMemory: Platform Memory Stats for Windows
+[2019.10.02-00.43.44:343][  0]LogMemory: Process Physical Memory: 103.72 MB used, 103.72 MB peak
+[2019.10.02-00.43.44:343][  0]LogMemory: Process Virtual Memory: 98.29 MB used, 98.29 MB peak
+[2019.10.02-00.43.44:343][  0]LogMemory: Physical Memory: 7207.46 MB used,  9087.20 MB free, 16294.67 MB total
+[2019.10.02-00.43.44:343][  0]LogMemory: Virtual Memory: 4708.75 MB used,  134213016.00 MB free, 134217728.00 MB total
+[2019.10.02-00.43.44:369][  0]LogInit: Using OS detected language (en-GB).
+[2019.10.02-00.43.44:369][  0]LogInit: Using OS detected locale (en-CA).
+[2019.10.02-00.43.44:370][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2019.10.02-00.43.44:558][  0]LogInit: Setting process to per monitor DPI aware
+[2019.10.02-00.43.44:585][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.10.02-00.43.44:585][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.10.02-00.43.44:891][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.02-00.43.44:892][  0]LogD3D11RHI: D3D11 adapters:
+[2019.10.02-00.43.44:959][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970M' (Feature Level 11_0)
+[2019.10.02-00.43.44:959][  0]LogD3D11RHI:       3032/0/8147 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.10.02-00.43.44:970][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2019.10.02-00.43.44:970][  0]LogD3D11RHI:       128/0/8147 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.10.02-00.43.44:972][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.10.02-00.43.44:972][  0]LogD3D11RHI:       0/0/8147 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.10.02-00.43.44:972][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.10.02-00.43.45:018][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.10.02-00.43.45:018][  0]LogD3D11RHI:     GPU DeviceId: 0x13d8 (for the marketing name, search the web for "GPU Device Id")
+[2019.10.02-00.43.45:018][  0]LogWindows: EnumDisplayDevices:
+[2019.10.02-00.43.45:018][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2019.10.02-00.43.45:018][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2019.10.02-00.43.45:019][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2019.10.02-00.43.45:019][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.10.02-00.43.45:019][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970M
+[2019.10.02-00.43.45:019][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.10.02-00.43.45:019][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.10.02-00.43.45:020][  0]LogRHI: Texture pool is 2122 MB (70% of 3032 MB)
+[2019.10.02-00.43.45:068][  0]LogD3D11RHI: Async texture creation enabled
+[2019.10.02-00.43.45:082][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.10.02-00.43.45:083][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.10.02-00.43.45:083][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.10.02-00.43.45:097][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.10.02-00.43.45:409][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.10.02-00.43.45:423][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.10.02-00.43.45:437][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.10.02-00.43.45:451][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.10.02-00.43.45:466][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.10.02-00.43.45:480][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.10.02-00.43.45:494][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.10.02-00.43.45:508][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.10.02-00.43.45:515][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.10.02-00.43.45:604][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.10.02-00.43.45:604][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.10.02-00.43.45:604][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.10.02-00.43.45:604][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.10.02-00.43.45:604][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.10.02-00.43.45:604][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.10.02-00.43.45:604][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.10.02-00.43.45:604][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.10.02-00.43.45:604][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.10.02-00.43.45:604][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.10.02-00.43.45:604][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.10.02-00.43.45:604][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.10.02-00.43.45:604][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.10.02-00.43.45:604][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.10.02-00.43.45:604][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.10.02-00.43.45:604][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.10.02-00.43.45:604][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.10.02-00.43.45:604][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.10.02-00.43.45:605][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.10.02-00.43.45:661][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.10.02-00.43.45:661][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.10.02-00.43.45:687][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.10.02-00.43.45:687][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.10.02-00.43.45:700][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.10.02-00.43.45:714][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.10.02-00.43.45:727][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.10.02-00.43.45:741][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.10.02-00.43.45:787][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.10.02-00.43.45:787][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.10.02-00.43.45:787][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.10.02-00.43.45:795][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.10.02-00.43.45:837][  0]LogShaderCompilers: Guid format shader working directory is -5 characters bigger than the processId version (C:/Users/haber/Documents/GitHub/F.L.I.G.H.T/FLIGHT/Intermediate/Shaders/WorkingDirectory/15184/).
+[2019.10.02-00.43.45:838][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/haber/AppData/Local/Temp/UnrealShaderWorkingDir/1AEE9DA8444D805351BBEEB1E97A508E/'.
+[2019.10.02-00.43.45:839][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.10.02-00.43.45:839][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.10.02-00.43.45:839][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.10.02-00.43.46:520][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.10.02-00.43.46:570][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/haber/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.10.02-00.43.46:570][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/haber/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.10.02-00.43.46:570][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/haber/Documents/GitHub/F.L.I.G.H.T/FLIGHT/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.10.02-00.43.46:570][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.10.02-00.43.46:570][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/haber/Documents/GitHub/F.L.I.G.H.T/FLIGHT/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.02-00.43.46:570][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.10.02-00.43.46:585][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.10.02-00.43.46:585][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.02-00.43.46:585][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.10.02-00.43.46:597][  0]LogDerivedDataCache: Using Local data cache path C:/Users/haber/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.10.02-00.43.46:597][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.10.02-00.43.46:597][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.10.02-00.43.46:623][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.10.02-00.43.46:625][  0]LogSlate: Using FreeType 2.6.0
+[2019.10.02-00.43.46:625][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.10.02-00.43.46:726][  0]LogAssetRegistry: FAssetRegistry took 0.0335 seconds to start up
+[2019.10.02-00.43.47:076][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.02-00.43.47:222][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.10.02-00.43.47:222][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.10.02-00.43.47:222][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.10.02-00.43.47:222][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.10.02-00.43.47:222][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.10.02-00.43.47:233][  0]LogNetVersion: FLIGHT 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 3036253622)
+[2019.10.02-00.43.47:725][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.053400 seconds
+[2019.10.02-00.43.47:732][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.10.02-00.43.47:732][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.10.02-00.43.47:732][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.10.02-00.43.49:957][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.10.02-00.43.49:971][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.10.02-00.43.50:353][  0]SourceControl: Source control is disabled
+[2019.10.02-00.43.50:353][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.10.02-00.43.50:353][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2019.10.02-00.43.50:353][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.10.02-00.43.50:353][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2019.10.02-00.43.50:354][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.10.02-00.43.50:354][  0]LogWindows: Warning: URL: C:\Users\haber\AppData\Local/Programs/Git/cmd/git.exe version
+[2019.10.02-00.43.50:354][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.10.02-00.43.50:354][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2019.10.02-00.43.50:354][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.10.02-00.43.50:354][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2019.10.02-00.43.51:770][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.10.02-00.43.51:920][  0]LogOcInput: OculusInput pre-init called
+[2019.10.02-00.43.52:809][  0]LogEngine: Initializing Engine...
+[2019.10.02-00.43.52:810][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.02-00.43.52:811][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.10.02-00.43.53:050][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.10.02-00.43.53:063][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.10.02-00.43.53:101][  0]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.02-00.43.53:142][  0]LogInit: FAudioDevice initialized.
+[2019.10.02-00.43.53:142][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.10.02-00.43.53:340][  0]LogDerivedDataCache: Saved boot cache 0.20s 71MB C:/Users/haber/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.10.02-00.43.53:352][  0]LogInit: Texture streaming: Enabled
+[2019.10.02-00.43.53:368][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.10.02-00.43.53:392][  0]LogInit: Transaction tracking system initialized
+[2019.10.02-00.43.53:411][  0]BlueprintLog: New page: Editor Load
+[2019.10.02-00.43.53:484][  0]LocalizationService: Localization service is disabled
+[2019.10.02-00.43.53:862][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.10.02-00.43.53:862][  0]LogCook: Display: Mobile HDR setting 1
+[2019.10.02-00.43.53:883][  0]LogFileCache: Scanning file cache for directory 'C:/Users/haber/Documents/GitHub/F.L.I.G.H.T/FLIGHT/Content/' took 0.03s
+[2019.10.02-00.43.54:063][  0]Cmd: MAP LOAD FILE="C:/Users/haber/Documents/GitHub/F.L.I.G.H.T/FLIGHT/Content/Maps/Menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.02-00.43.54:063][  0]LightingResults: New page: Lighting Build
+[2019.10.02-00.43.54:066][  0]MapCheck: New page: Map Check
+[2019.10.02-00.43.54:066][  0]LightingResults: New page: Lighting Build
+[2019.10.02-00.43.54:098][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2019.10.02-00.43.55:941][  0]LogTexture: Display: Building textures: buttonoutline2 (AutoDXT, 320X128)
+[2019.10.02-00.43.56:029][  0]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave retro_simple_beep_12...
+[2019.10.02-00.43.56:170][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 9658 while cooking SoundWave /Game/Retro_8Bit_Sounds/Menu_UI_Beeps/Wavs/retro_simple_beep_12.retro_simple_beep_12.
+[2019.10.02-00.43.56:372][  0]LogAIModule: Creating AISystem for world Menu
+[2019.10.02-00.43.56:372][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.02-00.43.56:416][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2019.10.02-00.43.56:416][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.02-00.43.56:416][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.144ms to complete.
+[2019.10.02-00.43.56:416][  0]LogFileHelpers: Loading map 'Menu' took 2.354
+[2019.10.02-00.43.56:603][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.02-00.43.56:615][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.02-00.43.56:629][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.02-00.43.56:640][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.02-00.43.56:650][  0]LogCollectionManager: Loaded 0 collections in 0.001725 seconds
+[2019.10.02-00.43.56:667][  0]LogFileCache: Scanning file cache for directory 'C:/Users/haber/Documents/GitHub/F.L.I.G.H.T/FLIGHT/Saved/Collections/' took 0.01s
+[2019.10.02-00.43.56:667][  0]LogFileCache: Scanning file cache for directory 'C:/Users/haber/Documents/GitHub/F.L.I.G.H.T/FLIGHT/Content/Developers/haber/Collections/' took 0.00s
+[2019.10.02-00.43.56:667][  0]LogFileCache: Scanning file cache for directory 'C:/Users/haber/Documents/GitHub/F.L.I.G.H.T/FLIGHT/Content/Collections/' took 0.00s
+[2019.10.02-00.43.56:667][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.10.02-00.43.56:679][  0]LogContentBrowser: Native class hierarchy populated in 0.0115 seconds. Added 2758 classes and 680 folders.
+[2019.10.02-00.43.56:697][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2019.10.02-00.43.56:707][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.02-00.43.56:715][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.02-00.43.56:744][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.02-00.43.56:751][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.02-00.43.56:756][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.02-00.43.56:764][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.02-00.43.56:773][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.02-00.43.56:782][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.02-00.43.56:788][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.02-00.43.56:796][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.02-00.43.56:802][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.02-00.43.56:808][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.02-00.43.56:813][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.02-00.43.56:819][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.02-00.43.56:824][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.02-00.43.56:830][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.02-00.43.56:874][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.02-00.43.56:880][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.02-00.43.56:888][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.02-00.43.56:893][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.02-00.43.56:900][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.02-00.43.56:908][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.02-00.43.56:915][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.02-00.43.56:921][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.02-00.43.56:927][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.02-00.43.56:933][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.02-00.43.57:122][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.10.02-00.43.57:173][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.10.02-00.43.57:309][  0]LogSlate: Took 0.000212 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.10.02-00.43.57:981][  0]LogSlate: Took 0.000299 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.10.02-00.43.57:998][  0]LogSlate: Took 0.008558 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.10.02-00.43.58:157][  0]LogRenderer: Reallocating scene render targets to support 1112x572 Format 10 NumSamples 1 (Frame:1).
+[2019.10.02-00.43.58:241][  0]LogSlate: Took 0.005261 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.02-00.43.58:410][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.10.02-00.43.58:410][  0]LogLoad: (Engine Initialization) Total time: 75.78 seconds
+[2019.10.02-00.43.58:410][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.10.02-00.43.58:461][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.10.02-00.43.59:328][ 47]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.10.02-00.43.59:516][ 53]LogSlate: Took 0.000266 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.02-00.44.03:517][285]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-00.44.22:826][440]LogAssetRegistry: Asset discovery search completed in 36.1230 seconds
+[2019.10.02-00.44.22:829][440]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000001 seconds (updated 0 objects)
+[2019.10.02-00.44.30:741][909]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-00.44.39:715][382]SourceControl: fatal: D:/UnrealEngine/UE_4.22/Engine/Content/EditorBlueprintResources/StandardMacros.uasset: 'D:/UnrealEngine/UE_4.22/Engine/Content/EditorBlueprintResources/StandardMacros.uasset' is outside repository
+[2019.10.02-00.44.39:715][382]SourceControl: fatal: D:/UnrealEngine/UE_4.22/Engine/Content/BasicShapes: 'D:/UnrealEngine/UE_4.22/Engine/Content/BasicShapes' is outside repository
+[2019.10.02-00.44.39:715][382]SourceControl: fatal: D:/UnrealEngine/UE_4.22/Engine/Content/EngineMaterials: 'D:/UnrealEngine/UE_4.22/Engine/Content/EngineMaterials' is outside repository
+[2019.10.02-00.44.39:715][382]SourceControl: fatal: D:/UnrealEngine/UE_4.22/Engine/Content/EngineFonts: 'D:/UnrealEngine/UE_4.22/Engine/Content/EngineFonts' is outside repository
+[2019.10.02-00.44.39:715][382]SourceControl: fatal: D:/UnrealEngine/UE_4.22/Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment: 'D:/UnrealEngine/UE_4.22/Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment' is outside repository
+[2019.10.02-00.44.39:715][382]SourceControl: fatal: D:/UnrealEngine/UE_4.22/Engine/Content/Functions/Engine_MaterialFunctions01/Gradient: 'D:/UnrealEngine/UE_4.22/Engine/Content/Functions/Engine_MaterialFunctions01/Gradient' is outside repository
+[2019.10.02-00.44.39:715][382]SourceControl: fatal: D:/UnrealEngine/UE_4.22/Engine/Content/Functions/Engine_MaterialFunctions02/Math/MultiplyAdd.uasset: 'D:/UnrealEngine/UE_4.22/Engine/Content/Functions/Engine_MaterialFunctions02/Math/MultiplyAdd.uasset' is outside repository
+[2019.10.02-00.44.39:715][382]SourceControl: fatal: D:/UnrealEngine/UE_4.22/Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset: 'D:/UnrealEngine/UE_4.22/Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset' is outside repository
+[2019.10.02-00.44.39:715][382]SourceControl: fatal: D:/UnrealEngine/UE_4.22/Engine/Content/MapTemplates/Sky: 'D:/UnrealEngine/UE_4.22/Engine/Content/MapTemplates/Sky' is outside repository
+[2019.10.02-00.44.39:715][382]SourceControl: fatal: D:/UnrealEngine/UE_4.22/Engine/Content/MapTemplates: 'D:/UnrealEngine/UE_4.22/Engine/Content/MapTemplates' is outside repository
+[2019.10.02-00.44.39:715][382]SourceControl: fatal: D:/UnrealEngine/UE_4.22/Engine/Content/EngineSky: 'D:/UnrealEngine/UE_4.22/Engine/Content/EngineSky' is outside repository
+[2019.10.02-00.44.39:715][382]SourceControl: fatal: D:/UnrealEngine/UE_4.22/Engine/Content/Functions/Engine_MaterialFunctions02/Utility/LinearSine.uasset: 'D:/UnrealEngine/UE_4.22/Engine/Content/Functions/Engine_MaterialFunctions02/Utility/LinearSine.uasset' is outside repository
+[2019.10.02-00.44.39:715][382]SourceControl: fatal: D:/UnrealEngine/UE_4.22/Engine/Content/EngineFonts/Faces: 'D:/UnrealEngine/UE_4.22/Engine/Content/EngineFonts/Faces' is outside repository
+[2019.10.02-00.44.40:287][382]SourceControl: Error: error: cannot pull with rebase: You have unstaged changes.
+[2019.10.02-00.44.40:287][382]SourceControl: Error: error: please commit or stash them.
+[2019.10.02-00.44.40:296][382]LogContentBrowser: Syncing 1 path(s):
+[2019.10.02-00.44.40:296][382]LogContentBrowser: 	 - /Game/Lander/Lander_PC
+[2019.10.02-00.44.40:296][382]LogContentBrowser: 	 - /Game/Lander/Lander
+[2019.10.02-00.44.40:296][382]LogContentBrowser: 	 - /Game/Lander/DamageType
+[2019.10.02-00.44.40:296][382]LogContentBrowser: 	 - /Game/Lander/Textures/thrustersprite_large_1
+[2019.10.02-00.44.40:296][382]LogContentBrowser: 	 - /Game/Lander/thrustersprite_large_1
+[2019.10.02-00.44.40:296][382]LogContentBrowser: 	 - /Game/Lander/Sprites/thruster_large_1
+[2019.10.02-00.44.40:296][382]LogContentBrowser: 	 - /Game/Lander/Textures/thrustersprite_medium
+[2019.10.02-00.44.40:296][382]LogContentBrowser: 	 - /Game/Lander/thrustersprite_medium
+[2019.10.02-00.44.40:296][382]LogContentBrowser: 	 - /Game/Lander/Sprites/thruster_medium
+[2019.10.02-00.44.40:296][382]LogContentBrowser: 	 - /Game/Lander/Textures/thrustersprite_small
+[2019.10.02-00.44.40:296][382]LogContentBrowser: 	 - /Game/Lander/thrustersprite_small
+[2019.10.02-00.44.40:296][382]LogContentBrowser: 	 - /Game/Lander/Sprites/thruster_small
+[2019.10.02-00.44.40:296][382]LogContentBrowser: 	 - /Game/Lander/Sprites/ThrusterPowerUp
+[2019.10.02-00.44.40:296][382]LogContentBrowser: 	 - /Game/Lander/Textures/thrustersprite_large_2
+[2019.10.02-00.44.40:296][382]LogContentBrowser: 	 - /Game/Lander/thrustersprite_large_2
+[2019.10.02-00.44.40:296][382]LogContentBrowser: 	 - /Game/Lander/Sprites/thruster_large_2
+[2019.10.02-00.44.40:296][382]LogContentBrowser: 	 - /Game/Lander/Textures/thrustersprite_large_3
+[2019.10.02-00.44.40:296][382]LogContentBrowser: 	 - /Game/Lander/thrustersprite_large_3
+[2019.10.02-00.44.40:296][382]LogContentBrowser: 	 - /Game/Lander/Sprites/thruster_large_3
+[2019.10.02-00.44.40:296][382]LogContentBrowser: 	 - /Game/Lander/Sprites/ThrusterSustained
+[2019.10.02-00.44.40:296][382]LogContentBrowser: 	 - /Game/Lander/Textures/ShipRed
+[2019.10.02-00.44.40:296][382]LogContentBrowser: 	 - /Game/Lander/Textures/Landermodule
+[2019.10.02-00.44.40:296][382]LogContentBrowser: 	 - /Game/Lander/Sprites/ShipRed
+[2019.10.02-00.44.40:296][382]LogContentBrowser: 	 - /Game/Terrain/Cube
+[2019.10.02-00.44.40:296][382]LogContentBrowser: 	 - /Game/Blueprints/Competitive_PlayerState
+[2019.10.02-00.44.40:296][382]LogContentBrowser: 	 - /Game/Blueprints/FLIGHT_GI
+[2019.10.02-00.44.40:297][382]LogContentBrowser: 	 - /Game/Blueprints/GameSettings_struct
+[2019.10.02-00.44.40:297][382]LogContentBrowser: 	 - /Game/Blueprints/PowerupAbundanceLevel
+[2019.10.02-00.44.40:297][382]LogContentBrowser: 	 - /Game/Widgets/PlanetData
+[2019.10.02-00.44.40:297][382]LogContentBrowser: 	 - /Game/Widgets/EWeatherEffect
+[2019.10.02-00.44.40:297][382]LogContentBrowser: 	 - /Game/Widgets/ETerrainType
+[2019.10.02-00.44.40:297][382]LogContentBrowser: 	 - /Game/Widgets/EHostility
+[2019.10.02-00.44.40:297][382]LogContentBrowser: 	 - /Game/Widgets/W_basic_text
+[2019.10.02-00.44.40:297][382]LogContentBrowser: 	 - /Game/Widgets/W_highlight_text
+[2019.10.02-00.44.40:297][382]LogContentBrowser: 	 - /Game/Widgets/UIArt/BlackScreen
+[2019.10.02-00.44.40:297][382]LogContentBrowser: 	 - /Game/Widgets/UIArt/targettingRing
+[2019.10.02-00.44.40:297][382]LogContentBrowser: 	 - /Game/Widgets/PlanetButton
+[2019.10.02-00.44.40:297][382]LogContentBrowser: 	 - /Game/Widgets/UIArt/lightshaft1
+[2019.10.02-00.44.40:297][382]LogContentBrowser: 	 - /Game/Widgets/UIArt/lightshaft2_medium
+[2019.10.02-00.44.40:297][382]LogContentBrowser: 	 - /Game/Widgets/UIArt/lightshaft3_short
+[2019.10.02-00.44.40:297][382]LogContentBrowser: 	 - /Game/Widgets/LightShaft
+[2019.10.02-00.44.40:297][382]LogContentBrowser: 	 - /Game/Lander/Textures/ShipAqua
+[2019.10.02-00.44.40:297][382]LogContentBrowser: 	 - /Game/Lander/Textures/ShipGreen
+[2019.10.02-00.44.40:297][382]LogContentBrowser: 	 - /Game/Lander/Textures/ShipMagenta
+[2019.10.02-00.44.40:297][382]LogContentBrowser: 	 - /Game/Retro_8Bit_Sounds/Music/Wavs/music_bytes_the_retro_adventure
+[2019.10.02-00.44.40:297][382]LogContentBrowser: 	 - /Game/Blueprints/MenuGameMode
+[2019.10.02-00.44.40:297][382]LogContentBrowser: 	 - /Game/Widgets/MapSelectScreen
+[2019.10.02-00.44.40:297][382]LogContentBrowser: 	 - /Game/Retro_8Bit_Sounds/Menu_UI_Beeps/Wavs/retro_ui_menu_blip_click_05
+[2019.10.02-00.44.40:297][382]LogContentBrowser: 	 - /Game/Retro_8Bit_Sounds/Menu_UI_Beeps/Wavs/retro_ui_menu_popup_15
+[2019.10.02-00.44.40:297][382]LogContentBrowser: 	 - /Game/Retro_8Bit_Sounds/Menu_UI_Beeps/Wavs/retro_ui_menu_simple_click_01
+[2019.10.02-00.44.40:297][382]LogContentBrowser: 	 - /Game/Widgets/UIArt/buttonoutline
+[2019.10.02-00.44.40:297][382]LogContentBrowser: 	 - /Game/Widgets/UIArt/buttonoutline_chroma
+[2019.10.02-00.44.40:297][382]LogContentBrowser: 	 - /Game/Widgets/W_BasicButton
+[2019.10.02-00.44.40:297][382]LogContentBrowser: 	 - /Game/Lander/Textures/ShipBlue
+[2019.10.02-00.44.40:297][382]LogContentBrowser: 	 - /Game/Lander/Textures/ShipPurple
+[2019.10.02-00.44.40:297][382]LogContentBrowser: 	 - /Game/Lander/Textures/ShipYellow
+[2019.10.02-00.44.40:297][382]LogContentBrowser: 	 - /Game/Widgets/UIArt/FuelCan
+[2019.10.02-00.44.40:297][382]LogContentBrowser: 	 - /Game/Widgets/UIArt/FuelGauge
+[2019.10.02-00.44.40:297][382]LogContentBrowser: 	 - /Game/Widgets/UIArt/ThrustBar
+[2019.10.02-00.44.40:297][382]LogContentBrowser: 	 - /Game/Widgets/PlayerHUd
+[2019.10.02-00.44.40:297][382]LogContentBrowser: 	 - /Game/Blueprints/Default_GM
+[2019.10.02-00.44.40:297][382]LogContentBrowser: 	 - /Game/Widgets/Crashed
+[2019.10.02-00.44.40:297][382]LogContentBrowser: 	 - /Game/Widgets/RoundEndScreen
+[2019.10.02-00.44.40:297][382]LogContentBrowser: 	 - /Game/BP_CAMERA
+[2019.10.02-00.44.40:297][382]LogContentBrowser: 	 - /Game/Explosions/RibbonTester_v3
+[2019.10.02-00.44.40:297][382]LogContentBrowser: 	 - /Game/Terrain/EmmisiveBasic
+[2019.10.02-00.44.40:297][382]LogContentBrowser: 	 - /Game/Terrain/LandingPadMesh
+[2019.10.02-00.44.40:297][382]LogContentBrowser: 	 - /Game/Terrain/EmmisiveBasic_Inst
+[2019.10.02-00.44.40:297][382]LogContentBrowser: 	 - /Game/Terrain/TerrainMesh
+[2019.10.02-00.44.40:297][382]LogContentBrowser: 	 - /Game/Widgets/SharedHUD
+[2019.10.02-00.44.40:298][382]LogContentBrowser: 	 - /Game/Widgets/UIArt/A_Button
+[2019.10.02-00.44.40:298][382]LogContentBrowser: 	 - /Game/Widgets/UIArt/arrow2
+[2019.10.02-00.44.40:298][382]LogContentBrowser: 	 - /Game/Widgets/UIArt/arrow4
+[2019.10.02-00.44.40:298][382]LogContentBrowser: 	 - /Game/Widgets/W_BasicArrowRight
+[2019.10.02-00.44.40:298][382]LogContentBrowser: 	 - /Game/Widgets/W_PlayerSelector
+[2019.10.02-00.44.40:298][382]LogContentBrowser: 	 - /Game/Widgets/StartScreen_New
+[2019.10.02-00.44.40:298][382]LogContentBrowser: 	 - /Game/Widgets/PlayerRegistryScreen
+[2019.10.02-00.44.40:298][382]LogContentBrowser: 	 - /Game/Lander/Textures/5-Landermodule
+[2019.10.02-00.44.40:298][382]LogContentBrowser: 	 - /Game/Lander/5-Landermodule
+[2019.10.02-00.44.40:298][382]LogContentBrowser: 	 - /Game/Lander/Sprites/ShipAqua
+[2019.10.02-00.44.40:298][382]LogContentBrowser: 	 - /Game/Lander/Textures/6-Landermodule
+[2019.10.02-00.44.40:298][382]LogContentBrowser: 	 - /Game/Lander/6-Landermodule
+[2019.10.02-00.44.40:298][382]LogContentBrowser: 	 - /Game/Lander/Sprites/ShipBlue
+[2019.10.02-00.44.40:298][382]LogContentBrowser: 	 - /Game/Lander/Textures/3-Landermodule
+[2019.10.02-00.44.40:298][382]LogContentBrowser: 	 - /Game/Lander/3-Landermodule
+[2019.10.02-00.44.40:298][382]LogContentBrowser: 	 - /Game/Lander/Sprites/ShipGreen
+[2019.10.02-00.44.40:298][382]LogContentBrowser: 	 - /Game/Lander/Textures/8-Landermodule
+[2019.10.02-00.44.40:298][382]LogContentBrowser: 	 - /Game/Lander/8-Landermodule
+[2019.10.02-00.44.40:298][382]LogContentBrowser: 	 - /Game/Lander/Sprites/ShipMagenta
+[2019.10.02-00.44.40:298][382]LogContentBrowser: 	 - /Game/Lander/Textures/7-Landermodule
+[2019.10.02-00.44.40:298][382]LogContentBrowser: 	 - /Game/Lander/7-Landermodule
+[2019.10.02-00.44.40:298][382]LogContentBrowser: 	 - /Game/Lander/Sprites/ShipPurple
+[2019.10.02-00.44.40:298][382]LogContentBrowser: 	 - /Game/Lander/Textures/2-Landermodule
+[2019.10.02-00.44.40:298][382]LogContentBrowser: 	 - /Game/Lander/2-Landermodule
+[2019.10.02-00.44.40:298][382]LogContentBrowser: 	 - /Game/Lander/Sprites/ShipYellow
+[2019.10.02-00.44.40:298][382]LogContentBrowser: 	 - /Game/Retro_8Bit_Sounds/Menu_UI_Beeps/Wavs/retro_simple_beep_12
+[2019.10.02-00.44.40:298][382]LogContentBrowser: 	 - /Game/Widgets/UIArt/B_button
+[2019.10.02-00.44.40:298][382]LogContentBrowser: 	 - /Game/Widgets/UIArt/buttonoutline2
+[2019.10.02-00.44.40:298][382]LogContentBrowser: 	 - /Game/Widgets/UIArt/capital_ship1
+[2019.10.02-00.44.40:298][382]LogContentBrowser: 	 - /Game/Widgets/UIArt/earth_minimal
+[2019.10.02-00.44.40:298][382]LogContentBrowser: 	 - /Game/Widgets/UIArt/exhaust1
+[2019.10.02-00.44.40:298][382]LogContentBrowser: 	 - /Game/Widgets/UIArt/exhaust2
+[2019.10.02-00.44.40:298][382]LogContentBrowser: 	 - /Game/Widgets/UIArt/exhaust3
+[2019.10.02-00.44.40:298][382]LogContentBrowser: 	 - /Game/Widgets/UIArt/UE4_Logo_UI
+[2019.10.02-00.44.40:298][382]LogContentBrowser: 	 - /Game/Widgets/ToolTips
+[2019.10.02-00.44.40:298][382]LogContentBrowser: 	 - /Game/Widgets/UIArt/mars_minimal2
+[2019.10.02-00.44.40:298][382]LogContentBrowser: 	 - /Game/Widgets/UIArt/moon_minimal3
+[2019.10.02-00.44.40:298][382]LogContentBrowser: 	 - /Game/Blueprints/Functions
+[2019.10.02-00.44.40:298][382]LogContentBrowser: 	 - /Game/Explosions/Textures/smoothNormalSphere
+[2019.10.02-00.44.40:298][382]LogContentBrowser: 	 - /Game/Explosions/Textures/water_n
+[2019.10.02-00.44.40:298][382]LogContentBrowser: 	 - /Game/Explosions/Mats/Distortion2
+[2019.10.02-00.44.40:298][382]LogContentBrowser: 	 - /Game/Explosions/Textures/Mushroom1top_2K
+[2019.10.02-00.44.40:298][382]LogContentBrowser: 	 - /Game/Explosions/Mats/Explosive11_M
+[2019.10.02-00.44.40:298][382]LogContentBrowser: 	 - /Game/Explosions/Mats/RadialRamp_Mat
+[2019.10.02-00.44.40:299][382]LogContentBrowser: 	 - /Game/Explosions/Textures/SmokeTiled3
+[2019.10.02-00.44.40:299][382]LogContentBrowser: 	 - /Game/Explosions/Textures/SmokeTiled3_Normal
+[2019.10.02-00.44.40:299][382]LogContentBrowser: 	 - /Game/Explosions/Mats/RibbonSmoke1_M
+[2019.10.02-00.44.40:299][382]LogContentBrowser: 	 - /Game/Explosions/Textures/SquareSpark2
+[2019.10.02-00.44.40:299][382]LogContentBrowser: 	 - /Game/Explosions/Mats/ThickSpark_M
+[2019.10.02-00.44.40:299][382]LogContentBrowser: 	 - /Game/Explosions/Textures/Noise_cloudsmed
+[2019.10.02-00.44.40:299][382]LogContentBrowser: 	 - /Game/Explosions/Mats/Shocktorus
+[2019.10.02-00.44.40:299][382]LogContentBrowser: 	 - /Game/Explosions/Mesh/shockball3
+[2019.10.02-00.44.40:299][382]LogContentBrowser: 	 - /Game/Explosions/VF/Fireball1_VF16
+[2019.10.02-00.44.40:299][382]LogContentBrowser: 	 - /Game/Explosions/Particles/P_ImpactExplosion2
+[2019.10.02-00.44.40:299][382]LogContentBrowser: 	 - /Game/Retro_8Bit_Sounds/Explosion/Wavs/retro_explosion_bass_08
+[2019.10.02-00.44.40:299][382]LogContentBrowser: 	 - /Game/Retro_8Bit_Sounds/Impacts/Wavs/retro_impact_colorful_01
+[2019.10.02-00.44.40:299][382]LogContentBrowser: 	 - /Game/Retro_8Bit_Sounds/Impacts/Wavs/retro_impact_colorful_05
+[2019.10.02-00.44.40:299][382]LogContentBrowser: 	 - /Game/Retro_8Bit_Sounds/Impacts/Wavs/retro_impact_colorful_06
+[2019.10.02-00.44.40:299][382]LogContentBrowser: 	 - /Game/Images/SS
+[2019.10.02-00.44.40:299][382]LogContentBrowser: 	 - /Game/Widgets/GameSetupScreen
+[2019.10.02-00.44.40:299][382]LogContentBrowser: 	 - /Game/Widgets/StartScreen
+[2019.10.02-00.44.40:299][382]LogContentBrowser: 	 - /Game/Maps/Menu
+[2019.10.02-00.44.40:365][382]LightingResults: New page: Lighting Build
+[2019.10.02-00.44.40:366][382]MapCheck: New page: Map Check
+[2019.10.02-00.44.40:366][382]LightingResults: New page: Lighting Build
+[2019.10.02-00.44.40:402][382]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2019.10.02-00.44.40:408][382]LogAIModule: Creating AISystem for world Untitled
+[2019.10.02-00.44.40:544][382]LoadErrors: New page: New Map
+[2019.10.02-00.44.40:552][382]LogUObjectGlobals: Reloading 114 Package(s):
+	Asset Name: /Game/Blueprints/PowerupAbundanceLevel
+	Asset Name: /Game/Blueprints/GameSettings_struct
+	Asset Name: /Game/Lander/Textures/ShipAqua
+	Asset Name: /Game/Lander/Sprites/ShipAqua
+	Asset Name: /Game/Lander/Textures/ShipBlue
+	Asset Name: /Game/Lander/Sprites/ShipBlue
+	Asset Name: /Game/Lander/Textures/ShipGreen
+	Asset Name: /Game/Lander/Sprites/ShipGreen
+	Asset Name: /Game/Lander/Textures/ShipMagenta
+	Asset Name: /Game/Lander/Sprites/ShipMagenta
+[2019.10.02-00.44.40:628][382]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2019.10.02-00.44.41:055][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'W_PlayerSelector_C:WidgetTree.ShipSpriteDec' in the new package '/Game/Widgets/W_PlayerSelector'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.41:055][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'W_PlayerSelector_C:WidgetTree.ShipSpriteInc' in the new package '/Game/Widgets/W_PlayerSelector'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.41:055][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'W_PlayerSelector:WidgetTree.ShipSpriteDec' in the new package '/Game/Widgets/W_PlayerSelector'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.41:055][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'W_PlayerSelector:WidgetTree.ShipSpriteInc' in the new package '/Game/Widgets/W_PlayerSelector'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.41:088][382]LogBlueprint: Error: [Compiler FLIGHT_GI] In use pin  Player Selector Screen  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2019.10.02-00.44.41:100][382]LogBlueprint: Warning: [Compiler FLIGHT_GI] [0118.47] Compile of FLIGHT_GI failed. 1 Fatal Issue(s) 0 Warning(s) [in 25 ms] (/Game/Blueprints/FLIGHT_GI.FLIGHT_GI)
+[2019.10.02-00.44.41:331][382]LogBlueprint: Error: [Compiler RoundEndScreen] In use pin  States  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2019.10.02-00.44.41:361][382]LogBlueprint: Warning: [Compiler RoundEndScreen] [0118.74] Compile of RoundEndScreen failed. 1 Fatal Issue(s) 0 Warning(s) [in 47 ms] (/Game/Widgets/RoundEndScreen.RoundEndScreen)
+[2019.10.02-00.44.41:383][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'RoundEndScreen_C:WidgetTree.W_BasicButton_103' in the new package '/Game/Widgets/RoundEndScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.41:383][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'RoundEndScreen_C:WidgetTree.W_BasicButton' in the new package '/Game/Widgets/RoundEndScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.41:383][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'RoundEndScreen:WidgetTree.W_BasicButton' in the new package '/Game/Widgets/RoundEndScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.41:383][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'RoundEndScreen:WidgetTree.W_BasicButton_103' in the new package '/Game/Widgets/RoundEndScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.41:421][382]LogBlueprint: Error: [Compiler Default_GM] In use pin  Hud  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2019.10.02-00.44.41:443][382]LogBlueprint: Warning: [Compiler Default_GM] [0118.82] Compile of Default_GM failed. 1 Fatal Issue(s) 0 Warning(s) [in 36 ms] (/Game/Blueprints/Default_GM.Default_GM)
+[2019.10.02-00.44.42:296][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'PlayerRegistryScreen_C:WidgetTree.W_PlayerSelector' in the new package '/Game/Widgets/PlayerRegistryScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:296][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'PlayerRegistryScreen_C:WidgetTree.W_PlayerSelector_C_1' in the new package '/Game/Widgets/PlayerRegistryScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:296][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'PlayerRegistryScreen_C:WidgetTree.W_PlayerSelector_C_2' in the new package '/Game/Widgets/PlayerRegistryScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:296][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'PlayerRegistryScreen_C:WidgetTree.W_PlayerSelector_C_3' in the new package '/Game/Widgets/PlayerRegistryScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:296][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'PlayerRegistryScreen_C:WidgetTree.W_basic_text' in the new package '/Game/Widgets/PlayerRegistryScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:296][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'PlayerRegistryScreen:WidgetTree.W_PlayerSelector' in the new package '/Game/Widgets/PlayerRegistryScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:296][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'PlayerRegistryScreen:WidgetTree.W_PlayerSelector_C_1' in the new package '/Game/Widgets/PlayerRegistryScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:296][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'PlayerRegistryScreen:WidgetTree.W_PlayerSelector_C_2' in the new package '/Game/Widgets/PlayerRegistryScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:296][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'PlayerRegistryScreen:WidgetTree.W_PlayerSelector_C_3' in the new package '/Game/Widgets/PlayerRegistryScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:296][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'PlayerRegistryScreen:WidgetTree.W_basic_text' in the new package '/Game/Widgets/PlayerRegistryScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:457][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'StartScreen_New_C:WidgetTree.PlayButton' in the new package '/Game/Widgets/StartScreen_New'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:458][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'StartScreen_New_C:WidgetTree.OptionsButton' in the new package '/Game/Widgets/StartScreen_New'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:458][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'StartScreen_New_C:WidgetTree.ExitButton' in the new package '/Game/Widgets/StartScreen_New'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:458][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'StartScreen_New_C:WidgetTree.credits' in the new package '/Game/Widgets/StartScreen_New'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:458][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'StartScreen_New:WidgetTree.PlayButton' in the new package '/Game/Widgets/StartScreen_New'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:458][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'StartScreen_New:WidgetTree.OptionsButton' in the new package '/Game/Widgets/StartScreen_New'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:458][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'StartScreen_New:WidgetTree.ExitButton' in the new package '/Game/Widgets/StartScreen_New'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:458][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'StartScreen_New:WidgetTree.credits' in the new package '/Game/Widgets/StartScreen_New'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:668][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'MapSelectScreen_C:WidgetTree.moon' in the new package '/Game/Widgets/MapSelectScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:668][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'MapSelectScreen_C:WidgetTree.mars' in the new package '/Game/Widgets/MapSelectScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:668][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'MapSelectScreen_C:WidgetTree.Back' in the new package '/Game/Widgets/MapSelectScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:668][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'MapSelectScreen_C:WidgetTree.Startgame' in the new package '/Game/Widgets/MapSelectScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:668][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'MapSelectScreen_C:WidgetTree.Destination_Text' in the new package '/Game/Widgets/MapSelectScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:668][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'MapSelectScreen_C:WidgetTree.fuelAmountText' in the new package '/Game/Widgets/MapSelectScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:668][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'MapSelectScreen_C:WidgetTree.edit_fuel' in the new package '/Game/Widgets/MapSelectScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:668][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'MapSelectScreen_C:WidgetTree.EquipmentText' in the new package '/Game/Widgets/MapSelectScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:668][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'MapSelectScreen_C:WidgetTree.edit_equipment' in the new package '/Game/Widgets/MapSelectScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:668][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'MapSelectScreen_C:WidgetTree.DAMAGETEXT' in the new package '/Game/Widgets/MapSelectScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:668][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'MapSelectScreen_C:WidgetTree.edit_damage' in the new package '/Game/Widgets/MapSelectScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:668][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'MapSelectScreen_C:WidgetTree.regionText' in the new package '/Game/Widgets/MapSelectScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:668][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'MapSelectScreen_C:WidgetTree.edit_hillAngle' in the new package '/Game/Widgets/MapSelectScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:668][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'MapSelectScreen_C:WidgetTree.seedtext' in the new package '/Game/Widgets/MapSelectScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:668][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'MapSelectScreen_C:WidgetTree.edit_mapseed' in the new package '/Game/Widgets/MapSelectScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:668][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'MapSelectScreen_C:WidgetTree.ROUNDSTEXT' in the new package '/Game/Widgets/MapSelectScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:668][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'MapSelectScreen_C:WidgetTree.edit_roundNumber' in the new package '/Game/Widgets/MapSelectScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:668][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'MapSelectScreen_C:WidgetTree.eachrandomtext' in the new package '/Game/Widgets/MapSelectScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:668][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'MapSelectScreen_C:WidgetTree.edit_randommap' in the new package '/Game/Widgets/MapSelectScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:668][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'MapSelectScreen_C:WidgetTree.bodyName' in the new package '/Game/Widgets/MapSelectScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:668][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'MapSelectScreen_C:WidgetTree.gravity' in the new package '/Game/Widgets/MapSelectScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:668][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'MapSelectScreen_C:WidgetTree.TerrainTypes' in the new package '/Game/Widgets/MapSelectScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:668][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'MapSelectScreen_C:WidgetTree.HostilityEvent' in the new package '/Game/Widgets/MapSelectScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:668][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'MapSelectScreen_C:WidgetTree.WeatherEvent' in the new package '/Game/Widgets/MapSelectScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:668][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'MapSelectScreen_C:WidgetTree.OptionToolTip' in the new package '/Game/Widgets/MapSelectScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:668][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'MapSelectScreen:WidgetTree.mars' in the new package '/Game/Widgets/MapSelectScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:668][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'MapSelectScreen:WidgetTree.moon' in the new package '/Game/Widgets/MapSelectScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:668][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'MapSelectScreen:WidgetTree.bodyName' in the new package '/Game/Widgets/MapSelectScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:668][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'MapSelectScreen:WidgetTree.Destination_Text' in the new package '/Game/Widgets/MapSelectScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:668][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'MapSelectScreen:WidgetTree.edit_damage' in the new package '/Game/Widgets/MapSelectScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:668][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'MapSelectScreen:WidgetTree.edit_equipment' in the new package '/Game/Widgets/MapSelectScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:669][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'MapSelectScreen:WidgetTree.edit_fuel' in the new package '/Game/Widgets/MapSelectScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:669][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'MapSelectScreen:WidgetTree.edit_hillAngle' in the new package '/Game/Widgets/MapSelectScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:669][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'MapSelectScreen:WidgetTree.edit_mapseed' in the new package '/Game/Widgets/MapSelectScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:669][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'MapSelectScreen:WidgetTree.edit_randommap' in the new package '/Game/Widgets/MapSelectScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:669][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'MapSelectScreen:WidgetTree.edit_roundNumber' in the new package '/Game/Widgets/MapSelectScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:669][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'MapSelectScreen:WidgetTree.gravity' in the new package '/Game/Widgets/MapSelectScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:669][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'MapSelectScreen:WidgetTree.HostilityEvent' in the new package '/Game/Widgets/MapSelectScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:669][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'MapSelectScreen:WidgetTree.OptionToolTip' in the new package '/Game/Widgets/MapSelectScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:669][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'MapSelectScreen:WidgetTree.TerrainTypes' in the new package '/Game/Widgets/MapSelectScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:669][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'MapSelectScreen:WidgetTree.WeatherEvent' in the new package '/Game/Widgets/MapSelectScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:669][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'MapSelectScreen:WidgetTree.Back' in the new package '/Game/Widgets/MapSelectScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:669][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'MapSelectScreen:WidgetTree.Startgame' in the new package '/Game/Widgets/MapSelectScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:669][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'MapSelectScreen:WidgetTree.DAMAGETEXT' in the new package '/Game/Widgets/MapSelectScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:669][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'MapSelectScreen:WidgetTree.eachrandomtext' in the new package '/Game/Widgets/MapSelectScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:669][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'MapSelectScreen:WidgetTree.EquipmentText' in the new package '/Game/Widgets/MapSelectScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:669][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'MapSelectScreen:WidgetTree.fuelAmountText' in the new package '/Game/Widgets/MapSelectScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:669][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'MapSelectScreen:WidgetTree.regionText' in the new package '/Game/Widgets/MapSelectScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:669][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'MapSelectScreen:WidgetTree.ROUNDSTEXT' in the new package '/Game/Widgets/MapSelectScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:669][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'MapSelectScreen:WidgetTree.seedtext' in the new package '/Game/Widgets/MapSelectScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:915][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'GameSetupScreen_C:WidgetTree.W_BasicButton' in the new package '/Game/Widgets/GameSetupScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:915][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'GameSetupScreen_C:WidgetTree.numplayer-' in the new package '/Game/Widgets/GameSetupScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:915][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'GameSetupScreen_C:WidgetTree.numplayer+' in the new package '/Game/Widgets/GameSetupScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:915][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'GameSetupScreen_C:WidgetTree.W_BasicArrowRight_C_286' in the new package '/Game/Widgets/GameSetupScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:915][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'GameSetupScreen_C:WidgetTree.W_BasicArrowRight_C_287' in the new package '/Game/Widgets/GameSetupScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:915][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'GameSetupScreen_C:WidgetTree.map-' in the new package '/Game/Widgets/GameSetupScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:915][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'GameSetupScreen_C:WidgetTree.map+' in the new package '/Game/Widgets/GameSetupScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:915][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'GameSetupScreen_C:WidgetTree.round-' in the new package '/Game/Widgets/GameSetupScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:915][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'GameSetupScreen_C:WidgetTree.round+' in the new package '/Game/Widgets/GameSetupScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:915][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'GameSetupScreen:WidgetTree.W_BasicButton' in the new package '/Game/Widgets/GameSetupScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:915][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'GameSetupScreen:WidgetTree.numplayer-' in the new package '/Game/Widgets/GameSetupScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:915][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'GameSetupScreen:WidgetTree.numplayer+' in the new package '/Game/Widgets/GameSetupScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:916][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'GameSetupScreen:WidgetTree.W_BasicArrowRight_C_286' in the new package '/Game/Widgets/GameSetupScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:916][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'GameSetupScreen:WidgetTree.W_BasicArrowRight_C_287' in the new package '/Game/Widgets/GameSetupScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:916][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'GameSetupScreen:WidgetTree.map-' in the new package '/Game/Widgets/GameSetupScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:916][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'GameSetupScreen:WidgetTree.map+' in the new package '/Game/Widgets/GameSetupScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:916][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'GameSetupScreen:WidgetTree.round-' in the new package '/Game/Widgets/GameSetupScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:916][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'GameSetupScreen:WidgetTree.round+' in the new package '/Game/Widgets/GameSetupScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:973][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'StartScreen_C:WidgetTree.PlayButton' in the new package '/Game/Widgets/StartScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:973][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'StartScreen_C:WidgetTree.OptionsButton' in the new package '/Game/Widgets/StartScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:973][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'StartScreen_C:WidgetTree.ExitButton' in the new package '/Game/Widgets/StartScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:973][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'StartScreen_C:WidgetTree.W_BasicButton' in the new package '/Game/Widgets/StartScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:973][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'StartScreen:WidgetTree.PlayButton' in the new package '/Game/Widgets/StartScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:973][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'StartScreen:WidgetTree.OptionsButton' in the new package '/Game/Widgets/StartScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:973][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'StartScreen:WidgetTree.ExitButton' in the new package '/Game/Widgets/StartScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.42:973][382]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'StartScreen:WidgetTree.W_BasicButton' in the new package '/Game/Widgets/StartScreen'. Any existing references to this object will be nulled out.
+[2019.10.02-00.44.44:600][382]LogBlueprint: Error: [Compiler FLIGHT_GI] In use pin  Player Selector Screen  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2019.10.02-00.44.44:618][382]LogBlueprint: Warning: [Compiler FLIGHT_GI] [0121.99] Compile of FLIGHT_GI failed. 1 Fatal Issue(s) 0 Warning(s) [in 66 ms] (/Game/Blueprints/FLIGHT_GI.FLIGHT_GI)
+[2019.10.02-00.44.45:095][382]LogBlueprint: Error: [Compiler RoundEndScreen] In use pin  States  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2019.10.02-00.44.45:122][382]LogBlueprint: Warning: [Compiler RoundEndScreen] [0122.50] Compile of RoundEndScreen failed. 1 Fatal Issue(s) 0 Warning(s) [in 49 ms] (/Game/Widgets/RoundEndScreen.RoundEndScreen)
+[2019.10.02-00.44.45:152][382]LogBlueprint: Error: [Compiler Default_GM] In use pin  Hud  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2019.10.02-00.44.45:176][382]LogBlueprint: Warning: [Compiler Default_GM] [0122.55] Compile of Default_GM failed. 1 Fatal Issue(s) 0 Warning(s) [in 53 ms] (/Game/Blueprints/Default_GM.Default_GM)
+[2019.10.02-00.44.46:114][382]LogUObjectHash: Compacting FUObjectHashTables data took   5.06ms
+[2019.10.02-00.44.46:116][382]LogUObjectGlobals: Warning: ReloadPackage failed to purge the old package '/Game/Blueprints/FLIGHT_GI_DEADPACKAGE_27'. This is unexpected, and likely means that it was still externally referenced.
+[2019.10.02-00.44.46:281][382]LogUObjectGlobals: Display: ReloadPackage external references for '/Game/Blueprints/FLIGHT_GI_DEADPACKAGE_27'.
+[2019.10.02-00.44.46:282][382]LogUObjectGlobals: Display:     GCObjectReferencer /Engine/Transient.GCObjectReferencer_0
+[2019.10.02-00.44.46:282][382]LogUObjectGlobals: Display:     GCObjectReferencer /Engine/Transient.GCObjectReferencer_0
+[2019.10.02-00.44.46:282][382]LogUObjectGlobals: Display:     GCObjectReferencer /Engine/Transient.GCObjectReferencer_0
+[2019.10.02-00.44.46:282][382]LogUObjectGlobals: Display:     GCObjectReferencer /Engine/Transient.GCObjectReferencer_0
+[2019.10.02-00.44.46:282][382]LogUObjectGlobals: Display:     GCObjectReferencer /Engine/Transient.GCObjectReferencer_0
+[2019.10.02-00.44.46:405][382]LogAIModule: Creating AISystem for world Menu
+[2019.10.02-00.44.46:415][382]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Menu.Menu
+[2019.10.02-00.44.46:448][382]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2019.10.02-00.44.46:449][382]Cmd: MAP LOAD FILE="C:/Users/haber/Documents/GitHub/F.L.I.G.H.T/FLIGHT/Content/Maps/Menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.02-00.44.46:449][382]LightingResults: New page: Lighting Build
+[2019.10.02-00.44.46:449][382]LoadErrors: New page: Loading map: Menu.umap
+[2019.10.02-00.44.46:450][382]MapCheck: New page: Map Check
+[2019.10.02-00.44.46:450][382]LightingResults: New page: Lighting Build
+[2019.10.02-00.44.46:481][382]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2019.10.02-00.44.46:634][382]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.02-00.44.46:667][382]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2019.10.02-00.44.46:714][382]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.02-00.44.46:714][382]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.115ms to complete.
+[2019.10.02-00.44.46:715][382]LogFileHelpers: Loading map 'Menu' took 0.268
+[2019.10.02-00.44.49:099][514]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.02-00.44.49:120][514]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2019.10.02-00.44.49:120][514]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.02-00.44.52:545][514]LogSlate: Window 'Message' being destroyed
+[2019.10.02-00.44.52:640][514]PIE: New page: PIE session: Menu (Oct 1, 2019, 12:44:52 PM)
+[2019.10.02-00.44.52:671][514]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Menu
+[2019.10.02-00.44.52:714][514]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042750s)
+[2019.10.02-00.44.52:714][514]LogAIModule: Creating AISystem for world Menu
+[2019.10.02-00.44.52:715][514]LogPlayLevel: PIE: World Init took: (0.000642s)
+[2019.10.02-00.44.52:715][514]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menu.Menu to /Game/Maps/UEDPIE_0_Menu.Menu (0.043679s)
+[2019.10.02-00.44.52:746][514]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2019.10.02-00.44.52:812][514]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.02-00.44.52:828][514]LogInit: FAudioDevice initialized.
+[2019.10.02-00.44.52:885][514]LogLoad: Game class is 'MenuGameMode_C'
+[2019.10.02-00.44.52:918][514]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2019.10.01-18.44.52
+[2019.10.02-00.44.52:918][514]LogWorld: Bringing up level for play took: 0.000452
+[2019.10.02-00.44.53:019][514]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.02-00.44.53:046][514]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2019.10.02-00.44.53:080][514]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 0,
+[2019.10.02-00.44.53:080][514]LogSlate: New Slate User Created.  User Index 1, Is Virtual User: 0
+[2019.10.02-00.44.53:080][514]LogSlate: Slate User Registered.  User Index 1, Is Virtual User: 0
+[2019.10.02-00.44.53:091][514]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.02-00.44.53:091][514]LogSlate: New Slate User Created.  User Index 2, Is Virtual User: 0
+[2019.10.02-00.44.53:091][514]LogSlate: Slate User Registered.  User Index 2, Is Virtual User: 0
+[2019.10.02-00.44.53:092][514]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.02-00.44.53:092][514]LogSlate: New Slate User Created.  User Index 3, Is Virtual User: 0
+[2019.10.02-00.44.53:092][514]LogSlate: Slate User Registered.  User Index 3, Is Virtual User: 0
+[2019.10.02-00.44.53:093][514]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.02-00.44.53:231][514]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Menu 4.895
+[2019.10.02-00.44.53:232][514]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2019.10.02-00.45.56:297][259]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{704b8222-c32b-4029-bc67-64b3b8e37667} was removed. Shutting down audio device.
+[2019.10.02-00.45.56:297][259]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{704b8222-c32b-4029-bc67-64b3b8e37667} was removed. Shutting down audio device.
+[2019.10.02-00.45.56:297][259]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.10.02-00.45.56:631][259]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.10.02-00.45.56:844][260]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.10.02-00.46.39:314][797]LogBlueprintUserMessages: [Lander_PC_C_1] Hello
+[2019.10.02-00.46.39:583][813]LogBlueprintUserMessages: [Lander_PC_C_1] Hello
+[2019.10.02-00.46.39:697][820]LogBlueprintUserMessages: [Lander_PC_C_1] Hello
+[2019.10.02-00.46.47:742][302]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-00.46.47:843][308]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2019.10.02-00.46.47:921][308]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.02-00.46.47:972][308]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.02-00.46.47:972][308]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2019.10.02-00.46.48:033][308]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.02-00.46.48:051][308]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2019.10.02-00.46.48:083][309]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.10.02-00.46.50:659][452]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2019.10.02-00.49.48:409][453]LogTemp: Repeating last play command: Standalone Game
+[2019.10.02-00.49.48:498][453]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
