@@ -1,0 +1,894 @@
+﻿Log file open, 10/17/19 14:41:18
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: FLIGHT
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.315119
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogWindows: Failed to load '../../../Engine/Binaries/ThirdParty/libsndfile/Win64/libsndfile-1.dll' (GetLastError=126)
+LogWindows: File '../../../Engine/Binaries/ThirdParty/libsndfile/Win64/libsndfile-1.dll' does not exist
+LogAudioMixer: Display: Failed to load Sound File dll
+LogAudioEditor: Display: LibSoundFile failed to load. Importing audio will not work correctly.
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin ConcertFrontend
+LogPluginManager: Mounting plugin ConcertMain
+LogPluginManager: Mounting plugin ConcertSyncClient
+LogPluginManager: Mounting plugin ConcertSyncCore
+LogPluginManager: Found config from plugin[ConcertSyncCore] E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Config/Windows/Engine.ini
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-5660361
+LogInit: Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz, GPU: Intel(R) HD Graphics 530
+LogInit: Compiled (64-bit): Mar 31 2019 02:05:09
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.10.17-18.41.19:099][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.10.17-18.41.19:099][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.10.17-18.41.19:099][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Config/Windows/Engine.ini]
+[2019.10.17-18.41.19:099][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.10.17-18.41.19:099][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.10.17-18.41.19:099][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Config/Windows/Engine.ini]
+[2019.10.17-18.41.19:099][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Config/Windows/Engine.ini]
+[2019.10.17-18.41.19:099][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.10.17-18.41.19:099][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.10.17-18.41.19:099][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.10.17-18.41.19:099][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.10.17-18.41.19:099][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.10.17-18.41.19:099][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.10.17-18.41.19:099][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.10.17-18.41.19:099][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.10.17-18.41.19:099][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.10.17-18.41.19:099][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.10.17-18.41.19:099][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.10.17-18.41.19:099][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.10.17-18.41.19:099][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.10.17-18.41.19:099][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Config/Windows/Engine.ini]
+[2019.10.17-18.41.19:100][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.10.17-18.41.19:100][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.10.17-18.41.19:100][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.10.17-18.41.19:100][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.10.17-18.41.19:100][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.10.17-18.41.19:100][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.10.17-18.41.19:100][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.10.17-18.41.19:100][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.10.17-18.41.19:100][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.10.17-18.41.19:100][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.10.17-18.41.19:100][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.10.17-18.41.19:100][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.10.17-18.41.19:100][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.10.17-18.41.19:100][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Config/Windows/Engine.ini]
+[2019.10.17-18.41.19:100][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Config/Windows/Engine.ini]
+[2019.10.17-18.41.19:105][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Config/Windows/Scalability.ini]
+[2019.10.17-18.41.19:105][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.17-18.41.19:105][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.17-18.41.19:105][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Config/Windows/Scalability.ini]
+[2019.10.17-18.41.19:105][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.17-18.41.19:105][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Config/Windows/Scalability.ini]
+[2019.10.17-18.41.19:105][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.17-18.41.19:105][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.17-18.41.19:105][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.17-18.41.19:105][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.17-18.41.19:105][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.17-18.41.19:105][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.17-18.41.19:105][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.17-18.41.19:105][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.17-18.41.19:105][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.17-18.41.19:105][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.17-18.41.19:105][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.17-18.41.19:105][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.17-18.41.19:105][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.17-18.41.19:105][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.17-18.41.19:105][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.17-18.41.19:105][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.17-18.41.19:105][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.17-18.41.19:105][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.17-18.41.19:105][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Config/Windows/Scalability.ini]
+[2019.10.17-18.41.19:105][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.17-18.41.19:105][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.17-18.41.19:105][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.17-18.41.19:105][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.17-18.41.19:105][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.17-18.41.19:105][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.17-18.41.19:105][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.17-18.41.19:105][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.17-18.41.19:105][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.17-18.41.19:105][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.17-18.41.19:105][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.17-18.41.19:105][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.17-18.41.19:105][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.17-18.41.19:105][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.17-18.41.19:105][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.17-18.41.19:105][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.17-18.41.19:105][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.17-18.41.19:105][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.17-18.41.19:105][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.17-18.41.19:105][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.17-18.41.19:105][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.17-18.41.19:105][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.17-18.41.19:105][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.17-18.41.19:105][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.17-18.41.19:106][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.17-18.41.19:106][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.17-18.41.19:106][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.17-18.41.19:106][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.17-18.41.19:106][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.17-18.41.19:106][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.17-18.41.19:106][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Config/Windows/Scalability.ini]
+[2019.10.17-18.41.19:106][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.17-18.41.19:106][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.17-18.41.19:106][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.17-18.41.19:106][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.17-18.41.19:106][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.17-18.41.19:106][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.17-18.41.19:106][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.17-18.41.19:106][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.17-18.41.19:106][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Config/Windows/Scalability.ini]
+[2019.10.17-18.41.19:106][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.17-18.41.19:106][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.17-18.41.19:106][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.17-18.41.19:106][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.17-18.41.19:106][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.17-18.41.19:106][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.17-18.41.19:106][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.17-18.41.19:106][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.17-18.41.19:106][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.17-18.41.19:106][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.17-18.41.19:106][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.17-18.41.19:106][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.17-18.41.19:106][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.17-18.41.19:106][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Config/Windows/Scalability.ini]
+[2019.10.17-18.41.19:106][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.17-18.41.19:106][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.17-18.41.19:106][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.17-18.41.19:106][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.10.17-18.41.19:133][  0]LogHAL: Display: Platform has ~ 16 GB [17073459200 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.10.17-18.41.19:133][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.10.17-18.41.19:133][  0]LogInit: Going up to parent DeviceProfile []
+[2019.10.17-18.41.19:133][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Config/Windows/Scalability.ini]
+[2019.10.17-18.41.19:133][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.17-18.41.19:133][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.17-18.41.19:133][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Config/Windows/Scalability.ini]
+[2019.10.17-18.41.19:133][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.17-18.41.19:133][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Config/Windows/Scalability.ini]
+[2019.10.17-18.41.19:133][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.17-18.41.19:133][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.17-18.41.19:133][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.17-18.41.19:133][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.17-18.41.19:133][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.17-18.41.19:133][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.17-18.41.19:134][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.17-18.41.19:134][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.17-18.41.19:134][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.17-18.41.19:134][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.17-18.41.19:134][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.17-18.41.19:134][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.17-18.41.19:134][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.17-18.41.19:134][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.17-18.41.19:134][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.17-18.41.19:134][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.17-18.41.19:134][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.17-18.41.19:134][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.17-18.41.19:134][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Config/Windows/Scalability.ini]
+[2019.10.17-18.41.19:134][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.17-18.41.19:134][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.17-18.41.19:134][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.17-18.41.19:134][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.17-18.41.19:134][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.17-18.41.19:134][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.17-18.41.19:134][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.17-18.41.19:134][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.17-18.41.19:134][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.17-18.41.19:134][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.17-18.41.19:134][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.17-18.41.19:134][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.17-18.41.19:134][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.17-18.41.19:134][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.17-18.41.19:134][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.17-18.41.19:134][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.17-18.41.19:134][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.17-18.41.19:134][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.17-18.41.19:134][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.17-18.41.19:134][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.17-18.41.19:134][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.17-18.41.19:134][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.17-18.41.19:134][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.17-18.41.19:134][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.17-18.41.19:134][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.17-18.41.19:134][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.17-18.41.19:134][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.17-18.41.19:134][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.17-18.41.19:134][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.17-18.41.19:134][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.17-18.41.19:134][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Config/Windows/Scalability.ini]
+[2019.10.17-18.41.19:134][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.17-18.41.19:134][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.17-18.41.19:134][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.17-18.41.19:134][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.17-18.41.19:134][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.17-18.41.19:134][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.17-18.41.19:134][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.17-18.41.19:134][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.17-18.41.19:134][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Config/Windows/Scalability.ini]
+[2019.10.17-18.41.19:134][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.17-18.41.19:134][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.17-18.41.19:134][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.17-18.41.19:134][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.17-18.41.19:134][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.17-18.41.19:134][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.17-18.41.19:135][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.17-18.41.19:135][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.17-18.41.19:135][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.17-18.41.19:135][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.17-18.41.19:135][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.17-18.41.19:135][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.17-18.41.19:135][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.17-18.41.19:135][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Config/Windows/Scalability.ini]
+[2019.10.17-18.41.19:135][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.17-18.41.19:135][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.17-18.41.19:135][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.10.17-18.41.19:140][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.10.17-18.41.19:140][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.10.17-18.41.19:140][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Config/Windows/Engine.ini]
+[2019.10.17-18.41.19:140][  0]LogInit: Computer: SCOTTS_PC
+[2019.10.17-18.41.19:140][  0]LogInit: User: scott
+[2019.10.17-18.41.19:140][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.10.17-18.41.19:140][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.10.17-18.41.19:140][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.10.17-18.41.19:140][  0]LogMemory: Platform Memory Stats for Windows
+[2019.10.17-18.41.19:140][  0]LogMemory: Process Physical Memory: 101.91 MB used, 101.92 MB peak
+[2019.10.17-18.41.19:140][  0]LogMemory: Process Virtual Memory: 97.71 MB used, 97.71 MB peak
+[2019.10.17-18.41.19:140][  0]LogMemory: Physical Memory: 4494.05 MB used,  11788.47 MB free, 16282.52 MB total
+[2019.10.17-18.41.19:140][  0]LogMemory: Virtual Memory: 4649.59 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2019.10.17-18.41.19:334][  0]LogInit: Using OS detected language (en-US).
+[2019.10.17-18.41.19:334][  0]LogInit: Using OS detected locale (en-CA).
+[2019.10.17-18.41.19:335][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.10.17-18.41.19:578][  0]LogInit: Setting process to per monitor DPI aware
+[2019.10.17-18.41.19:667][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.10.17-18.41.19:667][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.10.17-18.41.22:168][  0]LogHMD: Failed to initialize OpenVR with code 100
+[2019.10.17-18.41.22:168][  0]LogD3D11RHI: D3D11 adapters:
+[2019.10.17-18.41.22:247][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960M' (Feature Level 11_0)
+[2019.10.17-18.41.22:247][  0]LogD3D11RHI:       2010/0/8141 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.10.17-18.41.22:257][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2019.10.17-18.41.22:257][  0]LogD3D11RHI:       128/0/8141 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.10.17-18.41.22:260][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.10.17-18.41.22:260][  0]LogD3D11RHI:       0/0/8141 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.10.17-18.41.22:260][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.10.17-18.41.22:306][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.10.17-18.41.22:306][  0]LogD3D11RHI:     GPU DeviceId: 0x139b (for the marketing name, search the web for "GPU Device Id")
+[2019.10.17-18.41.22:306][  0]LogWindows: EnumDisplayDevices:
+[2019.10.17-18.41.22:306][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2019.10.17-18.41.22:307][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2019.10.17-18.41.22:307][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2019.10.17-18.41.22:307][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.10.17-18.41.22:307][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960M
+[2019.10.17-18.41.22:307][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.10.17-18.41.22:307][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.10.17-18.41.22:307][  0]LogRHI: Texture pool is 1407 MB (70% of 2010 MB)
+[2019.10.17-18.41.22:353][  0]LogD3D11RHI: Async texture creation enabled
+[2019.10.17-18.41.22:379][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.10.17-18.41.22:379][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.10.17-18.41.22:379][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.10.17-18.41.22:387][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.10.17-18.41.22:783][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.10.17-18.41.22:799][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.10.17-18.41.22:815][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.10.17-18.41.22:831][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.10.17-18.41.22:852][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.10.17-18.41.22:868][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.10.17-18.41.22:885][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.10.17-18.41.22:900][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.10.17-18.41.22:908][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.10.17-18.41.23:011][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.10.17-18.41.23:011][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.10.17-18.41.23:011][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.10.17-18.41.23:011][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.10.17-18.41.23:011][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.10.17-18.41.23:011][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.10.17-18.41.23:011][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.10.17-18.41.23:011][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.10.17-18.41.23:011][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.10.17-18.41.23:011][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.10.17-18.41.23:011][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.10.17-18.41.23:011][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.10.17-18.41.23:011][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.10.17-18.41.23:011][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.10.17-18.41.23:011][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.10.17-18.41.23:011][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.10.17-18.41.23:011][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.10.17-18.41.23:011][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.10.17-18.41.23:013][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.10.17-18.41.23:078][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.10.17-18.41.23:078][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.10.17-18.41.23:105][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.10.17-18.41.23:105][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.10.17-18.41.23:120][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.10.17-18.41.23:135][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.10.17-18.41.23:149][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.10.17-18.41.23:173][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.10.17-18.41.23:227][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.10.17-18.41.23:227][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.10.17-18.41.23:228][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.10.17-18.41.23:278][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.10.17-18.41.23:371][  0]LogShaderCompilers: Guid format shader working directory is 7 characters bigger than the processId version (E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Intermediate/Shaders/WorkingDirectory/18164/).
+[2019.10.17-18.41.23:371][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/scott/AppData/Local/Temp/UnrealShaderWorkingDir/CF7F14E949F79EE27AF6C2AA17F19AD3/'.
+[2019.10.17-18.41.23:374][  0]LogXGEController: Cleaning working directory: C:/Users/scott/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.10.17-18.41.23:374][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.10.17-18.41.23:374][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.10.17-18.41.23:374][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.10.17-18.41.25:859][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.10.17-18.41.25:920][  0]LogDerivedDataCache: Loaded boot cache 0.06s 71MB C:/Users/scott/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.10.17-18.41.25:920][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/scott/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.10.17-18.41.25:920][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.10.17-18.41.25:920][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.10.17-18.41.25:920][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.17-18.41.25:920][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.10.17-18.41.25:947][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.10.17-18.41.25:947][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.17-18.41.25:947][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.10.17-18.41.25:960][  0]LogDerivedDataCache: Using Local data cache path C:/Users/scott/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.10.17-18.41.25:960][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.10.17-18.41.25:960][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.10.17-18.41.25:989][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.10.17-18.41.25:990][  0]LogSlate: Using FreeType 2.6.0
+[2019.10.17-18.41.26:009][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.10.17-18.41.26:283][  0]LogAssetRegistry: FAssetRegistry took 0.0356 seconds to start up
+[2019.10.17-18.41.26:692][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.17-18.41.26:966][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.10.17-18.41.26:966][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.10.17-18.41.26:966][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.10.17-18.41.26:966][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.10.17-18.41.26:966][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.10.17-18.41.27:013][  0]LogNetVersion: FLIGHT 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 3036253622)
+[2019.10.17-18.41.28:260][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.068465 seconds
+[2019.10.17-18.41.28:270][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.10.17-18.41.28:270][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.10.17-18.41.28:270][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.10.17-18.41.32:345][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.10.17-18.41.32:359][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.10.17-18.41.32:364][  0]FUdpSocketBuilder: Failed to bind UdpMessageMulticastSocket to 0.0.0.0:6666
+[2019.10.17-18.41.32:364][  0]FUdpSocketBuilder: Failed to configure multicast for UdpMessageMulticastSocket (loopback: 1, ttl: 1)
+[2019.10.17-18.41.32:364][  0]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2019.10.17-18.41.32:364][  0]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2019.10.17-18.41.32:581][  0]SourceControl: Source control is disabled
+[2019.10.17-18.41.33:918][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.10.17-18.41.34:218][  0]LogOcInput: OculusInput pre-init called
+[2019.10.17-18.41.35:064][  0]LogEngine: Initializing Engine...
+[2019.10.17-18.41.35:065][  0]LogHMD: Failed to initialize OpenVR with code 100
+[2019.10.17-18.41.35:067][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.10.17-18.41.35:532][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.10.17-18.41.35:553][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.10.17-18.41.35:624][  0]LogInit: XAudio2 using 'Headphones (2- Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.17-18.41.35:794][  0]LogInit: FAudioDevice initialized.
+[2019.10.17-18.41.35:794][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.10.17-18.41.35:888][  0]LogDerivedDataCache: Saved boot cache 0.09s 71MB C:/Users/scott/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.10.17-18.41.35:903][  0]LogInit: Texture streaming: Enabled
+[2019.10.17-18.41.35:924][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.10.17-18.41.35:948][  0]LogInit: Transaction tracking system initialized
+[2019.10.17-18.41.35:981][  0]BlueprintLog: New page: Editor Load
+[2019.10.17-18.41.36:091][  0]LocalizationService: Localization service is disabled
+[2019.10.17-18.41.36:902][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.10.17-18.41.36:902][  0]LogCook: Display: Mobile HDR setting 1
+[2019.10.17-18.41.37:051][  0]LogFileCache: Scanning file cache for directory 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/' took 0.03s
+[2019.10.17-18.41.37:309][  0]Cmd: MAP LOAD FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Maps/Menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.17-18.41.37:309][  0]LightingResults: New page: Lighting Build
+[2019.10.17-18.41.37:313][  0]MapCheck: New page: Map Check
+[2019.10.17-18.41.37:314][  0]LightingResults: New page: Lighting Build
+[2019.10.17-18.41.37:341][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2019.10.17-18.41.42:452][  0]LogAIModule: Creating AISystem for world Menu
+[2019.10.17-18.41.42:453][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.17-18.41.42:513][  0]LogUObjectHash: Compacting FUObjectHashTables data took   6.69ms
+[2019.10.17-18.41.42:513][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.17-18.41.42:513][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.406ms to complete.
+[2019.10.17-18.41.42:513][  0]LogFileHelpers: Loading map 'Menu' took 5.204
+[2019.10.17-18.41.42:725][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.17-18.41.42:736][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.17-18.41.42:749][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.17-18.41.42:763][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.17-18.41.42:777][  0]LogCollectionManager: Loaded 0 collections in 0.003348 seconds
+[2019.10.17-18.41.42:819][  0]LogFileCache: Scanning file cache for directory 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Collections/' took 0.01s
+[2019.10.17-18.41.42:819][  0]LogFileCache: Scanning file cache for directory 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Developers/scott/Collections/' took 0.01s
+[2019.10.17-18.41.42:819][  0]LogFileCache: Scanning file cache for directory 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Collections/' took 0.01s
+[2019.10.17-18.41.42:819][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.10.17-18.41.42:836][  0]LogContentBrowser: Native class hierarchy populated in 0.0164 seconds. Added 2758 classes and 680 folders.
+[2019.10.17-18.41.42:852][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.10.17-18.41.42:861][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.17-18.41.42:873][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.17-18.41.42:899][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.17-18.41.42:908][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.17-18.41.42:916][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.17-18.41.42:925][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.17-18.41.42:934][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.17-18.41.42:943][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.17-18.41.42:949][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.17-18.41.42:958][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.17-18.41.42:964][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.17-18.41.42:973][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.17-18.41.42:981][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.17-18.41.42:988][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.17-18.41.42:994][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.17-18.41.43:001][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.17-18.41.43:039][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.17-18.41.43:044][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.17-18.41.43:051][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.17-18.41.43:058][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.17-18.41.43:065][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.17-18.41.43:072][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.17-18.41.43:078][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.17-18.41.43:085][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.17-18.41.43:092][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.17-18.41.43:098][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.17-18.41.43:270][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2019.10.17-18.41.43:420][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2019.10.17-18.41.44:897][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.10.17-18.41.44:966][  0]LogSlate: Took 0.010559 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.10.17-18.41.44:974][  0]LogSlate: Took 0.005553 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.10.17-18.41.44:986][  0]LogSlate: Took 0.006924 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.10.17-18.41.45:164][  0]LogRenderer: Reallocating scene render targets to support 1104x532 Format 10 NumSamples 1 (Frame:1).
+[2019.10.17-18.41.45:221][  0]LogSlate: Took 0.005069 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.17-18.41.45:304][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.10.17-18.41.45:304][  0]LogLoad: (Engine Initialization) Total time: 29.82 seconds
+[2019.10.17-18.41.45:304][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.10.17-18.41.45:561][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.10.17-18.41.45:640][  1]LogAssetRegistry: Asset discovery search completed in 19.3799 seconds
+[2019.10.17-18.41.45:646][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000002 seconds (found 0 objects)
+[2019.10.17-18.41.45:646][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000098 seconds (updated 0 objects)
+[2019.10.17-18.41.46:352][ 35]LogSlate: Took 0.000149 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.17-18.41.50:452][281]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.17-18.41.50:566][286]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Default_GM.Default_GM
+[2019.10.17-18.41.50:944][286]LogClass: Warning: Enum '/Game/Explosions/DemoRoom/BluePrints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2019.10.17-18.41.51:025][286]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 121 classes and 0 folders.
+[2019.10.17-18.41.52:177][286]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Widgets/PlayerHUd.PlayerHUd
+[2019.10.17-18.41.52:642][286]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/PowerupPhase/PowerUpSpawner.PowerUpSpawner
+[2019.10.17-18.41.53:082][286]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/PowerupPhase/Interactable_Debris.Interactable_Debris
+[2019.10.17-18.41.53:598][286]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Static_Camera.Static_Camera
+[2019.10.17-18.41.54:056][286]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Lander/Lander.Lander
+[2019.10.17-18.41.54:626][286]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/PowerupPhase/fuel_crate_Sprite.fuel_crate_Sprite
+[2019.10.17-18.41.54:733][286]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/PowerupPhase/missile_crate_Sprite.missile_crate_Sprite
+[2019.10.17-18.41.54:838][286]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/PowerupPhase/Cargo.Cargo
+[2019.10.17-18.41.55:385][286]LogSlate: Took 0.004707 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.10.17-18.41.55:520][287]LogRenderer: Reallocating scene render targets to support 1212x916 Format 10 NumSamples 1 (Frame:1).
+[2019.10.17-18.41.59:153][466]LogSlate: Took 0.004639 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.10.17-18.42.14:977][381]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.17-18.42.20:979][739]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.17-18.42.21:029][739]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2019.10.17-18.42.21:029][739]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.17-18.42.21:030][739]PIE: New page: PIE session: Menu (Oct 17, 2019, 10:42:21 AM)
+[2019.10.17-18.42.21:042][739]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Menu
+[2019.10.17-18.42.21:044][739]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001275s)
+[2019.10.17-18.42.21:044][739]LogAIModule: Creating AISystem for world Menu
+[2019.10.17-18.42.21:045][739]LogPlayLevel: PIE: World Init took: (0.000707s)
+[2019.10.17-18.42.21:045][739]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menu.Menu to /Game/Maps/UEDPIE_0_Menu.Menu (0.002463s)
+[2019.10.17-18.42.21:152][739]LogUObjectHash: Compacting FUObjectHashTables data took  10.35ms
+[2019.10.17-18.42.21:214][739]LogInit: XAudio2 using 'Headphones (2- Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.17-18.42.21:264][739]LogInit: FAudioDevice initialized.
+[2019.10.17-18.42.21:276][739]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.17-18.42.21:328][739]LogLoad: Game class is 'MenuGameMode_C'
+[2019.10.17-18.42.21:329][739]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2019.10.17-14.42.21
+[2019.10.17-18.42.21:330][739]LogWorld: Bringing up level for play took: 0.000580
+[2019.10.17-18.42.21:342][739]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.10.17-18.42.21:343][739]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.17-18.42.21:353][739]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0009 seconds. Added 20 classes and 0 folders.
+[2019.10.17-18.42.21:356][739]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.10.17-18.42.21:356][739]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.17-18.42.21:357][739]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.10.17-18.42.21:357][739]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.17-18.42.21:357][739]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.10.17-18.42.21:358][739]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.17-18.42.21:368][739]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Menu 0.271
+[2019.10.17-18.42.21:369][739]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2019.10.17-18.42.21:391][740]LogRenderer: Reallocating scene render targets to support 1912x1048 Format 10 NumSamples 1 (Frame:1).
+[2019.10.17-18.42.26:903][ 33]LogBlueprintUserMessages: [StartScreen_New_C_0] 0
+[2019.10.17-18.42.27:019][ 40]LogBlueprintUserMessages: [StartScreen_New_C_0] 1
+[2019.10.17-18.42.27:736][ 83]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.17-18.42.27:748][ 83]LogSlate: New Slate User Created.  User Index 1, Is Virtual User: 0
+[2019.10.17-18.42.27:748][ 83]LogSlate: Slate User Registered.  User Index 1, Is Virtual User: 0
+[2019.10.17-18.42.27:749][ 83]LogSlate: New Slate User Created.  User Index 2, Is Virtual User: 0
+[2019.10.17-18.42.27:749][ 83]LogSlate: Slate User Registered.  User Index 2, Is Virtual User: 0
+[2019.10.17-18.42.27:750][ 83]LogSlate: New Slate User Created.  User Index 3, Is Virtual User: 0
+[2019.10.17-18.42.27:750][ 83]LogSlate: Slate User Registered.  User Index 3, Is Virtual User: 0
+[2019.10.17-18.42.28:295][116]LogBlueprintUserMessages: [FLIGHT_GI_C_0] 0
+[2019.10.17-18.42.28:412][123]LogBlueprintUserMessages: [FLIGHT_GI_C_0] 1
+[2019.10.17-18.42.32:421][363]LogBlueprintUserMessages: [MapSelectScreen_C_0] Moon
+[2019.10.17-18.42.34:789][505]LogNet: Browse: /Game/Maps/Moon
+[2019.10.17-18.42.34:790][505]LogLoad: LoadMap: /Game/Maps/Moon
+[2019.10.17-18.42.34:910][505]LogUObjectHash: Compacting FUObjectHashTables data took   8.42ms
+[2019.10.17-18.42.35:145][505]LogAIModule: Creating AISystem for world Moon
+[2019.10.17-18.42.35:146][505]LogLoad: Game class is 'Default_GM_C'
+[2019.10.17-18.42.35:154][505]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Moon.Moon up for play (max tick rate 60) at 2019.10.17-14.42.35
+[2019.10.17-18.42.35:155][505]LogWorld: Bringing up level for play took: 0.007255
+[2019.10.17-18.42.35:952][505]LogBlueprintUserMessages: [Terrain_2] Translation: X=-2493.000 Y=0.000 Z=8.000 Rotation: P=61.766716 Y=0.000000 R=0.000000 Scale X=0.100 Y=1.000 Z=1.000
+[2019.10.17-18.42.35:953][505]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (ShowID) or object (Lander_2)
+[2019.10.17-18.42.35:956][505]LogLoad: Took 1.165982 seconds to LoadMap(/Game/Maps/Moon)
+[2019.10.17-18.42.41:588][820]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (ShowID) or object (Lander_C_0)
+[2019.10.17-18.42.41:589][820]LogBlueprintUserMessages: [Lander_C_0] 4
+[2019.10.17-18.42.41:788][831]LogBlueprintUserMessages: [Phase1Cam] Collision Off
+[2019.10.17-18.42.41:789][831]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Phase1Alert) or object (Default_GM_C_0)
+[2019.10.17-18.42.42:449][865]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.17-18.42.43:563][924]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.17-18.42.44:510][975]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.17-18.42.45:122][  8]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.17-18.42.45:693][ 38]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.17-18.42.46:070][ 58]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.17-18.42.46:599][ 86]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.17-18.42.47:567][138]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.17-18.42.47:623][141]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.17-18.42.47:768][149]LogBlueprintUserMessages: [Phase1Cam] Collision On
+[2019.10.17-18.42.48:183][173]LogBlueprintUserMessages: [PowerUpSpawner_2] Missle
+[2019.10.17-18.42.48:286][179]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.17-18.42.48:764][207]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.17-18.42.50:178][290]LogBlueprintUserMessages: [PowerUpSpawner_2] Missle
+[2019.10.17-18.42.50:263][295]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.17-18.42.50:739][322]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.17-18.42.51:472][365]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.17-18.42.51:769][382]LogBlueprintUserMessages: [PowerUpSpawner_2] Cargo
+[2019.10.17-18.42.52:972][452]LogBlueprintUserMessages: [PowerUpSpawner_2] Cargo
+[2019.10.17-18.42.53:596][486]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.17-18.42.54:106][513]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.17-18.42.54:182][517]LogBlueprintUserMessages: [PowerUpSpawner_2] Cargo
+[2019.10.17-18.42.54:697][544]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.17-18.42.55:040][562]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.17-18.42.55:914][608]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.17-18.42.56:184][622]LogBlueprintUserMessages: [PowerUpSpawner_2] Cargo
+[2019.10.17-18.42.56:825][655]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.17-18.42.56:977][663]LogBlueprintUserMessages: [PowerUpSpawner_2] Cargo
+[2019.10.17-18.42.58:134][723]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.17-18.42.58:285][731]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.17-18.42.58:323][733]LogBlueprintUserMessages: [Interactable_Debris_C_0] true
+[2019.10.17-18.42.58:382][736]LogBlueprintUserMessages: [Interactable_Debris_C_2] true
+[2019.10.17-18.42.58:681][751]LogBlueprintUserMessages: [Interactable_Debris_C_5] true
+[2019.10.17-18.42.59:124][773]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.17-18.42.59:296][782]LogPawn: Error: DisableInput can only be specified on a Pawn for its Controller
+[2019.10.17-18.42.59:297][782]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsCompetitive_Player_State
+	Lander_C /Game/Maps/UEDPIE_0_Moon.Moon:PersistentLevel.Lander_2
+	Function /Game/Lander/Lander.Lander_C:Scoring:018E
+[2019.10.17-18.42.59:297][782]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsCompetitive_Player_State". Blueprint:  Lander Function:  Scoring Graph:  Scoring Node:  Calculate Score
+[2019.10.17-18.42.59:412][788]LogPawn: Error: EnableInput can only be specified on a Pawn for its Controller
+[2019.10.17-18.42.59:412][788]LogPawn: Error: EnableInput can only be specified on a Pawn for its Controller
+[2019.10.17-18.42.59:487][792]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.17-18.42.59:508][793]LogBlueprintUserMessages: [Interactable_Debris_C_4] true
+[2019.10.17-18.42.59:736][805]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.17-18.42.59:777][807]LogBlueprintUserMessages: [PowerUpSpawner_2] Missle
+[2019.10.17-18.42.59:954][816]LogBlueprintUserMessages: [Interactable_Debris_C_7] true
+[2019.10.17-18.43.00:098][823]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.17-18.43.00:683][855]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.17-18.43.01:708][913]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2019.10.17-18.43.01:708][913]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.17-18.43.01:744][913]LogSlate: Window 'FLIGHT Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.17-18.43.01:793][913]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.17-18.43.01:793][913]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2019.10.17-18.43.01:907][913]LogUObjectHash: Compacting FUObjectHashTables data took   5.89ms
+[2019.10.17-18.43.02:018][914]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.10.17-18.43.05:558][119]LogSlate: Window 'Message Log' being destroyed
+[2019.10.17-18.43.05:564][119]LogSlate: Window 'Message Log' being destroyed
+[2019.10.17-18.44.09:124][930]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.22/Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset: 'C:/Program Files/Epic Games/UE_4.22/Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset' is outside repository
+[2019.10.17-18.44.26:546][973]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.17-18.44.26:587][973]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2019.10.17-18.44.26:587][973]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.10.17-18.44.26:608][973]LogPlayLevel: [PlayLevel] Compiling Interactable_Debris before play...
+[2019.10.17-18.44.27:028][973]LogUObjectHash: Compacting FUObjectHashTables data took   6.20ms
+[2019.10.17-18.44.27:029][973]LogPlayLevel: PlayLevel: Blueprint regeneration took 442 ms (1 blueprints)
+[2019.10.17-18.44.27:029][973]PIE: New page: PIE session: Menu (Oct 17, 2019, 10:44:27 AM)
+[2019.10.17-18.44.27:029][973]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Menu
+[2019.10.17-18.44.27:031][973]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001628s)
+[2019.10.17-18.44.27:032][973]LogAIModule: Creating AISystem for world Menu
+[2019.10.17-18.44.27:032][973]LogPlayLevel: PIE: World Init took: (0.000706s)
+[2019.10.17-18.44.27:032][973]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menu.Menu to /Game/Maps/UEDPIE_0_Menu.Menu (0.002481s)
+[2019.10.17-18.44.27:086][973]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2019.10.17-18.44.27:153][973]LogInit: XAudio2 using 'Headphones (2- Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.17-18.44.27:208][973]LogInit: FAudioDevice initialized.
+[2019.10.17-18.44.27:219][973]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.17-18.44.27:251][973]LogLoad: Game class is 'MenuGameMode_C'
+[2019.10.17-18.44.27:252][973]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2019.10.17-14.44.27
+[2019.10.17-18.44.27:253][973]LogWorld: Bringing up level for play took: 0.000748
+[2019.10.17-18.44.27:265][973]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.10.17-18.44.27:266][973]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.17-18.44.27:266][973]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.10.17-18.44.27:266][973]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.17-18.44.27:267][973]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.10.17-18.44.27:267][973]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.17-18.44.27:267][973]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.10.17-18.44.27:268][973]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.17-18.44.27:273][973]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Menu 0.177
+[2019.10.17-18.44.27:274][973]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2019.10.17-18.44.29:526][ 96]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2019.10.17-18.44.29:527][ 96]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.17-18.44.29:546][ 96]LogSlate: Window 'FLIGHT Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.17-18.44.29:585][ 96]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.17-18.44.29:585][ 96]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2019.10.17-18.44.29:652][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2019.10.17-18.44.29:745][ 97]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.10.17-18.44.33:332][295]LogAIModule: Creating AISystem for world Moon
+[2019.10.17-18.44.33:344][295]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Moon.Moon
+[2019.10.17-18.44.33:397][295]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2019.10.17-18.44.34:141][295]LogSlate: Window 'Save Content' being destroyed
+[2019.10.17-18.44.34:271][295]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PowerupPhase/Interactable_Debris" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/PowerupPhase/Interactable_Debris.uasset" SILENT=true
+[2019.10.17-18.44.34:503][295]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Interactable_Debris39111DD94988A03CC90B929D535781CB.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/PowerupPhase/Interactable_Debris.uasset'
+[2019.10.17-18.44.34:508][295]Cmd: MAP LOAD FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Maps/Moon.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.17-18.44.34:508][295]LightingResults: New page: Lighting Build
+[2019.10.17-18.44.34:509][295]LoadErrors: New page: Loading map: Moon.umap
+[2019.10.17-18.44.34:510][295]MapCheck: New page: Map Check
+[2019.10.17-18.44.34:510][295]LightingResults: New page: Lighting Build
+[2019.10.17-18.44.34:561][295]LogUObjectHash: Compacting FUObjectHashTables data took   5.80ms
+[2019.10.17-18.44.34:760][295]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.17-18.44.34:811][295]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2019.10.17-18.44.34:863][295]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.17-18.44.34:863][295]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.261ms to complete.
+[2019.10.17-18.44.34:863][295]LogFileHelpers: Loading map 'Moon' took 0.356
+[2019.10.17-18.44.36:121][358]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.17-18.44.36:177][358]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Moon.Moon:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Moon.Moon:PersistentLevel.Moon' with GeneratedClass '/Game/Maps/Moon.Moon_C' with ClassGeneratedBy '/Game/Maps/Moon.Moon:PersistentLevel.Moon'
+[2019.10.17-18.44.36:177][358]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.17-18.44.36:177][358]PIE: New page: PIE session: Moon (Oct 17, 2019, 10:44:36 AM)
+[2019.10.17-18.44.36:178][358]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Moon
+[2019.10.17-18.44.36:185][358]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006840s)
+[2019.10.17-18.44.36:186][358]LogAIModule: Creating AISystem for world Moon
+[2019.10.17-18.44.36:186][358]LogPlayLevel: PIE: World Init took: (0.000675s)
+[2019.10.17-18.44.36:186][358]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Moon.Moon to /Game/Maps/UEDPIE_0_Moon.Moon (0.008041s)
+[2019.10.17-18.44.36:239][358]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2019.10.17-18.44.36:308][358]LogInit: XAudio2 using 'Headphones (2- Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.17-18.44.36:361][358]LogInit: FAudioDevice initialized.
+[2019.10.17-18.44.36:394][358]LogLoad: Game class is 'Default_GM_C'
+[2019.10.17-18.44.36:397][358]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Moon.Moon up for play (max tick rate 60) at 2019.10.17-14.44.36
+[2019.10.17-18.44.36:398][358]LogWorld: Bringing up level for play took: 0.002326
+[2019.10.17-18.44.37:340][358]LogBlueprintUserMessages: [Terrain_2] Translation: X=-2493.000 Y=0.000 Z=6.000 Rotation: P=7.005588 Y=0.000000 R=0.000000 Scale X=0.100 Y=1.000 Z=1.000
+[2019.10.17-18.44.37:340][358]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (ShowID) or object (Lander_2)
+[2019.10.17-18.44.37:340][358]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Moon 0.244
+[2019.10.17-18.44.37:341][358]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Moon.Moon:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Moon.Moon:PersistentLevel.Moon' with GeneratedClass '/Game/Maps/Moon.Moon_C' with ClassGeneratedBy '/Game/Maps/Moon.Moon:PersistentLevel.Moon'
+[2019.10.17-18.44.42:993][685]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (ShowID) or object (Lander_C_0)
+[2019.10.17-18.44.42:994][685]LogBlueprintUserMessages: [Lander_C_0] 0
+[2019.10.17-18.44.42:994][685]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PlayerSprites' of length 0 in '/Game/Blueprints/FLIGHT_GI.FLIGHT_GI_C'!
+[2019.10.17-18.44.42:994][685]LogScript: Warning: Attempted to access index 1 from array CallFunc_GetAllSocketNames_ReturnValue of length 0!
+	Lander_C /Game/Maps/UEDPIE_0_Moon.Moon:PersistentLevel.Lander_C_0
+	Function /Game/Lander/Lander.Lander_C:ExecuteUbergraph_Lander:18F0
+[2019.10.17-18.44.42:994][685]PIE: Error: Blueprint Runtime Error: "Attempted to access index 1 from array CallFunc_GetAllSocketNames_ReturnValue of length 0!". Blueprint:  Lander Function:  Execute Ubergraph Lander Graph:  EventGraph Node:  AttachToComponent
+[2019.10.17-18.44.42:994][685]LogScript: Warning: Attempted to access index 0 from array CallFunc_GetAllSocketNames_ReturnValue of length 0!
+	Lander_C /Game/Maps/UEDPIE_0_Moon.Moon:PersistentLevel.Lander_C_0
+	Function /Game/Lander/Lander.Lander_C:ExecuteUbergraph_Lander:196D
+[2019.10.17-18.44.42:994][685]PIE: Error: Blueprint Runtime Error: "Attempted to access index 0 from array CallFunc_GetAllSocketNames_ReturnValue of length 0!". Blueprint:  Lander Function:  Execute Ubergraph Lander Graph:  EventGraph Node:  AttachToComponent
+[2019.10.17-18.44.43:193][697]LogBlueprintUserMessages: [Phase1Cam] Collision Off
+[2019.10.17-18.44.43:194][697]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Phase1Alert) or object (Default_GM_C_0)
+[2019.10.17-18.44.49:176][ 56]LogBlueprintUserMessages: [Phase1Cam] Collision On
+[2019.10.17-18.44.51:577][200]LogBlueprintUserMessages: [PowerUpSpawner_2] Fuel
+[2019.10.17-18.44.51:578][200]PIE: Warning: Interactable_Debris_C_0.PaperSprite fuel_crate_Sprite has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.10.17-18.44.51:578][200]PIE: Warning: Interactable_Debris_C_0.PaperSprite fuel_crate_Sprite has to have 'Simulate Physics' enabled if you'd like to AddAngularImpulse. 
+[2019.10.17-18.44.52:377][248]LogBlueprintUserMessages: [PowerUpSpawner_2] Cargo
+[2019.10.17-18.44.52:378][248]PIE: Warning: Interactable_Debris_C_1.PaperSprite Cargo has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.10.17-18.44.52:378][248]PIE: Warning: Interactable_Debris_C_1.PaperSprite Cargo has to have 'Simulate Physics' enabled if you'd like to AddAngularImpulse. 
+[2019.10.17-18.44.52:777][272]LogBlueprintUserMessages: [PowerUpSpawner_2] Cargo
+[2019.10.17-18.44.52:778][272]PIE: Warning: Interactable_Debris_C_2.PaperSprite Cargo has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.10.17-18.44.52:778][272]PIE: Warning: Interactable_Debris_C_2.PaperSprite Cargo has to have 'Simulate Physics' enabled if you'd like to AddAngularImpulse. 
+[2019.10.17-18.44.53:177][296]LogBlueprintUserMessages: [PowerUpSpawner_2] Cargo
+[2019.10.17-18.44.53:178][296]PIE: Warning: Interactable_Debris_C_3.PaperSprite Cargo has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.10.17-18.44.53:178][296]PIE: Warning: Interactable_Debris_C_3.PaperSprite Cargo has to have 'Simulate Physics' enabled if you'd like to AddAngularImpulse. 
+[2019.10.17-18.44.53:984][342]LogBlueprintUserMessages: [PowerUpSpawner_2] Missle
+[2019.10.17-18.44.53:985][342]PIE: Warning: Interactable_Debris_C_4.PaperSprite missile_crate_Sprite has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.10.17-18.44.53:985][342]PIE: Warning: Interactable_Debris_C_4.PaperSprite missile_crate_Sprite has to have 'Simulate Physics' enabled if you'd like to AddAngularImpulse. 
+[2019.10.17-18.44.55:584][438]LogBlueprintUserMessages: [PowerUpSpawner_2] Fuel
+[2019.10.17-18.44.55:585][438]PIE: Warning: Interactable_Debris_C_5.PaperSprite fuel_crate_Sprite has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.10.17-18.44.55:585][438]PIE: Warning: Interactable_Debris_C_5.PaperSprite fuel_crate_Sprite has to have 'Simulate Physics' enabled if you'd like to AddAngularImpulse. 
+[2019.10.17-18.44.56:384][486]LogBlueprintUserMessages: [PowerUpSpawner_2] Fuel
+[2019.10.17-18.44.56:385][486]PIE: Warning: Interactable_Debris_C_6.PaperSprite fuel_crate_Sprite has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.10.17-18.44.56:385][486]PIE: Warning: Interactable_Debris_C_6.PaperSprite fuel_crate_Sprite has to have 'Simulate Physics' enabled if you'd like to AddAngularImpulse. 
+[2019.10.17-18.44.58:335][603]LogBlueprintUserMessages: [Interactable_Debris_C_3] true
+[2019.10.17-18.44.58:786][630]LogBlueprintUserMessages: [PowerUpSpawner_2] Missle
+[2019.10.17-18.44.58:787][630]PIE: Warning: Interactable_Debris_C_7.PaperSprite missile_crate_Sprite has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.10.17-18.44.58:787][630]PIE: Warning: Interactable_Debris_C_7.PaperSprite missile_crate_Sprite has to have 'Simulate Physics' enabled if you'd like to AddAngularImpulse. 
+[2019.10.17-18.44.59:985][702]LogBlueprintUserMessages: [PowerUpSpawner_2] Cargo
+[2019.10.17-18.44.59:987][702]PIE: Warning: Interactable_Debris_C_8.PaperSprite Cargo has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.10.17-18.44.59:987][702]PIE: Warning: Interactable_Debris_C_8.PaperSprite Cargo has to have 'Simulate Physics' enabled if you'd like to AddAngularImpulse. 
+[2019.10.17-18.45.00:386][726]LogBlueprintUserMessages: [PowerUpSpawner_2] Cargo
+[2019.10.17-18.45.00:386][726]PIE: Warning: Interactable_Debris_C_9.PaperSprite Cargo has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.10.17-18.45.00:387][726]PIE: Warning: Interactable_Debris_C_9.PaperSprite Cargo has to have 'Simulate Physics' enabled if you'd like to AddAngularImpulse. 
+[2019.10.17-18.45.00:584][738]LogBlueprintUserMessages: [Interactable_Debris_C_5] true
+[2019.10.17-18.45.03:136][891]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'SoundArray' of length 3 in '/Game/Blueprints/Functions.Functions_C:RandomSoundFromArray'!
+[2019.10.17-18.45.03:519][914]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'SoundArray' of length 3 in '/Game/Blueprints/Functions.Functions_C:RandomSoundFromArray'!
+[2019.10.17-18.45.03:552][916]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'SoundArray' of length 3 in '/Game/Blueprints/Functions.Functions_C:RandomSoundFromArray'!
+[2019.10.17-18.45.03:636][921]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'SoundArray' of length 3 in '/Game/Blueprints/Functions.Functions_C:RandomSoundFromArray'!
+[2019.10.17-18.45.03:753][928]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'SoundArray' of length 3 in '/Game/Blueprints/Functions.Functions_C:RandomSoundFromArray'!
+[2019.10.17-18.45.03:835][933]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'SoundArray' of length 3 in '/Game/Blueprints/Functions.Functions_C:RandomSoundFromArray'!
+[2019.10.17-18.45.03:853][934]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsCompetitive_Player_State
+	Lander_C /Game/Maps/UEDPIE_0_Moon.Moon:PersistentLevel.Lander_2
+	Function /Game/Lander/Lander.Lander_C:Scoring:018E
+[2019.10.17-18.45.03:853][934]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsCompetitive_Player_State". Blueprint:  Lander Function:  Scoring Graph:  Scoring Node:  Calculate Score
+[2019.10.17-18.45.03:986][942]LogBlueprintUserMessages: [PowerUpSpawner_2] Fuel
+[2019.10.17-18.45.03:986][942]PIE: Warning: Interactable_Debris_C_10.PaperSprite fuel_crate_Sprite has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.10.17-18.45.03:986][942]PIE: Warning: Interactable_Debris_C_10.PaperSprite fuel_crate_Sprite has to have 'Simulate Physics' enabled if you'd like to AddAngularImpulse. 
+[2019.10.17-18.45.04:785][990]LogBlueprintUserMessages: [PowerUpSpawner_2] Fuel
+[2019.10.17-18.45.04:786][990]PIE: Warning: Interactable_Debris_C_11.PaperSprite fuel_crate_Sprite has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.10.17-18.45.04:786][990]PIE: Warning: Interactable_Debris_C_11.PaperSprite fuel_crate_Sprite has to have 'Simulate Physics' enabled if you'd like to AddAngularImpulse. 
+[2019.10.17-18.45.06:786][110]LogBlueprintUserMessages: [PowerUpSpawner_2] Missle
+[2019.10.17-18.45.06:787][110]PIE: Warning: Interactable_Debris_C_12.PaperSprite missile_crate_Sprite has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.10.17-18.45.06:787][110]PIE: Warning: Interactable_Debris_C_12.PaperSprite missile_crate_Sprite has to have 'Simulate Physics' enabled if you'd like to AddAngularImpulse. 
+[2019.10.17-18.45.06:936][119]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Moon.Moon:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Moon.Moon:PersistentLevel.Moon' with GeneratedClass '/Game/Maps/Moon.Moon_C' with ClassGeneratedBy '/Game/Maps/Moon.Moon:PersistentLevel.Moon'
+[2019.10.17-18.45.06:936][119]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.17-18.45.06:979][119]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.17-18.45.06:979][119]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Moon.Moon:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Moon.Moon:PersistentLevel.Moon' with GeneratedClass '/Game/Maps/Moon.Moon_C' with ClassGeneratedBy '/Game/Maps/Moon.Moon:PersistentLevel.Moon'
+[2019.10.17-18.45.07:053][119]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.17-18.45.07:063][119]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2019.10.17-18.45.07:075][119]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.17-18.45.07:156][120]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.10.17-18.45.15:425][610]LogSlate: Window 'Message Log' being destroyed
+[2019.10.17-18.45.15:430][610]LogSlate: Window 'Message Log' being destroyed
+[2019.10.17-18.45.21:989][986]LogUObjectArray: Warning: Other object in slot
+[2019.10.17-18.45.21:989][986]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.10.17-18.45.22:869][986]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.879 s
+[2019.10.17-18.45.22:869][986]LogOutputDevice: Error: === Handled ensure: ===
+[2019.10.17-18.45.22:869][986]LogOutputDevice: Error: 
+[2019.10.17-18.45.22:869][986]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1156]
+[2019.10.17-18.45.22:869][986]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.10.17-18.45.22:869][986]LogOutputDevice: Error: Stack: 
+[2019.10.17-18.45.22:869][986]LogOutputDevice: Error: [Callstack] 0x00007ffdd2aba0c9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.10.17-18.45.22:869][986]LogOutputDevice: Error: [Callstack] 0x00007ffdd2336dae UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.10.17-18.45.22:869][986]LogOutputDevice: Error: [Callstack] 0x00007ffdd2344940 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.10.17-18.45.22:869][986]LogOutputDevice: Error: [Callstack] 0x00007ffdcfc63612 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.10.17-18.45.22:869][986]LogOutputDevice: Error: [Callstack] 0x00007ffdc92d5cfa UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.10.17-18.45.22:869][986]LogOutputDevice: Error: [Callstack] 0x00007ffdc9291e47 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.10.17-18.45.22:869][986]LogOutputDevice: Error: [Callstack] 0x00007ffdd84e5944 UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.17-18.45.22:869][986]LogOutputDevice: Error: [Callstack] 0x00007ffdd86d15a3 UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.17-18.45.22:869][986]LogOutputDevice: Error: [Callstack] 0x00007ffdd852d6cb UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.17-18.45.22:869][986]LogOutputDevice: Error: [Callstack] 0x00007ffdd850af1a UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.17-18.45.22:869][986]LogOutputDevice: Error: [Callstack] 0x00007ffdd8500247 UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.17-18.45.22:869][986]LogOutputDevice: Error: [Callstack] 0x00007ffe0452b726 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.10.17-18.45.22:869][986]LogOutputDevice: Error: [Callstack] 0x00007ffe0451ef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.10.17-18.45.22:869][986]LogOutputDevice: Error: [Callstack] 0x00007ffe0452d77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.10.17-18.45.22:869][986]LogOutputDevice: Error: [Callstack] 0x00007ffe0451c090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.10.17-18.45.22:869][986]LogOutputDevice: Error: [Callstack] 0x00007ffe39b063ed USER32.dll!UnknownFunction []
+[2019.10.17-18.45.22:869][986]LogOutputDevice: Error: [Callstack] 0x00007ffe39b05de2 USER32.dll!UnknownFunction []
+[2019.10.17-18.45.22:869][986]LogOutputDevice: Error: [Callstack] 0x00007ffe0452e946 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.10.17-18.45.22:869][986]LogOutputDevice: Error: [Callstack] 0x00007ff7c6645d3e UE4Editor.exe!UnknownFunction []
+[2019.10.17-18.45.22:869][986]LogOutputDevice: Error: [Callstack] 0x00007ff7c665554c UE4Editor.exe!UnknownFunction []
+[2019.10.17-18.45.22:869][986]LogOutputDevice: Error: [Callstack] 0x00007ff7c66555ca UE4Editor.exe!UnknownFunction []
+[2019.10.17-18.45.22:869][986]LogOutputDevice: Error: [Callstack] 0x00007ff7c666315c UE4Editor.exe!UnknownFunction []
+[2019.10.17-18.45.22:869][986]LogOutputDevice: Error: [Callstack] 0x00007ff7c6665b7e UE4Editor.exe!UnknownFunction []
+[2019.10.17-18.45.22:869][986]LogOutputDevice: Error: [Callstack] 0x00007ffe3a307bd4 KERNEL32.DLL!UnknownFunction []
+[2019.10.17-18.45.22:869][986]LogOutputDevice: Error: [Callstack] 0x00007ffe3ac6ced1 ntdll.dll!UnknownFunction []
+[2019.10.17-18.45.22:869][986]LogOutputDevice: Error: 
+[2019.10.17-18.45.22:935][986]LogStats:                SubmitErrorReport -  0.000 s
