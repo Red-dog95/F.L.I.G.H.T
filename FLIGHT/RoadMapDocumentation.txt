@@ -1,0 +1,53 @@
+ Current State:
+** means complete
+
+ - pause menu
+
+ - phase setup:
+	phase 0: ENTRY PHASE : players load in, are ejected from the capital ship in a zero-G environment the capital ship moves up out of frame (as if the landers are falling)
+	phase 1: PICKUP PHASE : the landers APPEAR to be falling, they have unlimited fuel, and attempt to pick up items falling from the sky to increase their chances/points at the end of the game. This phase will last somewhere between 15-40 seconds, there is a 5 second warning indicating the end of the phase.
+	
+	phase 1.5: TRANSITION PHASE: players are removed from freefall mode, and the static phase 1 camera pans out to show the terrain and the location of the landing pads (and their point values) (change view target with blend node) the camera holds, for __ seconds before blending again to the dynamic camera (already implemented). Weapons and reserve fuel systems online (HUD message) BEFORE full switch to phase 2
+	
+	phase 2: LANDING PHASE:  players make their way to the landing pads, aiming for points, but balancing between fuel consumption. Any fuel picked up from phase 1 is added to their reserve, allowing them to take more damage, and receive more points at the end of the game. any cargo picked up from phase 1 has a debuff affect on the thrust of the lander, holding 4 cargo max makes landing very difficult but has a huge point bonus
+ 
+
+Suggested Changes: # : type : phase : desc
+1: level design : 2 : draw terrain much wider, (so that a player can not see the edges) and send a "Lost Telemetry" warning if a player flies outside the level bound (player has __ seconds to return to the field or is destroyed.
+
+_____________________________________________________________
+Game Ready
+
+DEMO: November 8th
+
+
+
+
+
+0: PRERELEASE
+**Add CARGO mechanic, picking up cargo increases lander mass, making it harder to land.
+**Add FUEL pickup mechanic. Picking up fuel replenishes 1/4 total fuel supply, if tank overfills, activate overburn 	thrust turns blue and more thrust power is given until fuel drops back below the maximum capacity
+**Add MISSILE mechanic, has slight homing ability, depletes fuel when player gets hit (depletes 1/6 tank size) players 	can hold 2 missiles (one on each side) increases mass and offsets centre of mass if only 1 is held.
+
+Add RAM mechanic, attaches ram upgrade to front of ship, hitting another player does not damage your lander, and 	transfers huge impulse to receiving lander. (adds mass) Player can only have RAM or MISSILES at the same time
+Add MARS level, more difficult level with more gravity, Landers will get more base thrust to compensate
+
+
+
+1:
+Add TITAN, IO, EUROPA with corresponding Wind (sideways thrust component on lander, Volcano, and Icey mechanics
+
+*Add CERES, dangerous asteroid belt planet
+ 
+2:
+
+Cooperative mode:
+	i: Players start on a safe landing platform
+	ii: Players get points from collecting (or some other kind of collectible) and must all attempt to 		land on the finishing platform
+	iii: Players get points for stars, fuel and time.
+	iv: players lose points for deaths. players do not respawn in this mode unless all players all players die, 		finish or restart from the menu 	
+	v: each level has team point values that must be obtained to get stars, used for progression
+
+
+a: starting on moon, players play between 20-40 levels, with progression gated by stars (get to the end of the
+	map players should need to 2star all previous levels, but should need to 3star 30-40% of the levels to 	progress to the next map) (very similar to OVERCOOKED style progression where it gets increasingly difficult to move forward without fully completing the previous levels)
