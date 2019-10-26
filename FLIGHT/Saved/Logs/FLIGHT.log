@@ -1789,3 +1789,718 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.26-23.23.26:754][814]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
 [2019.10.26-23.23.27:255][814]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Menu001E4BDB4E745FAAE3C059A983DE33FF.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Maps/Menu.umap'
 [2019.10.26-23.23.28:654][880]LogUObjectHash: Compacting FUObjectHashTables data took   9.85ms
+[2019.10.26-23.24.27:285][584]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.26-23.24.27:363][584]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2019.10.26-23.24.27:363][584]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.26-23.24.27:363][584]PIE: New page: PIE session: Menu (Oct 26, 2019, 3:24:27 PM)
+[2019.10.26-23.24.27:364][584]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Menu
+[2019.10.26-23.24.27:367][584]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003528s)
+[2019.10.26-23.24.27:368][584]LogAIModule: Creating AISystem for world Menu
+[2019.10.26-23.24.27:368][584]LogPlayLevel: PIE: World Init took: (0.000634s)
+[2019.10.26-23.24.27:368][584]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menu.Menu to /Game/Maps/UEDPIE_0_Menu.Menu (0.004324s)
+[2019.10.26-23.24.27:452][584]LogUObjectHash: Compacting FUObjectHashTables data took   5.30ms
+[2019.10.26-23.24.27:522][584]LogInit: XAudio2 using 'Headphones (2- Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.26-23.24.27:582][584]LogInit: FAudioDevice initialized.
+[2019.10.26-23.24.27:599][584]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.26-23.24.27:637][584]LogLoad: Game class is 'MenuGameMode_C'
+[2019.10.26-23.24.27:639][584]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2019.10.26-19.24.27
+[2019.10.26-23.24.27:639][584]LogWorld: Bringing up level for play took: 0.001166
+[2019.10.26-23.24.27:653][584]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.26-23.24.27:655][584]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.26-23.24.27:656][584]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.26-23.24.27:658][584]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.26-23.24.27:669][584]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Menu 0.745
+[2019.10.26-23.24.27:670][584]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2019.10.26-23.24.29:570][688]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.26-23.24.29:589][688]LogSlate: New Slate User Created.  User Index 2, Is Virtual User: 0
+[2019.10.26-23.24.29:589][688]LogSlate: Slate User Registered.  User Index 2, Is Virtual User: 0
+[2019.10.26-23.24.29:591][688]LogSlate: New Slate User Created.  User Index 3, Is Virtual User: 0
+[2019.10.26-23.24.29:591][688]LogSlate: Slate User Registered.  User Index 3, Is Virtual User: 0
+[2019.10.26-23.24.31:984][832]LogBlueprintUserMessages: [FLIGHT_GI_C_14] 0
+[2019.10.26-23.24.31:985][832]LogBlueprintUserMessages: [W_PlayerSelector] 0
+[2019.10.26-23.24.36:003][ 73]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.24.36:853][124]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.24.52:938][ 75]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.24.53:897][131]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.24.54:375][159]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.24.54:970][193]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.24.55:267][210]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.24.55:795][240]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.24.56:217][264]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.24.57:301][326]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.24.57:703][349]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.24.58:124][373]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.24.58:478][393]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.24.58:861][415]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.24.59:194][434]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.01:075][541]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.01:845][585]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.02:408][617]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.02:880][644]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.03:622][686]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.04:254][722]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.05:643][801]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.05:976][820]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.06:273][837]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.06:730][863]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.07:079][883]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.07:464][905]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.07:886][929]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.08:291][952]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.08:607][970]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.08:905][987]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.09:307][ 10]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.09:500][ 21]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.10:396][ 72]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.10:835][ 97]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.11:219][119]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.11:708][147]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.12:285][180]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.12:754][202]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.12:948][214]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.13:192][228]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.13:455][243]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.13:735][259]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.14:033][276]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.14:296][291]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.14:576][307]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.14:823][321]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.15:068][335]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.15:319][349]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.15:548][362]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.15:776][375]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.16:004][388]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.16:217][400]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.17:284][460]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.17:498][472]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.17:750][486]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.18:017][501]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.18:249][514]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.18:443][525]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.18:692][539]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.18:993][556]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.19:259][571]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.19:525][586]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.19:791][601]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.20:023][614]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.20:256][627]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.20:470][639]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.20:666][650]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.21:197][680]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.21:872][718]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.22:763][768]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.23:208][793]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.23:563][813]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.24:734][879]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.25:402][916]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.26:024][951]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.26:737][991]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.27:289][ 22]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.27:740][ 47]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.28:329][ 80]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.28:774][105]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.29:237][131]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.29:863][166]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.30:349][193]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.30:828][220]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.31:359][250]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.31:838][277]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.32:427][310]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.32:892][336]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.33:440][367]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.33:973][397]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.34:506][427]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.35:044][457]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.35:544][485]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.35:902][505]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.36:186][521]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.36:451][536]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.36:683][549]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.36:966][565]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.37:451][592]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.37:718][607]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.37:949][620]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.38:198][634]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.38:429][647]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.38:713][663]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.39:176][689]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.39:425][703]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.39:733][720]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.40:432][759]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.40:876][784]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.41:286][807]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.41:607][825]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.41:839][838]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.42:162][856]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.42:415][870]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.42:683][885]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.42:895][897]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.46:132][ 79]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.46:539][102]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.47:843][175]LogBlueprintUserMessages: [FLIGHT_GI_C_14] 1
+[2019.10.26-23.25.47:843][175]LogBlueprintUserMessages: [W_PlayerSelector_C_1] 1
+[2019.10.26-23.25.48:208][195]LogBlueprintUserMessages: [FLIGHT_GI_C_14] 1
+[2019.10.26-23.25.48:374][204]LogBlueprintUserMessages: [FLIGHT_GI_C_14] 2
+[2019.10.26-23.25.52:396][421]LogBlueprintUserMessages: [MapSelectScreen_C_0] Moon
+[2019.10.26-23.25.54:692][544]LogBlueprintUserMessages: [MapSelectScreen_C_0] Moon
+[2019.10.26-23.25.55:925][610]LogBlueprintUserMessages: [Lander_PC_C_0] Hello
+[2019.10.26-23.25.55:925][610]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.56:335][632]LogBlueprintUserMessages: [Lander_PC_C_0] Hello
+[2019.10.26-23.25.56:335][632]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.56:743][654]LogBlueprintUserMessages: [MapSelectScreen_C_0] Moon
+[2019.10.26-23.25.58:181][731]LogBlueprintUserMessages: [Lander_PC_C_0] Hello
+[2019.10.26-23.25.58:181][731]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.58:422][744]LogBlueprintUserMessages: [MapSelectScreen_C_0] Mars
+[2019.10.26-23.25.59:129][782]LogBlueprintUserMessages: [Lander_PC_C_0] Hello
+[2019.10.26-23.25.59:129][782]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.25.59:669][811]LogBlueprintUserMessages: [MapSelectScreen_C_0] Moon
+[2019.10.26-23.26.03:221][  1]LogNet: Browse: /Game/Maps/Moon
+[2019.10.26-23.26.03:239][  1]LogLoad: LoadMap: /Game/Maps/Moon
+[2019.10.26-23.26.03:325][  1]LogUObjectHash: Compacting FUObjectHashTables data took   5.43ms
+[2019.10.26-23.26.03:359][  1]LogAIModule: Creating AISystem for world Moon
+[2019.10.26-23.26.03:359][  1]LogLoad: Game class is 'Default_GM_C'
+[2019.10.26-23.26.03:368][  1]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Moon.Moon up for play (max tick rate 60) at 2019.10.26-19.26.03
+[2019.10.26-23.26.03:368][  1]LogWorld: Bringing up level for play took: 0.007628
+[2019.10.26-23.26.04:302][  1]LogBlueprintUserMessages: [Terrain_2] Translation: X=-2493.000 Y=0.000 Z=5.000 Rotation: P=6.049382 Y=0.000000 R=0.000000 Scale X=0.100 Y=1.000 Z=1.000
+[2019.10.26-23.26.04:302][  1]LogLoad: Took 1.062244 seconds to LoadMap(/Game/Maps/Moon)
+[2019.10.26-23.26.09:960][245]LogBlueprintUserMessages: [Capital_Ship_2] Lander_PC    0
+[2019.10.26-23.26.09:963][245]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (ShowID) or object (Lander_C_0)
+[2019.10.26-23.26.09:964][245]LogBlueprintUserMessages: [Capital_Ship_2] Lander
+[2019.10.26-23.26.09:965][245]LogBlueprintUserMessages: [Capital_Ship_2] Lander_PC1    1
+[2019.10.26-23.26.09:969][245]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (ShowID) or object (Lander_C_1)
+[2019.10.26-23.26.09:970][245]LogBlueprintUserMessages: [Capital_Ship_2] Lander1
+[2019.10.26-23.26.10:185][254]LogBlueprintUserMessages: [Phase1Cam] Collision Off
+[2019.10.26-23.26.10:185][254]LogBlueprintUserMessages: [Default_GM_C_0] 2
+[2019.10.26-23.26.10:185][254]LogBlueprintUserMessages: [Default_GM_C_0] Lander_C_0
+[2019.10.26-23.26.10:185][254]LogBlueprintUserMessages: [Default_GM_C_0] Lander_C_1
+[2019.10.26-23.26.10:185][254]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Phase1Alert) or object (Default_GM_C_0)
+[2019.10.26-23.26.10:992][285]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.26.12:810][355]LogBlueprintUserMessages: [Lander_C_0] false
+[2019.10.26-23.26.13:411][377]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.26.15:107][436]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.26.15:391][448]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.26.15:811][466]LogBlueprintUserMessages: [Lander_C_0] false
+[2019.10.26-23.26.16:167][481]LogBlueprintUserMessages: [Phase1Cam] Collision On
+[2019.10.26-23.26.16:579][499]LogBlueprintUserMessages: [PowerUpSpawner_2] Cargo
+[2019.10.26-23.26.16:986][515]LogBlueprintUserMessages: [PowerUpSpawner_2] Cargo
+[2019.10.26-23.26.17:205][524]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.26.17:626][542]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.26.17:676][544]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.26.18:170][564]LogBlueprintUserMessages: [PowerUpSpawner_2] Cargo
+[2019.10.26-23.26.19:369][615]LogBlueprintUserMessages: [PowerUpSpawner_2] Fuel
+[2019.10.26-23.26.19:788][633]LogBlueprintUserMessages: [PowerUpSpawner_2] Fuel
+[2019.10.26-23.26.20:479][661]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.26.20:505][662]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.26.20:980][680]LogBlueprintUserMessages: [PowerUpSpawner_2] Cargo
+[2019.10.26-23.26.21:334][694]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.26.21:386][696]LogBlueprintUserMessages: [PowerUpSpawner_2] Missle
+[2019.10.26-23.26.21:622][705]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.26.21:728][709]LogBlueprintUserMessages: [Lander_C_0] false
+[2019.10.26-23.26.21:782][711]LogBlueprintUserMessages: [PowerUpSpawner_2] Fuel
+[2019.10.26-23.26.22:874][753]LogBlueprintUserMessages: [Lander_C_0] false
+[2019.10.26-23.26.23:383][772]LogBlueprintUserMessages: [PowerUpSpawner_2] Cargo
+[2019.10.26-23.26.23:852][790]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.26.24:169][802]LogBlueprintUserMessages: [PowerUpSpawner_2] Missle
+[2019.10.26-23.26.24:575][818]LogBlueprintUserMessages: [PowerUpSpawner_2] Cargo
+[2019.10.26-23.26.24:757][825]LogBlueprintUserMessages: [Lander_C_0] Interactable_Debris4
+[2019.10.26-23.26.24:785][826]LogBlueprintUserMessages: [Lander_C_0] Interactable_Debris1
+[2019.10.26-23.26.25:241][843]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.26.25:640][858]LogBlueprintUserMessages: [Lander_C_0] Interactable_Debris3
+[2019.10.26-23.26.25:930][869]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.26.25:958][870]LogBlueprintUserMessages: [Lander_C_0] Interactable_Debris
+[2019.10.26-23.26.26:374][886]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.26.26:585][894]LogBlueprintUserMessages: [PowerUpSpawner_2] Cargo
+[2019.10.26-23.26.26:998][909]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.26.27:905][946]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.26.27:931][947]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.26.28:352][964]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.26.28:572][973]LogBlueprintUserMessages: [PowerUpSpawner_2] Cargo
+[2019.10.26-23.26.28:975][989]LogBlueprintUserMessages: [Lander_C_0] Interactable_Debris9
+[2019.10.26-23.26.29:378][  6]LogBlueprintUserMessages: [PowerUpSpawner_2] Cargo
+[2019.10.26-23.26.30:577][ 56]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.26.31:044][ 75]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.26.31:388][ 89]LogBlueprintUserMessages: [PowerUpSpawner_2] Fuel
+[2019.10.26-23.26.31:433][ 91]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsLander1
+	Missile_Weapon_C /Game/Maps/UEDPIE_0_Moon.Moon:PersistentLevel.Missile_Weapon_C_0
+	Function /Game/PowerupPhase/Missile_Weapon.Missile_Weapon_C:ExecuteUbergraph_Missile_Weapon:1129
+[2019.10.26-23.26.31:433][ 91]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsLander1". Blueprint:  Missile_Weapon Function:  Execute Ubergraph Missile Weapon Graph:  EventGraph Node:  Set Velocity in Local Space
+[2019.10.26-23.26.31:433][ 91]LogScript: Warning: Accessed None
+	Missile_Weapon_C /Game/Maps/UEDPIE_0_Moon.Moon:PersistentLevel.Missile_Weapon_C_0
+	Function /Game/PowerupPhase/Missile_Weapon.Missile_Weapon_C:ExecuteUbergraph_Missile_Weapon:113E
+[2019.10.26-23.26.31:433][ 91]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  Missile_Weapon Function:  Execute Ubergraph Missile Weapon Graph:  EventGraph Node:  Set Velocity in Local Space
+[2019.10.26-23.26.31:433][ 91]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsLander1
+	Missile_Weapon_C /Game/Maps/UEDPIE_0_Moon.Moon:PersistentLevel.Missile_Weapon_C_0
+	Function /Game/PowerupPhase/Missile_Weapon.Missile_Weapon_C:ExecuteUbergraph_Missile_Weapon:1129
+[2019.10.26-23.26.31:434][ 91]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsLander1". Blueprint:  Missile_Weapon Function:  Execute Ubergraph Missile Weapon Graph:  EventGraph Node:  Set Velocity in Local Space
+[2019.10.26-23.26.31:434][ 91]LogScript: Warning: Accessed None
+	Missile_Weapon_C /Game/Maps/UEDPIE_0_Moon.Moon:PersistentLevel.Missile_Weapon_C_0
+	Function /Game/PowerupPhase/Missile_Weapon.Missile_Weapon_C:ExecuteUbergraph_Missile_Weapon:113E
+[2019.10.26-23.26.31:434][ 91]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  Missile_Weapon Function:  Execute Ubergraph Missile Weapon Graph:  EventGraph Node:  Set Velocity in Local Space
+[2019.10.26-23.26.31:775][105]LogBlueprintUserMessages: [PowerUpSpawner_2] Cargo
+[2019.10.26-23.26.31:972][113]LogBlueprintUserMessages: [Lander_C_0] Interactable_Debris14
+[2019.10.26-23.26.32:068][117]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.26.32:469][134]LogBlueprintUserMessages: [Lander_C_0] Interactable_Debris13
+[2019.10.26-23.26.32:587][139]LogBlueprintUserMessages: [PowerUpSpawner_2] Missle
+[2019.10.26-23.26.32:587][139]LogBlueprintUserMessages: [Lander_C_0] Interactable_Debris16
+[2019.10.26-23.26.32:665][142]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.26.32:996][154]LogBlueprintUserMessages: [PowerUpSpawner_2] Fuel
+[2019.10.26-23.26.32:997][154]LogBlueprintUserMessages: [Lander_C_0] Interactable_Debris17
+[2019.10.26-23.26.33:535][174]LogBlueprintUserMessages: [Lander_C_0] Interactable_Debris16
+[2019.10.26-23.26.34:191][198]LogBlueprintUserMessages: [PowerUpSpawner_2] Missle
+[2019.10.26-23.26.34:333][203]LogBlueprintUserMessages: [Lander_C_0] Interactable_Debris16
+[2019.10.26-23.26.34:358][204]LogBlueprintUserMessages: [Lander_C_0] Interactable_Debris16
+[2019.10.26-23.26.34:385][205]LogBlueprintUserMessages: [Lander_C_0] Interactable_Debris16
+[2019.10.26-23.26.34:679][216]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.26.34:706][217]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.26.35:390][242]LogBlueprintUserMessages: [PowerUpSpawner_2] Fuel
+[2019.10.26-23.26.35:950][263]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.26.36:902][298]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.26.37:129][306]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'PossibleTargets' of length 0 in '/Game/PowerupPhase/Missile_Weapon.Missile_Weapon_C'!
+[2019.10.26-23.26.37:306][313]LogBlueprintUserMessages: [Lander_C_0] Interactable_Debris6
+[2019.10.26-23.26.37:331][314]LogBlueprintUserMessages: [Lander_C_0] Interactable_Debris6
+[2019.10.26-23.26.37:567][323]LogBlueprintUserMessages: [Lander_C_0] Interactable_Debris17
+[2019.10.26-23.26.37:932][337]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.26.38:317][351]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.26.38:581][361]LogBlueprintUserMessages: [PowerUpSpawner_2] Missle
+[2019.10.26-23.26.39:704][403]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.26.39:825][408]LogBlueprintUserMessages: [Lander_C_0] false
+[2019.10.26-23.26.40:149][421]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.26.40:176][422]LogBlueprintUserMessages: [PowerUpSpawner_2] Cargo
+[2019.10.26-23.26.40:518][436]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.26.41:328][469]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.26.41:818][489]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.26.41:866][491]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.26.42:431][514]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.26.42:482][516]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.26.42:578][520]LogBlueprintUserMessages: [PowerUpSpawner_2] Ram
+[2019.10.26-23.26.42:970][536]LogBlueprintUserMessages: [PowerUpSpawner_2] Cargo
+[2019.10.26-23.26.43:039][539]LogBlueprintUserMessages: [Lander_C_0] false
+[2019.10.26-23.26.43:160][544]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.26.43:530][559]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.26.43:556][560]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.26.43:772][569]LogBlueprintUserMessages: [PowerUpSpawner_2] Ram
+[2019.10.26-23.26.44:175][586]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.26.44:178][586]LogBlueprintUserMessages: [PowerUpSpawner_2] Missle
+[2019.10.26-23.26.44:463][598]LogBlueprintUserMessages: [Lander_C_0] Interactable_Debris6
+[2019.10.26-23.26.44:489][599]LogBlueprintUserMessages: [Lander_C_0] Interactable_Debris6
+[2019.10.26-23.26.44:779][611]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.26.45:003][620]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.26.45:051][622]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.26.45:098][624]LogBlueprintUserMessages: [Lander_C_1] Interactable_Debris14
+[2019.10.26-23.26.45:557][641]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.26.45:583][642]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.26.45:781][649]LogBlueprintUserMessages: [PowerUpSpawner_2] Missle
+[2019.10.26-23.26.45:805][650]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.26.46:143][662]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'PossibleTargets' of length 1 in '/Game/PowerupPhase/Missile_Weapon.Missile_Weapon_C'!
+[2019.10.26-23.26.46:167][663]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.26.46:993][693]LogBlueprintUserMessages: [PowerUpSpawner_2] Cargo
+[2019.10.26-23.26.47:132][698]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.26.47:163][699]LogBlueprintUserMessages: [Lander_C_0] Interactable_Debris19
+[2019.10.26-23.26.47:396][707]LogBlueprintUserMessages: [PowerUpSpawner_2] Fuel
+[2019.10.26-23.26.47:697][717]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.26.47:792][720]LogBlueprintUserMessages: [PowerUpSpawner_2] Cargo
+[2019.10.26-23.26.47:958][725]LogBlueprintUserMessages: [Lander_C_0] Interactable_Debris19
+[2019.10.26-23.26.47:991][726]LogBlueprintUserMessages: [Lander_C_0] Interactable_Debris19
+[2019.10.26-23.26.48:360][737]LogBlueprintUserMessages: [Lander_C_0] Interactable_Debris14
+[2019.10.26-23.26.49:053][757]LogBlueprintUserMessages: [Lander_C_1] Interactable_Debris19
+[2019.10.26-23.26.50:177][790]LogBlueprintUserMessages: [PowerUpSpawner_2] Fuel
+[2019.10.26-23.26.50:576][802]LogBlueprintUserMessages: [PowerUpSpawner_2] Fuel
+[2019.10.26-23.26.51:229][821]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (LandingTimer) or object (Default_GM_C_0)
+[2019.10.26-23.26.51:230][821]LogBlueprintUserMessages: [Phase1Cam] Collision Off
+[2019.10.26-23.26.51:248][821]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (LandingTimer) or object (Default_GM_C_0)
+[2019.10.26-23.26.52:359][861]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.26.52:754][877]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.26.53:510][908]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.26.54:506][951]LogBlueprintUserMessages: [Lander_C_0] false
+[2019.10.26-23.26.54:529][952]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.26.54:810][964]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.26.55:144][977]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'PossibleTargets' of length 2 in '/Game/PowerupPhase/Missile_Weapon.Missile_Weapon_C'!
+[2019.10.26-23.26.55:518][993]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.26.56:360][ 28]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.26.56:384][ 29]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.26.57:198][ 63]LogBlueprintUserMessages: [Lander_C_0] false
+[2019.10.26-23.26.57:270][ 66]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.26.57:986][ 95]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.26.58:492][114]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.26.58:520][115]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.26.58:886][129]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.26.58:918][130]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.26.59:704][161]LogBlueprintUserMessages: [Lander_C_0] false
+[2019.10.26-23.27.00:055][174]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.27.00:342][185]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.27.00:882][205]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.27.01:493][228]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.27.01:653][234]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.27.01:944][245]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.27.03:036][285]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.27.03:329][296]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.27.03:836][313]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.27.04:172][323]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.27.05:749][375]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.27.07:875][445]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.27.10:225][532]LogBlueprintUserMessages: [RoundEndScreen_C_0] true
+[2019.10.26-23.27.10:225][532]LogBlueprintUserMessages: [RoundEndScreen_C_0] true
+[2019.10.26-23.27.10:225][532]LogBlueprintUserMessages: [RoundEndScreen_C_0] false
+[2019.10.26-23.27.10:225][532]LogBlueprintUserMessages: [RoundEndScreen_C_0] false
+[2019.10.26-23.27.10:225][532]LogBlueprintUserMessages: [RoundEndScreen_C_0] X=-5.000 Y=-29.000
+[2019.10.26-23.27.10:227][532]LogBlueprintUserMessages: [RoundEndScreen_C_0] TET BOXXXX
+[2019.10.26-23.27.10:227][532]LogBlueprintUserMessages: [RoundEndScreen_C_0] X=-5.000 Y=-29.000
+[2019.10.26-23.27.10:229][532]LogBlueprintUserMessages: [RoundEndScreen_C_0] TET BOXXXX
+[2019.10.26-23.27.34:551][425]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.26-23.27.34:577][426]LogNet: Browse: /Game/Maps/Menu
+[2019.10.26-23.27.34:602][426]LogLoad: LoadMap: /Game/Maps/Menu
+[2019.10.26-23.27.34:729][426]LogUObjectHash: Compacting FUObjectHashTables data took   6.25ms
+[2019.10.26-23.27.34:730][426]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Menu
+[2019.10.26-23.27.34:735][426]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004123s)
+[2019.10.26-23.27.34:735][426]LogAIModule: Creating AISystem for world Menu
+[2019.10.26-23.27.34:735][426]LogPlayLevel: PIE: World Init took: (0.000713s)
+[2019.10.26-23.27.34:735][426]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menu.Menu to /Game/Maps/UEDPIE_0_Menu.Menu (0.005046s)
+[2019.10.26-23.27.34:735][426]LogLoad: Game class is 'MenuGameMode_C'
+[2019.10.26-23.27.34:737][426]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2019.10.26-19.27.34
+[2019.10.26-23.27.34:737][426]LogWorld: Bringing up level for play took: 0.001083
+[2019.10.26-23.27.34:738][426]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.10.26-23.27.34:738][426]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.26-23.27.34:739][426]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.10.26-23.27.34:739][426]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.26-23.27.34:740][426]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 1,
+[2019.10.26-23.27.34:741][426]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.10.26-23.27.34:742][426]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.26-23.27.34:743][426]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.10.26-23.27.34:744][426]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.26-23.27.34:749][426]LogLoad: Took 0.146342 seconds to LoadMap(/Game/Maps/UEDPIE_0_Menu)
+[2019.10.26-23.27.36:753][532]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.26-23.27.37:459][568]LogBlueprintUserMessages: [FLIGHT_GI_C_14] 0
+[2019.10.26-23.27.37:459][568]LogBlueprintUserMessages: [W_PlayerSelector] 0
+[2019.10.26-23.27.38:250][609]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.27.38:670][631]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.27.39:779][689]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.27.39:991][700]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.27.40:202][711]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.27.40:360][719]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.27.40:551][729]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.27.40:773][740]LogBlueprintUserMessages: [MapSelectScreen_C_1] Moon
+[2019.10.26-23.27.40:973][751]LogBlueprintUserMessages: [Lander_PC_C_0] Hello
+[2019.10.26-23.27.40:973][751]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.27.42:934][852]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2019.10.26-23.27.42:935][852]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.26-23.27.42:960][852]LogSlate: Window 'FLIGHT Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.26-23.27.43:001][852]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.26-23.27.43:001][852]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2019.10.26-23.27.43:126][852]LogUObjectHash: Compacting FUObjectHashTables data took   5.60ms
+[2019.10.26-23.27.43:290][853]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2019.10.26-23.27.52:540][400]LogSlate: Window 'Message Log' being destroyed
+[2019.10.26-23.27.52:545][400]LogSlate: Window 'Message Log' being destroyed
+[2019.10.26-23.30.40:803][476]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Widgets/StartScreen_New.StartScreen_New
+[2019.10.26-23.32.50:183][ 71]BlueprintLog: New page: Compile Lander_PC
+[2019.10.26-23.32.50:827][ 71]LogUObjectHash: Compacting FUObjectHashTables data took  10.20ms
+[2019.10.26-23.32.52:387][135]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lander/Lander_PC" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Lander/Lander_PC.uasset" SILENT=true
+[2019.10.26-23.32.52:602][135]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Lander_PC013F69AC48BADBB1ADB4A2A63EA40F14.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Lander/Lander_PC.uasset'
+[2019.10.26-23.32.59:137][524]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.26-23.32.59:218][524]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2019.10.26-23.32.59:218][524]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.26-23.32.59:219][524]PIE: New page: PIE session: Menu (Oct 26, 2019, 3:32:59 PM)
+[2019.10.26-23.32.59:330][524]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Menu
+[2019.10.26-23.32.59:333][524]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003383s)
+[2019.10.26-23.32.59:334][524]LogAIModule: Creating AISystem for world Menu
+[2019.10.26-23.32.59:334][524]LogPlayLevel: PIE: World Init took: (0.001253s)
+[2019.10.26-23.32.59:334][524]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menu.Menu to /Game/Maps/UEDPIE_0_Menu.Menu (0.004819s)
+[2019.10.26-23.32.59:424][524]LogUObjectHash: Compacting FUObjectHashTables data took   7.82ms
+[2019.10.26-23.32.59:481][524]LogInit: XAudio2 using 'Headphones (2- Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.26-23.32.59:532][524]LogInit: FAudioDevice initialized.
+[2019.10.26-23.32.59:543][524]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.26-23.32.59:581][524]LogLoad: Game class is 'MenuGameMode_C'
+[2019.10.26-23.32.59:583][524]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2019.10.26-19.32.59
+[2019.10.26-23.32.59:584][524]LogWorld: Bringing up level for play took: 0.001121
+[2019.10.26-23.32.59:597][524]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.10.26-23.32.59:597][524]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.26-23.32.59:598][524]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.10.26-23.32.59:598][524]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.26-23.32.59:599][524]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.10.26-23.32.59:600][524]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.26-23.32.59:601][524]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.10.26-23.32.59:601][524]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.26-23.32.59:610][524]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Menu 0.687
+[2019.10.26-23.32.59:610][524]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2019.10.26-23.33.01:554][628]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.26-23.33.02:052][657]LogBlueprintUserMessages: [FLIGHT_GI_C_15] 0
+[2019.10.26-23.33.02:052][657]LogBlueprintUserMessages: [W_PlayerSelector] 0
+[2019.10.26-23.33.02:235][668]LogBlueprintUserMessages: [FLIGHT_GI_C_15] 1
+[2019.10.26-23.33.02:235][668]LogBlueprintUserMessages: [W_PlayerSelector_C_1] 1
+[2019.10.26-23.33.02:505][684]LogBlueprintUserMessages: [FLIGHT_GI_C_15] 1
+[2019.10.26-23.33.03:020][715]LogBlueprintUserMessages: [FLIGHT_GI_C_15] 2
+[2019.10.26-23.33.07:032][955]LogBlueprintUserMessages: [MapSelectScreen_C_0] Moon
+[2019.10.26-23.33.07:388][976]LogBlueprintUserMessages: [Lander_PC_C_0] Hello
+[2019.10.26-23.33.07:388][976]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.33.07:937][  9]LogBlueprintUserMessages: [Lander_PC_C_0] Hello
+[2019.10.26-23.33.07:937][  9]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.33.10:292][149]LogBlueprintUserMessages: [Lander_PC_C_0] Hello
+[2019.10.26-23.33.10:292][149]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.33.10:544][164]LogNet: Browse: /Game/Maps/Moon
+[2019.10.26-23.33.10:559][164]LogLoad: LoadMap: /Game/Maps/Moon
+[2019.10.26-23.33.10:642][164]LogUObjectHash: Compacting FUObjectHashTables data took   5.85ms
+[2019.10.26-23.33.10:669][164]LogAIModule: Creating AISystem for world Moon
+[2019.10.26-23.33.10:670][164]LogLoad: Game class is 'Default_GM_C'
+[2019.10.26-23.33.10:678][164]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Moon.Moon up for play (max tick rate 60) at 2019.10.26-19.33.10
+[2019.10.26-23.33.10:678][164]LogWorld: Bringing up level for play took: 0.007378
+[2019.10.26-23.33.11:602][164]LogBlueprintUserMessages: [Terrain_2] Translation: X=-2493.000 Y=0.000 Z=8.000 Rotation: P=14.108854 Y=0.000000 R=0.000000 Scale X=0.100 Y=1.000 Z=1.000
+[2019.10.26-23.33.11:603][164]LogLoad: Took 1.043743 seconds to LoadMap(/Game/Maps/Moon)
+[2019.10.26-23.33.17:257][398]LogBlueprintUserMessages: [Capital_Ship_2] Lander_PC    0
+[2019.10.26-23.33.17:260][398]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (ShowID) or object (Lander_C_0)
+[2019.10.26-23.33.17:261][398]LogBlueprintUserMessages: [Capital_Ship_2] Lander
+[2019.10.26-23.33.17:261][398]LogBlueprintUserMessages: [Capital_Ship_2] Lander_PC1    1
+[2019.10.26-23.33.17:264][398]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (ShowID) or object (Lander_C_1)
+[2019.10.26-23.33.17:265][398]LogBlueprintUserMessages: [Capital_Ship_2] Lander1
+[2019.10.26-23.33.17:482][406]LogBlueprintUserMessages: [Phase1Cam] Collision Off
+[2019.10.26-23.33.17:482][406]LogBlueprintUserMessages: [Default_GM_C_0] 2
+[2019.10.26-23.33.17:482][406]LogBlueprintUserMessages: [Default_GM_C_0] Lander_C_0
+[2019.10.26-23.33.17:482][406]LogBlueprintUserMessages: [Default_GM_C_0] Lander_C_1
+[2019.10.26-23.33.17:482][406]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Phase1Alert) or object (Default_GM_C_0)
+[2019.10.26-23.33.17:806][418]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'explosions' of length 5 in '/Game/In_Map_Objects/Capital_Ship.Capital_Ship_C'!
+[2019.10.26-23.33.17:975][424]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.33.19:914][494]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.33.20:959][534]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.33.21:008][536]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.33.23:464][636]LogBlueprintUserMessages: [Phase1Cam] Collision On
+[2019.10.26-23.33.23:705][646]LogBlueprintUserMessages: [Lander_C_0] false
+[2019.10.26-23.33.24:273][669]LogBlueprintUserMessages: [PowerUpSpawner_2] Ram
+[2019.10.26-23.33.24:301][670]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.33.24:800][690]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.33.25:471][717]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.33.25:473][717]LogBlueprintUserMessages: [PowerUpSpawner_2] Fuel
+[2019.10.26-23.33.25:593][722]LogBlueprintUserMessages: [Lander_C_0] false
+[2019.10.26-23.33.25:847][732]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.33.25:972][737]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.33.27:038][776]LogBlueprintUserMessages: [Lander_C_0] false
+[2019.10.26-23.33.27:382][788]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.33.29:086][851]LogBlueprintUserMessages: [PowerUpSpawner_2] Cargo
+[2019.10.26-23.33.29:425][863]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.33.29:425][863]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.33.29:875][879]LogBlueprintUserMessages: [PowerUpSpawner_2] Cargo
+[2019.10.26-23.33.30:664][908]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.33.31:722][946]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.33.31:750][947]LogBlueprintUserMessages: [Lander_C_0] false
+[2019.10.26-23.33.31:750][947]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.33.31:892][952]LogBlueprintUserMessages: [PowerUpSpawner_2] Missle
+[2019.10.26-23.33.32:414][966]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.33.33:089][990]LogBlueprintUserMessages: [PowerUpSpawner_2] Cargo
+[2019.10.26-23.33.33:951][ 23]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.33.34:685][ 52]LogBlueprintUserMessages: [PowerUpSpawner_2] Cargo
+[2019.10.26-23.33.35:468][ 83]LogBlueprintUserMessages: [PowerUpSpawner_2] Fuel
+[2019.10.26-23.33.35:514][ 85]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.33.35:565][ 87]LogBlueprintUserMessages: [Lander_C_0] Interactable_Debris2
+[2019.10.26-23.33.36:292][116]LogBlueprintUserMessages: [PowerUpSpawner_2] Fuel
+[2019.10.26-23.33.36:491][124]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.33.37:262][154]LogBlueprintUserMessages: [Lander_C_0] false
+[2019.10.26-23.33.37:474][162]LogBlueprintUserMessages: [PowerUpSpawner_2] Cargo
+[2019.10.26-23.33.37:598][167]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.33.39:226][228]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.33.39:484][237]LogBlueprintUserMessages: [PowerUpSpawner_2] Fuel
+[2019.10.26-23.33.39:741][246]LogBlueprintUserMessages: [Lander_C_0] false
+[2019.10.26-23.33.39:882][251]LogBlueprintUserMessages: [PowerUpSpawner_2] Cargo
+[2019.10.26-23.33.40:271][265]LogBlueprintUserMessages: [PowerUpSpawner_2] Cargo
+[2019.10.26-23.33.40:440][271]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.33.40:861][286]LogBlueprintUserMessages: [Lander_C_0] Interactable_Debris5
+[2019.10.26-23.33.40:918][288]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.33.41:491][308]LogBlueprintUserMessages: [PowerUpSpawner_2] Fuel
+[2019.10.26-23.33.41:544][310]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.33.41:853][321]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.33.43:072][364]LogBlueprintUserMessages: [Lander_C_0] Interactable_Debris9
+[2019.10.26-23.33.43:073][364]LogBlueprintUserMessages: [PowerUpSpawner_2] Cargo
+[2019.10.26-23.33.43:152][367]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.33.43:717][387]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.33.43:749][388]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.33.43:889][393]LogBlueprintUserMessages: [PowerUpSpawner_2] Cargo
+[2019.10.26-23.33.43:975][396]LogBlueprintUserMessages: [Lander_C_0] false
+[2019.10.26-23.33.44:227][405]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.33.44:750][423]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.33.44:750][423]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.33.45:181][438]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.33.45:903][464]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.33.45:929][465]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.33.46:341][481]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.33.46:599][491]LogBlueprintUserMessages: [Lander_C_0] Interactable_Debris10
+[2019.10.26-23.33.47:480][525]LogBlueprintUserMessages: [PowerUpSpawner_2] Cargo
+[2019.10.26-23.33.48:293][557]LogBlueprintUserMessages: [PowerUpSpawner_2] Cargo
+[2019.10.26-23.33.48:423][562]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.33.48:778][576]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.33.48:939][582]LogBlueprintUserMessages: [Lander_C_0] false
+[2019.10.26-23.33.49:043][586]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.33.49:071][587]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.33.49:483][603]LogBlueprintUserMessages: [PowerUpSpawner_2] Fuel
+[2019.10.26-23.33.49:674][610]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.33.49:916][619]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.33.50:621][646]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.33.50:774][652]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.33.50:960][659]LogBlueprintUserMessages: [Lander_C_0] false
+[2019.10.26-23.33.51:068][663]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.33.51:069][663]LogBlueprintUserMessages: [Lander_C_0] Interactable_Debris13
+[2019.10.26-23.33.51:305][671]LogBlueprintUserMessages: [Lander_C_0] Interactable_Debris4
+[2019.10.26-23.33.51:336][672]LogBlueprintUserMessages: [Lander_C_0] Interactable_Debris4
+[2019.10.26-23.33.51:366][673]LogBlueprintUserMessages: [Lander_C_0] Interactable_Debris4
+[2019.10.26-23.33.51:480][677]LogBlueprintUserMessages: [PowerUpSpawner_2] Fuel
+[2019.10.26-23.33.51:870][691]LogBlueprintUserMessages: [PowerUpSpawner_2] Fuel
+[2019.10.26-23.33.51:926][693]LogBlueprintUserMessages: [Lander_C_0] false
+[2019.10.26-23.33.51:989][695]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.33.52:218][703]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.33.52:310][706]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.33.52:686][719]LogBlueprintUserMessages: [PowerUpSpawner_2] Cargo
+[2019.10.26-23.33.53:625][750]LogBlueprintUserMessages: [Lander_C_1] Interactable_Debris7
+[2019.10.26-23.33.53:882][758]LogBlueprintUserMessages: [PowerUpSpawner_2] Cargo
+[2019.10.26-23.33.54:301][771]LogBlueprintUserMessages: [PowerUpSpawner_2] Fuel
+[2019.10.26-23.33.54:702][783]LogBlueprintUserMessages: [PowerUpSpawner_2] Cargo
+[2019.10.26-23.33.54:769][785]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.33.55:479][805]LogBlueprintUserMessages: [PowerUpSpawner_2] Cargo
+[2019.10.26-23.33.56:377][830]LogBlueprintUserMessages: [Lander_C_0] false
+[2019.10.26-23.33.56:450][832]LogBlueprintUserMessages: [Lander_C_1] Interactable_Debris9
+[2019.10.26-23.33.57:868][872]LogBlueprintUserMessages: [PowerUpSpawner_2] Ram
+[2019.10.26-23.33.57:936][874]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.33.58:528][892]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (LandingTimer) or object (Default_GM_C_0)
+[2019.10.26-23.33.58:528][892]LogBlueprintUserMessages: [Phase1Cam] Collision Off
+[2019.10.26-23.33.58:544][892]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (LandingTimer) or object (Default_GM_C_0)
+[2019.10.26-23.33.59:496][925]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.34.00:677][969]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.34.00:895][977]LogBlueprintUserMessages: [Lander_C_0] false
+[2019.10.26-23.34.00:895][977]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.34.01:763][ 10]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.34.02:287][ 30]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.34.03:306][ 68]LogBlueprintUserMessages: [Lander_C_0] false
+[2019.10.26-23.34.03:335][ 69]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.34.03:850][ 87]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.34.04:271][101]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.34.04:483][108]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.34.04:999][125]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.34.05:059][127]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.34.05:595][145]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.34.06:153][164]LogBlueprintUserMessages: [Lander_C_0] false
+[2019.10.26-23.34.06:640][180]LogBlueprintUserMessages: [Lander_C_0] false
+[2019.10.26-23.34.07:220][199]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.34.08:969][257]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.34.09:000][258]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.34.09:127][262]LogBlueprintUserMessages: [Lander_C_0] false
+[2019.10.26-23.34.09:728][282]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.34.11:078][328]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.34.11:107][329]LogBlueprintUserMessages: [Lander_C_0] false
+[2019.10.26-23.34.11:627][348]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-23.34.12:383][375]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'SoundArray' of length 3 in '/Game/Blueprints/Functions.Functions_C:RandomSoundFromArray'!
+[2019.10.26-23.34.17:150][540]LogBlueprintUserMessages: [Lander_C_1] true
+[2019.10.26-23.34.18:556][583]LogBlueprintUserMessages: [Lander_PC_C_1] 
+[2019.10.26-23.34.20:389][641]LogBlueprintUserMessages: [RoundEndScreen_C_0] true
+[2019.10.26-23.34.20:389][641]LogBlueprintUserMessages: [RoundEndScreen_C_0] true
+[2019.10.26-23.34.20:389][641]LogBlueprintUserMessages: [RoundEndScreen_C_0] false
+[2019.10.26-23.34.20:390][641]LogBlueprintUserMessages: [RoundEndScreen_C_0] false
+[2019.10.26-23.34.20:390][641]LogBlueprintUserMessages: [RoundEndScreen_C_0] TET BOXXXX
+[2019.10.26-23.34.20:390][641]LogBlueprintUserMessages: [RoundEndScreen_C_0] X=-5.000 Y=-29.000
+[2019.10.26-23.34.20:391][641]LogBlueprintUserMessages: [RoundEndScreen_C_0] TET BOXXXX
+[2019.10.26-23.34.26:748][860]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.26-23.34.26:774][861]LogNet: Browse: /Game/Maps/Menu
+[2019.10.26-23.34.26:800][861]LogLoad: LoadMap: /Game/Maps/Menu
+[2019.10.26-23.34.26:919][861]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2019.10.26-23.34.26:919][861]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Menu
+[2019.10.26-23.34.26:923][861]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003431s)
+[2019.10.26-23.34.26:923][861]LogAIModule: Creating AISystem for world Menu
+[2019.10.26-23.34.26:924][861]LogPlayLevel: PIE: World Init took: (0.000706s)
+[2019.10.26-23.34.26:924][861]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menu.Menu to /Game/Maps/UEDPIE_0_Menu.Menu (0.004340s)
+[2019.10.26-23.34.26:924][861]LogLoad: Game class is 'MenuGameMode_C'
+[2019.10.26-23.34.26:925][861]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2019.10.26-19.34.26
+[2019.10.26-23.34.26:926][861]LogWorld: Bringing up level for play took: 0.001203
+[2019.10.26-23.34.26:926][861]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.10.26-23.34.26:927][861]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.26-23.34.26:928][861]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.10.26-23.34.26:928][861]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.26-23.34.26:928][861]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 1,
+[2019.10.26-23.34.26:930][861]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.10.26-23.34.26:930][861]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.26-23.34.26:932][861]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.10.26-23.34.26:932][861]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.26-23.34.26:936][861]LogLoad: Took 0.136384 seconds to LoadMap(/Game/Maps/UEDPIE_0_Menu)
+[2019.10.26-23.34.29:005][964]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.26-23.34.32:593][161]LogBlueprintUserMessages: [FLIGHT_GI_C_15] 0
+[2019.10.26-23.34.32:593][161]LogBlueprintUserMessages: [W_PlayerSelector] 0
+[2019.10.26-23.34.33:027][184]LogBlueprintUserMessages: [MapSelectScreen_C_1] Moon
+[2019.10.26-23.34.36:254][355]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2019.10.26-23.34.36:255][355]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.26-23.34.36:283][355]LogSlate: Window 'FLIGHT Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.26-23.34.36:326][355]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.26-23.34.36:326][355]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2019.10.26-23.34.36:441][355]LogUObjectHash: Compacting FUObjectHashTables data took   5.69ms
+[2019.10.26-23.34.36:485][356]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2019.10.26-23.37.07:741][378]BlueprintLog: New page: Compile FLIGHT_GI
+[2019.10.26-23.37.08:289][378]LogUObjectHash: Compacting FUObjectHashTables data took   7.31ms
+[2019.10.26-23.37.09:506][428]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FLIGHT_GI" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Blueprints/FLIGHT_GI.uasset" SILENT=true
+[2019.10.26-23.37.09:669][428]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/FLIGHT_GIC8E0C6124B74F2A724AF7797A37575E0.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Blueprints/FLIGHT_GI.uasset'
+[2019.10.26-23.37.23:246][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/W_PlayerSelector" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Widgets/W_PlayerSelector.uasset" SILENT=true
+[2019.10.26-23.37.23:360][225]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/W_PlayerSelector71C0820F4F836321EEC809B6DDA7BD92.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Widgets/W_PlayerSelector.uasset'
+[2019.10.26-23.38.19:784][479]LogUObjectHash: Compacting FUObjectHashTables data took  11.32ms
+[2019.10.26-23.38.19:784][479]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Menu' took 0.132
+[2019.10.26-23.38.19:786][479]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Lander/Lander_PC] ([1] browsable assets)...
+[2019.10.26-23.38.19:786][479]OBJ SavePackage: Finished generating thumbnails for package [/Game/Lander/Lander_PC]
+[2019.10.26-23.38.19:786][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lander/Lander_PC" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Autosaves/Game/Lander/Lander_PC_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.10.26-23.38.19:978][479]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Lander_PC_Auto12FD90B894CE8C413E44524B945764ABA.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Autosaves/Game/Lander/Lander_PC_Auto1.uasset'
+[2019.10.26-23.38.19:980][479]LogFileHelpers: Auto-saving content packages took 0.193
+[2019.10.26-23.45.30:957][391]LogAIModule: Creating AISystem for world Moon
+[2019.10.26-23.45.30:968][391]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Moon.Moon
+[2019.10.26-23.45.31:049][391]LogUObjectHash: Compacting FUObjectHashTables data took   8.27ms
+[2019.10.26-23.45.31:829][391]LogSlate: Window 'Save Content' being destroyed
+[2019.10.26-23.45.32:033][391]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lander/Lander_PC" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Lander/Lander_PC.uasset" SILENT=true
+[2019.10.26-23.45.32:229][391]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Lander_PC85091551488613BD6F2362A5C4C0EB6F.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Lander/Lander_PC.uasset'
+[2019.10.26-23.45.32:233][391]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/ScottsTestLevel" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Maps/ScottsTestLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.26-23.45.32:324][391]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2019.10.26-23.45.32:801][391]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/ScottsTestLevel64DD961B4448AE2FD4121D9CE1EA1E15.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Maps/ScottsTestLevel.umap'
+[2019.10.26-23.45.32:816][391]LogFileHelpers: Saving map 'ScottsTestLevel' took 0.584
+[2019.10.26-23.45.32:817][391]Cmd: MAP LOAD FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Maps/Moon.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.26-23.45.32:817][391]LightingResults: New page: Lighting Build
+[2019.10.26-23.45.32:819][391]LoadErrors: New page: Loading map: Moon.umap
+[2019.10.26-23.45.32:820][391]MapCheck: New page: Map Check
+[2019.10.26-23.45.32:820][391]LightingResults: New page: Lighting Build
+[2019.10.26-23.45.32:909][391]LogUObjectHash: Compacting FUObjectHashTables data took   8.11ms
+[2019.10.26-23.45.32:993][391]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2019.10.26-23.45.33:079][391]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2019.10.26-23.45.33:722][391]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.26-23.45.33:806][391]LogUObjectHash: Compacting FUObjectHashTables data took   5.20ms
+[2019.10.26-23.45.33:859][391]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.26-23.45.33:859][391]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.092ms to complete.
+[2019.10.26-23.45.33:859][391]LogFileHelpers: Loading map 'Moon' took 1.042
+[2019.10.26-23.45.46:521][139]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart3)
+[2019.10.26-23.45.49:139][292]Cmd: DELETE
+[2019.10.26-23.45.49:139][292]Cmd: ACTOR DELETE
+[2019.10.26-23.45.49:142][292]LogEditorActor: Deleted Actor: PlayerStart
+[2019.10.26-23.45.49:225][292]LogUObjectHash: Compacting FUObjectHashTables data took   5.51ms
+[2019.10.26-23.45.49:225][292]LogEditorActor: Deleted 1 Actors (0.086 secs)
+[2019.10.26-23.45.49:932][334]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2019.10.26-23.45.50:248][351]Cmd: DELETE
+[2019.10.26-23.45.50:248][351]Cmd: ACTOR DELETE
+[2019.10.26-23.45.50:251][351]LogEditorActor: Deleted Actor: PlayerStart
+[2019.10.26-23.45.50:340][351]LogUObjectHash: Compacting FUObjectHashTables data took   5.04ms
+[2019.10.26-23.45.50:341][351]LogEditorActor: Deleted 1 Actors (0.093 secs)
+[2019.10.26-23.45.50:879][383]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart2)
+[2019.10.26-23.45.51:144][397]Cmd: DELETE
+[2019.10.26-23.45.51:144][397]Cmd: ACTOR DELETE
+[2019.10.26-23.45.51:146][397]LogEditorActor: Deleted Actor: PlayerStart
+[2019.10.26-23.45.51:231][397]LogUObjectHash: Compacting FUObjectHashTables data took   4.79ms
+[2019.10.26-23.45.51:231][397]LogEditorActor: Deleted 1 Actors (0.087 secs)
+[2019.10.26-23.45.53:813][545]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart4)
+[2019.10.26-23.45.54:621][592]Cmd: DELETE
+[2019.10.26-23.45.54:622][592]Cmd: ACTOR DELETE
+[2019.10.26-23.45.54:624][592]LogEditorActor: Deleted Actor: PlayerStart
+[2019.10.26-23.45.54:705][592]LogUObjectHash: Compacting FUObjectHashTables data took   4.96ms
+[2019.10.26-23.45.54:706][592]LogEditorActor: Deleted 1 Actors (0.084 secs)
+[2019.10.26-23.46.11:273][583]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.26-23.46.12:358][648]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.26-23.46.30:058][655]LogSlate: Window 'Editor Preferences' being destroyed
+[2019.10.26-23.46.30:063][655]LogSlate: Window 'Editor Preferences' being destroyed
+[2019.10.26-23.46.39:024][175]LogEditorViewport: Clicking on Actor (LMB): Capital_Ship_C (Capital_Ship)
+[2019.10.26-23.46.40:267][246]LogEditorViewport: Clicking on Actor (LMB): Capital_Ship_C (Capital_Ship)
+[2019.10.26-23.46.43:900][456]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-23.48.12:282][688]BlueprintLog: New page: Compile Default_GM
+[2019.10.26-23.48.12:827][688]LogUObjectHash: Compacting FUObjectHashTables data took   9.20ms
+[2019.10.26-23.48.13:627][708]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Default_GM" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Blueprints/Default_GM.uasset" SILENT=true
+[2019.10.26-23.48.13:829][708]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Default_GMA5448EF448C373EC0933D2A34377978F.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Blueprints/Default_GM.uasset'
+[2019.10.26-23.48.15:003][769]LogUObjectHash: Compacting FUObjectHashTables data took   9.90ms
+[2019.10.26-23.48.15:137][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Moon" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Maps/Moon.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.26-23.48.15:214][769]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2019.10.26-23.48.15:726][769]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Moon27CFFFA341C0E48A5F6A92BC86AB9846.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Maps/Moon.umap'
+[2019.10.26-23.48.15:780][769]LogFileHelpers: Saving map 'Moon' took 0.644
+[2019.10.26-23.48.15:918][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/ScottsTestLevel" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Maps/ScottsTestLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.26-23.48.16:035][769]LogUObjectHash: Compacting FUObjectHashTables data took  10.60ms
+[2019.10.26-23.48.16:549][769]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/ScottsTestLevelBB65E4F647678390D95CCBBC785A2883.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Maps/ScottsTestLevel.umap'
+[2019.10.26-23.48.16:566][769]LogFileHelpers: Saving map 'ScottsTestLevel' took 0.648
