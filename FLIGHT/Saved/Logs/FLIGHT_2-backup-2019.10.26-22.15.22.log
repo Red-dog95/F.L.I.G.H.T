@@ -1,0 +1,1178 @@
+﻿Log file open, 10/26/19 18:11:16
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: FLIGHT
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.339313
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogWindows: Failed to load '../../../Engine/Binaries/ThirdParty/libsndfile/Win64/libsndfile-1.dll' (GetLastError=126)
+LogWindows: File '../../../Engine/Binaries/ThirdParty/libsndfile/Win64/libsndfile-1.dll' does not exist
+LogAudioMixer: Display: Failed to load Sound File dll
+LogAudioEditor: Display: LibSoundFile failed to load. Importing audio will not work correctly.
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin ConcertFrontend
+LogPluginManager: Mounting plugin ConcertMain
+LogPluginManager: Mounting plugin ConcertSyncClient
+LogPluginManager: Mounting plugin ConcertSyncCore
+LogPluginManager: Found config from plugin[ConcertSyncCore] E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Config/Windows/Engine.ini
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-5660361
+LogInit: Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz, GPU: Intel(R) HD Graphics 530
+LogInit: Compiled (64-bit): Mar 31 2019 02:05:09
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line:  /Game/Maps/Menu -game -PIEVIACONSOLE -ResX=1920 -ResY=1080 -Multiprocess -messaging -SessionName="Play in Standalone Game" -windowed
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.10.26-22.11.17:292][  0]LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+[2019.10.26-22.11.17:292][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.10.26-22.11.17:292][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Config/Windows/Engine.ini]
+[2019.10.26-22.11.17:292][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.10.26-22.11.17:292][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.10.26-22.11.17:292][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Config/Windows/Engine.ini]
+[2019.10.26-22.11.17:292][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Config/Windows/Engine.ini]
+[2019.10.26-22.11.17:292][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.10.26-22.11.17:292][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.10.26-22.11.17:292][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.10.26-22.11.17:292][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.10.26-22.11.17:292][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.10.26-22.11.17:292][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.10.26-22.11.17:292][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.10.26-22.11.17:292][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.10.26-22.11.17:292][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.10.26-22.11.17:292][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.10.26-22.11.17:292][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.10.26-22.11.17:293][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.10.26-22.11.17:293][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.10.26-22.11.17:293][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Config/Windows/Engine.ini]
+[2019.10.26-22.11.17:293][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.10.26-22.11.17:293][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.10.26-22.11.17:293][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.10.26-22.11.17:293][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.10.26-22.11.17:293][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.10.26-22.11.17:293][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.10.26-22.11.17:293][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.10.26-22.11.17:293][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.10.26-22.11.17:293][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.10.26-22.11.17:293][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.10.26-22.11.17:293][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.10.26-22.11.17:293][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.10.26-22.11.17:293][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.10.26-22.11.17:293][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Config/Windows/Engine.ini]
+[2019.10.26-22.11.17:293][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Config/Windows/Engine.ini]
+[2019.10.26-22.11.17:300][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Config/Windows/Scalability.ini]
+[2019.10.26-22.11.17:300][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.26-22.11.17:300][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.26-22.11.17:300][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Config/Windows/Scalability.ini]
+[2019.10.26-22.11.17:300][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.26-22.11.17:300][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Config/Windows/Scalability.ini]
+[2019.10.26-22.11.17:300][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.26-22.11.17:300][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.26-22.11.17:300][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.26-22.11.17:300][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.26-22.11.17:300][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.26-22.11.17:300][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.26-22.11.17:300][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.26-22.11.17:300][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.26-22.11.17:300][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.26-22.11.17:300][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.26-22.11.17:300][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.26-22.11.17:300][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.26-22.11.17:300][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.26-22.11.17:300][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.26-22.11.17:300][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.26-22.11.17:300][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.26-22.11.17:300][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.26-22.11.17:301][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.26-22.11.17:301][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Config/Windows/Scalability.ini]
+[2019.10.26-22.11.17:301][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.26-22.11.17:301][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.26-22.11.17:301][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.26-22.11.17:301][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.26-22.11.17:301][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.26-22.11.17:301][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.26-22.11.17:301][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.26-22.11.17:301][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.26-22.11.17:301][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.26-22.11.17:301][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.26-22.11.17:301][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.26-22.11.17:301][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.26-22.11.17:301][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.26-22.11.17:301][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.26-22.11.17:301][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.26-22.11.17:301][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.26-22.11.17:301][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.26-22.11.17:301][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.26-22.11.17:301][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.26-22.11.17:301][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.26-22.11.17:301][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.26-22.11.17:301][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.26-22.11.17:301][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.26-22.11.17:301][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.26-22.11.17:301][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.26-22.11.17:301][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.26-22.11.17:301][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.26-22.11.17:301][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.26-22.11.17:301][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.26-22.11.17:301][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.26-22.11.17:301][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Config/Windows/Scalability.ini]
+[2019.10.26-22.11.17:301][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.26-22.11.17:301][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.26-22.11.17:302][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.26-22.11.17:302][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.26-22.11.17:302][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.26-22.11.17:302][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.26-22.11.17:302][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.26-22.11.17:302][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.26-22.11.17:302][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Config/Windows/Scalability.ini]
+[2019.10.26-22.11.17:302][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.26-22.11.17:302][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.26-22.11.17:302][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.26-22.11.17:302][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.26-22.11.17:302][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.26-22.11.17:302][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.26-22.11.17:302][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.26-22.11.17:302][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.26-22.11.17:302][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.26-22.11.17:302][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.26-22.11.17:302][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.26-22.11.17:302][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.26-22.11.17:302][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.26-22.11.17:302][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Config/Windows/Scalability.ini]
+[2019.10.26-22.11.17:302][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.26-22.11.17:302][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.26-22.11.17:302][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.26-22.11.17:302][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.10.26-22.11.17:309][  0]LogHAL: Display: Platform has ~ 16 GB [17073459200 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.10.26-22.11.17:309][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.10.26-22.11.17:309][  0]LogInit: Going up to parent DeviceProfile []
+[2019.10.26-22.11.17:309][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Config/Windows/Scalability.ini]
+[2019.10.26-22.11.17:309][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.26-22.11.17:309][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.26-22.11.17:309][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Config/Windows/Scalability.ini]
+[2019.10.26-22.11.17:309][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.26-22.11.17:309][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Config/Windows/Scalability.ini]
+[2019.10.26-22.11.17:309][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.26-22.11.17:309][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.26-22.11.17:309][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.26-22.11.17:310][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.26-22.11.17:310][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.26-22.11.17:310][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.26-22.11.17:310][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.26-22.11.17:310][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.26-22.11.17:310][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.26-22.11.17:310][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.26-22.11.17:310][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.26-22.11.17:310][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.26-22.11.17:310][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.26-22.11.17:310][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.26-22.11.17:310][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.26-22.11.17:310][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.26-22.11.17:310][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.26-22.11.17:310][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.26-22.11.17:310][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Config/Windows/Scalability.ini]
+[2019.10.26-22.11.17:310][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.26-22.11.17:310][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.26-22.11.17:310][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.26-22.11.17:310][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.26-22.11.17:310][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.26-22.11.17:310][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.26-22.11.17:310][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.26-22.11.17:310][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.26-22.11.17:310][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.26-22.11.17:310][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.26-22.11.17:310][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.26-22.11.17:310][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.26-22.11.17:310][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.26-22.11.17:310][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.26-22.11.17:310][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.26-22.11.17:310][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.26-22.11.17:310][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.26-22.11.17:310][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.26-22.11.17:310][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.26-22.11.17:310][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.26-22.11.17:310][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.26-22.11.17:310][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.26-22.11.17:310][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.26-22.11.17:310][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.26-22.11.17:310][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.26-22.11.17:310][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.26-22.11.17:310][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.26-22.11.17:310][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.26-22.11.17:310][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.26-22.11.17:310][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.26-22.11.17:311][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Config/Windows/Scalability.ini]
+[2019.10.26-22.11.17:311][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.26-22.11.17:311][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.26-22.11.17:311][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.26-22.11.17:311][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.26-22.11.17:311][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.26-22.11.17:311][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.26-22.11.17:311][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.26-22.11.17:311][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.26-22.11.17:311][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Config/Windows/Scalability.ini]
+[2019.10.26-22.11.17:311][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.26-22.11.17:311][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.26-22.11.17:311][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.26-22.11.17:311][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.26-22.11.17:311][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.26-22.11.17:311][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.26-22.11.17:311][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.26-22.11.17:311][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.26-22.11.17:311][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.26-22.11.17:311][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.26-22.11.17:311][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.26-22.11.17:311][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.26-22.11.17:311][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.26-22.11.17:311][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Config/Windows/Scalability.ini]
+[2019.10.26-22.11.17:311][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.26-22.11.17:311][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.26-22.11.17:311][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.10.26-22.11.17:312][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.10.26-22.11.17:312][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.10.26-22.11.17:312][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Config/Windows/Engine.ini]
+[2019.10.26-22.11.17:312][  0]LogInit: Computer: SCOTTS_PC
+[2019.10.26-22.11.17:312][  0]LogInit: User: scott
+[2019.10.26-22.11.17:312][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.10.26-22.11.17:312][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.10.26-22.11.17:312][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.10.26-22.11.17:312][  0]LogMemory: Platform Memory Stats for Windows
+[2019.10.26-22.11.17:312][  0]LogMemory: Process Physical Memory: 97.61 MB used, 97.62 MB peak
+[2019.10.26-22.11.17:312][  0]LogMemory: Process Virtual Memory: 85.62 MB used, 85.62 MB peak
+[2019.10.26-22.11.17:312][  0]LogMemory: Physical Memory: 6511.60 MB used,  9770.92 MB free, 16282.52 MB total
+[2019.10.26-22.11.17:312][  0]LogMemory: Virtual Memory: 4637.03 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2019.10.26-22.11.17:345][  0]LogInit: Using OS detected language (en-US).
+[2019.10.26-22.11.17:345][  0]LogInit: Using OS detected locale (en-CA).
+[2019.10.26-22.11.17:346][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.10.26-22.11.17:666][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.10.26-22.11.17:666][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.10.26-22.11.17:737][  0]LogHMD: Failed to initialize OpenVR with code 100
+[2019.10.26-22.11.17:737][  0]LogD3D11RHI: D3D11 adapters:
+[2019.10.26-22.11.17:827][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960M' (Feature Level 11_0)
+[2019.10.26-22.11.17:827][  0]LogD3D11RHI:       2010/0/8141 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.10.26-22.11.17:837][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2019.10.26-22.11.17:837][  0]LogD3D11RHI:       128/0/8141 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.10.26-22.11.17:840][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.10.26-22.11.17:840][  0]LogD3D11RHI:       0/0/8141 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.10.26-22.11.17:840][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.10.26-22.11.17:894][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.10.26-22.11.17:895][  0]LogD3D11RHI:     GPU DeviceId: 0x139b (for the marketing name, search the web for "GPU Device Id")
+[2019.10.26-22.11.17:895][  0]LogWindows: EnumDisplayDevices:
+[2019.10.26-22.11.17:895][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2019.10.26-22.11.17:895][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2019.10.26-22.11.17:896][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2019.10.26-22.11.17:896][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.10.26-22.11.17:896][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960M
+[2019.10.26-22.11.17:896][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.10.26-22.11.17:896][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.10.26-22.11.17:896][  0]LogRHI: Texture pool is 1407 MB (70% of 2010 MB)
+[2019.10.26-22.11.17:950][  0]LogD3D11RHI: Async texture creation enabled
+[2019.10.26-22.11.17:965][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.10.26-22.11.17:966][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.10.26-22.11.17:966][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.10.26-22.11.17:974][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.10.26-22.11.18:363][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.10.26-22.11.18:380][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.10.26-22.11.18:397][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.10.26-22.11.18:407][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.10.26-22.11.18:407][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.10.26-22.11.18:421][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.10.26-22.11.18:491][  0]LogShaderCompilers: Guid format shader working directory is 7 characters bigger than the processId version (E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Intermediate/Shaders/WorkingDirectory/14360/).
+[2019.10.26-22.11.18:491][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/scott/AppData/Local/Temp/UnrealShaderWorkingDir/5D7BCCB64978CE5D367B08981AA4A539/'.
+[2019.10.26-22.11.18:494][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.10.26-22.11.18:494][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.10.26-22.11.18:494][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.10.26-22.11.19:196][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.10.26-22.11.19:255][  0]LogDerivedDataCache: Loaded boot cache 0.06s 71MB C:/Users/scott/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.10.26-22.11.19:255][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/scott/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.10.26-22.11.19:255][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.10.26-22.11.19:255][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.10.26-22.11.19:256][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.26-22.11.19:256][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.10.26-22.11.19:271][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.10.26-22.11.19:271][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.26-22.11.19:271][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.10.26-22.11.19:283][  0]LogDerivedDataCache: Using Local data cache path C:/Users/scott/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.10.26-22.11.19:283][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.10.26-22.11.19:283][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.10.26-22.11.19:312][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.10.26-22.11.19:318][  0]LogSlate: Using FreeType 2.6.0
+[2019.10.26-22.11.19:319][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.10.26-22.11.19:486][  0]LogInit: Using OS detected language (en-US).
+[2019.10.26-22.11.19:486][  0]LogInit: Using OS detected locale (en-CA).
+[2019.10.26-22.11.19:486][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the language.
+[2019.10.26-22.11.19:486][  0]LogTextLocalizationManager: No localization for 'en-CA' exists, so 'en' will be used for the locale.
+[2019.10.26-22.11.19:486][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2019.10.26-22.11.19:486][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2019.10.26-22.11.19:487][  0]LogTextLocalizationManager: Compacting localization data took   0.01ms
+[2019.10.26-22.11.19:496][  0]LogAssetRegistry: FAssetRegistry took 0.0048 seconds to start up
+[2019.10.26-22.11.19:729][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.000643 seconds
+[2019.10.26-22.11.19:915][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.26-22.11.20:067][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.10.26-22.11.20:067][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.10.26-22.11.20:067][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.10.26-22.11.20:067][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.10.26-22.11.20:067][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.10.26-22.11.20:083][  0]LogNetVersion: FLIGHT 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 3036253622)
+[2019.10.26-22.11.20:709][  0]LogMoviePlayer: Initializing movie player
+[2019.10.26-22.11.20:850][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.10.26-22.11.20:863][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.10.26-22.11.20:864][  0]FUdpSocketBuilder: Failed to bind UdpMessageMulticastSocket to 0.0.0.0:6666
+[2019.10.26-22.11.20:864][  0]FUdpSocketBuilder: Failed to configure multicast for UdpMessageMulticastSocket (loopback: 1, ttl: 1)
+[2019.10.26-22.11.20:864][  0]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2019.10.26-22.11.20:864][  0]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2019.10.26-22.11.20:975][  0]SourceControl: Source control is disabled
+[2019.10.26-22.11.20:975][  0]SourceControl: Source control is disabled
+[2019.10.26-22.11.20:977][  0]SourceControl: Source control is disabled
+[2019.10.26-22.11.21:035][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.10.26-22.11.21:310][  0]LogOcInput: OculusInput pre-init called
+[2019.10.26-22.11.21:323][  0]LogUObjectArray: 46962 objects as part of root set at end of initial load.
+[2019.10.26-22.11.21:323][  0]LogUObjectAllocator: 8264408 out of 0 bytes used by permanent object pool.
+[2019.10.26-22.11.21:323][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.10.26-22.11.21:465][  0]LogEngine: Initializing Engine...
+[2019.10.26-22.11.21:466][  0]LogHMD: Failed to initialize OpenVR with code 100
+[2019.10.26-22.11.21:479][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.10.26-22.11.21:668][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.10.26-22.11.21:750][  0]LogInit: XAudio2 using 'Headphones (2- Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.26-22.11.21:813][  0]LogInit: FAudioDevice initialized.
+[2019.10.26-22.11.21:825][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.10.26-22.11.21:837][  0]LogInit: Texture streaming: Enabled
+[2019.10.26-22.11.24:072][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.26-22.11.24:072][  0]LogInit: Display: Game Engine Initialized.
+[2019.10.26-22.11.24:149][  0]LogInit: Display: Starting Game.
+[2019.10.26-22.11.24:149][  0]LogNet: Browse: /Game/Maps/Menu?Name=Player
+[2019.10.26-22.11.24:149][  0]LogLoad: LoadMap: /Game/Maps/Menu?Name=Player
+[2019.10.26-22.11.24:209][  0]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2019.10.26-22.11.24:395][  0]LogAIModule: Creating AISystem for world Menu
+[2019.10.26-22.11.24:395][  0]LogLoad: Game class is 'MenuGameMode_C'
+[2019.10.26-22.11.24:400][  0]LogWorld: Bringing World /Game/Maps/Menu.Menu up for play (max tick rate 0) at 2019.10.26-18.11.24
+[2019.10.26-22.11.24:400][  0]LogWorld: Bringing up level for play took: 0.001302
+[2019.10.26-22.11.24:400][  0]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.10.26-22.11.24:401][  0]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.26-22.11.24:407][  0]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.10.26-22.11.24:408][  0]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.26-22.11.24:408][  0]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.10.26-22.11.24:409][  0]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.26-22.11.24:410][  0]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.10.26-22.11.24:410][  0]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.26-22.11.24:415][  0]LogLoad: Took 0.266702 seconds to LoadMap(/Game/Maps/Menu)
+[2019.10.26-22.11.24:492][  0]LogRenderer: Reallocating scene render targets to support 1920x1080 Format 10 NumSamples 1 (Frame:1).
+[2019.10.26-22.11.24:492][  0]LogLoad: (Engine Initialization) Total time: 9.71 seconds
+[2019.10.26-22.11.24:492][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.10.26-22.11.24:516][  0]LogSlate: New Slate User Created.  User Index 1, Is Virtual User: 0
+[2019.10.26-22.11.24:516][  0]LogSlate: Slate User Registered.  User Index 1, Is Virtual User: 0
+[2019.10.26-22.11.24:521][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.10.26-22.11.29:505][279]LogBlueprintUserMessages: [Lander_PC_C_1] 
+[2019.10.26-22.11.31:795][421]LogBlueprintUserMessages: [StartScreen_New_C_0] 0
+[2019.10.26-22.11.32:393][458]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.26-22.11.32:400][458]LogSlate: New Slate User Created.  User Index 2, Is Virtual User: 0
+[2019.10.26-22.11.32:400][458]LogSlate: Slate User Registered.  User Index 2, Is Virtual User: 0
+[2019.10.26-22.11.32:401][458]LogSlate: New Slate User Created.  User Index 3, Is Virtual User: 0
+[2019.10.26-22.11.32:401][458]LogSlate: Slate User Registered.  User Index 3, Is Virtual User: 0
+[2019.10.26-22.11.33:151][505]LogBlueprintUserMessages: [FLIGHT_GI_C_0] 0
+[2019.10.26-22.11.33:151][505]LogBlueprintUserMessages: [W_PlayerSelector] 0
+[2019.10.26-22.11.33:457][524]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.11.35:151][629]LogBlueprintUserMessages: [FLIGHT_GI_C_0] 1
+[2019.10.26-22.11.35:151][629]LogBlueprintUserMessages: [W_PlayerSelector_C_1] 1
+[2019.10.26-22.11.35:619][658]LogBlueprintUserMessages: [Lander_PC_C_1] 
+[2019.10.26-22.11.36:506][713]LogBlueprintUserMessages: [Lander_PC_C_1] 
+[2019.10.26-22.11.36:893][737]LogBlueprintUserMessages: [Lander_PC_C_1] 
+[2019.10.26-22.11.37:409][769]LogScript: Warning: Script Msg: Attempted to insert an item into array PlayerSprites out of bounds [1/0]!
+[2019.10.26-22.11.37:409][769]LogBlueprintUserMessages: [FLIGHT_GI_C_0] 1
+[2019.10.26-22.11.39:039][870]LogBlueprintUserMessages: [FLIGHT_GI_C_0] 2
+[2019.10.26-22.11.43:046][118]LogBlueprintUserMessages: [MapSelectScreen_C_0] Moon
+[2019.10.26-22.11.44:557][212]LogBlueprintUserMessages: [Lander_PC_C_0] Hello
+[2019.10.26-22.11.44:557][212]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.11.45:104][246]LogBlueprintUserMessages: [Lander_PC_C_0] Hello
+[2019.10.26-22.11.45:104][246]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.11.45:491][270]LogBlueprintUserMessages: [MapSelectScreen_C_0] Moon
+[2019.10.26-22.11.47:428][390]LogBlueprintUserMessages: [Lander_PC_C_0] Hello
+[2019.10.26-22.11.47:428][390]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.11.48:024][427]LogBlueprintUserMessages: [MapSelectScreen_C_0] Mars
+[2019.10.26-22.11.48:912][482]LogBlueprintUserMessages: [Lander_PC_C_0] Hello
+[2019.10.26-22.11.48:912][482]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.11.49:330][508]LogBlueprintUserMessages: [MapSelectScreen_C_0] Moon
+[2019.10.26-22.11.50:396][574]LogBlueprintUserMessages: [Lander_PC_C_0] Hello
+[2019.10.26-22.11.50:396][574]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.11.50:783][598]LogBlueprintUserMessages: [MapSelectScreen_C_0] Mars
+[2019.10.26-22.11.51:702][655]LogBlueprintUserMessages: [Lander_PC_C_0] Hello
+[2019.10.26-22.11.51:702][655]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.11.52:525][706]LogBlueprintUserMessages: [MapSelectScreen_C_0] Moon
+[2019.10.26-22.11.53:412][761]LogBlueprintUserMessages: [Lander_PC_C_0] Hello
+[2019.10.26-22.11.53:412][761]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.11.53:992][797]LogBlueprintUserMessages: [MapSelectScreen_C_0] Mars
+[2019.10.26-22.11.54:299][816]LogBlueprintUserMessages: [Lander_PC_C_0] Hello
+[2019.10.26-22.11.54:300][816]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.11.55:363][882]LogBlueprintUserMessages: [MapSelectScreen_C_0] Moon
+[2019.10.26-22.11.56:895][977]LogBlueprintUserMessages: [Lander_PC_C_0] Hello
+[2019.10.26-22.11.56:895][977]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.11.57:428][ 10]LogBlueprintUserMessages: [MapSelectScreen_C_0] Mars
+[2019.10.26-22.11.59:671][149]LogBlueprintUserMessages: [Lander_PC_C_0] Hello
+[2019.10.26-22.11.59:671][149]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.12.00:219][183]LogBlueprintUserMessages: [MapSelectScreen_C_0] Moon
+[2019.10.26-22.12.02:203][306]LogBlueprintUserMessages: [Lander_PC_C_0] Hello
+[2019.10.26-22.12.02:203][306]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.12.02:913][350]LogBlueprintUserMessages: [Lander_PC_C_0] Hello
+[2019.10.26-22.12.02:913][350]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.12.03:284][373]LogBlueprintUserMessages: [Lander_PC_C_0] Hello
+[2019.10.26-22.12.03:284][373]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.12.04:349][439]LogBlueprintUserMessages: [Lander_PC_C_0] Hello
+[2019.10.26-22.12.04:349][439]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.12.05:833][531]LogBlueprintUserMessages: [Lander_PC_C_0] Hello
+[2019.10.26-22.12.05:833][531]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.12.07:978][664]LogBlueprintUserMessages: [Lander_PC_C_0] Hello
+[2019.10.26-22.12.07:978][664]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.12.09:091][733]LogBlueprintUserMessages: [Lander_PC_C_0] Hello
+[2019.10.26-22.12.09:091][733]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.12.10:140][798]LogBlueprintUserMessages: [Lander_PC_C_0] Hello
+[2019.10.26-22.12.10:140][798]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.12.10:947][848]LogBlueprintUserMessages: [Lander_PC_C_0] Hello
+[2019.10.26-22.12.10:947][848]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.12.11:607][889]LogBlueprintUserMessages: [Lander_PC_C_0] Hello
+[2019.10.26-22.12.11:608][889]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.12.12:302][932]LogBlueprintUserMessages: [Lander_PC_C_0] Hello
+[2019.10.26-22.12.12:302][932]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.12.12:802][963]LogBlueprintUserMessages: [Lander_PC_C_0] Hello
+[2019.10.26-22.12.12:802][963]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.12.13:334][996]LogBlueprintUserMessages: [Lander_PC_C_0] Hello
+[2019.10.26-22.12.13:334][996]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.12.13:883][ 30]LogBlueprintUserMessages: [Lander_PC_C_0] Hello
+[2019.10.26-22.12.13:883][ 30]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.12.14:479][ 67]LogBlueprintUserMessages: [Lander_PC_C_0] Hello
+[2019.10.26-22.12.14:479][ 67]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.12.14:996][ 99]LogBlueprintUserMessages: [Lander_PC_C_0] Hello
+[2019.10.26-22.12.14:996][ 99]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.12.17:238][238]LogBlueprintUserMessages: [Lander_PC_C_0] Hello
+[2019.10.26-22.12.17:238][238]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.12.17:738][269]LogBlueprintUserMessages: [Lander_PC_C_0] Hello
+[2019.10.26-22.12.17:738][269]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.12.18:287][303]LogBlueprintUserMessages: [Lander_PC_C_0] Hello
+[2019.10.26-22.12.18:287][303]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.12.19:303][366]LogBlueprintUserMessages: [Lander_PC_C_0] Hello
+[2019.10.26-22.12.19:304][366]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.12.20:223][423]LogBlueprintUserMessages: [Lander_PC_C_0] Hello
+[2019.10.26-22.12.20:223][423]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.12.21:594][508]LogBlueprintUserMessages: [Lander_PC_C_0] Hello
+[2019.10.26-22.12.21:594][508]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.12.22:384][557]LogBlueprintUserMessages: [Lander_PC_C_0] Hello
+[2019.10.26-22.12.22:384][557]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.12.23:239][610]LogBlueprintUserMessages: [Lander_PC_C_0] Hello
+[2019.10.26-22.12.23:239][610]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.12.24:030][659]LogBlueprintUserMessages: [Lander_PC_C_0] Hello
+[2019.10.26-22.12.24:030][659]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.12.24:336][678]LogBlueprintUserMessages: [Lander_PC_C_0] Hello
+[2019.10.26-22.12.24:336][678]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.12.25:094][725]LogBlueprintUserMessages: [Lander_PC_C_0] Hello
+[2019.10.26-22.12.25:094][725]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.12.32:641][192]LogBlueprintUserMessages: [Lander_PC_C_0] Hello
+[2019.10.26-22.12.32:642][192]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.12.35:770][386]LogBlueprintUserMessages: [Lander_PC_C_0] Hello
+[2019.10.26-22.12.35:771][386]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.12.37:417][488]LogBlueprintUserMessages: [Lander_PC_C_0] Hello
+[2019.10.26-22.12.37:417][488]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.12.38:336][545]LogBlueprintUserMessages: [Lander_PC_C_0] Hello
+[2019.10.26-22.12.38:337][545]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.12.39:014][587]LogBlueprintUserMessages: [Lander_PC_C_0] Hello
+[2019.10.26-22.12.39:014][587]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.12.40:917][705]LogBlueprintUserMessages: [Lander_PC_C_0] Hello
+[2019.10.26-22.12.40:917][705]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.12.42:966][832]LogBlueprintUserMessages: [Lander_PC_C_0] Hello
+[2019.10.26-22.12.42:966][832]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.12.45:467][987]LogBlueprintUserMessages: [Lander_PC_C_0] Hello
+[2019.10.26-22.12.45:467][987]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.12.46:868][ 64]LogPackageName: SearchForPackageOnDisk took   0.157s to resolve Moon.umap.
+[2019.10.26-22.12.47:010][ 65]LogPackageName: SearchForPackageOnDisk took   0.139s to resolve Moon.umap.
+[2019.10.26-22.12.47:010][ 65]LogNet: Browse: /Game/Maps/Moon
+[2019.10.26-22.12.47:010][ 65]LogLoad: LoadMap: /Game/Maps/Moon
+[2019.10.26-22.12.47:052][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2019.10.26-22.12.47:126][ 65]LogAIModule: Creating AISystem for world Moon
+[2019.10.26-22.12.47:126][ 65]LogLoad: Game class is 'Default_GM_C'
+[2019.10.26-22.12.47:136][ 65]LogWorld: Bringing World /Game/Maps/Moon.Moon up for play (max tick rate 0) at 2019.10.26-18.12.47
+[2019.10.26-22.12.47:137][ 65]LogWorld: Bringing up level for play took: 0.009506
+[2019.10.26-22.12.47:759][ 65]LogBlueprintUserMessages: [Terrain_2] Translation: X=-2493.000 Y=0.000 Z=9.000 Rotation: P=-4.101883 Y=0.000000 R=0.000000 Scale X=0.100 Y=1.000 Z=1.000
+[2019.10.26-22.12.47:764][ 65]LogLoad: Took 0.754453 seconds to LoadMap(/Game/Maps/Moon)
+[2019.10.26-22.12.53:374][358]LogBlueprintUserMessages: [Capital_Ship_2] Lander_PC    0
+[2019.10.26-22.12.53:377][358]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (ShowID) or object (Lander_C_0)
+[2019.10.26-22.12.53:378][358]LogBlueprintUserMessages: [Capital_Ship_2] Lander
+[2019.10.26-22.12.53:378][358]LogBlueprintUserMessages: [Capital_Ship_2] Lander_PC1    1
+[2019.10.26-22.12.53:381][358]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (ShowID) or object (Lander_C_1)
+[2019.10.26-22.12.53:382][358]LogBlueprintUserMessages: [Capital_Ship_2] Lander1
+[2019.10.26-22.12.53:593][369]LogBlueprintUserMessages: [Phase1Cam] Collision Off
+[2019.10.26-22.12.53:593][369]LogBlueprintUserMessages: [Default_GM_C_0] 2
+[2019.10.26-22.12.53:593][369]LogBlueprintUserMessages: [Default_GM_C_0] Lander_C_0
+[2019.10.26-22.12.53:593][369]LogBlueprintUserMessages: [Default_GM_C_0] Lander_C_1
+[2019.10.26-22.12.53:593][369]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Phase1Alert) or object (Default_GM_C_0)
+[2019.10.26-22.12.54:406][410]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.12.56:329][508]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.12.56:990][536]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.12.57:351][550]LogBlueprintUserMessages: [Lander_C_0] false
+[2019.10.26-22.12.57:964][581]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.12.58:542][614]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.12.59:127][647]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.12.59:162][649]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.12.59:579][673]LogBlueprintUserMessages: [Phase1Cam] Collision On
+[2019.10.26-22.12.59:639][676]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.12.59:997][696]LogBlueprintUserMessages: [PowerUpSpawner_2] Fuel
+[2019.10.26-22.13.00:209][708]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.13.00:387][718]LogBlueprintUserMessages: [PowerUpSpawner_2] Missle
+[2019.10.26-22.13.00:784][740]LogBlueprintUserMessages: [PowerUpSpawner_2] Cargo
+[2019.10.26-22.13.01:067][755]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.13.01:364][772]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.13.01:438][776]LogBlueprintUserMessages: [Lander_C_0] false
+[2019.10.26-22.13.01:598][785]LogBlueprintUserMessages: [PowerUpSpawner_2] Ram
+[2019.10.26-22.13.01:989][806]LogBlueprintUserMessages: [PowerUpSpawner_2] Cargo
+[2019.10.26-22.13.02:110][813]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.13.02:394][829]LogBlueprintUserMessages: [PowerUpSpawner_2] Cargo
+[2019.10.26-22.13.02:565][839]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.13.02:787][851]LogBlueprintUserMessages: [PowerUpSpawner_2] Fuel
+[2019.10.26-22.13.03:834][907]LogBlueprintUserMessages: [Lander_PC_C_1] 
+[2019.10.26-22.13.03:999][915]LogBlueprintUserMessages: [PowerUpSpawner_2] Cargo
+[2019.10.26-22.13.04:794][955]LogBlueprintUserMessages: [PowerUpSpawner_2] Cargo
+[2019.10.26-22.13.05:284][979]LogBlueprintUserMessages: [Lander_PC_C_1] 
+[2019.10.26-22.13.05:355][982]LogBlueprintUserMessages: [Lander_C_1] true
+[2019.10.26-22.13.05:591][993]LogBlueprintUserMessages: [PowerUpSpawner_2] Cargo
+[2019.10.26-22.13.06:400][ 34]LogBlueprintUserMessages: [PowerUpSpawner_2] Cargo
+[2019.10.26-22.13.07:292][ 78]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.13.07:600][ 93]LogBlueprintUserMessages: [PowerUpSpawner_2] Missle
+[2019.10.26-22.13.07:639][ 95]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.13.08:025][112]LogBlueprintUserMessages: [PowerUpSpawner_2] Cargo
+[2019.10.26-22.13.08:211][121]LogBlueprintUserMessages: [Lander_C_0] Interactable_Debris1
+[2019.10.26-22.13.08:230][122]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.13.08:392][130]LogBlueprintUserMessages: [PowerUpSpawner_2] Missle
+[2019.10.26-22.13.08:774][149]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.13.08:795][150]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.13.08:797][150]LogBlueprintUserMessages: [PowerUpSpawner_2] Cargo
+[2019.10.26-22.13.09:395][180]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.13.09:415][181]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.13.09:581][189]LogBlueprintUserMessages: [PowerUpSpawner_2] Fuel
+[2019.10.26-22.13.09:829][201]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.13.09:869][203]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.13.09:996][209]LogBlueprintUserMessages: [PowerUpSpawner_2] Missle
+[2019.10.26-22.13.10:387][228]LogBlueprintUserMessages: [PowerUpSpawner_2] Fuel
+[2019.10.26-22.13.11:024][262]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.13.11:598][293]LogBlueprintUserMessages: [PowerUpSpawner_2] Cargo
+[2019.10.26-22.13.11:994][314]LogBlueprintUserMessages: [PowerUpSpawner_2] Cargo
+[2019.10.26-22.13.12:141][322]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.13.12:383][335]LogBlueprintUserMessages: [PowerUpSpawner_2] Cargo
+[2019.10.26-22.13.12:748][354]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.13.12:767][355]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.13.13:015][368]LogBlueprintUserMessages: [Lander_C_0] false
+[2019.10.26-22.13.13:096][372]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.13.13:192][377]LogBlueprintUserMessages: [PowerUpSpawner_2] Cargo
+[2019.10.26-22.13.13:466][392]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.13.13:502][394]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.13.13:596][399]LogBlueprintUserMessages: [PowerUpSpawner_2] Cargo
+[2019.10.26-22.13.13:728][406]LogBlueprintUserMessages: [Lander_C_0] Interactable_Debris6
+[2019.10.26-22.13.13:990][420]LogBlueprintUserMessages: [PowerUpSpawner_2] Cargo
+[2019.10.26-22.13.14:931][470]LogBlueprintUserMessages: [Lander_C_0] Interactable_Debris12
+[2019.10.26-22.13.15:095][479]LogBlueprintUserMessages: [Lander_C_0] Interactable_Debris11
+[2019.10.26-22.13.15:189][484]LogBlueprintUserMessages: [PowerUpSpawner_2] Cargo
+[2019.10.26-22.13.15:540][503]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.13.15:601][506]LogBlueprintUserMessages: [PowerUpSpawner_2] Fuel
+[2019.10.26-22.13.16:175][534]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.13.16:195][535]LogBlueprintUserMessages: [Lander_C_0] Interactable_Debris20
+[2019.10.26-22.13.16:381][544]LogBlueprintUserMessages: [PowerUpSpawner_2] Ram
+[2019.10.26-22.13.16:618][554]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.13.17:185][580]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.13.17:188][580]LogBlueprintUserMessages: [PowerUpSpawner_2] Cargo
+[2019.10.26-22.13.17:601][600]LogBlueprintUserMessages: [PowerUpSpawner_2] Missle
+[2019.10.26-22.13.17:992][619]LogBlueprintUserMessages: [PowerUpSpawner_2] Cargo
+[2019.10.26-22.13.18:175][628]LogBlueprintUserMessages: [Lander_C_0] false
+[2019.10.26-22.13.18:388][638]LogBlueprintUserMessages: [PowerUpSpawner_2] Missle
+[2019.10.26-22.13.18:470][642]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.13.18:510][644]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.13.19:028][668]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.13.19:050][669]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.13.19:442][688]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.13.19:464][689]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.13.19:510][691]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'PossibleTargets' of length 1 in '/Game/PowerupPhase/Missile_Weapon.Missile_Weapon_C'!
+[2019.10.26-22.13.19:989][714]LogBlueprintUserMessages: [PowerUpSpawner_2] Cargo
+[2019.10.26-22.13.20:304][729]LogBlueprintUserMessages: [Lander_C_0] Interactable_Debris30
+[2019.10.26-22.13.20:389][733]LogBlueprintUserMessages: [PowerUpSpawner_2] Cargo
+[2019.10.26-22.13.20:579][742]LogBlueprintUserMessages: [Lander_C_0] Interactable_Debris25
+[2019.10.26-22.13.21:582][787]LogBlueprintUserMessages: [PowerUpSpawner_2] Cargo
+[2019.10.26-22.13.21:959][803]LogBlueprintUserMessages: [Lander_C_1] Interactable_Debris5
+[2019.10.26-22.13.22:008][805]LogBlueprintUserMessages: [PowerUpSpawner_2] Ram
+[2019.10.26-22.13.22:059][807]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsLander1
+	Missile_Weapon_C /Game/Maps/Moon.Moon:PersistentLevel.Missile_Weapon_C_1
+	Function /Game/PowerupPhase/Missile_Weapon.Missile_Weapon_C:ExecuteUbergraph_Missile_Weapon:0B49
+[2019.10.26-22.13.22:059][807]LogScript: Warning: Script call stack:
+	Function /Game/PowerupPhase/Missile_Weapon.Missile_Weapon_C:BndEvt__Missile_K2Node_ComponentBoundEvent_0_ComponentHitSignature__DelegateSignature
+	Function /Game/PowerupPhase/Missile_Weapon.Missile_Weapon_C:ExecuteUbergraph_Missile_Weapon
+	Function /Game/PowerupPhase/Missile_Weapon.Missile_Weapon_C:Explode
+	Function /Game/PowerupPhase/Missile_Weapon.Missile_Weapon_C:ExecuteUbergraph_Missile_Weapon
+
+[2019.10.26-22.13.22:059][807]LogScript: Warning: Accessed None
+	Missile_Weapon_C /Game/Maps/Moon.Moon:PersistentLevel.Missile_Weapon_C_1
+	Function /Game/PowerupPhase/Missile_Weapon.Missile_Weapon_C:ExecuteUbergraph_Missile_Weapon:0B5E
+[2019.10.26-22.13.22:059][807]LogScript: Warning: Script call stack:
+	Function /Game/PowerupPhase/Missile_Weapon.Missile_Weapon_C:BndEvt__Missile_K2Node_ComponentBoundEvent_0_ComponentHitSignature__DelegateSignature
+	Function /Game/PowerupPhase/Missile_Weapon.Missile_Weapon_C:ExecuteUbergraph_Missile_Weapon
+	Function /Game/PowerupPhase/Missile_Weapon.Missile_Weapon_C:Explode
+	Function /Game/PowerupPhase/Missile_Weapon.Missile_Weapon_C:ExecuteUbergraph_Missile_Weapon
+
+[2019.10.26-22.13.22:796][841]LogBlueprintUserMessages: [PowerUpSpawner_2] Ram
+[2019.10.26-22.13.22:837][843]LogBlueprintUserMessages: [Lander_C_0] Interactable_Debris17
+[2019.10.26-22.13.22:858][844]LogBlueprintUserMessages: [Lander_C_0] Interactable_Debris17
+[2019.10.26-22.13.22:898][846]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.13.22:898][846]LogBlueprintUserMessages: [Lander_C_0] Interactable_Debris31
+[2019.10.26-22.13.23:181][860]LogBlueprintUserMessages: [PowerUpSpawner_2] Fuel
+[2019.10.26-22.13.23:181][860]LogBlueprintUserMessages: [Lander_C_0] Interactable_Debris36
+[2019.10.26-22.13.23:434][873]LogBlueprintUserMessages: [Lander_C_0] Interactable_Debris23
+[2019.10.26-22.13.23:881][897]LogBlueprintUserMessages: [Lander_C_0] false
+[2019.10.26-22.13.23:995][903]LogBlueprintUserMessages: [PowerUpSpawner_2] Ram
+[2019.10.26-22.13.24:072][907]LogBlueprintUserMessages: [Lander_C_0] Interactable_Debris33
+[2019.10.26-22.13.24:791][944]LogBlueprintUserMessages: [PowerUpSpawner_2] Ram
+[2019.10.26-22.13.24:910][950]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.13.24:930][951]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.13.25:195][965]LogBlueprintUserMessages: [PowerUpSpawner_2] Cargo
+[2019.10.26-22.13.25:379][975]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.13.25:589][986]LogBlueprintUserMessages: [PowerUpSpawner_2] Fuel
+[2019.10.26-22.13.25:982][  6]LogBlueprintUserMessages: [PowerUpSpawner_2] Missle
+[2019.10.26-22.13.26:787][ 47]LogBlueprintUserMessages: [PowerUpSpawner_2] Cargo
+[2019.10.26-22.13.27:080][ 62]LogBlueprintUserMessages: [Lander_C_0] Interactable_Debris23
+[2019.10.26-22.13.27:197][ 68]LogBlueprintUserMessages: [PowerUpSpawner_2] Fuel
+[2019.10.26-22.13.27:273][ 72]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.13.27:273][ 72]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.13.27:968][109]LogBlueprintUserMessages: [Lander_C_0] Interactable_Debris23
+[2019.10.26-22.13.28:122][117]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsLander1
+	Missile_Weapon_C /Game/Maps/Moon.Moon:PersistentLevel.Missile_Weapon_C_2
+	Function /Game/PowerupPhase/Missile_Weapon.Missile_Weapon_C:ExecuteUbergraph_Missile_Weapon:0B49
+[2019.10.26-22.13.28:123][117]LogScript: Warning: Script call stack:
+	Function /Game/PowerupPhase/Missile_Weapon.Missile_Weapon_C:BndEvt__Missile_K2Node_ComponentBoundEvent_0_ComponentHitSignature__DelegateSignature
+	Function /Game/PowerupPhase/Missile_Weapon.Missile_Weapon_C:ExecuteUbergraph_Missile_Weapon
+	Function /Game/PowerupPhase/Missile_Weapon.Missile_Weapon_C:Explode
+	Function /Game/PowerupPhase/Missile_Weapon.Missile_Weapon_C:ExecuteUbergraph_Missile_Weapon
+
+[2019.10.26-22.13.28:123][117]LogScript: Warning: Accessed None
+	Missile_Weapon_C /Game/Maps/Moon.Moon:PersistentLevel.Missile_Weapon_C_2
+	Function /Game/PowerupPhase/Missile_Weapon.Missile_Weapon_C:ExecuteUbergraph_Missile_Weapon:0B5E
+[2019.10.26-22.13.28:123][117]LogScript: Warning: Script call stack:
+	Function /Game/PowerupPhase/Missile_Weapon.Missile_Weapon_C:BndEvt__Missile_K2Node_ComponentBoundEvent_0_ComponentHitSignature__DelegateSignature
+	Function /Game/PowerupPhase/Missile_Weapon.Missile_Weapon_C:ExecuteUbergraph_Missile_Weapon
+	Function /Game/PowerupPhase/Missile_Weapon.Missile_Weapon_C:Explode
+	Function /Game/PowerupPhase/Missile_Weapon.Missile_Weapon_C:ExecuteUbergraph_Missile_Weapon
+
+[2019.10.26-22.13.28:123][117]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsLander1
+	Missile_Weapon_C /Game/Maps/Moon.Moon:PersistentLevel.Missile_Weapon_C_2
+	Function /Game/PowerupPhase/Missile_Weapon.Missile_Weapon_C:ExecuteUbergraph_Missile_Weapon:0B49
+[2019.10.26-22.13.28:123][117]LogScript: Warning: Script call stack:
+	Function /Game/PowerupPhase/Missile_Weapon.Missile_Weapon_C:BndEvt__Missile_K2Node_ComponentBoundEvent_0_ComponentHitSignature__DelegateSignature
+	Function /Game/PowerupPhase/Missile_Weapon.Missile_Weapon_C:ExecuteUbergraph_Missile_Weapon
+	Function /Game/PowerupPhase/Missile_Weapon.Missile_Weapon_C:Explode
+	Function /Game/PowerupPhase/Missile_Weapon.Missile_Weapon_C:ExecuteUbergraph_Missile_Weapon
+
+[2019.10.26-22.13.28:123][117]LogScript: Warning: Accessed None
+	Missile_Weapon_C /Game/Maps/Moon.Moon:PersistentLevel.Missile_Weapon_C_2
+	Function /Game/PowerupPhase/Missile_Weapon.Missile_Weapon_C:ExecuteUbergraph_Missile_Weapon:0B5E
+[2019.10.26-22.13.28:123][117]LogScript: Warning: Script call stack:
+	Function /Game/PowerupPhase/Missile_Weapon.Missile_Weapon_C:BndEvt__Missile_K2Node_ComponentBoundEvent_0_ComponentHitSignature__DelegateSignature
+	Function /Game/PowerupPhase/Missile_Weapon.Missile_Weapon_C:ExecuteUbergraph_Missile_Weapon
+	Function /Game/PowerupPhase/Missile_Weapon.Missile_Weapon_C:Explode
+	Function /Game/PowerupPhase/Missile_Weapon.Missile_Weapon_C:ExecuteUbergraph_Missile_Weapon
+
+[2019.10.26-22.13.28:428][133]LogBlueprintUserMessages: [Lander_C_0] Interactable_Debris43
+[2019.10.26-22.13.28:547][139]LogBlueprintUserMessages: [Lander_C_0] Interactable_Debris41
+[2019.10.26-22.13.28:616][142]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.13.28:726][147]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.13.28:788][150]LogBlueprintUserMessages: [PowerUpSpawner_2] Cargo
+[2019.10.26-22.13.29:163][167]LogBlueprintUserMessages: [Lander_C_1] Interactable_Debris16
+[2019.10.26-22.13.29:584][187]LogBlueprintUserMessages: [PowerUpSpawner_2] Missle
+[2019.10.26-22.13.29:997][207]LogBlueprintUserMessages: [PowerUpSpawner_2] Missle
+[2019.10.26-22.13.30:386][226]LogBlueprintUserMessages: [PowerUpSpawner_2] Fuel
+[2019.10.26-22.13.30:766][242]LogBlueprintUserMessages: [Lander_C_0] Interactable_Debris17
+[2019.10.26-22.13.31:193][259]LogBlueprintUserMessages: [PowerUpSpawner_2] Fuel
+[2019.10.26-22.13.33:585][350]LogBlueprintUserMessages: [PowerUpSpawner_2] Fuel
+[2019.10.26-22.13.34:405][381]LogBlueprintUserMessages: [PowerUpSpawner_2] Fuel
+[2019.10.26-22.13.34:622][389]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (LandingTimer) or object (Default_GM_C_0)
+[2019.10.26-22.13.34:623][389]LogBlueprintUserMessages: [Phase1Cam] Collision Off
+[2019.10.26-22.13.34:628][389]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (LandingTimer) or object (Default_GM_C_0)
+[2019.10.26-22.13.35:660][434]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.13.35:946][448]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.13.37:073][509]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.13.38:552][594]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.13.39:228][632]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.13.39:280][635]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.13.39:984][675]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.13.40:269][691]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.13.40:303][693]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.13.40:952][729]LogBlueprintUserMessages: [Lander_C_0] false
+[2019.10.26-22.13.42:023][784]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.13.42:531][809]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.13.42:552][810]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.13.43:394][853]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.13.43:794][873]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.13.45:176][944]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.13.46:703][ 23]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.13.47:855][ 81]LogBlueprintUserMessages: [Lander_C_0] false
+[2019.10.26-22.13.48:437][113]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.13.50:071][207]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.13.50:477][230]LogBlueprintUserMessages: [Lander_C_0] false
+[2019.10.26-22.13.50:585][236]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.13.51:929][312]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.13.52:345][335]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.13.52:819][361]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.13.53:388][393]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.13.55:413][498]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.13.56:710][565]LogBlueprintUserMessages: [Lander_C_0] false
+[2019.10.26-22.13.59:364][702]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.14.03:142][911]LogBlueprintUserMessages: [Lander_PC_C_1] 
+[2019.10.26-22.14.04:489][987]LogBlueprintUserMessages: [Lander_C_1] true
+[2019.10.26-22.14.07:081][126]LogBlueprintUserMessages: [Lander_PC_C_1] 
+[2019.10.26-22.14.09:037][225]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.14.09:363][242]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.14.11:541][355]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.14.12:240][391]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.14.13:250][443]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.14.13:791][474]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.14.14:579][519]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.14.15:147][551]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.14.15:164][552]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.14.15:664][580]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.14.16:245][613]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.14.16:886][649]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.14.16:903][650]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.14.17:836][702]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.14.18:138][719]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.14.18:571][743]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.14.20:096][822]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.14.20:118][823]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.14.20:423][839]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.14.21:352][886]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.14.23:106][975]LogBlueprintUserMessages: [Lander_C_0] false
+[2019.10.26-22.14.23:544][997]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.14.24:144][ 27]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.14.24:578][ 48]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.14.26:443][139]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'SoundArray' of length 3 in '/Game/Blueprints/Functions.Functions_C:RandomSoundFromArray'!
+[2019.10.26-22.14.26:463][140]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'SoundArray' of length 3 in '/Game/Blueprints/Functions.Functions_C:RandomSoundFromArray'!
+[2019.10.26-22.14.26:524][143]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.14.27:186][176]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.14.27:488][191]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.14.27:651][199]LogBlueprintUserMessages: [Lander_C_0] false
+[2019.10.26-22.14.28:053][217]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.14.29:708][300]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.14.30:480][339]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.14.31:754][400]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.14.32:769][447]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.14.32:884][452]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.14.33:121][462]LogBlueprintUserMessages: [Lander_C_0] false
+[2019.10.26-22.14.33:143][463]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.14.33:188][465]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.14.33:887][497]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.14.34:498][526]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.14.35:877][590]LogBlueprintUserMessages: [Lander_C_0] false
+[2019.10.26-22.14.36:437][615]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.14.36:723][628]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.14.37:634][669]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.14.38:680][718]LogBlueprintUserMessages: [Lander_C_0] false
+[2019.10.26-22.14.38:903][729]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.14.38:925][730]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.14.39:772][771]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.14.39:792][772]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.14.39:960][780]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.14.40:319][798]LogBlueprintUserMessages: [Lander_C_0] false
+[2019.10.26-22.14.40:770][820]LogBlueprintUserMessages: [Lander_C_0] false
+[2019.10.26-22.14.42:286][897]LogBlueprintUserMessages: [Lander_C_0] false
+[2019.10.26-22.14.42:560][911]LogBlueprintUserMessages: [Lander_C_0] false
+[2019.10.26-22.14.42:580][912]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.14.43:426][955]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.14.44:045][984]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.14.44:675][ 13]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.14.46:044][ 75]LogBlueprintUserMessages: [Lander_C_1] true
+[2019.10.26-22.14.47:036][115]LogBlueprintUserMessages: [Lander_PC_C_1] 
+[2019.10.26-22.14.48:018][158]LogBlueprintUserMessages: [Lander_PC_C_1] 
+[2019.10.26-22.14.49:109][208]LogBlueprintUserMessages: [Lander_PC_C_1] 
+[2019.10.26-22.14.49:943][246]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'SoundArray' of length 3 in '/Game/Blueprints/Functions.Functions_C:RandomSoundFromArray'!
+[2019.10.26-22.14.54:696][480]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.14.54:946][492]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.14.55:814][537]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.14.56:228][557]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.14.58:473][660]LogBlueprintUserMessages: [Lander_C_0] false
+[2019.10.26-22.14.59:158][691]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.15.00:687][761]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.15.01:306][789]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.15.02:341][837]LogBlueprintUserMessages: [Lander_C_0] false
+[2019.10.26-22.15.03:086][871]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.15.03:107][872]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.15.03:622][897]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.15.04:079][920]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.15.04:913][962]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.15.04:955][964]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.15.09:345][177]LogBlueprintUserMessages: [Lander_C_0] false
+[2019.10.26-22.15.12:226][304]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.15.15:036][426]LogBlueprintUserMessages: [Lander_PC_C_0] 
+[2019.10.26-22.15.19:194][642]LogWindowsDesktop: Alt-F4 pressed!
+[2019.10.26-22.15.19:237][642]LogSlate: Window 'FLIGHT (64-bit Development PCD3D_SM5) ' being destroyed
+[2019.10.26-22.15.19:238][642]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.10.26-22.15.19:245][642]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.10.26-22.15.19:249][642]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.26-22.15.19:249][642]LogEngine: All Windows Closed
+[2019.10.26-22.15.19:249][642]LogWindows: FPlatformMisc::RequestExit(0)
+[2019.10.26-22.15.19:595][643]LogExit: Preparing to exit.
+[2019.10.26-22.15.20:093][643]LogMoviePlayer: Shutting down movie player
+[2019.10.26-22.15.21:027][643]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.26-22.15.21:038][643]LogExit: Game engine shut down
+[2019.10.26-22.15.21:166][643]LogExit: Object subsystem successfully closed.
+[2019.10.26-22.15.21:193][643]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.10.26-22.15.21:199][643]LogD3D11RHI: Shutdown
+[2019.10.26-22.15.21:199][643]LogD3D11RHI: CleanupD3DDevice
+[2019.10.26-22.15.21:200][643]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.10.26-22.15.21:200][643]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.10.26-22.15.21:200][643]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.10.26-22.15.21:200][643]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.10.26-22.15.21:200][643]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.10.26-22.15.21:200][643]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.10.26-22.15.21:342][643]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.10.26-22.15.21:383][643]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (414)
+[2019.10.26-22.15.21:383][643]LogModuleManager: Shutting down and abandoning module SequenceRecorder (412)
+[2019.10.26-22.15.21:383][643]LogModuleManager: Shutting down and abandoning module AutomationController (410)
+[2019.10.26-22.15.21:384][643]LogModuleManager: Shutting down and abandoning module AutomationWorker (408)
+[2019.10.26-22.15.21:384][643]LogModuleManager: Shutting down and abandoning module Voice (406)
+[2019.10.26-22.15.21:384][643]LogModuleManager: Shutting down and abandoning module AIModule (404)
+[2019.10.26-22.15.21:384][643]LogModuleManager: Shutting down and abandoning module GameplayDebugger (403)
+[2019.10.26-22.15.21:384][643]LogModuleManager: Shutting down and abandoning module AITestSuite (401)
+[2019.10.26-22.15.21:384][643]LogModuleManager: Shutting down and abandoning module NavigationSystem (399)
+[2019.10.26-22.15.21:384][643]LogModuleManager: Shutting down and abandoning module OculusMR (396)
+[2019.10.26-22.15.21:384][643]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (394)
+[2019.10.26-22.15.21:384][643]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (392)
+[2019.10.26-22.15.21:384][643]LogModuleManager: Shutting down and abandoning module WebMMedia (390)
+[2019.10.26-22.15.21:384][643]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (388)
+[2019.10.26-22.15.21:384][643]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (386)
+[2019.10.26-22.15.21:384][643]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (384)
+[2019.10.26-22.15.21:384][643]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (382)
+[2019.10.26-22.15.21:384][643]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (380)
+[2019.10.26-22.15.21:384][643]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (378)
+[2019.10.26-22.15.21:384][643]LogModuleManager: Shutting down and abandoning module CharacterAI (376)
+[2019.10.26-22.15.21:384][643]LogModuleManager: Shutting down and abandoning module SessionServices (374)
+[2019.10.26-22.15.21:384][643]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (372)
+[2019.10.26-22.15.21:384][643]LogModuleManager: Shutting down and abandoning module LiveCoding (370)
+[2019.10.26-22.15.21:384][643]LogModuleManager: Shutting down and abandoning module LevelSequence (368)
+[2019.10.26-22.15.21:384][643]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (366)
+[2019.10.26-22.15.21:384][643]LogModuleManager: Shutting down and abandoning module MovieScene (364)
+[2019.10.26-22.15.21:384][643]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (362)
+[2019.10.26-22.15.21:384][643]LogModuleManager: Shutting down and abandoning module PortalServices (360)
+[2019.10.26-22.15.21:385][643]LogModuleManager: Shutting down and abandoning module PortalRpc (358)
+[2019.10.26-22.15.21:385][643]LogModuleManager: Shutting down and abandoning module MessagingRpc (356)
+[2019.10.26-22.15.21:385][643]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (354)
+[2019.10.26-22.15.21:388][643]LogModuleManager: Shutting down and abandoning module ProfilerService (352)
+[2019.10.26-22.15.21:497][643]LogModuleManager: Shutting down and abandoning module TaskGraph (350)
+[2019.10.26-22.15.21:497][643]LogModuleManager: Shutting down and abandoning module SteamVRController (348)
+[2019.10.26-22.15.21:497][643]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (346)
+[2019.10.26-22.15.21:498][643]LogModuleManager: Shutting down and abandoning module OculusInput (344)
+[2019.10.26-22.15.21:498][643]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (342)
+[2019.10.26-22.15.21:498][643]LogModuleManager: Shutting down and abandoning module EditableMesh (340)
+[2019.10.26-22.15.21:498][643]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (338)
+[2019.10.26-22.15.21:498][643]LogModuleManager: Shutting down and abandoning module CableComponent (336)
+[2019.10.26-22.15.21:498][643]LogModuleManager: Shutting down and abandoning module AudioCapture (334)
+[2019.10.26-22.15.21:498][643]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (332)
+[2019.10.26-22.15.21:498][643]LogModuleManager: Shutting down and abandoning module AndroidPermission (330)
+[2019.10.26-22.15.21:498][643]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (328)
+[2019.10.26-22.15.21:498][643]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (326)
+[2019.10.26-22.15.21:498][643]LogModuleManager: Shutting down and abandoning module MediaCompositing (324)
+[2019.10.26-22.15.21:498][643]LogModuleManager: Shutting down and abandoning module LinearTimecode (322)
+[2019.10.26-22.15.21:498][643]LogModuleManager: Shutting down and abandoning module ImgMedia (320)
+[2019.10.26-22.15.21:498][643]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (318)
+[2019.10.26-22.15.21:498][643]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (316)
+[2019.10.26-22.15.21:498][643]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (314)
+[2019.10.26-22.15.21:498][643]LogModuleManager: Shutting down and abandoning module HTML5Networking (312)
+[2019.10.26-22.15.21:498][643]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (310)
+[2019.10.26-22.15.21:498][643]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (309)
+[2019.10.26-22.15.21:498][643]LogModuleManager: Shutting down and abandoning module GeometryCache (306)
+[2019.10.26-22.15.21:498][643]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (305)
+[2019.10.26-22.15.21:498][643]LogModuleManager: Shutting down and abandoning module BackChannel (302)
+[2019.10.26-22.15.21:498][643]LogModuleManager: Shutting down and abandoning module AppleVision (300)
+[2019.10.26-22.15.21:498][643]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (298)
+[2019.10.26-22.15.21:498][643]LogModuleManager: Shutting down and abandoning module AppleImageUtils (296)
+[2019.10.26-22.15.21:498][643]LogModuleManager: Shutting down and abandoning module VariantManagerContent (294)
+[2019.10.26-22.15.21:498][643]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (292)
+[2019.10.26-22.15.21:498][643]LogModuleManager: Shutting down and abandoning module CryptoKeys (290)
+[2019.10.26-22.15.21:498][643]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (288)
+[2019.10.26-22.15.21:498][643]LogModuleManager: Shutting down and abandoning module HotReload (287)
+[2019.10.26-22.15.21:499][643]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (286)
+[2019.10.26-22.15.21:499][643]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (282)
+[2019.10.26-22.15.21:499][643]LogModuleManager: Shutting down and abandoning module UObjectPlugin (280)
+[2019.10.26-22.15.21:499][643]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (278)
+[2019.10.26-22.15.21:499][643]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (276)
+[2019.10.26-22.15.21:499][643]LogModuleManager: Shutting down and abandoning module SourceControl (275)
+[2019.10.26-22.15.21:499][643]LogModuleManager: Shutting down and abandoning module ConcertSyncClientLibrary (272)
+[2019.10.26-22.15.21:499][643]LogModuleManager: Shutting down and abandoning module ConcertUICore (270)
+[2019.10.26-22.15.21:499][643]LogModuleManager: Shutting down and abandoning module ConcertSyncClient (268)
+[2019.10.26-22.15.21:499][643]LogModuleManager: Shutting down and abandoning module ConcertFrontend (266)
+[2019.10.26-22.15.21:499][643]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (264)
+[2019.10.26-22.15.21:499][643]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (262)
+[2019.10.26-22.15.21:499][643]LogModuleManager: Shutting down and abandoning module FLIGHT (260)
+[2019.10.26-22.15.21:499][643]LogModuleManager: Shutting down and abandoning module SignificanceManager (258)
+[2019.10.26-22.15.21:499][643]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (256)
+[2019.10.26-22.15.21:499][643]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (254)
+[2019.10.26-22.15.21:499][643]LogModuleManager: Shutting down and abandoning module PhysXVehicles (252)
+[2019.10.26-22.15.21:499][643]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (250)
+[2019.10.26-22.15.21:499][643]LogModuleManager: Shutting down and abandoning module ActorSequence (248)
+[2019.10.26-22.15.21:499][643]LogModuleManager: Shutting down and abandoning module UdpMessaging (246)
+[2019.10.26-22.15.21:601][643]LogModuleManager: Shutting down and abandoning module TcpMessaging (244)
+[2019.10.26-22.15.21:984][643]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (242)
+[2019.10.26-22.15.21:984][643]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (240)
+[2019.10.26-22.15.21:984][643]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (238)
+[2019.10.26-22.15.21:984][643]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (236)
+[2019.10.26-22.15.21:984][643]LogModuleManager: Shutting down and abandoning module MagicLeapController (234)
+[2019.10.26-22.15.21:984][643]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.10.26-22.15.21:984][643]LogSlate: Slate User Destroyed.  User Index 1, Is Virtual User: 0
+[2019.10.26-22.15.21:984][643]LogSlate: Slate User Destroyed.  User Index 2, Is Virtual User: 0
+[2019.10.26-22.15.21:984][643]LogSlate: Slate User Destroyed.  User Index 3, Is Virtual User: 0
+[2019.10.26-22.15.21:984][643]LogModuleManager: Shutting down and abandoning module MagicLeapAR (232)
+[2019.10.26-22.15.21:984][643]LogModuleManager: Shutting down and abandoning module AugmentedReality (231)
+[2019.10.26-22.15.21:984][643]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (228)
+[2019.10.26-22.15.21:984][643]LogModuleManager: Shutting down and abandoning module FacialAnimation (226)
+[2019.10.26-22.15.21:984][643]LogModuleManager: Shutting down and abandoning module DataValidation (224)
+[2019.10.26-22.15.21:984][643]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (222)
+[2019.10.26-22.15.21:984][643]LogModuleManager: Shutting down and abandoning module TreeMap (221)
+[2019.10.26-22.15.21:984][643]LogModuleManager: Shutting down and abandoning module ConcertSyncCore (218)
+[2019.10.26-22.15.21:984][643]LogModuleManager: Shutting down and abandoning module ConcertTransport (216)
+[2019.10.26-22.15.21:984][643]LogModuleManager: Shutting down and abandoning module Concert (214)
+[2019.10.26-22.15.21:984][643]LogModuleManager: Shutting down and abandoning module AnimationSharing (212)
+[2019.10.26-22.15.21:984][643]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (210)
+[2019.10.26-22.15.21:984][643]LogModuleManager: Shutting down and abandoning module AISupportModule (208)
+[2019.10.26-22.15.21:984][643]LogModuleManager: Shutting down and abandoning module Paper2D (206)
+[2019.10.26-22.15.21:984][643]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (204)
+[2019.10.26-22.15.21:985][643]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (202)
+[2019.10.26-22.15.21:985][643]LogModuleManager: Shutting down and abandoning module PacketHandler (200)
+[2019.10.26-22.15.21:985][643]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (198)
+[2019.10.26-22.15.21:985][643]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (196)
+[2019.10.26-22.15.21:985][643]LogModuleManager: Shutting down and abandoning module MediaAssets (194)
+[2019.10.26-22.15.21:985][643]LogModuleManager: Shutting down and abandoning module Overlay (192)
+[2019.10.26-22.15.21:985][643]LogModuleManager: Shutting down and abandoning module OverlayEditor (191)
+[2019.10.26-22.15.21:985][643]LogModuleManager: Shutting down and abandoning module VREditor (188)
+[2019.10.26-22.15.21:985][643]LogModuleManager: Shutting down and abandoning module StringTableEditor (186)
+[2019.10.26-22.15.21:985][643]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (184)
+[2019.10.26-22.15.21:985][643]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (182)
+[2019.10.26-22.15.21:985][643]LogModuleManager: Shutting down and abandoning module FunctionalTesting (180)
+[2019.10.26-22.15.21:985][643]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (178)
+[2019.10.26-22.15.21:985][643]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (177)
+[2019.10.26-22.15.21:985][643]LogModuleManager: Shutting down and abandoning module UMG (174)
+[2019.10.26-22.15.21:985][643]LogModuleManager: Shutting down and abandoning module UMGEditor (173)
+[2019.10.26-22.15.21:985][643]LogModuleManager: Shutting down and abandoning module Sequencer (172)
+[2019.10.26-22.15.21:985][643]LogModuleManager: Shutting down and abandoning module MessageLog (169)
+[2019.10.26-22.15.21:985][643]LogModuleManager: Shutting down and abandoning module SlateReflector (164)
+[2019.10.26-22.15.21:985][643]LogModuleManager: Shutting down and abandoning module Slate (162)
+[2019.10.26-22.15.21:985][643]LogModuleManager: Shutting down and abandoning module EditorStyle (160)
+[2019.10.26-22.15.21:987][643]LogModuleManager: Shutting down and abandoning module UnrealEd (158)
+[2019.10.26-22.15.21:987][643]LogModuleManager: Shutting down and abandoning module MRMesh (156)
+[2019.10.26-22.15.21:987][643]LogModuleManager: Shutting down and abandoning module Messaging (154)
+[2019.10.26-22.15.21:987][643]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (152)
+[2019.10.26-22.15.21:987][643]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (150)
+[2019.10.26-22.15.21:987][643]LogModuleManager: Shutting down and abandoning module XAudio2 (148)
+[2019.10.26-22.15.21:987][643]LogModuleManager: Shutting down and abandoning module Networking (146)
+[2019.10.26-22.15.21:987][643]LogModuleManager: Shutting down and abandoning module Core (144)
+[2019.10.26-22.15.21:987][643]LogModuleManager: Shutting down and abandoning module KismetCompiler (142)
+[2019.10.26-22.15.21:987][643]LogModuleManager: Shutting down and abandoning module MeshUtilities (140)
+[2019.10.26-22.15.21:987][643]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (139)
+[2019.10.26-22.15.21:987][643]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (138)
+[2019.10.26-22.15.21:987][643]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (137)
+[2019.10.26-22.15.21:987][643]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (135)
+[2019.10.26-22.15.21:987][643]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (133)
+[2019.10.26-22.15.21:987][643]LogModuleManager: Shutting down and abandoning module MaterialBaking (129)
+[2019.10.26-22.15.21:987][643]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (124)
+[2019.10.26-22.15.21:987][643]LogModuleManager: Shutting down and abandoning module DerivedDataCache (122)
+[2019.10.26-22.15.22:068][643]LogDerivedDataCache: Shutdown
+[2019.10.26-22.15.22:068][643]LogModuleManager: Shutting down and abandoning module XGEController (120)
+[2019.10.26-22.15.22:068][643]LogModuleManager: Shutting down and abandoning module TargetPlatform (118)
+[2019.10.26-22.15.22:068][643]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (117)
+[2019.10.26-22.15.22:068][643]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (115)
+[2019.10.26-22.15.22:068][643]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (113)
+[2019.10.26-22.15.22:068][643]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (111)
+[2019.10.26-22.15.22:068][643]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (109)
+[2019.10.26-22.15.22:068][643]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (107)
+[2019.10.26-22.15.22:068][643]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (105)
+[2019.10.26-22.15.22:068][643]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (103)
+[2019.10.26-22.15.22:068][643]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (101)
+[2019.10.26-22.15.22:068][643]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (99)
+[2019.10.26-22.15.22:068][643]LogModuleManager: Shutting down and abandoning module ImageWrapper (98)
+[2019.10.26-22.15.22:068][643]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (95)
+[2019.10.26-22.15.22:068][643]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (93)
+[2019.10.26-22.15.22:068][643]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (91)
+[2019.10.26-22.15.22:068][643]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (89)
+[2019.10.26-22.15.22:070][643]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (87)
+[2019.10.26-22.15.22:070][643]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (85)
+[2019.10.26-22.15.22:070][643]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (83)
+[2019.10.26-22.15.22:070][643]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (81)
+[2019.10.26-22.15.22:070][643]LogModuleManager: Shutting down and abandoning module InputCore (78)
+[2019.10.26-22.15.22:070][643]LogModuleManager: Shutting down and abandoning module Settings (76)
+[2019.10.26-22.15.22:070][643]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2019.10.26-22.15.22:070][643]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2019.10.26-22.15.22:070][643]LogHMD: Freeing OpenVRDLLHandle.
+[2019.10.26-22.15.22:070][643]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2019.10.26-22.15.22:070][643]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2019.10.26-22.15.22:070][643]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2019.10.26-22.15.22:070][643]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2019.10.26-22.15.22:070][643]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2019.10.26-22.15.22:070][643]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2019.10.26-22.15.22:070][643]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2019.10.26-22.15.22:102][643]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2019.10.26-22.15.22:117][643]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2019.10.26-22.15.22:118][643]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2019.10.26-22.15.22:120][643]LogModuleManager: Shutting down and abandoning module Media (45)
+[2019.10.26-22.15.22:126][643]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2019.10.26-22.15.22:127][643]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2019.10.26-22.15.22:127][643]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.10.26-22.15.22:127][643]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.10.26-22.15.22:127][643]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.10.26-22.15.22:127][643]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.10.26-22.15.22:127][643]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.10.26-22.15.22:127][643]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.10.26-22.15.22:127][643]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.10.26-22.15.22:128][643]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.10.26-22.15.22:128][643]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.10.26-22.15.22:128][643]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.10.26-22.15.22:128][643]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.10.26-22.15.22:128][643]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.10.26-22.15.22:128][643]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.10.26-22.15.22:128][643]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.10.26-22.15.22:128][643]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.10.26-22.15.22:128][643]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.10.26-22.15.22:128][643]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.10.26-22.15.22:128][643]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.10.26-22.15.22:128][643]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.10.26-22.15.22:137][643]LogExit: Exiting.
+[2019.10.26-22.15.22:168][643]Log file closed, 10/26/19 18:15:22

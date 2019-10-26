@@ -620,3 +620,96 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.26-22.18.43:164][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Moon_BuiltData" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Maps/Moon_BuiltData.uasset" SILENT=true
 [2019.10.26-22.18.43:212][182]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Moon_BuiltData5B8C3CC948E641995AE419B11142DC58.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Maps/Moon_BuiltData.uasset'
 [2019.10.26-22.18.47:114][406]LogUObjectHash: Compacting FUObjectHashTables data took   5.91ms
+[2019.10.26-22.20.39:186][ 53]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.10.26-22.24.41:418][751]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Terrain/Terrain.Terrain
+[2019.10.26-22.24.50:955][283]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Terrain/terrainLength.terrainLength
+[2019.10.26-22.24.52:062][284]LogRenderer: Reallocating scene render targets to support 1104x920 Format 10 NumSamples 1 (Frame:1).
+[2019.10.26-22.25.38:779][ 56]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-22.25.39:864][120]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Lander/Lander.Lander
+[2019.10.26-22.29.03:039][158]BlueprintLog: New page: Compile Terrain
+[2019.10.26-22.29.03:556][158]LogUObjectHash: Compacting FUObjectHashTables data took  10.73ms
+[2019.10.26-22.29.04:540][198]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Terrain/Terrain" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Terrain/Terrain.uasset" SILENT=true
+[2019.10.26-22.29.04:924][198]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Terrain7DFF1CA842492F2ED4B8E8B97275EFF2.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Terrain/Terrain.uasset'
+[2019.10.26-22.29.26:991][501]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Moon" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Maps/Moon.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.26-22.29.27:070][501]LogUObjectHash: Compacting FUObjectHashTables data took   9.09ms
+[2019.10.26-22.29.27:475][501]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Moon0E7348474CA5A242C4B0458360573180.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Maps/Moon.umap'
+[2019.10.26-22.29.27:631][501]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Moon_BuiltData" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Maps/Moon_BuiltData.uasset" SILENT=true
+[2019.10.26-22.29.27:663][501]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Moon_BuiltDataAADBFB0747869ACCB8B7EE91EDE5220A.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Maps/Moon_BuiltData.uasset'
+[2019.10.26-22.29.50:432][858]LogEditorViewport: Clicking on Actor (LMB): Static_Camera_C (Phase1Cam)
+[2019.10.26-22.30.00:123][434]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-22.30.08:163][910]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/PowerupPhase/Interactable_Debris.Interactable_Debris
+[2019.10.26-22.30.22:626][747]LogEditorViewport: Clicking on Actor (LMB): Terrain_C (Terrain)
+[2019.10.26-22.30.37:147][615]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-22.30.50:641][421]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/In_Map_Objects/Capital_Ship.Capital_Ship
+[2019.10.26-22.31.53:506][129]BlueprintLog: New page: Compile Capital_Ship
+[2019.10.26-22.31.53:939][129]LogUObjectHash: Compacting FUObjectHashTables data took   6.64ms
+[2019.10.26-22.31.55:166][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/In_Map_Objects/Capital_Ship" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/In_Map_Objects/Capital_Ship.uasset" SILENT=true
+[2019.10.26-22.31.55:317][182]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Capital_Ship85B451CA4994D71C3E740685E551FBBE.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/In_Map_Objects/Capital_Ship.uasset'
+[2019.10.26-22.31.56:958][278]LogTemp: Repeating last play command: Standalone Game
+[2019.10.26-22.31.57:058][278]LogUObjectHash: Compacting FUObjectHashTables data took   8.15ms
+[2019.10.26-22.31.58:633][278]LogSlate: Window 'Save Content' being destroyed
+[2019.10.26-22.31.58:773][278]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Moon" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Maps/Moon.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.26-22.31.58:837][278]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2019.10.26-22.31.59:209][278]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Moon24C85F6B4439E45183F8B6813FC58FE9.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Maps/Moon.umap'
+[2019.10.26-22.31.59:274][278]LogFileHelpers: Saving map 'Moon' took 0.501
+[2019.10.26-22.32.34:301][756]LogAIModule: Creating AISystem for world Menu
+[2019.10.26-22.32.34:304][756]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Menu.Menu
+[2019.10.26-22.32.34:378][756]LogUObjectHash: Compacting FUObjectHashTables data took   7.16ms
+[2019.10.26-22.32.34:380][756]Cmd: MAP LOAD FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Maps/Menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.26-22.32.34:380][756]LightingResults: New page: Lighting Build
+[2019.10.26-22.32.34:381][756]LoadErrors: New page: Loading map: Menu.umap
+[2019.10.26-22.32.34:383][756]MapCheck: New page: Map Check
+[2019.10.26-22.32.34:383][756]LightingResults: New page: Lighting Build
+[2019.10.26-22.32.34:459][756]LogUObjectHash: Compacting FUObjectHashTables data took   6.59ms
+[2019.10.26-22.32.34:760][756]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.26-22.32.34:839][756]LogUObjectHash: Compacting FUObjectHashTables data took   5.59ms
+[2019.10.26-22.32.34:895][756]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.26-22.32.34:895][756]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.085ms to complete.
+[2019.10.26-22.32.34:895][756]LogFileHelpers: Loading map 'Menu' took 0.517
+[2019.10.26-22.32.37:920][932]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-22.32.43:772][282]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2019.10.26-22.32.55:586][988]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-22.32.55:686][994]LogTemp: Repeating last play command: Standalone Game
+[2019.10.26-22.32.55:781][994]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2019.10.26-22.32.58:400][994]LogSlate: Window 'Save Content' being destroyed
+[2019.10.26-22.32.58:566][994]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Menu" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Maps/Menu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.26-22.32.58:635][994]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2019.10.26-22.32.59:008][994]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Menu5E25A8BF4ACBE5722366AA954F2FD544.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Maps/Menu.umap'
+[2019.10.26-22.32.59:070][994]LogFileHelpers: Saving map 'Menu' took 0.505
+[2019.10.26-22.37.14:646][903]LogEditorViewport: Clicking Background
+[2019.10.26-22.37.17:084][ 46]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-22.37.21:859][330]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/FLIGHT_GI.FLIGHT_GI
+[2019.10.26-22.37.57:852][429]LogSlate: Took 0.000208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.10.26-22.39.57:085][544]BlueprintLog: New page: Compile FLIGHT_GI
+[2019.10.26-22.39.57:291][544]LogUObjectHash: Compacting FUObjectHashTables data took   7.21ms
+[2019.10.26-22.40.06:588][ 84]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.22/Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset: 'C:/Program Files/Epic Games/UE_4.22/Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset' is outside repository
+[2019.10.26-22.40.14:360][546]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.22/Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset: 'C:/Program Files/Epic Games/UE_4.22/Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset' is outside repository
+[2019.10.26-22.40.20:414][905]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.22/Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset: 'C:/Program Files/Epic Games/UE_4.22/Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset' is outside repository
+[2019.10.26-22.40.33:589][688]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.22/Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset: 'C:/Program Files/Epic Games/UE_4.22/Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset' is outside repository
+[2019.10.26-22.40.40:067][ 70]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.22/Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset: 'C:/Program Files/Epic Games/UE_4.22/Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset' is outside repository
+[2019.10.26-22.40.47:409][503]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.22/Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset: 'C:/Program Files/Epic Games/UE_4.22/Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset' is outside repository
+[2019.10.26-22.40.57:373][ 90]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.22/Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset: 'C:/Program Files/Epic Games/UE_4.22/Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset' is outside repository
+[2019.10.26-22.41.05:844][592]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.22/Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset: 'C:/Program Files/Epic Games/UE_4.22/Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset' is outside repository
+[2019.10.26-22.41.08:432][745]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.22/Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset: 'C:/Program Files/Epic Games/UE_4.22/Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset' is outside repository
+[2019.10.26-22.41.46:133][996]BlueprintLog: New page: Compile FLIGHT_GI
+[2019.10.26-22.41.46:325][996]LogUObjectHash: Compacting FUObjectHashTables data took   7.86ms
+[2019.10.26-22.41.47:030][ 16]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FLIGHT_GI" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Blueprints/FLIGHT_GI.uasset" SILENT=true
+[2019.10.26-22.41.47:144][ 16]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/FLIGHT_GI263974114D789602BB9384830C2EAA40.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Blueprints/FLIGHT_GI.uasset'
+[2019.10.26-22.41.58:544][688]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FLIGHT_GI" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Blueprints/FLIGHT_GI.uasset" SILENT=true
+[2019.10.26-22.41.58:659][688]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/FLIGHT_GI3893CD2044116A785382A98F7A02A897.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Blueprints/FLIGHT_GI.uasset'
+[2019.10.26-22.42.36:977][962]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Widgets/W_PlayerSelector.W_PlayerSelector
+[2019.10.26-22.43.48:187][136]BlueprintLog: New page: Compile W_PlayerSelector
+[2019.10.26-22.43.48:397][136]LogUObjectHash: Compacting FUObjectHashTables data took  15.16ms
+[2019.10.26-22.43.49:188][167]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/W_PlayerSelector" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Widgets/W_PlayerSelector.uasset" SILENT=true
+[2019.10.26-22.43.49:318][167]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/W_PlayerSelector3B5907864F7B73377E6E01B71E29F1B6.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Widgets/W_PlayerSelector.uasset'
+[2019.10.26-22.45.19:542][543]BlueprintLog: New page: Compile W_PlayerSelector
+[2019.10.26-22.45.19:666][543]LogUObjectHash: Compacting FUObjectHashTables data took   9.33ms
+[2019.10.26-22.45.20:397][572]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/W_PlayerSelector" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Widgets/W_PlayerSelector.uasset" SILENT=true
+[2019.10.26-22.45.20:491][572]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/W_PlayerSelectorD2EB632C4CF3154737C74DA95986CB95.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Widgets/W_PlayerSelector.uasset'
+[2019.10.26-22.45.24:133][780]BlueprintLog: New page: Compile FLIGHT_GI
+[2019.10.26-22.45.24:301][780]LogUObjectHash: Compacting FUObjectHashTables data took   7.53ms
+[2019.10.26-22.45.25:137][808]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FLIGHT_GI" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Blueprints/FLIGHT_GI.uasset" SILENT=true
+[2019.10.26-22.45.25:258][808]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/FLIGHT_GI532ED38A41E38A8F48F63B88A2E1E6FD.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Blueprints/FLIGHT_GI.uasset'
+[2019.10.26-22.45.55:543][611]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FLIGHT_GI" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Blueprints/FLIGHT_GI.uasset" SILENT=true
+[2019.10.26-22.45.55:654][611]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/FLIGHT_GI87DF6BEF4D4CCCCEFCE3678291290F1F.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Blueprints/FLIGHT_GI.uasset'
+[2019.10.26-22.45.57:935][737]LogUObjectHash: Compacting FUObjectHashTables data took   8.36ms
