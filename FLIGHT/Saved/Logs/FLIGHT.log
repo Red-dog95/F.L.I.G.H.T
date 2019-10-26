@@ -2504,3 +2504,17 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.26-23.48.16:035][769]LogUObjectHash: Compacting FUObjectHashTables data took  10.60ms
 [2019.10.26-23.48.16:549][769]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/ScottsTestLevelBB65E4F647678390D95CCBBC785A2883.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Maps/ScottsTestLevel.umap'
 [2019.10.26-23.48.16:566][769]LogFileHelpers: Saving map 'ScottsTestLevel' took 0.648
+[2019.10.26-23.49.51:622][615]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Widgets/PlayerRegistryScreen.PlayerRegistryScreen
+[2019.10.26-23.50.04:301][317]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.22/Engine/Content/VREditor/Sounds/UI: 'C:/Program Files/Epic Games/UE_4.22/Engine/Content/VREditor/Sounds/UI' is outside repository
+[2019.10.26-23.50.04:301][317]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.22/Engine/Content/EditorSounds/Notifications: 'C:/Program Files/Epic Games/UE_4.22/Engine/Content/EditorSounds/Notifications' is outside repository
+[2019.10.26-23.50.06:092][422]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.22/Engine/Content/VREditor/Sounds/UI: 'C:/Program Files/Epic Games/UE_4.22/Engine/Content/VREditor/Sounds/UI' is outside repository
+[2019.10.26-23.50.06:092][422]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.22/Engine/Content/EditorSounds/Notifications: 'C:/Program Files/Epic Games/UE_4.22/Engine/Content/EditorSounds/Notifications' is outside repository
+[2019.10.26-23.51.57:385][ 18]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Widgets/W_PlayerSelector.W_PlayerSelector
+[2019.10.26-23.52.18:065][217]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/FLIGHT_GI.FLIGHT_GI
+[2019.10.26-23.57.02:674][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FLIGHT_GI" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Blueprints/FLIGHT_GI.uasset" SILENT=true
+[2019.10.26-23.57.02:824][103]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/FLIGHT_GIF3A2298949B6859A24FC60B51BCFE185.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Blueprints/FLIGHT_GI.uasset'
+[2019.10.26-23.57.09:448][489]LogUObjectHash: Compacting FUObjectHashTables data took  10.72ms
+[2019.10.26-23.57.09:583][489]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/PlayerRegistryScreen" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Widgets/PlayerRegistryScreen.uasset" SILENT=true
+[2019.10.26-23.57.09:795][489]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/PlayerRegistryScreenC807B03845A655ED417B1F81E9EF212C.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Widgets/PlayerRegistryScreen.uasset'
+[2019.10.26-23.57.09:805][489]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/W_PlayerSelector" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Widgets/W_PlayerSelector.uasset" SILENT=true
+[2019.10.26-23.57.09:908][489]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/W_PlayerSelector1C5BC5BF475C44CC998B72878C3C857A.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Widgets/W_PlayerSelector.uasset'
