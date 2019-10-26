@@ -713,3 +713,1079 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.26-22.45.55:543][611]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FLIGHT_GI" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Blueprints/FLIGHT_GI.uasset" SILENT=true
 [2019.10.26-22.45.55:654][611]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/FLIGHT_GI87DF6BEF4D4CCCCEFCE3678291290F1F.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Blueprints/FLIGHT_GI.uasset'
 [2019.10.26-22.45.57:935][737]LogUObjectHash: Compacting FUObjectHashTables data took   8.36ms
+[2019.10.26-22.51.30:267][792]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-22.51.41:395][458]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-22.51.43:890][527]LogMaterial: Display: Missing cached shader map for material Beam, compiling. 
+[2019.10.26-22.51.44:003][527]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.10.26-22.51.44:003][527]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.10.26-22.51.44:003][527]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.10.26-22.51.44:003][527]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.10.26-22.51.44:003][527]LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update Curve_GoodSky_horizon_Color
+[2019.10.26-22.51.44:003][527]LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update Curve_GoodSky_DomeColor
+[2019.10.26-22.51.44:004][527]LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update Curve_GoodSky_AllOverlayColor
+[2019.10.26-22.51.44:004][527]LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update Curve_GoodSky_BaseCloudColor
+[2019.10.26-22.51.44:138][527]LogAIModule: Creating AISystem for world ScottsTestLevel
+[2019.10.26-22.51.44:197][527]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/ScottsTestLevel.ScottsTestLevel
+[2019.10.26-22.51.44:314][527]LogUObjectHash: Compacting FUObjectHashTables data took  12.89ms
+[2019.10.26-22.51.45:611][527]LogSlate: Window 'Save Content' being destroyed
+[2019.10.26-22.51.45:801][527]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FLIGHT_GI" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Blueprints/FLIGHT_GI.uasset" SILENT=true
+[2019.10.26-22.51.46:064][527]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/FLIGHT_GIDF1FAEC141B199D185B78B9D9074A7E2.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Blueprints/FLIGHT_GI.uasset'
+[2019.10.26-22.51.46:070][527]Cmd: MAP LOAD FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Maps/ScottsTestLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.26-22.51.46:070][527]LightingResults: New page: Lighting Build
+[2019.10.26-22.51.46:072][527]LoadErrors: New page: Loading map: ScottsTestLevel.umap
+[2019.10.26-22.51.46:074][527]MapCheck: New page: Map Check
+[2019.10.26-22.51.46:074][527]LightingResults: New page: Lighting Build
+[2019.10.26-22.51.46:187][527]LogUObjectHash: Compacting FUObjectHashTables data took  15.48ms
+[2019.10.26-22.51.47:154][527]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.26-22.51.47:289][527]LogUObjectHash: Compacting FUObjectHashTables data took  10.59ms
+[2019.10.26-22.51.47:392][527]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.26-22.51.47:398][527]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 5.779ms to complete.
+[2019.10.26-22.51.47:399][527]LogFileHelpers: Loading map 'ScottsTestLevel' took 1.330
+[2019.10.26-22.51.54:393][926]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-22.51.54:614][939]LogActorFactory: Actor Factory created Sphere
+[2019.10.26-22.51.55:133][970]LogActorFactory: Actor Factory created Sphere
+[2019.10.26-22.51.58:711][179]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-22.52.23:961][689]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-22.52.36:100][412]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-22.53.14:637][710]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-22.53.26:420][413]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-22.53.37:366][ 65]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2019.10.26-22.53.49:238][770]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-22.53.49:305][774]LogTemp: Repeating last play command: Standalone Game
+[2019.10.26-22.53.49:415][774]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2019.10.26-22.53.50:843][774]LogSlate: Window 'Save Content' being destroyed
+[2019.10.26-22.53.50:998][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/ScottsTestLevel" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Maps/ScottsTestLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.26-22.53.51:084][774]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2019.10.26-22.53.51:560][774]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/ScottsTestLevelFC8D3E264B2D7AC19DC345B229B82B7E.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Maps/ScottsTestLevel.umap'
+[2019.10.26-22.53.51:616][774]LogFileHelpers: Saving map 'ScottsTestLevel' took 0.618
+[2019.10.26-22.54.20:456][580]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-22.54.29:747][135]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-22.56.30:930][588]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-22.56.31:072][596]LogAssetEditorManager: Opening Asset editor for Material /Game/Maps/MoonSurface.MoonSurface
+[2019.10.26-22.56.31:077][596]LogMaterial: Display: Missing cached shader map for material MoonSurface, compiling. 
+[2019.10.26-22.56.31:285][596]LogMaterial: Display: Missing cached shader map for material MoonSurface, compiling. 
+[2019.10.26-22.56.31:306][596]LogMaterial: Display: Missing cached shader map for material MoonSurface, compiling. 
+[2019.10.26-22.56.31:330][596]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.10.26-22.56.31:330][596]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.26-22.56.31:330][596]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.10.26-22.56.31:330][596]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.10.26-22.56.32:090][618]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.10.26-22.56.32:192][624]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.10.26-22.56.32:468][640]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.10.26-22.56.32:486][641]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.10.26-22.56.32:710][654]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.10.26-22.56.32:828][661]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.10.26-22.56.32:911][666]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.10.26-22.56.33:041][674]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.26-22.56.33:177][682]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.10.26-22.56.33:580][706]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.10.26-22.56.33:797][719]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.10.26-22.56.33:948][728]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.10.26-22.56.34:131][739]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.10.26-22.56.34:374][750]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.10.26-22.56.34:612][764]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.10.26-22.56.34:930][783]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.10.26-22.56.34:960][785]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.10.26-22.56.37:794][952]LogMaterial: Display: Missing cached shader map for material MoonSurface, compiling. 
+[2019.10.26-22.56.37:837][953]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.10.26-22.56.37:837][953]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.26-22.56.37:837][953]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.10.26-22.56.37:837][953]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.10.26-22.56.38:232][971]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.10.26-22.56.38:253][972]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.10.26-22.56.38:253][972]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.10.26-22.56.38:299][973]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.10.26-22.56.38:590][990]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.10.26-22.56.38:640][993]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.10.26-22.56.38:703][996]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.10.26-22.56.38:720][996]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.26-22.56.38:921][  8]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.10.26-22.56.39:246][ 27]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.10.26-22.56.39:510][ 43]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.10.26-22.56.39:659][ 52]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.10.26-22.56.39:827][ 62]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.10.26-22.56.40:043][ 75]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.10.26-22.56.40:164][ 82]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.10.26-22.56.40:562][106]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.10.26-22.56.40:612][109]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.10.26-22.56.41:252][147]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.10.26-22.56.41:252][147]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.10.26-22.56.41:252][147]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.10.26-22.56.41:252][147]MaterialEditorStats: Texture samplers: 3/16
+[2019.10.26-22.56.43:592][287]LogMaterial: Display: Missing cached shader map for material MoonSurface, compiling. 
+[2019.10.26-22.56.43:612][287]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.10.26-22.56.43:612][287]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.26-22.56.43:612][287]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.10.26-22.56.43:612][287]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.10.26-22.56.44:119][318]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.10.26-22.56.44:135][319]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.10.26-22.56.44:169][321]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.10.26-22.56.44:183][322]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.10.26-22.56.44:452][338]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.10.26-22.56.44:602][347]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.10.26-22.56.44:619][348]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.10.26-22.56.44:619][348]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.26-22.56.44:836][361]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.10.26-22.56.45:189][382]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.10.26-22.56.45:571][405]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.10.26-22.56.45:637][409]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.10.26-22.56.45:789][418]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.10.26-22.56.46:140][439]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.10.26-22.56.46:240][445]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.10.26-22.56.46:733][473]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.10.26-22.56.46:819][479]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.10.26-22.56.47:590][525]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.10.26-22.56.47:590][525]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.10.26-22.56.47:590][525]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.10.26-22.56.47:591][525]MaterialEditorStats: Texture samplers: 3/16
+[2019.10.26-22.56.50:311][688]LogMaterial: Display: Missing cached shader map for material MoonSurface, compiling. 
+[2019.10.26-22.56.50:336][689]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.10.26-22.56.50:336][689]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.26-22.56.50:336][689]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.10.26-22.56.50:336][689]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.10.26-22.56.50:823][714]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.10.26-22.56.50:872][716]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.10.26-22.56.50:922][718]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.10.26-22.56.50:935][719]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.10.26-22.56.51:180][730]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.10.26-22.56.51:237][733]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.10.26-22.56.51:300][736]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.10.26-22.56.51:316][736]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.26-22.56.51:564][748]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.10.26-22.56.51:847][759]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.10.26-22.56.52:177][774]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.10.26-22.56.52:306][779]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.10.26-22.56.52:490][787]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.10.26-22.56.52:690][794]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.10.26-22.56.52:789][795]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.10.26-22.56.53:152][807]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.10.26-22.56.53:189][807]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.10.26-22.56.54:314][869]MaterialEditorStats: Base pass shader: 120 instructions
+[2019.10.26-22.56.54:314][869]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2019.10.26-22.56.54:314][869]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.10.26-22.56.54:314][869]MaterialEditorStats: Texture samplers: 3/16
+[2019.10.26-23.01.02:743][343]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/scott/Desktop/Assets/FLIGHT/christmas2015fullmoon.jpg)
+[2019.10.26-23.01.02:930][343]LogTexture: Display: Building textures: christmas2015fullmoon (AutoDXT, 3240X3240)
+[2019.10.26-23.01.18:757][976]LogMaterial: Display: Missing cached shader map for material MoonSurface, compiling. 
+[2019.10.26-23.01.18:777][976]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.10.26-23.01.18:782][976]LogMaterial: Display: Missing cached shader map for material MoonSurface, compiling. 
+[2019.10.26-23.01.18:814][976]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.10.26-23.01.18:814][976]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.26-23.01.18:814][976]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.10.26-23.01.18:814][976]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.10.26-23.01.18:828][976]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.10.26-23.01.18:833][976]LogMaterial: Display: Missing cached shader map for material MoonSurface, compiling. 
+[2019.10.26-23.01.18:834][976]LogMaterial: Warning: /Engine/Transient.MoonSurface (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.26-23.01.18:834][976]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.10.26-23.01.18:864][976]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.10.26-23.01.18:872][976]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2019.10.26-23.01.20:963][ 91]LogMaterial: Display: Missing cached shader map for material MoonSurface, compiling. 
+[2019.10.26-23.01.20:964][ 91]LogMaterial: Warning: /Engine/Transient.MoonSurface (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.26-23.01.20:964][ 91]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.10.26-23.01.20:994][ 91]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.10.26-23.01.26:539][418]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.22/Engine/Content/ArtTools/RenderToTexture/Textures/127grey.uasset: 'C:/Program Files/Epic Games/UE_4.22/Engine/Content/ArtTools/RenderToTexture/Textures/127grey.uasset' is outside repository
+[2019.10.26-23.01.26:539][418]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.22/Engine/Content/EngineLightProfiles/180Degree_IES.uasset: 'C:/Program Files/Epic Games/UE_4.22/Engine/Content/EngineLightProfiles/180Degree_IES.uasset' is outside repository
+[2019.10.26-23.01.30:172][635]LogMaterial: Display: Missing cached shader map for material MoonSurface, compiling. 
+[2019.10.26-23.01.30:197][635]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.10.26-23.01.30:197][635]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.26-23.01.30:197][635]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.10.26-23.01.30:197][635]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.10.26-23.01.30:202][635]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.10.26-23.01.30:239][635]LogMaterial: Display: Missing cached shader map for material MoonSurface, compiling. 
+[2019.10.26-23.01.30:733][655]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.10.26-23.01.30:752][656]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.10.26-23.01.30:781][658]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.10.26-23.01.30:797][659]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.26-23.01.31:401][695]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.10.26-23.01.31:434][697]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.10.26-23.01.31:450][698]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.10.26-23.01.31:551][704]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.10.26-23.01.31:940][727]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.10.26-23.01.31:989][730]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.10.26-23.01.32:006][731]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.10.26-23.01.32:122][738]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.10.26-23.01.32:342][751]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.10.26-23.01.32:474][759]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.26-23.01.32:491][760]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.10.26-23.01.33:160][800]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.10.26-23.01.33:261][806]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.10.26-23.01.33:512][821]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.10.26-23.01.33:600][826]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.10.26-23.01.33:934][846]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.10.26-23.01.34:303][868]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.10.26-23.01.34:603][886]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.10.26-23.01.34:670][890]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.10.26-23.01.35:497][939]MaterialEditorStats: Base pass shader: 110 instructions
+[2019.10.26-23.01.35:497][939]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2019.10.26-23.01.35:497][939]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2019.10.26-23.01.35:497][939]MaterialEditorStats: Texture samplers: 4/16
+[2019.10.26-23.01.35:497][939]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.10.26-23.01.35:497][939]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.10.26-23.01.38:929][145]LogMaterialEditor: Applying material MoonSurface
+[2019.10.26-23.01.39:413][145]LogMaterial: Display: Missing cached shader map for material MoonSurface, compiling. 
+[2019.10.26-23.01.39:480][145]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.10.26-23.01.39:480][145]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.26-23.01.39:480][145]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.10.26-23.01.39:480][145]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.10.26-23.01.39:505][145]LogMaterial: Display: Missing cached shader map for material MoonSurface, compiling. 
+[2019.10.26-23.01.39:537][145]LogMaterial: Display: Missing cached shader map for material MoonSurface, compiling. 
+[2019.10.26-23.01.39:688][145]LogUObjectHash: Compacting FUObjectHashTables data took  10.25ms
+[2019.10.26-23.01.39:705][145]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.26-23.01.42:180][145]LogShaderCompilers: Display: Shaders left to compile 41
+[2019.10.26-23.01.42:181][145]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.10.26-23.01.42:181][145]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.10.26-23.01.42:181][145]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.10.26-23.01.42:181][145]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.10.26-23.01.42:181][145]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.10.26-23.01.42:181][145]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.10.26-23.01.42:181][145]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.10.26-23.01.42:181][145]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.10.26-23.01.42:181][145]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.10.26-23.01.42:181][145]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.10.26-23.01.42:181][145]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.10.26-23.01.42:181][145]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.10.26-23.01.42:181][145]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.10.26-23.01.42:181][145]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.10.26-23.01.42:181][145]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.10.26-23.01.42:181][145]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.10.26-23.01.42:181][145]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.10.26-23.01.42:181][145]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.10.26-23.01.42:181][145]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.10.26-23.01.42:181][145]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.10.26-23.01.42:182][145]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.10.26-23.01.42:185][145]TextureStreamingBuild: Display: Compiling optional shaders took 2.496 seconds.
+[2019.10.26-23.01.42:302][145]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2019.10.26-23.01.48:428][497]MaterialEditorStats: Base pass shader: 110 instructions
+[2019.10.26-23.01.48:428][497]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2019.10.26-23.01.48:428][497]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2019.10.26-23.01.48:428][497]MaterialEditorStats: Texture samplers: 4/16
+[2019.10.26-23.01.48:428][497]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.10.26-23.01.48:428][497]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.10.26-23.01.48:776][518]LogMaterialEditor: Saving and Compiling material MoonSurface
+[2019.10.26-23.01.48:945][518]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MoonSurface" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Maps/MoonSurface.uasset" SILENT=true
+[2019.10.26-23.01.48:970][518]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/MoonSurface26D23DCE427D0C4FB6A4599DD65182F4.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Maps/MoonSurface.uasset'
+[2019.10.26-23.02.08:094][639]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2019.10.26-23.02.10:444][772]Cmd: DELETE
+[2019.10.26-23.02.10:444][772]Cmd: ACTOR DELETE
+[2019.10.26-23.02.10:450][772]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.26-23.02.10:548][772]LogUObjectHash: Compacting FUObjectHashTables data took   5.25ms
+[2019.10.26-23.02.10:549][772]LogEditorActor: Deleted 1 Actors (0.104 secs)
+[2019.10.26-23.02.11:172][806]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-23.02.11:345][816]LogActorFactory: Actor Factory created Plane
+[2019.10.26-23.02.11:734][839]LogActorFactory: Actor Factory created Plane
+[2019.10.26-23.02.16:928][147]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-23.02.37:891][400]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-23.03.05:420][ 46]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-23.03.05:594][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2019.10.26-23.03.06:747][ 52]LogSlate: Window 'Save Content' being destroyed
+[2019.10.26-23.03.06:753][ 52]LogPlayLevel: Warning: PIE failed because map save was canceled
+[2019.10.26-23.03.06:753][ 52]PIE: Warning: PIE failed because map save was canceled
+[2019.10.26-23.03.08:036][121]LogSlate: Window 'Message Log' being destroyed
+[2019.10.26-23.03.08:041][121]LogSlate: Window 'Message Log' being destroyed
+[2019.10.26-23.03.10:408][257]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/ScottsTestLevel.ScottsTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ScottsTestLevel.ScottsTestLevel:PersistentLevel.ScottsTestLevel' with GeneratedClass '/Game/Maps/ScottsTestLevel.ScottsTestLevel_C' with ClassGeneratedBy '/Game/Maps/ScottsTestLevel.ScottsTestLevel:PersistentLevel.ScottsTestLevel'
+[2019.10.26-23.03.10:409][257]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.26-23.03.10:409][257]PIE: New page: PIE session: ScottsTestLevel (Oct 26, 2019, 3:03:10 PM)
+[2019.10.26-23.03.10:431][257]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ScottsTestLevel
+[2019.10.26-23.03.10:438][257]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006479s)
+[2019.10.26-23.03.10:439][257]LogAIModule: Creating AISystem for world ScottsTestLevel
+[2019.10.26-23.03.10:439][257]LogPlayLevel: PIE: World Init took: (0.001097s)
+[2019.10.26-23.03.10:439][257]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ScottsTestLevel.ScottsTestLevel to /Game/Maps/UEDPIE_0_ScottsTestLevel.ScottsTestLevel (0.007955s)
+[2019.10.26-23.03.10:515][257]LogUObjectHash: Compacting FUObjectHashTables data took   5.26ms
+[2019.10.26-23.03.10:596][257]LogInit: XAudio2 using 'Headphones (2- Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.26-23.03.10:657][257]LogInit: FAudioDevice initialized.
+[2019.10.26-23.03.10:668][257]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.26-23.03.10:719][257]LogLoad: Game class is 'Default_GM_C'
+[2019.10.26-23.03.10:721][257]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ScottsTestLevel.ScottsTestLevel up for play (max tick rate 60) at 2019.10.26-19.03.10
+[2019.10.26-23.03.10:724][257]LogWorld: Bringing up level for play took: 0.003782
+[2019.10.26-23.03.10:753][257]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 20 classes and 0 folders.
+[2019.10.26-23.03.10:755][257]LogParticles: GameplayStatics::SpawnEmitterAttached spawned potentially immortal particle system! /Game/Maps/UEDPIE_0_ScottsTestLevel.ScottsTestLevel:PersistentLevel.WeatherSystem_2.ParticleSystemComponent_0 (/Game/In_Map_Objects/Lightning.Lightning) may stay in world despite never spawning particles after burst spawning is over.
+[2019.10.26-23.03.10:755][257]LogBlueprintUserMessages: [WeatherSystem_2] Start:   X=290.000 Y=0.000 Z=4000.000      End:    X=292.004 Y=0.000 Z=0.000
+[2019.10.26-23.03.10:755][257]LogParticles: GameplayStatics::SpawnEmitterAttached spawned potentially immortal particle system! /Game/Maps/UEDPIE_0_ScottsTestLevel.ScottsTestLevel:PersistentLevel.WeatherSystem_2.ParticleSystemComponent_1 (/Game/In_Map_Objects/Lightning.Lightning) may stay in world despite never spawning particles after burst spawning is over.
+[2019.10.26-23.03.10:755][257]LogBlueprintUserMessages: [WeatherSystem_2] Start:   X=-16.200 Y=-0.000 Z=1308.000      End:    X=-430.183 Y=-0.000 Z=1309.675
+[2019.10.26-23.03.10:755][257]LogParticles: GameplayStatics::SpawnEmitterAttached spawned potentially immortal particle system! /Game/Maps/UEDPIE_0_ScottsTestLevel.ScottsTestLevel:PersistentLevel.WeatherSystem_2.ParticleSystemComponent_2 (/Game/In_Map_Objects/Lightning.Lightning) may stay in world despite never spawning particles after burst spawning is over.
+[2019.10.26-23.03.10:755][257]LogBlueprintUserMessages: [WeatherSystem_2] Start:   X=-385.001 Y=-0.000 Z=1248.350      End:    X=-685.183 Y=-0.000 Z=1290.672
+[2019.10.26-23.03.10:755][257]LogParticles: GameplayStatics::SpawnEmitterAttached spawned potentially immortal particle system! /Game/Maps/UEDPIE_0_ScottsTestLevel.ScottsTestLevel:PersistentLevel.WeatherSystem_2.ParticleSystemComponent_3 (/Game/In_Map_Objects/Lightning.Lightning) may stay in world despite never spawning particles after burst spawning is over.
+[2019.10.26-23.03.10:755][257]LogBlueprintUserMessages: [WeatherSystem_2] Start:   X=-640.000 Y=-0.000 Z=1229.344      End:    X=-634.930 Y=0.000 Z=0.000
+[2019.10.26-23.03.10:755][257]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (ShowID) or object (Lander_2)
+[2019.10.26-23.03.10:756][257]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (ShowID) or object (Lander2_5)
+[2019.10.26-23.03.10:756][257]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (ShowID) or object (Lander3_5)
+[2019.10.26-23.03.10:763][257]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_ScottsTestLevel -0.16
+[2019.10.26-23.03.10:763][257]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/ScottsTestLevel.ScottsTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ScottsTestLevel.ScottsTestLevel:PersistentLevel.ScottsTestLevel' with GeneratedClass '/Game/Maps/ScottsTestLevel.ScottsTestLevel_C' with ClassGeneratedBy '/Game/Maps/ScottsTestLevel.ScottsTestLevel:PersistentLevel.ScottsTestLevel'
+[2019.10.26-23.03.10:835][258]LogRenderer: Reallocating scene render targets to support 1912x1048 Format 10 NumSamples 1 (Frame:1).
+[2019.10.26-23.03.14:302][421]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/ScottsTestLevel.ScottsTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ScottsTestLevel.ScottsTestLevel:PersistentLevel.ScottsTestLevel' with GeneratedClass '/Game/Maps/ScottsTestLevel.ScottsTestLevel_C' with ClassGeneratedBy '/Game/Maps/ScottsTestLevel.ScottsTestLevel:PersistentLevel.ScottsTestLevel'
+[2019.10.26-23.03.14:303][421]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.26-23.03.14:335][421]LogSlate: Window 'FLIGHT Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.26-23.03.14:386][421]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.26-23.03.14:386][421]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/ScottsTestLevel.ScottsTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ScottsTestLevel.ScottsTestLevel:PersistentLevel.ScottsTestLevel' with GeneratedClass '/Game/Maps/ScottsTestLevel.ScottsTestLevel_C' with ClassGeneratedBy '/Game/Maps/ScottsTestLevel.ScottsTestLevel:PersistentLevel.ScottsTestLevel'
+[2019.10.26-23.03.14:564][421]LogUObjectHash: Compacting FUObjectHashTables data took  10.42ms
+[2019.10.26-23.03.14:592][422]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.10.26-23.03.18:208][629]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2019.10.26-23.03.23:247][925]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-23.03.32:544][477]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-23.03.40:471][951]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2019.10.26-23.03.43:767][147]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-23.03.43:899][155]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.26-23.03.43:955][155]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/ScottsTestLevel.ScottsTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ScottsTestLevel.ScottsTestLevel:PersistentLevel.ScottsTestLevel' with GeneratedClass '/Game/Maps/ScottsTestLevel.ScottsTestLevel_C' with ClassGeneratedBy '/Game/Maps/ScottsTestLevel.ScottsTestLevel:PersistentLevel.ScottsTestLevel'
+[2019.10.26-23.03.43:956][155]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.26-23.03.43:956][155]PIE: New page: PIE session: ScottsTestLevel (Oct 26, 2019, 3:03:43 PM)
+[2019.10.26-23.03.43:956][155]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ScottsTestLevel
+[2019.10.26-23.03.43:962][155]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005417s)
+[2019.10.26-23.03.43:962][155]LogAIModule: Creating AISystem for world ScottsTestLevel
+[2019.10.26-23.03.43:963][155]LogPlayLevel: PIE: World Init took: (0.000659s)
+[2019.10.26-23.03.43:963][155]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ScottsTestLevel.ScottsTestLevel to /Game/Maps/UEDPIE_0_ScottsTestLevel.ScottsTestLevel (0.006237s)
+[2019.10.26-23.03.44:065][155]LogUObjectHash: Compacting FUObjectHashTables data took   8.18ms
+[2019.10.26-23.03.44:129][155]LogInit: XAudio2 using 'Headphones (2- Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.26-23.03.44:178][155]LogInit: FAudioDevice initialized.
+[2019.10.26-23.03.44:188][155]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.26-23.03.44:219][155]LogLoad: Game class is 'Default_GM_C'
+[2019.10.26-23.03.44:222][155]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ScottsTestLevel.ScottsTestLevel up for play (max tick rate 60) at 2019.10.26-19.03.44
+[2019.10.26-23.03.44:223][155]LogWorld: Bringing up level for play took: 0.003111
+[2019.10.26-23.03.44:236][155]LogParticles: GameplayStatics::SpawnEmitterAttached spawned potentially immortal particle system! /Game/Maps/UEDPIE_0_ScottsTestLevel.ScottsTestLevel:PersistentLevel.WeatherSystem_2.ParticleSystemComponent_0 (/Game/In_Map_Objects/Lightning.Lightning) may stay in world despite never spawning particles after burst spawning is over.
+[2019.10.26-23.03.44:236][155]LogBlueprintUserMessages: [WeatherSystem_2] Start:   X=290.000 Y=0.000 Z=4000.000      End:    X=299.918 Y=0.000 Z=0.000
+[2019.10.26-23.03.44:236][155]LogParticles: GameplayStatics::SpawnEmitterAttached spawned potentially immortal particle system! /Game/Maps/UEDPIE_0_ScottsTestLevel.ScottsTestLevel:PersistentLevel.WeatherSystem_2.ParticleSystemComponent_1 (/Game/In_Map_Objects/Lightning.Lightning) may stay in world despite never spawning particles after burst spawning is over.
+[2019.10.26-23.03.44:236][155]LogBlueprintUserMessages: [WeatherSystem_2] Start:   X=-16.200 Y=-0.000 Z=1308.000      End:    X=-430.183 Y=-0.000 Z=1309.675
+[2019.10.26-23.03.44:236][155]LogParticles: GameplayStatics::SpawnEmitterAttached spawned potentially immortal particle system! /Game/Maps/UEDPIE_0_ScottsTestLevel.ScottsTestLevel:PersistentLevel.WeatherSystem_2.ParticleSystemComponent_2 (/Game/In_Map_Objects/Lightning.Lightning) may stay in world despite never spawning particles after burst spawning is over.
+[2019.10.26-23.03.44:236][155]LogBlueprintUserMessages: [WeatherSystem_2] Start:   X=-385.001 Y=-0.000 Z=1248.350      End:    X=-685.183 Y=-0.000 Z=1290.672
+[2019.10.26-23.03.44:236][155]LogParticles: GameplayStatics::SpawnEmitterAttached spawned potentially immortal particle system! /Game/Maps/UEDPIE_0_ScottsTestLevel.ScottsTestLevel:PersistentLevel.WeatherSystem_2.ParticleSystemComponent_3 (/Game/In_Map_Objects/Lightning.Lightning) may stay in world despite never spawning particles after burst spawning is over.
+[2019.10.26-23.03.44:237][155]LogBlueprintUserMessages: [WeatherSystem_2] Start:   X=-640.000 Y=-0.000 Z=1229.344      End:    X=-644.238 Y=0.000 Z=0.000
+[2019.10.26-23.03.44:237][155]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (ShowID) or object (Lander_2)
+[2019.10.26-23.03.44:237][155]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (ShowID) or object (Lander2_5)
+[2019.10.26-23.03.44:238][155]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (ShowID) or object (Lander3_5)
+[2019.10.26-23.03.44:241][155]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_ScottsTestLevel -0.682
+[2019.10.26-23.03.44:241][155]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/ScottsTestLevel.ScottsTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ScottsTestLevel.ScottsTestLevel:PersistentLevel.ScottsTestLevel' with GeneratedClass '/Game/Maps/ScottsTestLevel.ScottsTestLevel_C' with ClassGeneratedBy '/Game/Maps/ScottsTestLevel.ScottsTestLevel:PersistentLevel.ScottsTestLevel'
+[2019.10.26-23.03.45:468][221]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/ScottsTestLevel.ScottsTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ScottsTestLevel.ScottsTestLevel:PersistentLevel.ScottsTestLevel' with GeneratedClass '/Game/Maps/ScottsTestLevel.ScottsTestLevel_C' with ClassGeneratedBy '/Game/Maps/ScottsTestLevel.ScottsTestLevel:PersistentLevel.ScottsTestLevel'
+[2019.10.26-23.03.45:468][221]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.26-23.03.45:493][221]LogSlate: Window 'FLIGHT Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.26-23.03.45:546][221]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.26-23.03.45:546][221]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/ScottsTestLevel.ScottsTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ScottsTestLevel.ScottsTestLevel:PersistentLevel.ScottsTestLevel' with GeneratedClass '/Game/Maps/ScottsTestLevel.ScottsTestLevel_C' with ClassGeneratedBy '/Game/Maps/ScottsTestLevel.ScottsTestLevel:PersistentLevel.ScottsTestLevel'
+[2019.10.26-23.03.45:642][221]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2019.10.26-23.03.45:667][222]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.10.26-23.03.51:160][539]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2019.10.26-23.03.55:118][771]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-23.03.55:202][776]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.26-23.03.55:261][776]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/ScottsTestLevel.ScottsTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ScottsTestLevel.ScottsTestLevel:PersistentLevel.ScottsTestLevel' with GeneratedClass '/Game/Maps/ScottsTestLevel.ScottsTestLevel_C' with ClassGeneratedBy '/Game/Maps/ScottsTestLevel.ScottsTestLevel:PersistentLevel.ScottsTestLevel'
+[2019.10.26-23.03.55:262][776]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.26-23.03.55:262][776]PIE: New page: PIE session: ScottsTestLevel (Oct 26, 2019, 3:03:55 PM)
+[2019.10.26-23.03.55:262][776]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ScottsTestLevel
+[2019.10.26-23.03.55:268][776]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005559s)
+[2019.10.26-23.03.55:269][776]LogAIModule: Creating AISystem for world ScottsTestLevel
+[2019.10.26-23.03.55:269][776]LogPlayLevel: PIE: World Init took: (0.000650s)
+[2019.10.26-23.03.55:269][776]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ScottsTestLevel.ScottsTestLevel to /Game/Maps/UEDPIE_0_ScottsTestLevel.ScottsTestLevel (0.006422s)
+[2019.10.26-23.03.55:343][776]LogUObjectHash: Compacting FUObjectHashTables data took   4.87ms
+[2019.10.26-23.03.55:411][776]LogInit: XAudio2 using 'Headphones (2- Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.26-23.03.55:458][776]LogInit: FAudioDevice initialized.
+[2019.10.26-23.03.55:470][776]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.26-23.03.55:505][776]LogLoad: Game class is 'Default_GM_C'
+[2019.10.26-23.03.55:508][776]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ScottsTestLevel.ScottsTestLevel up for play (max tick rate 60) at 2019.10.26-19.03.55
+[2019.10.26-23.03.55:510][776]LogWorld: Bringing up level for play took: 0.004308
+[2019.10.26-23.03.55:524][776]LogParticles: GameplayStatics::SpawnEmitterAttached spawned potentially immortal particle system! /Game/Maps/UEDPIE_0_ScottsTestLevel.ScottsTestLevel:PersistentLevel.WeatherSystem_2.ParticleSystemComponent_0 (/Game/In_Map_Objects/Lightning.Lightning) may stay in world despite never spawning particles after burst spawning is over.
+[2019.10.26-23.03.55:524][776]LogBlueprintUserMessages: [WeatherSystem_2] Start:   X=290.000 Y=0.000 Z=4000.000      End:    X=289.474 Y=0.000 Z=0.000
+[2019.10.26-23.03.55:524][776]LogParticles: GameplayStatics::SpawnEmitterAttached spawned potentially immortal particle system! /Game/Maps/UEDPIE_0_ScottsTestLevel.ScottsTestLevel:PersistentLevel.WeatherSystem_2.ParticleSystemComponent_1 (/Game/In_Map_Objects/Lightning.Lightning) may stay in world despite never spawning particles after burst spawning is over.
+[2019.10.26-23.03.55:524][776]LogBlueprintUserMessages: [WeatherSystem_2] Start:   X=-16.200 Y=-0.001 Z=1308.000      End:    X=-430.183 Y=-0.001 Z=1309.675
+[2019.10.26-23.03.55:524][776]LogParticles: GameplayStatics::SpawnEmitterAttached spawned potentially immortal particle system! /Game/Maps/UEDPIE_0_ScottsTestLevel.ScottsTestLevel:PersistentLevel.WeatherSystem_2.ParticleSystemComponent_2 (/Game/In_Map_Objects/Lightning.Lightning) may stay in world despite never spawning particles after burst spawning is over.
+[2019.10.26-23.03.55:524][776]LogBlueprintUserMessages: [WeatherSystem_2] Start:   X=-385.001 Y=-0.001 Z=1248.350      End:    X=-685.183 Y=-0.001 Z=1290.672
+[2019.10.26-23.03.55:525][776]LogParticles: GameplayStatics::SpawnEmitterAttached spawned potentially immortal particle system! /Game/Maps/UEDPIE_0_ScottsTestLevel.ScottsTestLevel:PersistentLevel.WeatherSystem_2.ParticleSystemComponent_3 (/Game/In_Map_Objects/Lightning.Lightning) may stay in world despite never spawning particles after burst spawning is over.
+[2019.10.26-23.03.55:525][776]LogBlueprintUserMessages: [WeatherSystem_2] Start:   X=-640.000 Y=-0.001 Z=1229.344      End:    X=-632.632 Y=0.000 Z=0.000
+[2019.10.26-23.03.55:525][776]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (ShowID) or object (Lander_2)
+[2019.10.26-23.03.55:525][776]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (ShowID) or object (Lander2_5)
+[2019.10.26-23.03.55:525][776]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (ShowID) or object (Lander3_5)
+[2019.10.26-23.03.55:529][776]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_ScottsTestLevel 0.606
+[2019.10.26-23.03.55:529][776]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/ScottsTestLevel.ScottsTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ScottsTestLevel.ScottsTestLevel:PersistentLevel.ScottsTestLevel' with GeneratedClass '/Game/Maps/ScottsTestLevel.ScottsTestLevel_C' with ClassGeneratedBy '/Game/Maps/ScottsTestLevel.ScottsTestLevel:PersistentLevel.ScottsTestLevel'
+[2019.10.26-23.03.56:676][833]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/ScottsTestLevel.ScottsTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ScottsTestLevel.ScottsTestLevel:PersistentLevel.ScottsTestLevel' with GeneratedClass '/Game/Maps/ScottsTestLevel.ScottsTestLevel_C' with ClassGeneratedBy '/Game/Maps/ScottsTestLevel.ScottsTestLevel:PersistentLevel.ScottsTestLevel'
+[2019.10.26-23.03.56:676][833]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.26-23.03.56:700][833]LogSlate: Window 'FLIGHT Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.26-23.03.56:748][833]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.26-23.03.56:748][833]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/ScottsTestLevel.ScottsTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ScottsTestLevel.ScottsTestLevel:PersistentLevel.ScottsTestLevel' with GeneratedClass '/Game/Maps/ScottsTestLevel.ScottsTestLevel_C' with ClassGeneratedBy '/Game/Maps/ScottsTestLevel.ScottsTestLevel:PersistentLevel.ScottsTestLevel'
+[2019.10.26-23.03.56:838][833]LogUObjectHash: Compacting FUObjectHashTables data took   5.52ms
+[2019.10.26-23.03.56:864][834]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.10.26-23.04.05:891][364]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2019.10.26-23.04.11:137][668]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-23.04.11:237][674]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.26-23.04.11:290][674]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/ScottsTestLevel.ScottsTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ScottsTestLevel.ScottsTestLevel:PersistentLevel.ScottsTestLevel' with GeneratedClass '/Game/Maps/ScottsTestLevel.ScottsTestLevel_C' with ClassGeneratedBy '/Game/Maps/ScottsTestLevel.ScottsTestLevel:PersistentLevel.ScottsTestLevel'
+[2019.10.26-23.04.11:290][674]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.26-23.04.11:290][674]PIE: New page: PIE session: ScottsTestLevel (Oct 26, 2019, 3:04:11 PM)
+[2019.10.26-23.04.11:291][674]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ScottsTestLevel
+[2019.10.26-23.04.11:296][674]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005263s)
+[2019.10.26-23.04.11:297][674]LogAIModule: Creating AISystem for world ScottsTestLevel
+[2019.10.26-23.04.11:297][674]LogPlayLevel: PIE: World Init took: (0.000666s)
+[2019.10.26-23.04.11:297][674]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ScottsTestLevel.ScottsTestLevel to /Game/Maps/UEDPIE_0_ScottsTestLevel.ScottsTestLevel (0.006094s)
+[2019.10.26-23.04.11:373][674]LogUObjectHash: Compacting FUObjectHashTables data took   4.78ms
+[2019.10.26-23.04.11:437][674]LogInit: XAudio2 using 'Headphones (2- Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.26-23.04.11:483][674]LogInit: FAudioDevice initialized.
+[2019.10.26-23.04.11:494][674]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.26-23.04.11:530][674]LogLoad: Game class is 'Default_GM_C'
+[2019.10.26-23.04.11:533][674]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ScottsTestLevel.ScottsTestLevel up for play (max tick rate 60) at 2019.10.26-19.04.11
+[2019.10.26-23.04.11:534][674]LogWorld: Bringing up level for play took: 0.003173
+[2019.10.26-23.04.11:549][674]LogParticles: GameplayStatics::SpawnEmitterAttached spawned potentially immortal particle system! /Game/Maps/UEDPIE_0_ScottsTestLevel.ScottsTestLevel:PersistentLevel.WeatherSystem_2.ParticleSystemComponent_0 (/Game/In_Map_Objects/Lightning.Lightning) may stay in world despite never spawning particles after burst spawning is over.
+[2019.10.26-23.04.11:549][674]LogBlueprintUserMessages: [WeatherSystem_2] Start:   X=290.000 Y=0.000 Z=4000.000      End:    X=298.310 Y=0.000 Z=0.000
+[2019.10.26-23.04.11:549][674]LogParticles: GameplayStatics::SpawnEmitterAttached spawned potentially immortal particle system! /Game/Maps/UEDPIE_0_ScottsTestLevel.ScottsTestLevel:PersistentLevel.WeatherSystem_2.ParticleSystemComponent_1 (/Game/In_Map_Objects/Lightning.Lightning) may stay in world despite never spawning particles after burst spawning is over.
+[2019.10.26-23.04.11:549][674]LogBlueprintUserMessages: [WeatherSystem_2] Start:   X=-16.200 Y=-0.000 Z=1308.000      End:    X=-430.183 Y=-0.000 Z=1309.675
+[2019.10.26-23.04.11:549][674]LogParticles: GameplayStatics::SpawnEmitterAttached spawned potentially immortal particle system! /Game/Maps/UEDPIE_0_ScottsTestLevel.ScottsTestLevel:PersistentLevel.WeatherSystem_2.ParticleSystemComponent_2 (/Game/In_Map_Objects/Lightning.Lightning) may stay in world despite never spawning particles after burst spawning is over.
+[2019.10.26-23.04.11:550][674]LogBlueprintUserMessages: [WeatherSystem_2] Start:   X=-385.001 Y=-0.000 Z=1248.350      End:    X=-685.183 Y=-0.000 Z=1290.672
+[2019.10.26-23.04.11:550][674]LogParticles: GameplayStatics::SpawnEmitterAttached spawned potentially immortal particle system! /Game/Maps/UEDPIE_0_ScottsTestLevel.ScottsTestLevel:PersistentLevel.WeatherSystem_2.ParticleSystemComponent_3 (/Game/In_Map_Objects/Lightning.Lightning) may stay in world despite never spawning particles after burst spawning is over.
+[2019.10.26-23.04.11:550][674]LogBlueprintUserMessages: [WeatherSystem_2] Start:   X=-640.000 Y=-0.000 Z=1229.344      End:    X=-643.525 Y=0.000 Z=0.000
+[2019.10.26-23.04.11:550][674]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (ShowID) or object (Lander_2)
+[2019.10.26-23.04.11:551][674]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (ShowID) or object (Lander2_5)
+[2019.10.26-23.04.11:551][674]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (ShowID) or object (Lander3_5)
+[2019.10.26-23.04.11:553][674]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_ScottsTestLevel 0.63
+[2019.10.26-23.04.11:554][674]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/ScottsTestLevel.ScottsTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ScottsTestLevel.ScottsTestLevel:PersistentLevel.ScottsTestLevel' with GeneratedClass '/Game/Maps/ScottsTestLevel.ScottsTestLevel_C' with ClassGeneratedBy '/Game/Maps/ScottsTestLevel.ScottsTestLevel:PersistentLevel.ScottsTestLevel'
+[2019.10.26-23.04.16:219][938]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/ScottsTestLevel.ScottsTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ScottsTestLevel.ScottsTestLevel:PersistentLevel.ScottsTestLevel' with GeneratedClass '/Game/Maps/ScottsTestLevel.ScottsTestLevel_C' with ClassGeneratedBy '/Game/Maps/ScottsTestLevel.ScottsTestLevel:PersistentLevel.ScottsTestLevel'
+[2019.10.26-23.04.16:219][938]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.26-23.04.16:251][938]LogSlate: Window 'FLIGHT Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.26-23.04.16:306][938]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.26-23.04.16:306][938]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/ScottsTestLevel.ScottsTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ScottsTestLevel.ScottsTestLevel:PersistentLevel.ScottsTestLevel' with GeneratedClass '/Game/Maps/ScottsTestLevel.ScottsTestLevel_C' with ClassGeneratedBy '/Game/Maps/ScottsTestLevel.ScottsTestLevel:PersistentLevel.ScottsTestLevel'
+[2019.10.26-23.04.16:416][938]LogUObjectHash: Compacting FUObjectHashTables data took   6.58ms
+[2019.10.26-23.04.16:446][939]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.10.26-23.04.32:247][877]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-23.04.40:847][393]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-23.04.43:504][552]LogActorFactory: Actor Factory created Sphere
+[2019.10.26-23.04.43:975][580]LogActorFactory: Actor Factory created Sphere
+[2019.10.26-23.04.44:369][601]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2019.10.26-23.04.45:116][643]Cmd: DELETE
+[2019.10.26-23.04.45:116][643]Cmd: ACTOR DELETE
+[2019.10.26-23.04.45:118][643]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.26-23.04.45:190][643]LogUObjectHash: Compacting FUObjectHashTables data took   5.01ms
+[2019.10.26-23.04.45:190][643]LogEditorActor: Deleted 1 Actors (0.074 secs)
+[2019.10.26-23.04.48:203][818]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-23.04.50:635][964]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2019.10.26-23.04.56:062][283]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-23.05.28:233][203]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-23.05.28:316][208]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.26-23.05.28:389][208]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/ScottsTestLevel.ScottsTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ScottsTestLevel.ScottsTestLevel:PersistentLevel.ScottsTestLevel' with GeneratedClass '/Game/Maps/ScottsTestLevel.ScottsTestLevel_C' with ClassGeneratedBy '/Game/Maps/ScottsTestLevel.ScottsTestLevel:PersistentLevel.ScottsTestLevel'
+[2019.10.26-23.05.28:389][208]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.26-23.05.28:389][208]PIE: New page: PIE session: ScottsTestLevel (Oct 26, 2019, 3:05:28 PM)
+[2019.10.26-23.05.28:390][208]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ScottsTestLevel
+[2019.10.26-23.05.28:396][208]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005861s)
+[2019.10.26-23.05.28:396][208]LogAIModule: Creating AISystem for world ScottsTestLevel
+[2019.10.26-23.05.28:396][208]LogPlayLevel: PIE: World Init took: (0.000697s)
+[2019.10.26-23.05.28:396][208]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ScottsTestLevel.ScottsTestLevel to /Game/Maps/UEDPIE_0_ScottsTestLevel.ScottsTestLevel (0.006729s)
+[2019.10.26-23.05.28:479][208]LogUObjectHash: Compacting FUObjectHashTables data took   5.34ms
+[2019.10.26-23.05.28:560][208]LogInit: XAudio2 using 'Headphones (2- Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.26-23.05.28:611][208]LogInit: FAudioDevice initialized.
+[2019.10.26-23.05.28:624][208]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.26-23.05.28:658][208]LogLoad: Game class is 'Default_GM_C'
+[2019.10.26-23.05.28:661][208]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ScottsTestLevel.ScottsTestLevel up for play (max tick rate 60) at 2019.10.26-19.05.28
+[2019.10.26-23.05.28:664][208]LogWorld: Bringing up level for play took: 0.005979
+[2019.10.26-23.05.28:678][208]LogParticles: GameplayStatics::SpawnEmitterAttached spawned potentially immortal particle system! /Game/Maps/UEDPIE_0_ScottsTestLevel.ScottsTestLevel:PersistentLevel.WeatherSystem_2.ParticleSystemComponent_0 (/Game/In_Map_Objects/Lightning.Lightning) may stay in world despite never spawning particles after burst spawning is over.
+[2019.10.26-23.05.28:679][208]LogBlueprintUserMessages: [WeatherSystem_2] Start:   X=290.000 Y=0.000 Z=4000.000      End:    X=284.390 Y=0.000 Z=0.000
+[2019.10.26-23.05.28:679][208]LogParticles: GameplayStatics::SpawnEmitterAttached spawned potentially immortal particle system! /Game/Maps/UEDPIE_0_ScottsTestLevel.ScottsTestLevel:PersistentLevel.WeatherSystem_2.ParticleSystemComponent_1 (/Game/In_Map_Objects/Lightning.Lightning) may stay in world despite never spawning particles after burst spawning is over.
+[2019.10.26-23.05.28:679][208]LogBlueprintUserMessages: [WeatherSystem_2] Start:   X=-16.200 Y=-0.001 Z=1308.000      End:    X=-430.183 Y=-0.001 Z=1309.675
+[2019.10.26-23.05.28:679][208]LogParticles: GameplayStatics::SpawnEmitterAttached spawned potentially immortal particle system! /Game/Maps/UEDPIE_0_ScottsTestLevel.ScottsTestLevel:PersistentLevel.WeatherSystem_2.ParticleSystemComponent_2 (/Game/In_Map_Objects/Lightning.Lightning) may stay in world despite never spawning particles after burst spawning is over.
+[2019.10.26-23.05.28:679][208]LogBlueprintUserMessages: [WeatherSystem_2] Start:   X=-385.001 Y=-0.001 Z=1248.350      End:    X=-685.183 Y=-0.001 Z=1290.672
+[2019.10.26-23.05.28:679][208]LogParticles: GameplayStatics::SpawnEmitterAttached spawned potentially immortal particle system! /Game/Maps/UEDPIE_0_ScottsTestLevel.ScottsTestLevel:PersistentLevel.WeatherSystem_2.ParticleSystemComponent_3 (/Game/In_Map_Objects/Lightning.Lightning) may stay in world despite never spawning particles after burst spawning is over.
+[2019.10.26-23.05.28:679][208]LogBlueprintUserMessages: [WeatherSystem_2] Start:   X=-640.000 Y=-0.001 Z=1229.344      End:    X=-642.730 Y=0.000 Z=0.000
+[2019.10.26-23.05.28:680][208]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (ShowID) or object (Lander_2)
+[2019.10.26-23.05.28:680][208]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (ShowID) or object (Lander2_5)
+[2019.10.26-23.05.28:680][208]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (ShowID) or object (Lander3_5)
+[2019.10.26-23.05.28:684][208]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_ScottsTestLevel -0.239
+[2019.10.26-23.05.28:684][208]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/ScottsTestLevel.ScottsTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ScottsTestLevel.ScottsTestLevel:PersistentLevel.ScottsTestLevel' with GeneratedClass '/Game/Maps/ScottsTestLevel.ScottsTestLevel_C' with ClassGeneratedBy '/Game/Maps/ScottsTestLevel.ScottsTestLevel:PersistentLevel.ScottsTestLevel'
+[2019.10.26-23.05.30:193][290]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/ScottsTestLevel.ScottsTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ScottsTestLevel.ScottsTestLevel:PersistentLevel.ScottsTestLevel' with GeneratedClass '/Game/Maps/ScottsTestLevel.ScottsTestLevel_C' with ClassGeneratedBy '/Game/Maps/ScottsTestLevel.ScottsTestLevel:PersistentLevel.ScottsTestLevel'
+[2019.10.26-23.05.30:194][290]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.26-23.05.30:225][290]LogSlate: Window 'FLIGHT Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.26-23.05.30:275][290]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.26-23.05.30:275][290]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/ScottsTestLevel.ScottsTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ScottsTestLevel.ScottsTestLevel:PersistentLevel.ScottsTestLevel' with GeneratedClass '/Game/Maps/ScottsTestLevel.ScottsTestLevel_C' with ClassGeneratedBy '/Game/Maps/ScottsTestLevel.ScottsTestLevel:PersistentLevel.ScottsTestLevel'
+[2019.10.26-23.05.30:384][290]LogUObjectHash: Compacting FUObjectHashTables data took   5.67ms
+[2019.10.26-23.05.30:412][291]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.10.26-23.05.31:676][357]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2019.10.26-23.05.40:786][900]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2019.10.26-23.06.14:443][918]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-23.06.54:177][272]BlueprintLog: New page: Compile FLIGHT_GI
+[2019.10.26-23.06.54:667][272]LogUObjectHash: Compacting FUObjectHashTables data took   7.59ms
+[2019.10.26-23.06.55:355][291]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FLIGHT_GI" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Blueprints/FLIGHT_GI.uasset" SILENT=true
+[2019.10.26-23.06.55:479][291]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/FLIGHT_GIAC0FB4574B0F49ECA3DBCA84A587AA3B.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Blueprints/FLIGHT_GI.uasset'
+[2019.10.26-23.07.29:592][126]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Competitive_PlayerState.Competitive_PlayerState
+[2019.10.26-23.08.31:778][791]BlueprintLog: New page: Compile Competitive_PlayerState
+[2019.10.26-23.08.32:267][791]LogUObjectHash: Compacting FUObjectHashTables data took   9.49ms
+[2019.10.26-23.08.32:753][803]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Competitive_PlayerState" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Blueprints/Competitive_PlayerState.uasset" SILENT=true
+[2019.10.26-23.08.32:867][803]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Competitive_PlayerStateA10076264D45B6EF2E1968929EF5DEF4.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Blueprints/Competitive_PlayerState.uasset'
+[2019.10.26-23.09.00:690][456]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-23.09.13:938][242]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-23.09.27:227][ 32]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-23.09.43:503][997]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-23.09.54:924][680]LogMaterial: Display: Missing cached shader map for material MoonSurface, compiling. 
+[2019.10.26-23.09.54:947][680]LogMaterial: Display: Missing cached shader map for material MoonSurface, compiling. 
+[2019.10.26-23.09.54:982][680]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.10.26-23.09.54:982][680]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.26-23.09.54:982][680]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.10.26-23.09.54:982][680]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.10.26-23.09.54:997][680]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.10.26-23.09.56:068][735]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.10.26-23.09.56:152][740]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.10.26-23.09.56:169][741]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.10.26-23.09.56:169][741]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.10.26-23.09.56:501][761]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.10.26-23.09.56:585][766]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.10.26-23.09.56:666][771]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.10.26-23.09.56:681][772]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.10.26-23.09.56:991][790]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.10.26-23.09.57:457][817]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.26-23.09.57:791][837]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.10.26-23.09.57:959][847]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.10.26-23.09.58:127][857]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.10.26-23.09.58:382][872]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.10.26-23.09.58:565][883]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.10.26-23.09.59:026][910]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.10.26-23.09.59:092][914]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.10.26-23.09.59:325][928]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.10.26-23.09.59:496][938]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.10.26-23.10.00:046][970]MaterialEditorStats: Base pass shader: 110 instructions
+[2019.10.26-23.10.00:046][970]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2019.10.26-23.10.00:046][970]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.10.26-23.10.00:046][970]MaterialEditorStats: Texture samplers: 4/16
+[2019.10.26-23.10.00:046][970]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.10.26-23.10.10:007][567]LogMaterial: Display: Missing cached shader map for material MoonSurface, compiling. 
+[2019.10.26-23.10.10:032][567]LogMaterial: Display: Missing cached shader map for material MoonSurface, compiling. 
+[2019.10.26-23.10.10:059][568]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.10.26-23.10.10:059][568]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.26-23.10.10:059][568]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.10.26-23.10.10:059][568]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.10.26-23.10.10:643][603]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.10.26-23.10.10:675][605]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.10.26-23.10.10:708][607]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.10.26-23.10.10:725][608]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.10.26-23.10.10:991][623]LogMaterial: Display: Missing cached shader map for material MoonSurface, compiling. 
+[2019.10.26-23.10.11:027][623]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.10.26-23.10.11:114][626]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.26-23.10.11:149][628]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.10.26-23.10.11:166][629]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.10.26-23.10.11:598][655]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.10.26-23.10.11:664][659]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.10.26-23.10.11:680][660]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.10.26-23.10.11:696][661]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.10.26-23.10.12:033][681]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.10.26-23.10.12:100][685]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.10.26-23.10.12:166][689]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.10.26-23.10.12:184][690]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.26-23.10.12:466][707]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.10.26-23.10.12:796][726]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.10.26-23.10.13:162][747]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.10.26-23.10.13:243][752]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.10.26-23.10.13:495][767]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.10.26-23.10.13:730][781]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.10.26-23.10.13:879][790]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.10.26-23.10.14:264][813]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.10.26-23.10.14:330][817]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.10.26-23.10.15:073][861]MaterialEditorStats: Base pass shader: 110 instructions
+[2019.10.26-23.10.15:073][861]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2019.10.26-23.10.15:073][861]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.10.26-23.10.15:073][861]MaterialEditorStats: Texture samplers: 4/16
+[2019.10.26-23.10.15:073][861]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.10.26-23.10.25:537][486]LogMaterial: Display: Missing cached shader map for material MoonSurface, compiling. 
+[2019.10.26-23.10.25:559][486]LogMaterial: Display: Missing cached shader map for material MoonSurface, compiling. 
+[2019.10.26-23.10.25:592][486]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.10.26-23.10.25:592][486]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.26-23.10.25:592][486]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.10.26-23.10.25:592][486]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.10.26-23.10.25:607][486]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.10.26-23.10.26:103][511]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.10.26-23.10.26:118][512]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.10.26-23.10.26:118][512]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.10.26-23.10.26:169][515]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.10.26-23.10.26:472][532]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.10.26-23.10.26:587][539]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.10.26-23.10.26:635][542]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.10.26-23.10.26:650][543]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.10.26-23.10.26:936][560]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.10.26-23.10.27:137][570]LogMaterial: Display: Missing cached shader map for material MoonSurface, compiling. 
+[2019.10.26-23.10.27:255][572]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.10.26-23.10.27:634][594]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.10.26-23.10.27:727][599]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.10.26-23.10.27:928][611]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.26-23.10.28:012][616]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.10.26-23.10.28:257][630]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.10.26-23.10.28:339][635]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.10.26-23.10.28:633][651]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.10.26-23.10.28:683][654]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.10.26-23.10.28:924][668]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.10.26-23.10.29:009][673]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.10.26-23.10.29:285][689]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.10.26-23.10.29:350][693]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.10.26-23.10.29:369][694]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.26-23.10.29:567][706]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.10.26-23.10.30:105][738]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.10.26-23.10.30:575][766]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.10.26-23.10.30:692][773]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.10.26-23.10.30:808][780]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.10.26-23.10.31:362][813]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.10.26-23.10.31:495][821]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.10.26-23.10.31:982][850]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.10.26-23.10.32:128][858]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.10.26-23.10.33:018][911]MaterialEditorStats: Base pass shader: 110 instructions
+[2019.10.26-23.10.33:018][911]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2019.10.26-23.10.33:018][911]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2019.10.26-23.10.33:018][911]MaterialEditorStats: Texture samplers: 4/16
+[2019.10.26-23.10.33:018][911]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.10.26-23.10.33:018][911]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.10.26-23.10.35:223][ 43]LogMaterial: Display: Missing cached shader map for material MoonSurface, compiling. 
+[2019.10.26-23.10.35:251][ 44]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.10.26-23.10.35:251][ 44]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.26-23.10.35:251][ 44]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.10.26-23.10.35:251][ 44]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.10.26-23.10.35:948][ 84]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.10.26-23.10.35:969][ 86]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.10.26-23.10.36:000][ 88]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.10.26-23.10.36:016][ 89]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.10.26-23.10.36:352][109]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.10.26-23.10.36:521][119]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.10.26-23.10.36:570][122]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.10.26-23.10.36:585][123]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.26-23.10.36:856][139]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.10.26-23.10.37:205][159]LogMaterial: Display: Missing cached shader map for material MoonSurface, compiling. 
+[2019.10.26-23.10.37:305][163]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.10.26-23.10.37:801][192]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.26-23.10.37:884][197]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.10.26-23.10.38:018][205]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.10.26-23.10.38:051][207]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.10.26-23.10.38:455][231]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.10.26-23.10.38:578][238]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.10.26-23.10.38:696][245]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.10.26-23.10.38:749][248]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.10.26-23.10.38:868][254]LogMaterial: Display: Missing cached shader map for material MoonSurface, compiling. 
+[2019.10.26-23.10.39:122][266]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.10.26-23.10.39:122][266]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.26-23.10.39:226][272]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.10.26-23.10.39:290][276]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.10.26-23.10.39:510][288]LogMaterial: Display: Missing cached shader map for material MoonSurface, compiling. 
+[2019.10.26-23.10.39:557][288]LogMaterial: Display: Missing cached shader map for material MoonSurface, compiling. 
+[2019.10.26-23.10.39:735][293]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.10.26-23.10.39:735][293]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.26-23.10.39:784][294]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.10.26-23.10.39:801][294]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.10.26-23.10.40:446][331]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.10.26-23.10.40:462][332]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.10.26-23.10.40:462][332]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.10.26-23.10.40:512][335]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.10.26-23.10.40:847][355]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.10.26-23.10.41:031][366]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.10.26-23.10.41:062][368]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.10.26-23.10.41:080][369]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.26-23.10.41:378][387]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.10.26-23.10.41:793][411]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.10.26-23.10.42:262][439]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.10.26-23.10.42:363][445]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.10.26-23.10.42:613][460]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.10.26-23.10.43:051][486]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.10.26-23.10.43:135][491]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.10.26-23.10.43:675][523]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.10.26-23.10.43:808][531]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.10.26-23.10.44:639][580]MaterialEditorStats: Base pass shader: 111 instructions
+[2019.10.26-23.10.44:639][580]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 185 instructions
+[2019.10.26-23.10.44:639][580]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2019.10.26-23.10.44:639][580]MaterialEditorStats: Texture samplers: 4/16
+[2019.10.26-23.10.44:639][580]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.10.26-23.10.44:639][580]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.10.26-23.10.47:143][730]LogMaterial: Display: Missing cached shader map for material MoonSurface, compiling. 
+[2019.10.26-23.10.47:165][730]LogMaterial: Display: Missing cached shader map for material MoonSurface, compiling. 
+[2019.10.26-23.10.47:190][731]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.10.26-23.10.47:190][731]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.26-23.10.47:190][731]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.10.26-23.10.47:190][731]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.10.26-23.10.47:814][768]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.10.26-23.10.47:847][770]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.10.26-23.10.47:847][770]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.10.26-23.10.47:877][772]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.10.26-23.10.48:200][791]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.10.26-23.10.48:312][798]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.10.26-23.10.48:347][800]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.10.26-23.10.48:378][802]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.26-23.10.48:630][817]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.10.26-23.10.48:989][837]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.10.26-23.10.49:341][858]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.10.26-23.10.49:470][866]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.10.26-23.10.49:689][879]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.10.26-23.10.49:956][895]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.10.26-23.10.50:056][901]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.10.26-23.10.50:558][931]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.10.26-23.10.50:590][933]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.10.26-23.10.51:342][977]MaterialEditorStats: Base pass shader: 111 instructions
+[2019.10.26-23.10.51:342][977]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 185 instructions
+[2019.10.26-23.10.51:342][977]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2019.10.26-23.10.51:342][977]MaterialEditorStats: Texture samplers: 4/16
+[2019.10.26-23.10.51:342][977]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.10.26-23.10.51:342][977]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.10.26-23.10.55:934][252]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-23.10.56:018][257]LogMaterialEditor: Applying material MoonSurface
+[2019.10.26-23.10.56:589][257]LogMaterial: Display: Missing cached shader map for material MoonSurface, compiling. 
+[2019.10.26-23.10.56:653][257]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.10.26-23.10.56:653][257]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.26-23.10.56:653][257]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.10.26-23.10.56:653][257]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.10.26-23.10.56:678][257]LogMaterial: Display: Missing cached shader map for material MoonSurface, compiling. 
+[2019.10.26-23.10.56:711][257]LogMaterial: Display: Missing cached shader map for material MoonSurface, compiling. 
+[2019.10.26-23.10.56:900][257]LogUObjectHash: Compacting FUObjectHashTables data took  18.14ms
+[2019.10.26-23.10.56:922][257]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.26-23.10.59:850][257]LogShaderCompilers: Display: Shaders left to compile 41
+[2019.10.26-23.10.59:850][257]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.10.26-23.10.59:850][257]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.10.26-23.10.59:850][257]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.10.26-23.10.59:850][257]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.10.26-23.10.59:850][257]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.10.26-23.10.59:850][257]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.10.26-23.10.59:850][257]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.10.26-23.10.59:850][257]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.10.26-23.10.59:850][257]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.10.26-23.10.59:851][257]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.10.26-23.10.59:851][257]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.10.26-23.10.59:851][257]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.10.26-23.10.59:851][257]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.10.26-23.10.59:851][257]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.10.26-23.10.59:851][257]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.10.26-23.10.59:851][257]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.10.26-23.10.59:851][257]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.10.26-23.10.59:851][257]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.10.26-23.10.59:851][257]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.10.26-23.10.59:851][257]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.10.26-23.10.59:851][257]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.10.26-23.10.59:855][257]TextureStreamingBuild: Display: Compiling optional shaders took 2.954 seconds.
+[2019.10.26-23.10.59:973][257]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2019.10.26-23.11.05:878][595]MaterialEditorStats: Base pass shader: 111 instructions
+[2019.10.26-23.11.05:878][595]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 185 instructions
+[2019.10.26-23.11.05:878][595]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2019.10.26-23.11.05:878][595]MaterialEditorStats: Texture samplers: 4/16
+[2019.10.26-23.11.05:878][595]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.10.26-23.11.05:878][595]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.10.26-23.11.11:336][922]Cmd: DELETE
+[2019.10.26-23.11.11:336][922]Cmd: ACTOR DELETE
+[2019.10.26-23.11.11:339][922]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.26-23.11.11:428][922]LogUObjectHash: Compacting FUObjectHashTables data took   5.76ms
+[2019.10.26-23.11.11:428][922]LogEditorActor: Deleted 1 Actors (0.092 secs)
+[2019.10.26-23.12.04:045][ 72]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.26-23.12.06:449][149]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.10.26-23.12.06:494][149]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.26-23.13.11:818][ 40]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Lander/Lander_PC.Lander_PC
+[2019.10.26-23.14.48:421][694]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.26-23.14.48:497][694]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/ScottsTestLevel.ScottsTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ScottsTestLevel.ScottsTestLevel:PersistentLevel.ScottsTestLevel' with GeneratedClass '/Game/Maps/ScottsTestLevel.ScottsTestLevel_C' with ClassGeneratedBy '/Game/Maps/ScottsTestLevel.ScottsTestLevel:PersistentLevel.ScottsTestLevel'
+[2019.10.26-23.14.48:497][694]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.10.26-23.14.48:557][694]LogPlayLevel: [PlayLevel] Compiling Lander_PC before play...
+[2019.10.26-23.14.49:185][694]LogUObjectHash: Compacting FUObjectHashTables data took   9.89ms
+[2019.10.26-23.14.49:185][694]LogPlayLevel: PlayLevel: Blueprint regeneration took 687 ms (1 blueprints)
+[2019.10.26-23.14.49:185][694]PIE: New page: PIE session: ScottsTestLevel (Oct 26, 2019, 3:14:49 PM)
+[2019.10.26-23.14.49:328][694]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ScottsTestLevel
+[2019.10.26-23.14.49:333][694]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004698s)
+[2019.10.26-23.14.49:333][694]LogAIModule: Creating AISystem for world ScottsTestLevel
+[2019.10.26-23.14.49:333][694]LogPlayLevel: PIE: World Init took: (0.000562s)
+[2019.10.26-23.14.49:333][694]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ScottsTestLevel.ScottsTestLevel to /Game/Maps/UEDPIE_0_ScottsTestLevel.ScottsTestLevel (0.005440s)
+[2019.10.26-23.14.49:413][694]LogUObjectHash: Compacting FUObjectHashTables data took  11.21ms
+[2019.10.26-23.14.49:479][694]LogInit: XAudio2 using 'Headphones (2- Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.26-23.14.49:532][694]LogInit: FAudioDevice initialized.
+[2019.10.26-23.14.49:542][694]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.26-23.14.49:572][694]LogLoad: Game class is 'Default_GM_C'
+[2019.10.26-23.14.49:575][694]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ScottsTestLevel.ScottsTestLevel up for play (max tick rate 60) at 2019.10.26-19.14.49
+[2019.10.26-23.14.49:576][694]LogWorld: Bringing up level for play took: 0.003119
+[2019.10.26-23.14.49:590][694]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.10.26-23.14.49:591][694]LogParticles: GameplayStatics::SpawnEmitterAttached spawned potentially immortal particle system! /Game/Maps/UEDPIE_0_ScottsTestLevel.ScottsTestLevel:PersistentLevel.WeatherSystem_2.ParticleSystemComponent_0 (/Game/In_Map_Objects/Lightning.Lightning) may stay in world despite never spawning particles after burst spawning is over.
+[2019.10.26-23.14.49:592][694]LogBlueprintUserMessages: [WeatherSystem_2] Start:   X=290.000 Y=0.000 Z=4000.000      End:    X=287.186 Y=0.000 Z=0.000
+[2019.10.26-23.14.49:592][694]LogParticles: GameplayStatics::SpawnEmitterAttached spawned potentially immortal particle system! /Game/Maps/UEDPIE_0_ScottsTestLevel.ScottsTestLevel:PersistentLevel.WeatherSystem_2.ParticleSystemComponent_1 (/Game/In_Map_Objects/Lightning.Lightning) may stay in world despite never spawning particles after burst spawning is over.
+[2019.10.26-23.14.49:592][694]LogBlueprintUserMessages: [WeatherSystem_2] Start:   X=-16.039 Y=-0.001 Z=1307.812      End:    X=-430.183 Y=-0.001 Z=1309.675
+[2019.10.26-23.14.49:592][694]LogParticles: GameplayStatics::SpawnEmitterAttached spawned potentially immortal particle system! /Game/Maps/UEDPIE_0_ScottsTestLevel.ScottsTestLevel:PersistentLevel.WeatherSystem_2.ParticleSystemComponent_2 (/Game/In_Map_Objects/Lightning.Lightning) may stay in world despite never spawning particles after burst spawning is over.
+[2019.10.26-23.14.49:592][694]LogBlueprintUserMessages: [WeatherSystem_2] Start:   X=-385.001 Y=-0.001 Z=1248.350      End:    X=-685.183 Y=-0.001 Z=1290.672
+[2019.10.26-23.14.49:592][694]LogParticles: GameplayStatics::SpawnEmitterAttached spawned potentially immortal particle system! /Game/Maps/UEDPIE_0_ScottsTestLevel.ScottsTestLevel:PersistentLevel.WeatherSystem_2.ParticleSystemComponent_3 (/Game/In_Map_Objects/Lightning.Lightning) may stay in world despite never spawning particles after burst spawning is over.
+[2019.10.26-23.14.49:592][694]LogBlueprintUserMessages: [WeatherSystem_2] Start:   X=-640.000 Y=-0.001 Z=1229.344      End:    X=-633.513 Y=0.000 Z=0.000
+[2019.10.26-23.14.49:593][694]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (ShowID) or object (Lander_2)
+[2019.10.26-23.14.49:593][694]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (ShowID) or object (Lander2_5)
+[2019.10.26-23.14.49:593][694]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (ShowID) or object (Lander3_5)
+[2019.10.26-23.14.49:594][694]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_ScottsTestLevel 0.671
+[2019.10.26-23.14.49:594][694]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/ScottsTestLevel.ScottsTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ScottsTestLevel.ScottsTestLevel:PersistentLevel.ScottsTestLevel' with GeneratedClass '/Game/Maps/ScottsTestLevel.ScottsTestLevel_C' with ClassGeneratedBy '/Game/Maps/ScottsTestLevel.ScottsTestLevel:PersistentLevel.ScottsTestLevel'
+[2019.10.26-23.14.51:938][818]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/ScottsTestLevel.ScottsTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ScottsTestLevel.ScottsTestLevel:PersistentLevel.ScottsTestLevel' with GeneratedClass '/Game/Maps/ScottsTestLevel.ScottsTestLevel_C' with ClassGeneratedBy '/Game/Maps/ScottsTestLevel.ScottsTestLevel:PersistentLevel.ScottsTestLevel'
+[2019.10.26-23.14.51:939][818]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.26-23.14.51:968][818]LogSlate: Window 'FLIGHT Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.26-23.14.52:021][818]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.26-23.14.52:021][818]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/ScottsTestLevel.ScottsTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ScottsTestLevel.ScottsTestLevel:PersistentLevel.ScottsTestLevel' with GeneratedClass '/Game/Maps/ScottsTestLevel.ScottsTestLevel_C' with ClassGeneratedBy '/Game/Maps/ScottsTestLevel.ScottsTestLevel:PersistentLevel.ScottsTestLevel'
+[2019.10.26-23.14.52:136][818]LogUObjectHash: Compacting FUObjectHashTables data took   6.13ms
+[2019.10.26-23.14.52:175][819]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2019.10.26-23.14.58:161][168]LogAIModule: Creating AISystem for world Menu
+[2019.10.26-23.14.58:164][168]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Menu.Menu
+[2019.10.26-23.14.58:248][168]LogUObjectHash: Compacting FUObjectHashTables data took   6.95ms
+[2019.10.26-23.14.59:151][168]LogSlate: Window 'Save Content' being destroyed
+[2019.10.26-23.14.59:433][168]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lander/Lander_PC" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Lander/Lander_PC.uasset" SILENT=true
+[2019.10.26-23.14.59:600][168]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Lander_PCFE5FD1D54145D8B9E5F7BEAAB7954770.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Lander/Lander_PC.uasset'
+[2019.10.26-23.14.59:613][168]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/christmas2015fullmoon" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Maps/christmas2015fullmoon.uasset" SILENT=true
+[2019.10.26-23.15.00:670][168]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/christmas2015fullmoon0AA02D384E9C92CDD34B4BBF42C2BF08.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Maps/christmas2015fullmoon.uasset'
+[2019.10.26-23.15.02:260][168]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MoonSurface" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Maps/MoonSurface.uasset" SILENT=true
+[2019.10.26-23.15.02:300][168]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/MoonSurfaceD4CC57F041CE88B2C336488FB419E6CE.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Maps/MoonSurface.uasset'
+[2019.10.26-23.15.02:303][168]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/ScottsTestLevel" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Maps/ScottsTestLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.26-23.15.02:375][168]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2019.10.26-23.15.02:772][168]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/ScottsTestLevelC503F8FA47DAB56BC9AED5BFE4D820E4.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Maps/ScottsTestLevel.umap'
+[2019.10.26-23.15.02:816][168]LogFileHelpers: Saving map 'ScottsTestLevel' took 0.513
+[2019.10.26-23.15.02:817][168]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/W_PlayerSelector" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Widgets/W_PlayerSelector.uasset" SILENT=true
+[2019.10.26-23.15.02:933][168]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/W_PlayerSelector657453374FDEEE212E86088EF51585DF.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Widgets/W_PlayerSelector.uasset'
+[2019.10.26-23.15.02:937][168]Cmd: MAP LOAD FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Maps/Menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.26-23.15.02:937][168]LightingResults: New page: Lighting Build
+[2019.10.26-23.15.02:938][168]LoadErrors: New page: Loading map: Menu.umap
+[2019.10.26-23.15.02:939][168]MapCheck: New page: Map Check
+[2019.10.26-23.15.02:939][168]LightingResults: New page: Lighting Build
+[2019.10.26-23.15.03:011][168]LogUObjectHash: Compacting FUObjectHashTables data took   5.36ms
+[2019.10.26-23.15.03:471][168]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.26-23.15.03:548][168]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2019.10.26-23.15.03:590][168]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.26-23.15.03:590][168]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.08ms to complete.
+[2019.10.26-23.15.03:590][168]LogFileHelpers: Loading map 'Menu' took 0.655
+[2019.10.26-23.15.03:704][168]LogAIModule: Creating AISystem for world ScottsTestLevel
+[2019.10.26-23.15.04:668][213]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.26-23.15.04:754][213]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2019.10.26-23.15.04:754][213]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.26-23.15.04:755][213]PIE: New page: PIE session: Menu (Oct 26, 2019, 3:15:04 PM)
+[2019.10.26-23.15.04:755][213]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Menu
+[2019.10.26-23.15.04:758][213]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002257s)
+[2019.10.26-23.15.04:758][213]LogAIModule: Creating AISystem for world Menu
+[2019.10.26-23.15.04:758][213]LogPlayLevel: PIE: World Init took: (0.000647s)
+[2019.10.26-23.15.04:758][213]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menu.Menu to /Game/Maps/UEDPIE_0_Menu.Menu (0.003164s)
+[2019.10.26-23.15.04:849][213]LogUObjectHash: Compacting FUObjectHashTables data took   6.81ms
+[2019.10.26-23.15.04:931][213]LogInit: XAudio2 using 'Headphones (2- Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.26-23.15.04:987][213]LogInit: FAudioDevice initialized.
+[2019.10.26-23.15.04:999][213]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.26-23.15.05:030][213]LogLoad: Game class is 'MenuGameMode_C'
+[2019.10.26-23.15.05:033][213]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2019.10.26-19.15.05
+[2019.10.26-23.15.05:033][213]LogWorld: Bringing up level for play took: 0.001193
+[2019.10.26-23.15.05:045][213]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.26-23.15.05:046][213]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.26-23.15.05:047][213]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.26-23.15.05:048][213]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.26-23.15.05:060][213]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Menu 0.137
+[2019.10.26-23.15.05:060][213]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2019.10.26-23.15.07:037][324]LogBlueprintUserMessages: [StartScreen_New_C_0] 0
+[2019.10.26-23.15.07:236][336]LogBlueprintUserMessages: [StartScreen_New_C_0] 1
+[2019.10.26-23.15.07:387][345]LogBlueprintUserMessages: [StartScreen_New_C_0] 2
+[2019.10.26-23.15.08:320][401]LogBlueprintUserMessages: [StartScreen_New_C_0] 0
+[2019.10.26-23.15.19:123][ 49]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2019.10.26-23.15.19:123][ 49]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.26-23.15.19:154][ 49]LogSlate: Window 'FLIGHT Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.26-23.15.19:190][ 49]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.26-23.15.19:190][ 49]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2019.10.26-23.15.19:315][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   6.62ms
+[2019.10.26-23.15.19:418][ 50]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2019.10.26-23.16.10:379][104]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2019.10.26-23.16.31:702][376]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Sphere2)
+[2019.10.26-23.16.40:503][894]LogEditorViewport: Clicking Background
+[2019.10.26-23.16.44:545][136]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2019.10.26-23.17.05:650][374]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-23.17.12:365][755]LogSlate: Took 0.001855 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.10.26-23.17.25:250][515]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.26-23.17.48:326][898]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-23.17.48:409][903]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.26-23.17.48:508][903]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2019.10.26-23.17.48:508][903]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.26-23.17.48:508][903]PIE: New page: PIE session: Menu (Oct 26, 2019, 3:17:48 PM)
+[2019.10.26-23.17.48:509][903]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Menu
+[2019.10.26-23.17.48:513][903]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003936s)
+[2019.10.26-23.17.48:514][903]LogAIModule: Creating AISystem for world Menu
+[2019.10.26-23.17.48:515][903]LogPlayLevel: PIE: World Init took: (0.001312s)
+[2019.10.26-23.17.48:515][903]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menu.Menu to /Game/Maps/UEDPIE_0_Menu.Menu (0.005464s)
+[2019.10.26-23.17.48:608][903]LogUObjectHash: Compacting FUObjectHashTables data took   5.95ms
+[2019.10.26-23.17.48:682][903]LogInit: XAudio2 using 'Headphones (2- Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.26-23.17.48:738][903]LogInit: FAudioDevice initialized.
+[2019.10.26-23.17.48:751][903]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.26-23.17.48:789][903]LogLoad: Game class is 'MenuGameMode_C'
+[2019.10.26-23.17.48:790][903]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2019.10.26-19.17.48
+[2019.10.26-23.17.48:791][903]LogWorld: Bringing up level for play took: 0.001169
+[2019.10.26-23.17.48:804][903]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.26-23.17.48:805][903]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.26-23.17.48:806][903]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.26-23.17.48:807][903]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.26-23.17.48:820][903]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Menu -0.103
+[2019.10.26-23.17.48:821][903]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2019.10.26-23.17.51:384][ 46]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2019.10.26-23.17.51:385][ 46]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.26-23.17.51:426][ 46]LogSlate: Window 'FLIGHT Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.26-23.17.51:468][ 46]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.26-23.17.51:468][ 46]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2019.10.26-23.17.51:594][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   9.13ms
+[2019.10.26-23.17.51:721][ 47]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2019.10.26-23.17.53:934][175]LogEditorViewport: Clicking on Actor (LMB): BP_GoodSky_C (BP_GoodSky)
+[2019.10.26-23.17.55:494][266]LogEditorViewport: Clicking on Actor (LMB): BP_GoodSky_C (BP_GoodSky)
+[2019.10.26-23.17.56:565][329]LogEditorViewport: Clicking on Actor (LMB): BP_GoodSky_C (BP_GoodSky)
+[2019.10.26-23.18.10:077][138]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.26-23.18.14:100][379]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-23.18.14:200][385]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.26-23.18.14:276][385]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2019.10.26-23.18.14:276][385]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.26-23.18.14:276][385]PIE: New page: PIE session: Menu (Oct 26, 2019, 3:18:14 PM)
+[2019.10.26-23.18.14:277][385]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Menu
+[2019.10.26-23.18.14:281][385]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003980s)
+[2019.10.26-23.18.14:281][385]LogAIModule: Creating AISystem for world Menu
+[2019.10.26-23.18.14:281][385]LogPlayLevel: PIE: World Init took: (0.000683s)
+[2019.10.26-23.18.14:281][385]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menu.Menu to /Game/Maps/UEDPIE_0_Menu.Menu (0.004814s)
+[2019.10.26-23.18.14:368][385]LogUObjectHash: Compacting FUObjectHashTables data took   7.63ms
+[2019.10.26-23.18.14:448][385]LogInit: XAudio2 using 'Headphones (2- Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.26-23.18.14:512][385]LogInit: FAudioDevice initialized.
+[2019.10.26-23.18.14:524][385]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.26-23.18.14:566][385]LogLoad: Game class is 'MenuGameMode_C'
+[2019.10.26-23.18.14:568][385]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2019.10.26-19.18.14
+[2019.10.26-23.18.14:569][385]LogWorld: Bringing up level for play took: 0.001285
+[2019.10.26-23.18.14:582][385]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.26-23.18.14:583][385]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.26-23.18.14:583][385]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.26-23.18.14:585][385]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.26-23.18.14:593][385]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Menu -0.33
+[2019.10.26-23.18.14:593][385]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2019.10.26-23.18.21:553][794]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2019.10.26-23.18.21:554][794]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.26-23.18.21:582][794]LogSlate: Window 'FLIGHT Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.26-23.18.21:623][794]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.26-23.18.21:623][794]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2019.10.26-23.18.21:726][794]LogUObjectHash: Compacting FUObjectHashTables data took   5.33ms
+[2019.10.26-23.18.21:750][795]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2019.10.26-23.18.23:828][911]LogEditorViewport: Clicking on Actor (LMB): BP_GoodSky_C (BP_GoodSky)
+[2019.10.26-23.18.28:513][190]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-23.18.30:601][315]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2019.10.26-23.19.07:677][874]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-23.19.57:593][848]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-23.20.54:628][212]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.26-23.20.54:727][212]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2019.10.26-23.20.54:727][212]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.26-23.20.54:727][212]PIE: New page: PIE session: Menu (Oct 26, 2019, 3:20:54 PM)
+[2019.10.26-23.20.54:728][212]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Menu
+[2019.10.26-23.20.54:732][212]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003412s)
+[2019.10.26-23.20.54:732][212]LogAIModule: Creating AISystem for world Menu
+[2019.10.26-23.20.54:733][212]LogPlayLevel: PIE: World Init took: (0.000681s)
+[2019.10.26-23.20.54:733][212]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menu.Menu to /Game/Maps/UEDPIE_0_Menu.Menu (0.004242s)
+[2019.10.26-23.20.54:891][212]LogUObjectHash: Compacting FUObjectHashTables data took   5.95ms
+[2019.10.26-23.20.54:971][212]LogInit: XAudio2 using 'Headphones (2- Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.26-23.20.55:032][212]LogInit: FAudioDevice initialized.
+[2019.10.26-23.20.55:045][212]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.26-23.20.55:081][212]LogLoad: Game class is 'MenuGameMode_C'
+[2019.10.26-23.20.55:083][212]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2019.10.26-19.20.55
+[2019.10.26-23.20.55:083][212]LogWorld: Bringing up level for play took: 0.001197
+[2019.10.26-23.20.55:096][212]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.26-23.20.55:097][212]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.26-23.20.55:098][212]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.26-23.20.55:099][212]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.26-23.20.55:108][212]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Menu 0.185
+[2019.10.26-23.20.55:109][212]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2019.10.26-23.21.00:126][498]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2019.10.26-23.21.00:127][498]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.26-23.21.00:161][498]LogSlate: Window 'FLIGHT Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.26-23.21.00:204][498]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.26-23.21.00:204][498]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2019.10.26-23.21.00:327][498]LogUObjectHash: Compacting FUObjectHashTables data took   7.01ms
+[2019.10.26-23.21.00:456][499]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2019.10.26-23.21.02:018][590]LogEditorViewport: Clicking on Actor (LMB): BP_GoodSky_C (BP_GoodSky)
+[2019.10.26-23.21.07:252][902]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-23.21.22:761][832]LogEditorViewport: Clicking on Actor (LMB): BP_GoodSky_C (BP_GoodSky)
+[2019.10.26-23.21.27:460][109]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-23.22.21:870][364]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.26-23.22.21:949][364]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2019.10.26-23.22.21:949][364]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.26-23.22.21:949][364]PIE: New page: PIE session: Menu (Oct 26, 2019, 3:22:21 PM)
+[2019.10.26-23.22.21:950][364]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Menu
+[2019.10.26-23.22.21:954][364]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003516s)
+[2019.10.26-23.22.21:954][364]LogAIModule: Creating AISystem for world Menu
+[2019.10.26-23.22.21:955][364]LogPlayLevel: PIE: World Init took: (0.000684s)
+[2019.10.26-23.22.21:955][364]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menu.Menu to /Game/Maps/UEDPIE_0_Menu.Menu (0.004372s)
+[2019.10.26-23.22.22:039][364]LogUObjectHash: Compacting FUObjectHashTables data took   5.96ms
+[2019.10.26-23.22.22:118][364]LogInit: XAudio2 using 'Headphones (2- Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.26-23.22.22:174][364]LogInit: FAudioDevice initialized.
+[2019.10.26-23.22.22:186][364]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.26-23.22.22:222][364]LogLoad: Game class is 'MenuGameMode_C'
+[2019.10.26-23.22.22:225][364]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2019.10.26-19.22.22
+[2019.10.26-23.22.22:225][364]LogWorld: Bringing up level for play took: 0.001366
+[2019.10.26-23.22.22:239][364]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.26-23.22.22:240][364]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.26-23.22.22:241][364]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.26-23.22.22:241][364]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.26-23.22.22:254][364]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Menu 1.331
+[2019.10.26-23.22.22:255][364]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2019.10.26-23.22.34:409][  0]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2019.10.26-23.22.34:410][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.26-23.22.34:437][  0]LogSlate: Window 'FLIGHT Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.26-23.22.34:479][  0]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.26-23.22.34:479][  0]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2019.10.26-23.22.34:605][  0]LogUObjectHash: Compacting FUObjectHashTables data took   6.40ms
+[2019.10.26-23.22.34:637][  1]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2019.10.26-23.22.42:257][435]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.26-23.22.42:334][435]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2019.10.26-23.22.42:334][435]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.26-23.22.42:334][435]PIE: New page: PIE session: Menu (Oct 26, 2019, 3:22:42 PM)
+[2019.10.26-23.22.42:335][435]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Menu
+[2019.10.26-23.22.42:338][435]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003058s)
+[2019.10.26-23.22.42:339][435]LogAIModule: Creating AISystem for world Menu
+[2019.10.26-23.22.42:339][435]LogPlayLevel: PIE: World Init took: (0.000613s)
+[2019.10.26-23.22.42:339][435]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menu.Menu to /Game/Maps/UEDPIE_0_Menu.Menu (0.003815s)
+[2019.10.26-23.22.42:415][435]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2019.10.26-23.22.42:481][435]LogInit: XAudio2 using 'Headphones (2- Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.26-23.22.42:529][435]LogInit: FAudioDevice initialized.
+[2019.10.26-23.22.42:539][435]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.26-23.22.42:571][435]LogLoad: Game class is 'MenuGameMode_C'
+[2019.10.26-23.22.42:573][435]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2019.10.26-19.22.42
+[2019.10.26-23.22.42:574][435]LogWorld: Bringing up level for play took: 0.000901
+[2019.10.26-23.22.42:587][435]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.26-23.22.42:588][435]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.26-23.22.42:588][435]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.26-23.22.42:589][435]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.26-23.22.42:597][435]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Menu -0.327
+[2019.10.26-23.22.42:597][435]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2019.10.26-23.22.44:095][502]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2019.10.26-23.22.44:096][502]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.26-23.22.44:121][502]LogSlate: Window 'FLIGHT Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.26-23.22.44:160][502]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.26-23.22.44:160][502]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2019.10.26-23.22.44:270][502]LogUObjectHash: Compacting FUObjectHashTables data took   5.12ms
+[2019.10.26-23.22.44:389][503]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2019.10.26-23.22.46:908][653]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2019.10.26-23.22.49:526][803]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-23.22.57:083][253]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.26-23.22.57:164][253]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2019.10.26-23.22.57:164][253]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.26-23.22.57:164][253]PIE: New page: PIE session: Menu (Oct 26, 2019, 3:22:57 PM)
+[2019.10.26-23.22.57:165][253]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Menu
+[2019.10.26-23.22.57:169][253]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003710s)
+[2019.10.26-23.22.57:169][253]LogAIModule: Creating AISystem for world Menu
+[2019.10.26-23.22.57:169][253]LogPlayLevel: PIE: World Init took: (0.000627s)
+[2019.10.26-23.22.57:169][253]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menu.Menu to /Game/Maps/UEDPIE_0_Menu.Menu (0.004504s)
+[2019.10.26-23.22.57:251][253]LogUObjectHash: Compacting FUObjectHashTables data took   5.29ms
+[2019.10.26-23.22.57:320][253]LogInit: XAudio2 using 'Headphones (2- Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.26-23.22.57:372][253]LogInit: FAudioDevice initialized.
+[2019.10.26-23.22.57:382][253]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.26-23.22.57:418][253]LogLoad: Game class is 'MenuGameMode_C'
+[2019.10.26-23.22.57:420][253]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2019.10.26-19.22.57
+[2019.10.26-23.22.57:421][253]LogWorld: Bringing up level for play took: 0.001492
+[2019.10.26-23.22.57:434][253]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.26-23.22.57:435][253]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.26-23.22.57:436][253]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.26-23.22.57:437][253]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.26-23.22.57:451][253]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Menu 0.528
+[2019.10.26-23.22.57:452][253]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2019.10.26-23.23.00:903][443]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2019.10.26-23.23.00:904][443]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.26-23.23.00:936][443]LogSlate: Window 'FLIGHT Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.26-23.23.00:980][443]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.26-23.23.00:980][443]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2019.10.26-23.23.01:101][443]LogUObjectHash: Compacting FUObjectHashTables data took   6.07ms
+[2019.10.26-23.23.01:127][444]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2019.10.26-23.23.03:128][553]LogEditorViewport: Clicking on Actor (LMB): BP_GoodSky_C (BP_GoodSky)
+[2019.10.26-23.23.04:135][610]LogEditorViewport: Clicking on Actor (LMB): BP_GoodSky_C (BP_GoodSky)
+[2019.10.26-23.23.04:673][641]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2019.10.26-23.23.05:896][707]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-23.23.13:957][190]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.26-23.23.14:044][190]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2019.10.26-23.23.14:044][190]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.26-23.23.14:044][190]PIE: New page: PIE session: Menu (Oct 26, 2019, 3:23:14 PM)
+[2019.10.26-23.23.14:045][190]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Menu
+[2019.10.26-23.23.14:050][190]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004722s)
+[2019.10.26-23.23.14:050][190]LogAIModule: Creating AISystem for world Menu
+[2019.10.26-23.23.14:050][190]LogPlayLevel: PIE: World Init took: (0.000652s)
+[2019.10.26-23.23.14:050][190]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menu.Menu to /Game/Maps/UEDPIE_0_Menu.Menu (0.005552s)
+[2019.10.26-23.23.14:143][190]LogUObjectHash: Compacting FUObjectHashTables data took   5.58ms
+[2019.10.26-23.23.14:223][190]LogInit: XAudio2 using 'Headphones (2- Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.26-23.23.14:285][190]LogInit: FAudioDevice initialized.
+[2019.10.26-23.23.14:297][190]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.26-23.23.14:337][190]LogLoad: Game class is 'MenuGameMode_C'
+[2019.10.26-23.23.14:339][190]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2019.10.26-19.23.14
+[2019.10.26-23.23.14:339][190]LogWorld: Bringing up level for play took: 0.001142
+[2019.10.26-23.23.14:351][190]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.26-23.23.14:352][190]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.26-23.23.14:353][190]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.26-23.23.14:353][190]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.26-23.23.14:362][190]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Menu -0.561
+[2019.10.26-23.23.14:362][190]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2019.10.26-23.23.24:911][741]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2019.10.26-23.23.24:912][741]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.26-23.23.24:944][741]LogSlate: Window 'FLIGHT Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.26-23.23.24:983][741]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.26-23.23.24:983][741]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2019.10.26-23.23.25:113][741]LogUObjectHash: Compacting FUObjectHashTables data took   5.10ms
+[2019.10.26-23.23.25:248][742]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2019.10.26-23.23.26:655][814]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Menu" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Maps/Menu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.26-23.23.26:754][814]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2019.10.26-23.23.27:255][814]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Menu001E4BDB4E745FAAE3C059A983DE33FF.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Maps/Menu.umap'
+[2019.10.26-23.23.28:654][880]LogUObjectHash: Compacting FUObjectHashTables data took   9.85ms
