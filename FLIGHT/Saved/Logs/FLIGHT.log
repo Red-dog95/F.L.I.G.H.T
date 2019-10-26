@@ -593,3 +593,30 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.26-22.17.21:826][845]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Default_GM" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Blueprints/Default_GM.uasset" SILENT=true
 [2019.10.26-22.17.22:025][845]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Default_GMB701D5F644066FD680DCB38F7DC286EA.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Blueprints/Default_GM.uasset'
 [2019.10.26-22.17.23:748][941]LogUObjectHash: Compacting FUObjectHashTables data took   6.27ms
+[2019.10.26-22.18.12:086][524]LogAIModule: Creating AISystem for world Moon
+[2019.10.26-22.18.12:103][524]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Moon.Moon
+[2019.10.26-22.18.12:147][524]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2019.10.26-22.18.12:149][524]Cmd: MAP LOAD FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Maps/Moon.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.26-22.18.12:149][524]LightingResults: New page: Lighting Build
+[2019.10.26-22.18.12:150][524]LoadErrors: New page: Loading map: Moon.umap
+[2019.10.26-22.18.12:152][524]MapCheck: New page: Map Check
+[2019.10.26-22.18.12:152][524]LightingResults: New page: Lighting Build
+[2019.10.26-22.18.12:203][524]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2019.10.26-22.18.12:389][524]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.26-22.18.12:438][524]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2019.10.26-22.18.12:483][524]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.26-22.18.12:483][524]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.104ms to complete.
+[2019.10.26-22.18.12:483][524]LogFileHelpers: Loading map 'Moon' took 0.336
+[2019.10.26-22.18.14:729][654]LogEditorViewport: Clicking on Actor (LMB): Capital_Ship_C (Capital_Ship)
+[2019.10.26-22.18.16:009][724]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-22.18.25:515][291]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/In_Map_Objects/Capital_Ship.Capital_Ship
+[2019.10.26-22.18.33:966][747]BlueprintLog: New page: Compile Capital_Ship
+[2019.10.26-22.18.34:349][747]LogUObjectHash: Compacting FUObjectHashTables data took   5.93ms
+[2019.10.26-22.18.35:027][765]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/In_Map_Objects/Capital_Ship" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/In_Map_Objects/Capital_Ship.uasset" SILENT=true
+[2019.10.26-22.18.35:195][765]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Capital_Ship7B3835044A1B4D62B264D29878304276.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/In_Map_Objects/Capital_Ship.uasset'
+[2019.10.26-22.18.42:553][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Moon" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Maps/Moon.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.26-22.18.42:614][182]LogUObjectHash: Compacting FUObjectHashTables data took   6.21ms
+[2019.10.26-22.18.42:974][182]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Moon25A694F34A87E39E17A162819A72FDAF.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Maps/Moon.umap'
+[2019.10.26-22.18.43:164][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Moon_BuiltData" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Maps/Moon_BuiltData.uasset" SILENT=true
+[2019.10.26-22.18.43:212][182]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Moon_BuiltData5B8C3CC948E641995AE419B11142DC58.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Maps/Moon_BuiltData.uasset'
+[2019.10.26-22.18.47:114][406]LogUObjectHash: Compacting FUObjectHashTables data took   5.91ms
