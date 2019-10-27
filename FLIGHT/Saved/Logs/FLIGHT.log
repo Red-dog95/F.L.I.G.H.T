@@ -3368,3 +3368,89 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.27-00.26.25:394][985]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Lander_PC52A7CD6F4A3299B6C5337486922638EC.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Lander/Lander_PC.uasset'
 [2019.10.27-00.26.25:408][985]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FLIGHT_GI" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Blueprints/FLIGHT_GI.uasset" SILENT=true
 [2019.10.27-00.26.25:547][985]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/FLIGHT_GI169E986542D4D70B3E0EE4957C0FECE1.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Blueprints/FLIGHT_GI.uasset'
+[2019.10.27-00.27.57:847][868]LogAIModule: Creating AISystem for world Moon
+[2019.10.27-00.27.57:856][868]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Moon.Moon
+[2019.10.27-00.27.57:961][868]LogUObjectHash: Compacting FUObjectHashTables data took   7.28ms
+[2019.10.27-00.27.58:940][868]LogSlate: Window 'Save Content' being destroyed
+[2019.10.27-00.27.59:073][868]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FLIGHT_GI" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Blueprints/FLIGHT_GI.uasset" SILENT=true
+[2019.10.27-00.27.59:224][868]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/FLIGHT_GI7E0C5FD244C9223D6D5B9C968790B689.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Blueprints/FLIGHT_GI.uasset'
+[2019.10.27-00.27.59:229][868]Cmd: MAP LOAD FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Maps/Moon.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.27-00.27.59:229][868]LightingResults: New page: Lighting Build
+[2019.10.27-00.27.59:231][868]LoadErrors: New page: Loading map: Moon.umap
+[2019.10.27-00.27.59:233][868]MapCheck: New page: Map Check
+[2019.10.27-00.27.59:233][868]LightingResults: New page: Lighting Build
+[2019.10.27-00.27.59:326][868]LogUObjectHash: Compacting FUObjectHashTables data took   8.44ms
+[2019.10.27-00.27.59:421][868]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2019.10.27-00.27.59:511][868]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2019.10.27-00.28.00:427][868]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.27-00.28.00:524][868]LogUObjectHash: Compacting FUObjectHashTables data took   6.76ms
+[2019.10.27-00.28.00:579][868]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.27-00.28.00:579][868]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.131ms to complete.
+[2019.10.27-00.28.00:579][868]LogFileHelpers: Loading map 'Moon' took 1.352
+[2019.10.27-00.28.04:099][ 64]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-00.28.57:742][223]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.27-00.29.07:701][818]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-00.29.07:783][823]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.27-00.29.07:887][823]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Moon.Moon:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Moon.Moon:PersistentLevel.Moon' with GeneratedClass '/Game/Maps/Moon.Moon_C' with ClassGeneratedBy '/Game/Maps/Moon.Moon:PersistentLevel.Moon'
+[2019.10.27-00.29.07:887][823]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.27-00.29.07:887][823]PIE: New page: PIE session: Moon (Oct 26, 2019, 4:29:07 PM)
+[2019.10.27-00.29.07:897][823]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Moon
+[2019.10.27-00.29.07:902][823]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005091s)
+[2019.10.27-00.29.07:903][823]LogAIModule: Creating AISystem for world Moon
+[2019.10.27-00.29.07:903][823]LogPlayLevel: PIE: World Init took: (0.000678s)
+[2019.10.27-00.29.07:903][823]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Moon.Moon to /Game/Maps/UEDPIE_0_Moon.Moon (0.006212s)
+[2019.10.27-00.29.07:990][823]LogUObjectHash: Compacting FUObjectHashTables data took   4.95ms
+[2019.10.27-00.29.08:059][823]LogInit: XAudio2 using 'Headphones (2- Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.27-00.29.08:112][823]LogInit: FAudioDevice initialized.
+[2019.10.27-00.29.08:124][823]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.27-00.29.08:165][823]LogLoad: Game class is 'Default_GM_C'
+[2019.10.27-00.29.08:168][823]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Moon.Moon up for play (max tick rate 60) at 2019.10.26-20.29.08
+[2019.10.27-00.29.08:169][823]LogWorld: Bringing up level for play took: 0.002126
+[2019.10.27-00.29.08:925][823]LogBlueprintUserMessages: [Terrain_2] Translation: X=-2493.000 Y=0.000 Z=6.000 Rotation: P=1.064840 Y=0.000000 R=0.000000 Scale X=0.100 Y=1.000 Z=1.000
+[2019.10.27-00.29.08:928][823]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Moon 2.005
+[2019.10.27-00.29.08:928][823]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Moon.Moon:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Moon.Moon:PersistentLevel.Moon' with GeneratedClass '/Game/Maps/Moon.Moon_C' with ClassGeneratedBy '/Game/Maps/Moon.Moon:PersistentLevel.Moon'
+[2019.10.27-00.29.14:794][ 49]LogBlueprintUserMessages: [Capital_Ship_2] Lander_PC    0
+[2019.10.27-00.29.14:797][ 49]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (ShowID) or object (Lander_C_0)
+[2019.10.27-00.29.14:798][ 49]LogBlueprintUserMessages: [Capital_Ship_2] Lander
+[2019.10.27-00.29.14:798][ 49]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PlayerSprites' of length 0 in '/Game/Blueprints/FLIGHT_GI.FLIGHT_GI_C'!
+[2019.10.27-00.29.14:799][ 49]LogScript: Warning: Attempted to access index 1 from array CallFunc_GetAllSocketNames_ReturnValue of length 0!
+	Lander_C /Game/Maps/UEDPIE_0_Moon.Moon:PersistentLevel.Lander_C_0
+	Function /Game/Lander/Lander.Lander_C:ExecuteUbergraph_Lander:0D49
+[2019.10.27-00.29.14:799][ 49]PIE: Error: Blueprint Runtime Error: "Attempted to access index 1 from array CallFunc_GetAllSocketNames_ReturnValue of length 0!". Blueprint:  Lander Function:  Execute Ubergraph Lander Graph:  EventGraph Node:  AttachToComponent
+[2019.10.27-00.29.14:799][ 49]LogScript: Warning: Attempted to access index 0 from array CallFunc_GetAllSocketNames_ReturnValue of length 0!
+	Lander_C /Game/Maps/UEDPIE_0_Moon.Moon:PersistentLevel.Lander_C_0
+	Function /Game/Lander/Lander.Lander_C:ExecuteUbergraph_Lander:0DC6
+[2019.10.27-00.29.14:800][ 49]PIE: Error: Blueprint Runtime Error: "Attempted to access index 0 from array CallFunc_GetAllSocketNames_ReturnValue of length 0!". Blueprint:  Lander Function:  Execute Ubergraph Lander Graph:  EventGraph Node:  AttachToComponent
+[2019.10.27-00.29.15:015][ 56]LogBlueprintUserMessages: [Phase1Cam] Collision Off
+[2019.10.27-00.29.15:015][ 56]LogBlueprintUserMessages: [Default_GM_C_0] 1
+[2019.10.27-00.29.15:015][ 56]LogBlueprintUserMessages: [Default_GM_C_0] Lander_C_0
+[2019.10.27-00.29.15:015][ 56]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Phase1Alert) or object (Default_GM_C_0)
+[2019.10.27-00.29.15:020][ 56]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.10.27-00.29.15:020][ 56]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.10.27-00.29.15:021][ 56]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PlayerSprites' of length 0 in '/Game/Blueprints/FLIGHT_GI.FLIGHT_GI_C'!
+[2019.10.27-00.29.16:168][ 98]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Moon.Moon:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Moon.Moon:PersistentLevel.Moon' with GeneratedClass '/Game/Maps/Moon.Moon_C' with ClassGeneratedBy '/Game/Maps/Moon.Moon:PersistentLevel.Moon'
+[2019.10.27-00.29.16:169][ 98]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.27-00.29.16:222][ 98]LogSlate: Window 'FLIGHT Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.27-00.29.16:299][ 98]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.27-00.29.16:300][ 98]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Moon.Moon:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Moon.Moon:PersistentLevel.Moon' with GeneratedClass '/Game/Maps/Moon.Moon_C' with ClassGeneratedBy '/Game/Maps/Moon.Moon:PersistentLevel.Moon'
+[2019.10.27-00.29.16:444][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   5.65ms
+[2019.10.27-00.29.16:480][ 98]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.27-00.29.16:540][ 99]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2019.10.27-00.29.18:244][196]LogSlate: Window 'Message Log' being destroyed
+[2019.10.27-00.29.18:252][196]LogSlate: Window 'Message Log' being destroyed
+[2019.10.27-00.29.19:814][289]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.27-00.29.20:656][335]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.27-00.29.20:664][335]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Maps/Moon.Moon:PersistentLevel.Moon
+[2019.10.27-00.31.14:055][ 62]BlueprintLog: New page: Compile Default_GM
+[2019.10.27-00.31.15:423][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   8.27ms
+[2019.10.27-00.31.16:411][ 89]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Default_GM" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Blueprints/Default_GM.uasset" SILENT=true
+[2019.10.27-00.31.16:705][ 89]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Default_GMA670506B4B926EEC570430B7E58A3CFE.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Blueprints/Default_GM.uasset'
+[2019.10.27-00.36.10:467][941]LogUObjectHash: Compacting FUObjectHashTables data took  10.12ms
+[2019.10.27-00.36.10:724][941]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/ScottsTestLevel" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Maps/ScottsTestLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.27-00.36.10:828][941]LogUObjectHash: Compacting FUObjectHashTables data took   5.28ms
+[2019.10.27-00.36.11:271][941]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/ScottsTestLevelA40C1F684CC1F73AFB27159E1752683D.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Maps/ScottsTestLevel.umap'
+[2019.10.27-00.36.11:285][941]LogFileHelpers: Saving map 'ScottsTestLevel' took 0.561
+[2019.10.27-00.36.11:289][941]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Moon" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Maps/Moon.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.27-00.36.11:364][941]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2019.10.27-00.36.11:811][941]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Moon92A305B44FC26F6791B44D942D309A15.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Maps/Moon.umap'
+[2019.10.27-00.36.11:857][941]LogFileHelpers: Saving map 'Moon' took 0.568
