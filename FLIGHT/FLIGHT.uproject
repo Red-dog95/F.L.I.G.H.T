@@ -26,5 +26,11 @@
 			"Name": "EditorScriptingUtilities",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"AllDesktop",
+		"MacNoEditor",
+		"WindowsNoEditor",
+		"LinuxNoEditor"
 	]
 }
