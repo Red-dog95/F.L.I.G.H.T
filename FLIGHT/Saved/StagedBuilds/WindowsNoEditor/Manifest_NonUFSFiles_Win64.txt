@@ -1,5 +1,4 @@
 FLIGHT/Binaries/Win64/FLIGHT-Win64-Shipping.exe	2019-11-04T01:44:29.345Z
-Engine/Extras/Redist/en-us/UE4PrereqSetup_x64.exe	2019-04-03T23:59:58.080Z
 Engine/Binaries/ThirdParty/Oculus/OVRPlugin/OVRPlugin/Win64/OVRPlugin.dll	2019-04-03T23:55:26.829Z
 Engine/Binaries/ThirdParty/DbgHelp/dbghelp.dll	2019-04-03T23:55:07.884Z
 Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64/GFSDK_Aftermath_Lib.x64.dll	2019-04-03T23:55:26.584Z
@@ -17,4 +16,5 @@ Engine/Binaries/ThirdParty/OpenVR/OpenVRv1_0_16/Win64/openvr_api.dll	2019-04-03T
 Engine/Binaries/ThirdParty/Ogg/Win64/VS2015/libogg_64.dll	2019-04-03T23:55:26.921Z
 Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll	2019-04-03T23:56:00.438Z
 Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll	2019-04-03T23:56:00.448Z
-FLIGHT.exe	2019-11-04T01:47:46.910Z
+FLIGHT/Content/Movies/openingmovie.mp4	2019-11-04T18:40:33.343Z
+FLIGHT.exe	2019-11-04T19:12:16.760Z
