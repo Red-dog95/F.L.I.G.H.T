@@ -174,6 +174,7 @@ Windows.Engine:/Script/UnrealEd.EditorEngine:bSmoothFrameRate:0=false
 Windows.Engine:/Script/UnrealEd.EditorEngine:SmoothedFrameRateRange:0=(LowerBound=(Type="ERangeBoundTypesInclusive",Value=5),UpperBound=(Type="ERangeBoundTypesInclusive",Value=120))
 Windows.Engine:/Script/UnrealEd.EditorEngine:UseOldStyleMICEditorGroups:0=true
 Windows.Engine:/Script/UnrealEd.EditorEngine:InEditorGameURLOptions:0=
+Windows.Engine:FProjectLauncher:AdvancedMode:0=False
 Windows.Engine:URL:Protocol:0=unreal
 Windows.Engine:URL:Name:0=Player
 Windows.Engine:URL:SaveExt:0=usa
