@@ -25,6 +25,14 @@
 		{
 			"Name": "EditorScriptingUtilities",
 			"Enabled": true
+		},
+		{
+			"Name": "OnlineSubsystemSteam",
+			"Enabled": true
+		},
+		{
+			"Name": "SteamController",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
