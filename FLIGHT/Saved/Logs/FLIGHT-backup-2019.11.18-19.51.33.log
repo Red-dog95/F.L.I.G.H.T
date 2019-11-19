@@ -1,0 +1,1211 @@
+﻿Log file open, 11/18/19 13:09:40
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: FLIGHT
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.241137
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogWindows: Failed to load '../../../Engine/Binaries/ThirdParty/libsndfile/Win64/libsndfile-1.dll' (GetLastError=126)
+LogWindows: File '../../../Engine/Binaries/ThirdParty/libsndfile/Win64/libsndfile-1.dll' does not exist
+LogAudioMixer: Display: Failed to load Sound File dll
+LogAudioEditor: Display: LibSoundFile failed to load. Importing audio will not work correctly.
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin ConcertFrontend
+LogPluginManager: Mounting plugin ConcertMain
+LogPluginManager: Mounting plugin ConcertSyncClient
+LogPluginManager: Mounting plugin ConcertSyncCore
+LogPluginManager: Found config from plugin[ConcertSyncCore] E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Config/Windows/Engine.ini
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamController
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin AdvancedSessions
+LogPluginManager: Mounting plugin AdvancedSteamSessions
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: Display: STEAM: Loading Steam SDK 1.39
+LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+LogOnline: OSS: Unable to create OnlineSubsystem module Steam
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-5660361
+LogInit: Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz, GPU: Intel(R) HD Graphics 530
+LogInit: Compiled (64-bit): Mar 31 2019 02:05:09
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.11.18-18.09.41:978][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.11.18-18.09.41:978][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.11.18-18.09.41:978][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Config/Windows/Engine.ini]
+[2019.11.18-18.09.41:978][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.11.18-18.09.41:978][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.11.18-18.09.41:979][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2019.11.18-18.09.41:979][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Config/Windows/Engine.ini]
+[2019.11.18-18.09.41:979][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Config/Windows/Engine.ini]
+[2019.11.18-18.09.41:979][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.11.18-18.09.41:979][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.11.18-18.09.41:979][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.11.18-18.09.41:979][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.11.18-18.09.41:979][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.11.18-18.09.41:979][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.11.18-18.09.41:979][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.11.18-18.09.41:979][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.11.18-18.09.41:979][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.11.18-18.09.41:979][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.11.18-18.09.41:979][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.11.18-18.09.41:979][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.11.18-18.09.41:979][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.11.18-18.09.41:979][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Config/Windows/Engine.ini]
+[2019.11.18-18.09.41:979][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.11.18-18.09.41:979][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.11.18-18.09.41:979][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.11.18-18.09.41:979][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.11.18-18.09.41:979][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.11.18-18.09.41:979][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.11.18-18.09.41:979][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.11.18-18.09.41:979][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.11.18-18.09.41:979][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.11.18-18.09.41:979][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.11.18-18.09.41:979][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.11.18-18.09.41:979][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.11.18-18.09.41:979][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.11.18-18.09.41:979][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Config/Windows/Engine.ini]
+[2019.11.18-18.09.41:979][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Config/Windows/Engine.ini]
+[2019.11.18-18.09.41:991][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Config/Windows/Scalability.ini]
+[2019.11.18-18.09.41:991][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.18-18.09.41:991][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.18-18.09.41:991][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Config/Windows/Scalability.ini]
+[2019.11.18-18.09.41:991][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.18-18.09.41:991][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Config/Windows/Scalability.ini]
+[2019.11.18-18.09.41:991][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.18-18.09.41:991][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.18-18.09.41:991][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.18-18.09.41:991][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.18-18.09.41:991][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.18-18.09.41:991][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.18-18.09.41:991][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.18-18.09.41:991][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.18-18.09.41:991][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.18-18.09.41:991][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.18-18.09.41:991][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.18-18.09.41:991][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.18-18.09.41:991][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.18-18.09.41:991][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.18-18.09.41:991][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.18-18.09.41:991][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.18-18.09.41:991][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.18-18.09.41:991][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.18-18.09.41:991][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Config/Windows/Scalability.ini]
+[2019.11.18-18.09.41:991][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.18-18.09.41:991][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.18-18.09.41:991][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.18-18.09.41:991][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.18-18.09.41:991][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.18-18.09.41:991][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.18-18.09.41:991][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.18-18.09.41:991][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.18-18.09.41:991][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.18-18.09.41:991][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.18-18.09.41:991][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.18-18.09.41:991][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.18-18.09.41:991][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.18-18.09.41:991][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.18-18.09.41:991][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.18-18.09.41:991][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.18-18.09.41:991][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.18-18.09.41:991][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.18-18.09.41:991][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.18-18.09.41:991][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.18-18.09.41:991][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.18-18.09.41:991][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.18-18.09.41:991][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.18-18.09.41:991][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.18-18.09.41:991][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.18-18.09.41:991][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.18-18.09.41:991][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.18-18.09.41:991][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.18-18.09.41:991][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.18-18.09.41:992][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.18-18.09.41:992][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Config/Windows/Scalability.ini]
+[2019.11.18-18.09.41:992][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.18-18.09.41:992][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.18-18.09.41:992][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.18-18.09.41:992][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.18-18.09.41:992][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.18-18.09.41:992][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.18-18.09.41:992][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.18-18.09.41:992][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.18-18.09.41:992][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Config/Windows/Scalability.ini]
+[2019.11.18-18.09.41:992][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.18-18.09.41:992][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.18-18.09.41:992][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.18-18.09.41:992][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.18-18.09.41:992][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.18-18.09.41:992][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.18-18.09.41:992][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.18-18.09.41:992][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.18-18.09.41:992][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.18-18.09.41:992][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.18-18.09.41:992][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.18-18.09.41:992][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.18-18.09.41:992][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.18-18.09.41:992][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Config/Windows/Scalability.ini]
+[2019.11.18-18.09.41:992][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.18-18.09.41:992][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.18-18.09.41:994][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.18-18.09.41:994][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.11.18-18.09.42:034][  0]LogHAL: Display: Platform has ~ 16 GB [17073459200 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.11.18-18.09.42:035][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.11.18-18.09.42:035][  0]LogInit: Going up to parent DeviceProfile []
+[2019.11.18-18.09.42:036][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Config/Windows/Scalability.ini]
+[2019.11.18-18.09.42:036][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.18-18.09.42:036][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.18-18.09.42:036][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Config/Windows/Scalability.ini]
+[2019.11.18-18.09.42:036][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.18-18.09.42:036][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Config/Windows/Scalability.ini]
+[2019.11.18-18.09.42:036][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.18-18.09.42:036][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.18-18.09.42:036][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.18-18.09.42:036][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.18-18.09.42:036][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.18-18.09.42:036][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.18-18.09.42:036][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.18-18.09.42:036][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.18-18.09.42:036][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.18-18.09.42:036][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.18-18.09.42:036][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.18-18.09.42:036][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.18-18.09.42:036][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.18-18.09.42:036][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.18-18.09.42:037][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.18-18.09.42:037][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.18-18.09.42:037][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.18-18.09.42:037][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.18-18.09.42:037][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Config/Windows/Scalability.ini]
+[2019.11.18-18.09.42:037][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.18-18.09.42:037][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.18-18.09.42:037][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.18-18.09.42:037][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.18-18.09.42:037][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.18-18.09.42:037][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.18-18.09.42:037][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.18-18.09.42:037][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.18-18.09.42:037][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.18-18.09.42:037][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.18-18.09.42:037][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.18-18.09.42:037][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.18-18.09.42:037][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.18-18.09.42:037][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.18-18.09.42:037][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.18-18.09.42:037][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.18-18.09.42:037][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.18-18.09.42:037][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.18-18.09.42:037][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.18-18.09.42:037][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.18-18.09.42:037][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.18-18.09.42:037][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.18-18.09.42:037][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.18-18.09.42:037][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.18-18.09.42:037][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.18-18.09.42:037][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.18-18.09.42:037][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.18-18.09.42:037][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.18-18.09.42:037][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.18-18.09.42:037][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.18-18.09.42:037][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Config/Windows/Scalability.ini]
+[2019.11.18-18.09.42:037][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.18-18.09.42:037][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.18-18.09.42:037][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.18-18.09.42:037][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.18-18.09.42:037][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.18-18.09.42:037][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.18-18.09.42:037][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.18-18.09.42:037][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.18-18.09.42:037][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Config/Windows/Scalability.ini]
+[2019.11.18-18.09.42:037][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.18-18.09.42:037][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.18-18.09.42:037][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.18-18.09.42:037][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.18-18.09.42:037][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.18-18.09.42:037][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.18-18.09.42:037][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.18-18.09.42:037][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.18-18.09.42:037][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.18-18.09.42:037][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.18-18.09.42:037][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.18-18.09.42:037][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.18-18.09.42:037][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.18-18.09.42:037][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Config/Windows/Scalability.ini]
+[2019.11.18-18.09.42:037][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.18-18.09.42:037][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.18-18.09.42:037][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.11.18-18.09.42:043][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.11.18-18.09.42:043][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.11.18-18.09.42:043][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Config/Windows/Engine.ini]
+[2019.11.18-18.09.42:044][  0]LogInit: Computer: SCOTTS_PC
+[2019.11.18-18.09.42:044][  0]LogInit: User: scott
+[2019.11.18-18.09.42:044][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.11.18-18.09.42:044][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.11.18-18.09.42:045][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.11.18-18.09.42:045][  0]LogMemory: Platform Memory Stats for Windows
+[2019.11.18-18.09.42:045][  0]LogMemory: Process Physical Memory: 99.67 MB used, 99.67 MB peak
+[2019.11.18-18.09.42:045][  0]LogMemory: Process Virtual Memory: 102.93 MB used, 102.93 MB peak
+[2019.11.18-18.09.42:045][  0]LogMemory: Physical Memory: 5038.37 MB used,  11244.15 MB free, 16282.52 MB total
+[2019.11.18-18.09.42:045][  0]LogMemory: Virtual Memory: 4655.25 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2019.11.18-18.09.42:373][  0]LogInit: Using OS detected language (en-US).
+[2019.11.18-18.09.42:373][  0]LogInit: Using OS detected locale (en-CA).
+[2019.11.18-18.09.42:374][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.11.18-18.09.42:924][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.11.18-18.09.42:924][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.11.18-18.09.45:561][  0]LogHMD: Failed to initialize OpenVR with code 100
+[2019.11.18-18.09.45:561][  0]LogD3D11RHI: D3D11 adapters:
+[2019.11.18-18.09.45:918][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960M' (Feature Level 11_0)
+[2019.11.18-18.09.45:918][  0]LogD3D11RHI:       2010/0/8141 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.11.18-18.09.45:927][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2019.11.18-18.09.45:927][  0]LogD3D11RHI:       128/0/8141 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.11.18-18.09.45:929][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.11.18-18.09.45:929][  0]LogD3D11RHI:       0/0/8141 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.11.18-18.09.45:929][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.11.18-18.09.45:977][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.11.18-18.09.45:977][  0]LogD3D11RHI:     GPU DeviceId: 0x139b (for the marketing name, search the web for "GPU Device Id")
+[2019.11.18-18.09.45:977][  0]LogWindows: EnumDisplayDevices:
+[2019.11.18-18.09.45:978][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2019.11.18-18.09.45:978][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2019.11.18-18.09.45:978][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2019.11.18-18.09.45:978][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.11.18-18.09.45:979][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960M
+[2019.11.18-18.09.45:979][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.11.18-18.09.45:979][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.11.18-18.09.45:979][  0]LogRHI: Texture pool is 1407 MB (70% of 2010 MB)
+[2019.11.18-18.09.46:031][  0]LogD3D11RHI: Async texture creation enabled
+[2019.11.18-18.09.46:095][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.11.18-18.09.46:096][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.11.18-18.09.46:096][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.11.18-18.09.46:107][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.11.18-18.09.46:859][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.11.18-18.09.46:879][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.11.18-18.09.46:899][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.11.18-18.09.46:918][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.11.18-18.09.46:943][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.11.18-18.09.46:964][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.11.18-18.09.47:018][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.11.18-18.09.47:036][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.11.18-18.09.47:046][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.11.18-18.09.47:154][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.11.18-18.09.47:154][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.11.18-18.09.47:154][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.11.18-18.09.47:154][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.11.18-18.09.47:154][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.11.18-18.09.47:154][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.11.18-18.09.47:154][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.11.18-18.09.47:154][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.11.18-18.09.47:154][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.11.18-18.09.47:154][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.11.18-18.09.47:154][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.11.18-18.09.47:154][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.11.18-18.09.47:154][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.11.18-18.09.47:154][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.11.18-18.09.47:154][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.11.18-18.09.47:154][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.11.18-18.09.47:154][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.11.18-18.09.47:154][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.11.18-18.09.47:159][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.11.18-18.09.47:231][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.11.18-18.09.47:231][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.11.18-18.09.47:260][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.11.18-18.09.47:260][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.11.18-18.09.47:278][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.11.18-18.09.47:297][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.11.18-18.09.47:314][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.11.18-18.09.47:342][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.11.18-18.09.47:397][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.11.18-18.09.47:398][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.11.18-18.09.47:398][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.11.18-18.09.47:454][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.11.18-18.09.47:668][  0]LogShaderCompilers: Guid format shader working directory is 8 characters bigger than the processId version (E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Intermediate/Shaders/WorkingDirectory/5428/).
+[2019.11.18-18.09.47:668][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/scott/AppData/Local/Temp/UnrealShaderWorkingDir/59BED59C48C3452C37110AB7A6590707/'.
+[2019.11.18-18.09.47:673][  0]LogXGEController: Cleaning working directory: C:/Users/scott/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.11.18-18.09.47:673][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.11.18-18.09.47:674][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.11.18-18.09.47:674][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.11.18-18.09.50:306][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.11.18-18.09.50:513][  0]LogDerivedDataCache: Loaded boot cache 0.21s 71MB C:/Users/scott/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.11.18-18.09.50:513][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/scott/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.11.18-18.09.50:513][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.11.18-18.09.50:513][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.11.18-18.09.50:513][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.18-18.09.50:513][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.11.18-18.09.50:540][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.11.18-18.09.50:540][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.18-18.09.50:540][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.11.18-18.09.50:553][  0]LogDerivedDataCache: Using Local data cache path C:/Users/scott/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.11.18-18.09.50:553][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.11.18-18.09.50:553][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.11.18-18.09.50:582][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.11.18-18.09.50:595][  0]LogSlate: Using FreeType 2.6.0
+[2019.11.18-18.09.50:618][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.11.18-18.09.51:044][  0]LogAssetRegistry: FAssetRegistry took 0.0414 seconds to start up
+[2019.11.18-18.09.51:600][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.18-18.09.51:952][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.11.18-18.09.51:952][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.11.18-18.09.51:952][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.11.18-18.09.51:952][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.11.18-18.09.51:952][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.11.18-18.09.52:110][  0]ImportText (NetDriverDefinitions): Bad quoted string at: 
+[2019.11.18-18.09.52:153][  0]LogNetVersion: FLIGHT 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 3036253622)
+[2019.11.18-18.09.52:268][  0]ImportText (NetDriverDefinitions): Bad quoted string at: 
+[2019.11.18-18.09.53:481][  0]ImportText (NetDriverDefinitions): Bad quoted string at: 
+[2019.11.18-18.09.53:625][  0]ImportText (NetDriverDefinitions): Bad quoted string at: 
+[2019.11.18-18.09.53:843][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.080143 seconds
+[2019.11.18-18.09.53:850][  0]LogUObjectArray: 42214 objects as part of root set at end of initial load.
+[2019.11.18-18.09.53:850][  0]LogUObjectAllocator: 7335800 out of 0 bytes used by permanent object pool.
+[2019.11.18-18.09.53:850][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.11.18-18.10.00:115][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.11.18-18.10.00:136][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.11.18-18.10.00:136][  0]FUdpSocketBuilder: Failed to bind UdpMessageMulticastSocket to 0.0.0.0:6666
+[2019.11.18-18.10.00:136][  0]FUdpSocketBuilder: Failed to configure multicast for UdpMessageMulticastSocket (loopback: 1, ttl: 1)
+[2019.11.18-18.10.00:136][  0]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2019.11.18-18.10.00:136][  0]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2019.11.18-18.10.00:664][  0]SourceControl: Source control is disabled
+[2019.11.18-18.10.02:400][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.11.18-18.10.02:778][  0]LogOcInput: OculusInput pre-init called
+[2019.11.18-18.10.03:898][  0]LogEngine: Initializing Engine...
+[2019.11.18-18.10.03:901][  0]LogHMD: Failed to initialize OpenVR with code 100
+[2019.11.18-18.10.03:903][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2019.11.18-18.10.04:392][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.11.18-18.10.04:469][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.11.18-18.10.04:579][  0]LogInit: XAudio2 using 'Headphones (2- Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.18-18.10.04:640][  0]LogInit: FAudioDevice initialized.
+[2019.11.18-18.10.04:641][  0]LogNetVersion: Set ProjectVersion to 0.0.4. Version Checksum will be recalculated on next use.
+[2019.11.18-18.10.04:727][  0]LogDerivedDataCache: Saved boot cache 0.09s 71MB C:/Users/scott/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.11.18-18.10.04:738][  0]LogInit: Texture streaming: Enabled
+[2019.11.18-18.10.04:773][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.11.18-18.10.05:006][  0]LogInit: Transaction tracking system initialized
+[2019.11.18-18.10.05:119][  0]BlueprintLog: New page: Editor Load
+[2019.11.18-18.10.05:449][  0]LocalizationService: Localization service is disabled
+[2019.11.18-18.10.05:915][  0]LogLinker: Warning: Can't find file '/Game/Maps/LevelInteraface'
+[2019.11.18-18.10.05:915][  0]LogLinker: Warning: Can't find file '/Game/Maps/LevelInteraface'
+[2019.11.18-18.10.05:915][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Maps/LevelInteraface.LevelInteraface_C'
+[2019.11.18-18.10.06:894][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.11.18-18.10.06:894][  0]LogCook: Display: Mobile HDR setting 1
+[2019.11.18-18.10.07:461][  0]LogFileCache: Scanning file cache for directory 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/' took 0.07s
+[2019.11.18-18.10.07:613][  0]Cmd: MAP LOAD FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Maps/Menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.18-18.10.07:626][  0]LightingResults: New page: Lighting Build
+[2019.11.18-18.10.07:639][  0]MapCheck: New page: Map Check
+[2019.11.18-18.10.07:639][  0]LightingResults: New page: Lighting Build
+[2019.11.18-18.10.07:681][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2019.11.18-18.10.21:291][  0]LogAIModule: Creating AISystem for world Menu
+[2019.11.18-18.10.21:337][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.18-18.10.21:409][  0]LogUObjectHash: Compacting FUObjectHashTables data took   5.62ms
+[2019.11.18-18.10.21:409][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.18-18.10.21:410][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.111ms to complete.
+[2019.11.18-18.10.21:410][  0]LogFileHelpers: Loading map 'Menu' took 13.796
+[2019.11.18-18.10.21:686][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.18-18.10.21:702][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.18-18.10.21:715][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.18-18.10.21:729][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.18-18.10.21:809][  0]LogCollectionManager: Loaded 0 collections in 0.052991 seconds
+[2019.11.18-18.10.21:879][  0]LogFileCache: Scanning file cache for directory 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Collections/' took 0.01s
+[2019.11.18-18.10.21:879][  0]LogFileCache: Scanning file cache for directory 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Developers/scott/Collections/' took 0.01s
+[2019.11.18-18.10.21:879][  0]LogFileCache: Scanning file cache for directory 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Collections/' took 0.01s
+[2019.11.18-18.10.21:879][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.11.18-18.10.21:899][  0]LogContentBrowser: Native class hierarchy populated in 0.0170 seconds. Added 2784 classes and 690 folders.
+[2019.11.18-18.10.21:921][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.11.18-18.10.21:933][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.18-18.10.21:943][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.18-18.10.21:966][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.18-18.10.21:974][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.18-18.10.21:982][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.18-18.10.21:990][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.18-18.10.21:998][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.18-18.10.22:007][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.18-18.10.22:016][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.18-18.10.22:027][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.18-18.10.22:034][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.18-18.10.22:041][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.18-18.10.22:049][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.18-18.10.22:057][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.18-18.10.22:065][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.18-18.10.22:074][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.18-18.10.22:127][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.18-18.10.22:136][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.18-18.10.22:146][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.18-18.10.22:155][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.18-18.10.22:162][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.18-18.10.22:170][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.18-18.10.22:194][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.18-18.10.22:203][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.18-18.10.22:211][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.18-18.10.22:219][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.18-18.10.22:400][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.11.18-18.10.22:653][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2019.11.18-18.10.22:754][  0]LogSlate: Took 0.011789 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.11.18-18.10.22:766][  0]LogSlate: Took 0.009054 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.11.18-18.10.22:785][  0]LogSlate: Took 0.009370 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.11.18-18.10.22:982][  0]LogRenderer: Reallocating scene render targets to support 1176x564 Format 10 NumSamples 1 (Frame:1).
+[2019.11.18-18.10.23:206][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2019.11.18-18.10.23:206][  0]LogLoad: (Engine Initialization) Total time: 47.71 seconds
+[2019.11.18-18.10.23:206][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.11.18-18.10.23:353][  0]LogSteamController: SteamController is not available
+[2019.11.18-18.10.23:421][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.11.18-18.10.23:484][  0]LogSlate: Took 0.008889 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.18-18.10.23:558][  1]LogAssetRegistry: Asset discovery search completed in 32.5381 seconds
+[2019.11.18-18.10.23:563][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.11.18-18.10.23:563][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000085 seconds (updated 0 objects)
+[2019.11.18-18.10.24:249][ 39]LogSlate: Took 0.000168 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.18-18.10.28:044][263]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.18-18.10.30:696][422]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.18-18.10.33:584][586]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Widgets/W_PlayerSelector.W_PlayerSelector
+[2019.11.18-18.10.34:067][586]LogClass: Warning: Enum '/Game/Explosions/DemoRoom/BluePrints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2019.11.18-18.10.34:257][586]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 121 classes and 0 folders.
+[2019.11.18-18.10.35:868][586]LogSlate: Took 0.006218 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.11.18-18.10.51:265][480]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/Lander/Sprites/ShipRed.ShipRed
+[2019.11.18-18.10.51:560][481]LogRenderer: Reallocating scene render targets to support 1212x916 Format 10 NumSamples 1 (Frame:1).
+[2019.11.18-18.11.52:091][ 99]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lander/Sprites/ShipRed" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Lander/Sprites/ShipRed.uasset" SILENT=true
+[2019.11.18-18.11.52:512][ 99]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/ShipRed0130B3BC4B7B1CC89C2C92B68FFE8DC2.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Lander/Sprites/ShipRed.uasset'
+[2019.11.18-18.15.20:095][254]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/scott/Desktop/Assets/FLIGHT/Landers/2-the anansi.png)
+[2019.11.18-18.15.20:113][254]LogTexture: Display: Building textures: 2-the_anansi (BGRA8, 725X880)
+[2019.11.18-18.15.20:253][254]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/scott/Desktop/Assets/FLIGHT/Landers/2-the_danu.png)
+[2019.11.18-18.15.20:282][254]LogTexture: Display: Building textures: 2-the_danu (BGRA8, 1047X981)
+[2019.11.18-18.15.20:443][254]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/scott/Desktop/Assets/FLIGHT/Landers/2-the_horus.png)
+[2019.11.18-18.15.20:464][254]LogTexture: Display: Building textures: 2-the_horus (BGRA8, 828X909)
+[2019.11.18-18.15.20:611][254]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/scott/Desktop/Assets/FLIGHT/Landers/3-the anansi.png)
+[2019.11.18-18.15.20:630][254]LogTexture: Display: Building textures: 3-the_anansi (BGRA8, 725X880)
+[2019.11.18-18.15.20:767][254]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/scott/Desktop/Assets/FLIGHT/Landers/3-the triton.png)
+[2019.11.18-18.15.20:787][254]LogTexture: Display: Building textures: 3-the_triton (BGRA8, 767X838)
+[2019.11.18-18.15.20:929][254]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/scott/Desktop/Assets/FLIGHT/Landers/3-the_danu.png)
+[2019.11.18-18.15.20:958][254]LogTexture: Display: Building textures: 3-the_danu (BGRA8, 1047X981)
+[2019.11.18-18.15.21:112][254]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/scott/Desktop/Assets/FLIGHT/Landers/3-the_horus.png)
+[2019.11.18-18.15.21:134][254]LogTexture: Display: Building textures: 3-the_horus (BGRA8, 828X909)
+[2019.11.18-18.15.21:267][254]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/scott/Desktop/Assets/FLIGHT/Landers/4-the anansi.png)
+[2019.11.18-18.15.21:285][254]LogTexture: Display: Building textures: 4-the_anansi (BGRA8, 725X880)
+[2019.11.18-18.15.21:413][254]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/scott/Desktop/Assets/FLIGHT/Landers/4-the triton.png)
+[2019.11.18-18.15.21:433][254]LogTexture: Display: Building textures: 4-the_triton (BGRA8, 767X838)
+[2019.11.18-18.15.21:576][254]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/scott/Desktop/Assets/FLIGHT/Landers/4-the_danu.png)
+[2019.11.18-18.15.21:608][254]LogTexture: Display: Building textures: 4-the_danu (BGRA8, 1047X981)
+[2019.11.18-18.15.21:748][254]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/scott/Desktop/Assets/FLIGHT/Landers/4-the_horus.png)
+[2019.11.18-18.15.21:771][254]LogTexture: Display: Building textures: 4-the_horus (BGRA8, 828X909)
+[2019.11.18-18.15.21:915][254]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/scott/Desktop/Assets/FLIGHT/Landers/5-the triton.png)
+[2019.11.18-18.15.21:939][254]LogTexture: Display: Building textures: 5-the_triton (BGRA8, 767X838)
+[2019.11.18-18.15.22:068][254]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/scott/Desktop/Assets/FLIGHT/Landers/the anansi.png)
+[2019.11.18-18.15.22:085][254]LogTexture: Display: Building textures: the_anansi (BGRA8, 725X880)
+[2019.11.18-18.15.22:220][254]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/scott/Desktop/Assets/FLIGHT/Landers/the triton.png)
+[2019.11.18-18.15.22:238][254]LogTexture: Display: Building textures: the_triton (BGRA8, 767X838)
+[2019.11.18-18.15.22:378][254]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/scott/Desktop/Assets/FLIGHT/Landers/the_danu.png)
+[2019.11.18-18.15.22:397][254]LogTexture: Display: Building textures: the_danu (BGRA8, 1047X981)
+[2019.11.18-18.15.22:530][254]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/scott/Desktop/Assets/FLIGHT/Landers/the_horus.png)
+[2019.11.18-18.15.22:548][254]LogTexture: Display: Building textures: the_horus (BGRA8, 828X909)
+[2019.11.18-18.18.34:169][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lander/Textures/2-the_triton" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Lander/Textures/2-the_triton.uasset" SILENT=true
+[2019.11.18-18.18.34:239][773]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/2-the_triton412A6D46410264C19B867D915BF830FA.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Lander/Textures/2-the_triton.uasset'
+[2019.11.18-18.18.35:499][773]LogUObjectHash: Compacting FUObjectHashTables data took   9.73ms
+[2019.11.18-18.18.35:551][773]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2019.11.18-18.18.35:599][773]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2019.11.18-18.18.47:219][375]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Lander/Lander.Lander
+[2019.11.18-18.18.48:136][376]LogSlate: Took 0.006164 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.11.18-18.19.35:255][110]BlueprintLog: New page: Compile Lander
+[2019.11.18-18.19.35:710][110]LogUObjectHash: Compacting FUObjectHashTables data took   4.84ms
+[2019.11.18-18.20.53:110][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   5.79ms
+[2019.11.18-18.20.53:110][ 63]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Menu' took 0.062
+[2019.11.18-18.20.53:439][ 63]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Lander/Lander] ([1] browsable assets)...
+[2019.11.18-18.20.53:441][ 63]OBJ SavePackage: Finished generating thumbnails for package [/Game/Lander/Lander]
+[2019.11.18-18.20.53:441][ 63]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lander/Lander" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Autosaves/Game/Lander/Lander_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.11.18-18.20.53:954][ 63]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Lander_Auto161953C004A0DB5E723877DA8D9D09114.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Autosaves/Game/Lander/Lander_Auto1.uasset'
+[2019.11.18-18.20.53:994][ 63]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Lander/Textures/2-the_anansi] ([1] browsable assets)...
+[2019.11.18-18.20.54:001][ 63]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Lander/Textures/2-the_anansi.2-the_anansi]
+[2019.11.18-18.20.54:001][ 63]OBJ SavePackage: Finished generating thumbnails for package [/Game/Lander/Textures/2-the_anansi]
+[2019.11.18-18.20.54:001][ 63]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lander/Textures/2-the_anansi" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Autosaves/Game/Lander/Textures/2-the_anansi_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.11.18-18.20.54:013][ 63]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/2-the_anansi_Auto1780C53144A7F17300946F7B1861F76CB.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Autosaves/Game/Lander/Textures/2-the_anansi_Auto1.uasset'
+[2019.11.18-18.20.54:038][ 63]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Lander/Textures/2-the_danu] ([1] browsable assets)...
+[2019.11.18-18.20.54:045][ 63]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Lander/Textures/2-the_danu.2-the_danu]
+[2019.11.18-18.20.54:045][ 63]OBJ SavePackage: Finished generating thumbnails for package [/Game/Lander/Textures/2-the_danu]
+[2019.11.18-18.20.54:045][ 63]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lander/Textures/2-the_danu" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Autosaves/Game/Lander/Textures/2-the_danu_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.11.18-18.20.54:059][ 63]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/2-the_danu_Auto19CF0BDF041A7C49A89104389F7177CE9.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Autosaves/Game/Lander/Textures/2-the_danu_Auto1.uasset'
+[2019.11.18-18.20.54:060][ 63]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Lander/Textures/2-the_horus] ([1] browsable assets)...
+[2019.11.18-18.20.54:066][ 63]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Lander/Textures/2-the_horus.2-the_horus]
+[2019.11.18-18.20.54:066][ 63]OBJ SavePackage: Finished generating thumbnails for package [/Game/Lander/Textures/2-the_horus]
+[2019.11.18-18.20.54:066][ 63]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lander/Textures/2-the_horus" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Autosaves/Game/Lander/Textures/2-the_horus_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.11.18-18.20.54:082][ 63]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/2-the_horus_Auto152499A574F20DF9C2FC7D7AE95FB5D12.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Autosaves/Game/Lander/Textures/2-the_horus_Auto1.uasset'
+[2019.11.18-18.20.54:083][ 63]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Lander/Textures/3-the_anansi] ([1] browsable assets)...
+[2019.11.18-18.20.54:089][ 63]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Lander/Textures/3-the_anansi.3-the_anansi]
+[2019.11.18-18.20.54:089][ 63]OBJ SavePackage: Finished generating thumbnails for package [/Game/Lander/Textures/3-the_anansi]
+[2019.11.18-18.20.54:089][ 63]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lander/Textures/3-the_anansi" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Autosaves/Game/Lander/Textures/3-the_anansi_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.11.18-18.20.54:111][ 63]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/3-the_anansi_Auto1196F4746424CA7E43AD4E6BF2873C106.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Autosaves/Game/Lander/Textures/3-the_anansi_Auto1.uasset'
+[2019.11.18-18.20.54:112][ 63]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Lander/Textures/3-the_triton] ([1] browsable assets)...
+[2019.11.18-18.20.54:119][ 63]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Lander/Textures/3-the_triton.3-the_triton]
+[2019.11.18-18.20.54:119][ 63]OBJ SavePackage: Finished generating thumbnails for package [/Game/Lander/Textures/3-the_triton]
+[2019.11.18-18.20.54:119][ 63]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lander/Textures/3-the_triton" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Autosaves/Game/Lander/Textures/3-the_triton_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.11.18-18.20.54:135][ 63]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/3-the_triton_Auto1DCE4F0FD4DD34ED04E5E919496621BEE.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Autosaves/Game/Lander/Textures/3-the_triton_Auto1.uasset'
+[2019.11.18-18.20.54:136][ 63]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Lander/Textures/3-the_danu] ([1] browsable assets)...
+[2019.11.18-18.20.54:143][ 63]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Lander/Textures/3-the_danu.3-the_danu]
+[2019.11.18-18.20.54:143][ 63]OBJ SavePackage: Finished generating thumbnails for package [/Game/Lander/Textures/3-the_danu]
+[2019.11.18-18.20.54:143][ 63]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lander/Textures/3-the_danu" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Autosaves/Game/Lander/Textures/3-the_danu_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.11.18-18.20.54:157][ 63]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/3-the_danu_Auto18B62D4904F705F9773884484B22BEC27.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Autosaves/Game/Lander/Textures/3-the_danu_Auto1.uasset'
+[2019.11.18-18.20.54:158][ 63]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Lander/Textures/3-the_horus] ([1] browsable assets)...
+[2019.11.18-18.20.54:165][ 63]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Lander/Textures/3-the_horus.3-the_horus]
+[2019.11.18-18.20.54:165][ 63]OBJ SavePackage: Finished generating thumbnails for package [/Game/Lander/Textures/3-the_horus]
+[2019.11.18-18.20.54:165][ 63]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lander/Textures/3-the_horus" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Autosaves/Game/Lander/Textures/3-the_horus_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.11.18-18.20.54:180][ 63]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/3-the_horus_Auto10273F30F4801CD1CB3F46F8CF62411BE.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Autosaves/Game/Lander/Textures/3-the_horus_Auto1.uasset'
+[2019.11.18-18.20.54:181][ 63]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Lander/Textures/4-the_anansi] ([1] browsable assets)...
+[2019.11.18-18.20.54:187][ 63]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Lander/Textures/4-the_anansi.4-the_anansi]
+[2019.11.18-18.20.54:187][ 63]OBJ SavePackage: Finished generating thumbnails for package [/Game/Lander/Textures/4-the_anansi]
+[2019.11.18-18.20.54:187][ 63]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lander/Textures/4-the_anansi" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Autosaves/Game/Lander/Textures/4-the_anansi_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.11.18-18.20.54:199][ 63]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/4-the_anansi_Auto1512BD2DC4F7B2D6F90B179AE7C75DD83.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Autosaves/Game/Lander/Textures/4-the_anansi_Auto1.uasset'
+[2019.11.18-18.20.54:200][ 63]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Lander/Textures/4-the_triton] ([1] browsable assets)...
+[2019.11.18-18.20.54:207][ 63]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Lander/Textures/4-the_triton.4-the_triton]
+[2019.11.18-18.20.54:207][ 63]OBJ SavePackage: Finished generating thumbnails for package [/Game/Lander/Textures/4-the_triton]
+[2019.11.18-18.20.54:207][ 63]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lander/Textures/4-the_triton" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Autosaves/Game/Lander/Textures/4-the_triton_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.11.18-18.20.54:221][ 63]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/4-the_triton_Auto155BBE09A44050617B18F808C87392B11.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Autosaves/Game/Lander/Textures/4-the_triton_Auto1.uasset'
+[2019.11.18-18.20.54:222][ 63]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Lander/Textures/4-the_danu] ([1] browsable assets)...
+[2019.11.18-18.20.54:228][ 63]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Lander/Textures/4-the_danu.4-the_danu]
+[2019.11.18-18.20.54:228][ 63]OBJ SavePackage: Finished generating thumbnails for package [/Game/Lander/Textures/4-the_danu]
+[2019.11.18-18.20.54:228][ 63]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lander/Textures/4-the_danu" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Autosaves/Game/Lander/Textures/4-the_danu_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.11.18-18.20.54:241][ 63]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/4-the_danu_Auto15DEDAFC942E7225CDB4E3EAFA563657D.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Autosaves/Game/Lander/Textures/4-the_danu_Auto1.uasset'
+[2019.11.18-18.20.54:242][ 63]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Lander/Textures/4-the_horus] ([1] browsable assets)...
+[2019.11.18-18.20.54:248][ 63]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Lander/Textures/4-the_horus.4-the_horus]
+[2019.11.18-18.20.54:248][ 63]OBJ SavePackage: Finished generating thumbnails for package [/Game/Lander/Textures/4-the_horus]
+[2019.11.18-18.20.54:248][ 63]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lander/Textures/4-the_horus" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Autosaves/Game/Lander/Textures/4-the_horus_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.11.18-18.20.54:262][ 63]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/4-the_horus_Auto145554ACE4D4A5036D138989E6DB5BF8E.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Autosaves/Game/Lander/Textures/4-the_horus_Auto1.uasset'
+[2019.11.18-18.20.54:262][ 63]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Lander/Textures/the_anansi] ([1] browsable assets)...
+[2019.11.18-18.20.54:269][ 63]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Lander/Textures/the_anansi.the_anansi]
+[2019.11.18-18.20.54:269][ 63]OBJ SavePackage: Finished generating thumbnails for package [/Game/Lander/Textures/the_anansi]
+[2019.11.18-18.20.54:269][ 63]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lander/Textures/the_anansi" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Autosaves/Game/Lander/Textures/the_anansi_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.11.18-18.20.54:283][ 63]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/the_anansi_Auto1497F92B94D135B4BEC9461BD2603C187.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Autosaves/Game/Lander/Textures/the_anansi_Auto1.uasset'
+[2019.11.18-18.20.54:284][ 63]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Lander/Textures/the_triton] ([1] browsable assets)...
+[2019.11.18-18.20.54:291][ 63]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Lander/Textures/the_triton.the_triton]
+[2019.11.18-18.20.54:291][ 63]OBJ SavePackage: Finished generating thumbnails for package [/Game/Lander/Textures/the_triton]
+[2019.11.18-18.20.54:291][ 63]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lander/Textures/the_triton" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Autosaves/Game/Lander/Textures/the_triton_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.11.18-18.20.54:304][ 63]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/the_triton_Auto13C0782C945C45335BE16C2AFD49928C7.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Autosaves/Game/Lander/Textures/the_triton_Auto1.uasset'
+[2019.11.18-18.20.54:305][ 63]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Lander/Textures/the_danu] ([1] browsable assets)...
+[2019.11.18-18.20.54:312][ 63]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Lander/Textures/the_danu.the_danu]
+[2019.11.18-18.20.54:312][ 63]OBJ SavePackage: Finished generating thumbnails for package [/Game/Lander/Textures/the_danu]
+[2019.11.18-18.20.54:312][ 63]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lander/Textures/the_danu" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Autosaves/Game/Lander/Textures/the_danu_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.11.18-18.20.54:325][ 63]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/the_danu_Auto1968AF79144E7D8C17FEE3DACA5F9D04E.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Autosaves/Game/Lander/Textures/the_danu_Auto1.uasset'
+[2019.11.18-18.20.54:326][ 63]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Lander/Textures/the_horus] ([1] browsable assets)...
+[2019.11.18-18.20.54:335][ 63]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Lander/Textures/the_horus.the_horus]
+[2019.11.18-18.20.54:335][ 63]OBJ SavePackage: Finished generating thumbnails for package [/Game/Lander/Textures/the_horus]
+[2019.11.18-18.20.54:335][ 63]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lander/Textures/the_horus" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Autosaves/Game/Lander/Textures/the_horus_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.11.18-18.20.54:347][ 63]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/the_horus_Auto1D1819B0043D4C3A39F80DDBF12B14FB4.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Autosaves/Game/Lander/Textures/the_horus_Auto1.uasset'
+[2019.11.18-18.20.54:348][ 63]LogFileHelpers: Auto-saving content packages took 1.237
+[2019.11.18-18.30.03:278][808]LogEditorTransaction: Undo Break Pin Links
+[2019.11.18-18.30.31:016][314]LogBlueprint: Warning: [Compiler ] Pasted node  CustomEvent   conflicted with  On Component Hit (LanderSprite)  and was replaced as a Custom Event!
+[2019.11.18-18.31.20:218][ 45]BlueprintLog: New page: Compile Lander
+[2019.11.18-18.31.20:349][ 45]LogBlueprint: Error: [Compiler Lander] The current value of the ' Hit ' pin is invalid: 'Hit' in action 'Break Hit Result' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2019.11.18-18.31.20:756][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   7.54ms
+[2019.11.18-18.31.20:847][ 45]LogBlueprint: Warning: [Compiler Lander] [1305.35] Compile of Lander failed. 1 Fatal Issue(s) 0 Warning(s) [in 629 ms] (/Game/Lander/Lander.Lander)
+[2019.11.18-18.31.24:359][248]BlueprintLog: New page: Compile Lander
+[2019.11.18-18.31.24:857][248]LogUObjectHash: Compacting FUObjectHashTables data took   8.41ms
+[2019.11.18-18.35.04:811][981]LogUObjectHash: Compacting FUObjectHashTables data took   5.79ms
+[2019.11.18-18.35.04:811][981]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Menu' took 0.066
+[2019.11.18-18.35.04:814][981]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Lander/Lander] ([1] browsable assets)...
+[2019.11.18-18.35.04:814][981]OBJ SavePackage: Finished generating thumbnails for package [/Game/Lander/Lander]
+[2019.11.18-18.35.04:814][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lander/Lander" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Autosaves/Game/Lander/Lander_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2019.11.18-18.35.05:279][981]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Lander_Auto2594243DD47CA3551B415A884033A2CA9.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Autosaves/Game/Lander/Lander_Auto2.uasset'
+[2019.11.18-18.35.05:280][981]LogFileHelpers: Auto-saving content packages took 0.467
+[2019.11.18-18.38.31:367][522]LogSlate: Took 0.010750 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.11.18-18.38.46:521][422]BlueprintLog: New page: Compile Lander
+[2019.11.18-18.38.46:973][422]LogBlueprint: Error: [Compiler Lander] The current value (0) of the ' Type Index ' pin is invalid: 'Type Index' in action 'Set Player' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2019.11.18-18.38.47:439][422]LogUObjectHash: Compacting FUObjectHashTables data took   7.72ms
+[2019.11.18-18.38.47:508][422]LogBlueprint: Warning: [Compiler Lander] [1752.01] Compile of Lander failed. 1 Fatal Issue(s) 0 Warning(s) [in 987 ms] (/Game/Lander/Lander.Lander)
+[2019.11.18-18.39.08:587][660]BlueprintLog: New page: Compile Lander
+[2019.11.18-18.39.09:591][660]LogUObjectHash: Compacting FUObjectHashTables data took   7.41ms
+[2019.11.18-18.39.19:529][242]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lander/Lander" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Lander/Lander.uasset" SILENT=true
+[2019.11.18-18.39.20:089][242]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Lander4CF8FDA14CDF6777CAFD058DCD93AEEB.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Lander/Lander.uasset'
+[2019.11.18-18.39.24:080][468]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/FLIGHT_GI.FLIGHT_GI
+[2019.11.18-18.41.29:392][774]BlueprintLog: New page: Compile FLIGHT_GI
+[2019.11.18-18.41.29:507][774]LogBlueprint: Warning: [Compiler FLIGHT_GI] Can't parse default value '(PaperSprite'"/Game/Lander/Sprites/ShipRed.ShipRed"',PaperSprite'"/Game/Lander/Sprites/ShipBlue.ShipBlue"',PaperSprite'"/Game/Lander/Sprites/ShipGreen.ShipGreen"',PaperSprite'"/Game/Lander/Sprites/ShipYellow.ShipYellow"',PaperSprite'"/Game/Lander/Sprites/ShipMagenta.ShipMagenta"',PaperSprite'"/Game/Lander/Sprites/ShipPurple.ShipPurple"',PaperSprite'"/Game/Lander/Sprites/ShipAqua.ShipAqua"')' for  . Property: AllPlayerSprites_Dict.
+[2019.11.18-18.41.29:580][774]LogUObjectHash: Compacting FUObjectHashTables data took   7.47ms
+[2019.11.18-18.41.29:721][774]LogBlueprint: Warning: [Compiler FLIGHT_GI] [1914.22] Compile of FLIGHT_GI successful, but with 1 Warning(s) [in 328 ms] (/Game/Blueprints/FLIGHT_GI.FLIGHT_GI)
+[2019.11.18-18.42.00:735][540]LogSlate: Window 'Change Variable Type' being destroyed
+[2019.11.18-18.42.05:901][728]LogSlate: Window 'Find in Blueprints' being destroyed
+[2019.11.18-18.42.05:907][728]LogSlate: Window 'Find in Blueprints' being destroyed
+[2019.11.18-18.42.15:622][ 51]LogSlate: Window 'Change Variable Type' being destroyed
+[2019.11.18-18.42.20:502][328]LogSlate: Window 'Find in Blueprints' being destroyed
+[2019.11.18-18.44.49:087][241]BlueprintLog: New page: Compile FLIGHT_GI
+[2019.11.18-18.44.49:188][241]LogClass: Warning: Map Element Type mismatch in AllPlayerSprites_Dict of AllPlayerSprites_Dict - Previous (ObjectProperty to IntProperty) Current (StrProperty to ObjectProperty) for package: FObjectReader
+[2019.11.18-18.44.49:265][241]LogUObjectHash: Compacting FUObjectHashTables data took   6.47ms
+[2019.11.18-18.48.06:259][958]BlueprintLog: New page: Compile W_PlayerSelector
+[2019.11.18-18.48.06:963][958]LogUObjectHash: Compacting FUObjectHashTables data took   8.10ms
+[2019.11.18-18.52.06:296][201]BlueprintLog: New page: Compile W_PlayerSelector
+[2019.11.18-18.52.06:439][201]LogUObjectHash: Compacting FUObjectHashTables data took   9.45ms
+[2019.11.18-18.53.10:447][958]BlueprintLog: New page: Compile W_PlayerSelector
+[2019.11.18-18.53.10:542][958]LogUObjectHash: Compacting FUObjectHashTables data took   7.04ms
+[2019.11.18-18.55.47:773][327]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.22/Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset: 'C:/Program Files/Epic Games/UE_4.22/Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset' is outside repository
+[2019.11.18-18.57.09:104][190]LogUObjectHash: Compacting FUObjectHashTables data took   7.11ms
+[2019.11.18-18.57.09:461][190]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Menu" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Autosaves/Game/Maps/Menu_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.11.18-18.57.09:790][190]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Menu_Auto3658FA2FA458705FEA6779BB34CEAD7FF.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Autosaves/Game/Maps/Menu_Auto3.umap'
+[2019.11.18-18.57.09:796][190]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Menu' took 0.750
+[2019.11.18-18.57.09:796][190]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.750
+[2019.11.18-18.57.09:813][190]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/FLIGHT_GI] ([1] browsable assets)...
+[2019.11.18-18.57.09:813][190]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/FLIGHT_GI]
+[2019.11.18-18.57.09:813][190]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FLIGHT_GI" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Autosaves/Game/Blueprints/FLIGHT_GI_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2019.11.18-18.57.09:968][190]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/FLIGHT_GI_Auto3971A5B9345506A5689E7BCB4F3B69E4D.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Autosaves/Game/Blueprints/FLIGHT_GI_Auto3.uasset'
+[2019.11.18-18.57.09:969][190]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Widgets/PlayerRegistryScreen] ([1] browsable assets)...
+[2019.11.18-18.57.09:969][190]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/PlayerRegistryScreen]
+[2019.11.18-18.57.09:969][190]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/PlayerRegistryScreen" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Autosaves/Game/Widgets/PlayerRegistryScreen_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2019.11.18-18.57.10:203][190]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/PlayerRegistryScreen_Auto331B24B2A4739FFDBF8193D88011B9414.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Autosaves/Game/Widgets/PlayerRegistryScreen_Auto3.uasset'
+[2019.11.18-18.57.10:206][190]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Widgets/W_PlayerSelector] ([1] browsable assets)...
+[2019.11.18-18.57.10:206][190]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/W_PlayerSelector]
+[2019.11.18-18.57.10:206][190]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/W_PlayerSelector" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Autosaves/Game/Widgets/W_PlayerSelector_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2019.11.18-18.57.10:331][190]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/W_PlayerSelector_Auto30C47BB21405AF969F951B9927DBD87B9.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Autosaves/Game/Widgets/W_PlayerSelector_Auto3.uasset'
+[2019.11.18-18.57.10:331][190]LogFileHelpers: Auto-saving content packages took 0.533
+[2019.11.18-18.57.12:224][289]LogUObjectHash: Compacting FUObjectHashTables data took   6.05ms
+[2019.11.18-18.57.12:662][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Menu" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Maps/Menu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.18-18.57.12:711][289]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2019.11.18-18.57.13:067][289]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/Menu4B55F8464B01021AB8556A93E296B6D6.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Maps/Menu.umap'
+[2019.11.18-18.57.13:123][289]LogFileHelpers: Saving map 'Menu' took 0.462
+[2019.11.18-18.57.13:129][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FLIGHT_GI" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Blueprints/FLIGHT_GI.uasset" SILENT=true
+[2019.11.18-18.57.13:250][289]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/FLIGHT_GI78F0D5B44A6FCE1C0D22D09961B073E3.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Blueprints/FLIGHT_GI.uasset'
+[2019.11.18-18.57.13:267][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/PlayerRegistryScreen" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Widgets/PlayerRegistryScreen.uasset" SILENT=true
+[2019.11.18-18.57.13:452][289]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/PlayerRegistryScreen67372358488F1C7C68492797E76090CF.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Widgets/PlayerRegistryScreen.uasset'
+[2019.11.18-18.57.13:469][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/W_PlayerSelector" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Widgets/W_PlayerSelector.uasset" SILENT=true
+[2019.11.18-18.57.13:586][289]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/W_PlayerSelector44F522344879306FCCDED09F3301011B.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Widgets/W_PlayerSelector.uasset'
+[2019.11.18-18.57.13:592][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lander/Textures/2-the_anansi" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Lander/Textures/2-the_anansi.uasset" SILENT=true
+[2019.11.18-18.57.13:645][289]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/2-the_anansi24C2588840C57FCEAF7221AE8884FDF2.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Lander/Textures/2-the_anansi.uasset'
+[2019.11.18-18.57.14:073][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lander/Textures/2-the_danu" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Lander/Textures/2-the_danu.uasset" SILENT=true
+[2019.11.18-18.57.14:141][289]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/2-the_danuF09A5E3341CB6316C3FCFFA402DD9B8F.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Lander/Textures/2-the_danu.uasset'
+[2019.11.18-18.57.14:642][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lander/Textures/2-the_horus" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Lander/Textures/2-the_horus.uasset" SILENT=true
+[2019.11.18-18.57.14:707][289]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/2-the_horusB0879DDD45B29CC7D94732A5A338FF50.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Lander/Textures/2-the_horus.uasset'
+[2019.11.18-18.57.15:101][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lander/Textures/3-the_anansi" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Lander/Textures/3-the_anansi.uasset" SILENT=true
+[2019.11.18-18.57.15:171][289]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/3-the_anansi9968A1CD41415CCA37CD0298D5987D6A.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Lander/Textures/3-the_anansi.uasset'
+[2019.11.18-18.57.15:590][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lander/Textures/3-the_triton" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Lander/Textures/3-the_triton.uasset" SILENT=true
+[2019.11.18-18.57.15:652][289]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/3-the_tritonFBFFFFA740C644F44039EFAFDD0E4E51.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Lander/Textures/3-the_triton.uasset'
+[2019.11.18-18.57.16:033][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lander/Textures/3-the_danu" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Lander/Textures/3-the_danu.uasset" SILENT=true
+[2019.11.18-18.57.16:129][289]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/3-the_danu5CC489574CD30580900580A06E65A2AF.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Lander/Textures/3-the_danu.uasset'
+[2019.11.18-18.57.16:493][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lander/Textures/3-the_horus" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Lander/Textures/3-the_horus.uasset" SILENT=true
+[2019.11.18-18.57.16:568][289]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/3-the_horus0BC1AF384DD15FBEFFF16F9F99B4B121.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Lander/Textures/3-the_horus.uasset'
+[2019.11.18-18.57.16:954][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lander/Textures/4-the_anansi" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Lander/Textures/4-the_anansi.uasset" SILENT=true
+[2019.11.18-18.57.17:023][289]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/4-the_anansiBDA5A5D24085809A1B73BA99230A30F9.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Lander/Textures/4-the_anansi.uasset'
+[2019.11.18-18.57.17:761][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lander/Textures/4-the_triton" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Lander/Textures/4-the_triton.uasset" SILENT=true
+[2019.11.18-18.57.17:832][289]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/4-the_triton3A998E7B4A5DFEB2DF6541A2D7BEFE0E.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Lander/Textures/4-the_triton.uasset'
+[2019.11.18-18.57.18:206][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lander/Textures/4-the_danu" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Lander/Textures/4-the_danu.uasset" SILENT=true
+[2019.11.18-18.57.18:286][289]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/4-the_danu4C854475422C65C7626025981804D812.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Lander/Textures/4-the_danu.uasset'
+[2019.11.18-18.57.18:744][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lander/Textures/4-the_horus" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Lander/Textures/4-the_horus.uasset" SILENT=true
+[2019.11.18-18.57.18:807][289]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/4-the_horusA5367ADF4A51FBAC77A436BFA8462906.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Lander/Textures/4-the_horus.uasset'
+[2019.11.18-18.57.19:197][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lander/Textures/the_anansi" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Lander/Textures/the_anansi.uasset" SILENT=true
+[2019.11.18-18.57.19:251][289]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/the_anansiA8D27F284848A8B480354699F4C08C4B.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Lander/Textures/the_anansi.uasset'
+[2019.11.18-18.57.19:669][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lander/Textures/the_triton" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Lander/Textures/the_triton.uasset" SILENT=true
+[2019.11.18-18.57.19:718][289]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/the_triton5EF2E58049E8A6206AAE3D89199237D3.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Lander/Textures/the_triton.uasset'
+[2019.11.18-18.57.20:086][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lander/Textures/the_danu" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Lander/Textures/the_danu.uasset" SILENT=true
+[2019.11.18-18.57.20:170][289]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/the_danuE60EEEBB4A4C97E25B2C21ADF2746AC1.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Lander/Textures/the_danu.uasset'
+[2019.11.18-18.57.20:727][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lander/Textures/the_horus" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Lander/Textures/the_horus.uasset" SILENT=true
+[2019.11.18-18.57.20:787][289]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/the_horusD66A9EA247F6D6288B2314A7213287A1.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Lander/Textures/the_horus.uasset'
+[2019.11.18-19.34.03:831][398]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/Lander/Sprites/ShipRed.ShipRed
+[2019.11.18-19.34.45:986][896]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lander/Sprites/ShipRed" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Lander/Sprites/ShipRed.uasset" SILENT=true
+[2019.11.18-19.34.46:040][896]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/ShipRedE98C3E564636DFCE78C150B5F37BD7E3.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Lander/Sprites/ShipRed.uasset'
+[2019.11.18-19.34.58:115][606]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lander/Sprites/ShipRed" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Lander/Sprites/ShipRed.uasset" SILENT=true
+[2019.11.18-19.34.58:152][606]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/ShipRed601D7CE845D092E6EE0443BECCE0B303.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Lander/Sprites/ShipRed.uasset'
+[2019.11.18-19.35.13:330][500]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lander/Sprites/horus_1" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Lander/Sprites/horus_1.uasset" SILENT=true
+[2019.11.18-19.35.13:353][500]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/horus_1A3C06B584899D9B85094C1B226C9FC48.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Lander/Sprites/horus_1.uasset'
+[2019.11.18-19.35.15:393][577]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/Lander/Sprites/horus_1.horus_1
+[2019.11.18-19.35.18:211][699]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.22/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/PivotPainter2/SimpExPivPos.uasset: 'C:/Program Files/Epic Games/UE_4.22/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/PivotPainter2/SimpExPivPos.uasset' is outside repository
+[2019.11.18-19.35.18:211][699]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.22/Engine/Content/VREditor/WorldMovementGrid/SimpleGrid.uasset: 'C:/Program Files/Epic Games/UE_4.22/Engine/Content/VREditor/WorldMovementGrid/SimpleGrid.uasset' is outside repository
+[2019.11.18-19.36.25:558][722]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.18-19.37.03:576][996]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.18-19.40.10:324][ 18]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.18-19.43.06:074][344]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.18-19.44.19:487][607]Cmd: TRANSACTION UNDO
+[2019.11.18-19.44.19:487][607]LogEditorTransaction: Undo Set Local Transform
+[2019.11.18-19.44.28:643][112]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lander/Sprites/horus_1" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Lander/Sprites/horus_1.uasset" SILENT=true
+[2019.11.18-19.44.28:836][112]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/horus_1E014010D44480E6A210419A7A8FDAB1B.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Lander/Sprites/horus_1.uasset'
+[2019.11.18-19.45.17:318][947]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lander/Sprites/horus_1" FILE="E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Lander/Sprites/horus_1.uasset" SILENT=true
+[2019.11.18-19.45.17:517][947]LogSavePackage: Moving 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Saved/horus_130E2AA864CBDFCE9B290BEBCDFB81878.tmp' to 'E:/AstroSourceGames/F.L.I.G.H.T/FLIGHT/Content/Lander/Sprites/horus_1.uasset'
+[2019.11.18-19.51.28:216][173]LogUObjectHash: Compacting FUObjectHashTables data took   7.66ms
+[2019.11.18-19.51.30:062][280]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2019.11.18-19.51.30:559][280]LogSlate: Window 'FLIGHT - Unreal Editor' being destroyed
+[2019.11.18-19.51.30:561][280]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.18-19.51.30:817][281]Cmd: QUIT_EDITOR
+[2019.11.18-19.51.30:863][281]LogExit: Preparing to exit.
+[2019.11.18-19.51.31:398][281]LogExit: Editor shut down
+[2019.11.18-19.51.31:398][281]LogExit: Transaction tracking system shut down
+[2019.11.18-19.51.31:901][281]LogExit: Object subsystem successfully closed.
+[2019.11.18-19.51.31:927][281]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.11.18-19.51.31:933][281]LogD3D11RHI: Shutdown
+[2019.11.18-19.51.31:933][281]LogD3D11RHI: CleanupD3DDevice
+[2019.11.18-19.51.31:934][281]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.11.18-19.51.31:934][281]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.18-19.51.31:934][281]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.11.18-19.51.31:934][281]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.18-19.51.31:934][281]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.11.18-19.51.31:934][281]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.18-19.51.32:079][281]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.11.18-19.51.32:128][281]LogModuleManager: Shutting down and abandoning module SequencerWidgets (676)
+[2019.11.18-19.51.32:128][281]LogModuleManager: Shutting down and abandoning module BlueprintGraph (674)
+[2019.11.18-19.51.32:128][281]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (672)
+[2019.11.18-19.51.32:128][281]LogModuleManager: Shutting down and abandoning module SceneOutliner (670)
+[2019.11.18-19.51.32:128][281]LogModuleManager: Shutting down and abandoning module AddContentDialog (668)
+[2019.11.18-19.51.32:129][281]LogModuleManager: Shutting down and abandoning module WidgetCarousel (667)
+[2019.11.18-19.51.32:129][281]LogModuleManager: Shutting down and abandoning module EditorWidgets (664)
+[2019.11.18-19.51.32:129][281]LogModuleManager: Shutting down and abandoning module CollectionManager (662)
+[2019.11.18-19.51.32:129][281]LogModuleManager: Shutting down and abandoning module StatsViewer (660)
+[2019.11.18-19.51.32:129][281]LogModuleManager: Shutting down and abandoning module FoliageEdit (658)
+[2019.11.18-19.51.32:130][281]LogModuleManager: Shutting down and abandoning module LandscapeEditor (656)
+[2019.11.18-19.51.32:133][281]LogModuleManager: Shutting down and abandoning module MeshPaintMode (654)
+[2019.11.18-19.51.32:133][281]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (652)
+[2019.11.18-19.51.32:133][281]LogModuleManager: Shutting down and abandoning module ActorPickerMode (650)
+[2019.11.18-19.51.32:133][281]LogModuleManager: Shutting down and abandoning module GeometryMode (648)
+[2019.11.18-19.51.32:133][281]LogModuleManager: Shutting down and abandoning module TextureAlignMode (646)
+[2019.11.18-19.51.32:133][281]LogModuleManager: Shutting down and abandoning module BspMode (644)
+[2019.11.18-19.51.32:133][281]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (642)
+[2019.11.18-19.51.32:133][281]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (640)
+[2019.11.18-19.51.32:133][281]LogModuleManager: Shutting down and abandoning module AutomationWorker (638)
+[2019.11.18-19.51.32:133][281]LogModuleManager: Shutting down and abandoning module OculusMR (636)
+[2019.11.18-19.51.32:133][281]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (634)
+[2019.11.18-19.51.32:133][281]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (632)
+[2019.11.18-19.51.32:133][281]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (630)
+[2019.11.18-19.51.32:134][281]LogModuleManager: Shutting down and abandoning module PlacementMode (629)
+[2019.11.18-19.51.32:135][281]LogModuleManager: Shutting down and abandoning module MaterialEditor (628)
+[2019.11.18-19.51.32:137][281]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (624)
+[2019.11.18-19.51.32:137][281]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (622)
+[2019.11.18-19.51.32:137][281]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (620)
+[2019.11.18-19.51.32:137][281]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (618)
+[2019.11.18-19.51.32:137][281]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (616)
+[2019.11.18-19.51.32:137][281]LogModuleManager: Shutting down and abandoning module WebMMedia (614)
+[2019.11.18-19.51.32:137][281]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (612)
+[2019.11.18-19.51.32:137][281]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (610)
+[2019.11.18-19.51.32:137][281]LogModuleManager: Shutting down and abandoning module SequenceRecorder (609)
+[2019.11.18-19.51.32:137][281]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (606)
+[2019.11.18-19.51.32:137][281]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (604)
+[2019.11.18-19.51.32:137][281]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (602)
+[2019.11.18-19.51.32:137][281]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (600)
+[2019.11.18-19.51.32:137][281]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (598)
+[2019.11.18-19.51.32:137][281]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (596)
+[2019.11.18-19.51.32:137][281]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (594)
+[2019.11.18-19.51.32:137][281]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (592)
+[2019.11.18-19.51.32:137][281]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (590)
+[2019.11.18-19.51.32:137][281]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (588)
+[2019.11.18-19.51.32:137][281]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (586)
+[2019.11.18-19.51.32:137][281]LogModuleManager: Shutting down and abandoning module CharacterAI (584)
+[2019.11.18-19.51.32:137][281]LogModuleManager: Shutting down and abandoning module SmartSnapping (582)
+[2019.11.18-19.51.32:137][281]LogModuleManager: Shutting down and abandoning module SessionServices (580)
+[2019.11.18-19.51.32:137][281]LogModuleManager: Shutting down and abandoning module MeshPaint (578)
+[2019.11.18-19.51.32:138][281]LogModuleManager: Shutting down and abandoning module ViewportSnapping (576)
+[2019.11.18-19.51.32:138][281]LogModuleManager: Shutting down and abandoning module ViewportInteraction (574)
+[2019.11.18-19.51.32:138][281]LogModuleManager: Shutting down and abandoning module ClothPainter (572)
+[2019.11.18-19.51.32:138][281]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (571)
+[2019.11.18-19.51.32:140][281]LogModuleManager: Shutting down and abandoning module LogVisualizer (568)
+[2019.11.18-19.51.32:140][281]LogModuleManager: Shutting down and abandoning module IntroTutorials (566)
+[2019.11.18-19.51.32:140][281]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (565)
+[2019.11.18-19.51.32:141][281]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (562)
+[2019.11.18-19.51.32:141][281]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (560)
+[2019.11.18-19.51.32:141][281]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (558)
+[2019.11.18-19.51.32:141][281]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (556)
+[2019.11.18-19.51.32:141][281]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (555)
+[2019.11.18-19.51.33:167][281]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (552)
+[2019.11.18-19.51.33:167][281]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (550)
+[2019.11.18-19.51.33:167][281]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (548)
+[2019.11.18-19.51.33:167][281]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (546)
+[2019.11.18-19.51.33:167][281]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (544)
+[2019.11.18-19.51.33:167][281]LogModuleManager: Shutting down and abandoning module InputBindingEditor (542)
+[2019.11.18-19.51.33:168][281]LogModuleManager: Shutting down and abandoning module MergeActors (540)
+[2019.11.18-19.51.33:168][281]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (538)
+[2019.11.18-19.51.33:168][281]LogModuleManager: Shutting down and abandoning module LocalizationService (537)
+[2019.11.18-19.51.33:168][281]LogModuleManager: Shutting down and abandoning module HardwareTargeting (534)
+[2019.11.18-19.51.33:168][281]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (532)
+[2019.11.18-19.51.33:168][281]LogModuleManager: Shutting down and abandoning module UndoHistory (530)
+[2019.11.18-19.51.33:169][281]LogModuleManager: Shutting down and abandoning module XmlParser (528)
+[2019.11.18-19.51.33:169][281]LogModuleManager: Shutting down and abandoning module Blutility (526)
+[2019.11.18-19.51.33:169][281]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (524)
+[2019.11.18-19.51.33:169][281]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (523)
+[2019.11.18-19.51.33:169][281]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (520)
+[2019.11.18-19.51.33:169][281]LogModuleManager: Shutting down and abandoning module SettingsEditor (518)
+[2019.11.18-19.51.33:169][281]LogModuleManager: Shutting down and abandoning module ProjectLauncher (516)
+[2019.11.18-19.51.33:170][281]LogModuleManager: Shutting down and abandoning module SessionFrontend (514)
+[2019.11.18-19.51.33:170][281]LogModuleManager: Shutting down and abandoning module ProfilerClient (512)
+[2019.11.18-19.51.33:170][281]LogModuleManager: Shutting down and abandoning module DeviceManager (510)
+[2019.11.18-19.51.33:170][281]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (509)
+[2019.11.18-19.51.33:224][281]LogModuleManager: Shutting down and abandoning module AutomationController (506)
+[2019.11.18-19.51.33:224][281]LogModuleManager: Shutting down and abandoning module AutomationWindow (504)
+[2019.11.18-19.51.33:225][281]LogModuleManager: Shutting down and abandoning module Layers (502)
+[2019.11.18-19.51.33:228][281]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (500)
+[2019.11.18-19.51.33:228][281]LogModuleManager: Shutting down and abandoning module DetailCustomizations (498)
+[2019.11.18-19.51.33:228][281]LogModuleManager: Shutting down and abandoning module PackagesDialog (496)
+[2019.11.18-19.51.33:228][281]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (494)
+[2019.11.18-19.51.33:229][281]LogModuleManager: Shutting down and abandoning module Persona (492)
+[2019.11.18-19.51.33:229][281]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (491)
+[2019.11.18-19.51.33:229][281]LogModuleManager: Shutting down and abandoning module AnimGraph (489)
+[2019.11.18-19.51.33:229][281]LogModuleManager: Shutting down and abandoning module Kismet (486)
+[2019.11.18-19.51.33:250][281]LogModuleManager: Shutting down and abandoning module GraphEditor (484)
+[2019.11.18-19.51.33:250][281]LogModuleManager: Shutting down and abandoning module ClassViewer (482)
+[2019.11.18-19.51.33:250][281]LogModuleManager: Shutting down and abandoning module Toolbox (480)
+[2019.11.18-19.51.33:250][281]LogModuleManager: Shutting down and abandoning module DesktopPlatform (479)
+[2019.11.18-19.51.33:250][281]LogModuleManager: Shutting down and abandoning module ModuleUI (476)
+[2019.11.18-19.51.33:251][281]LogModuleManager: Shutting down and abandoning module MovieSceneTools (474)
+[2019.11.18-19.51.33:251][281]LogModuleManager: Shutting down and abandoning module OutputLog (472)
+[2019.11.18-19.51.33:251][281]LogModuleManager: Shutting down and abandoning module GammaUI (470)
+[2019.11.18-19.51.33:251][281]LogModuleManager: Shutting down and abandoning module Documentation (468)
+[2019.11.18-19.51.33:251][281]LogModuleManager: Shutting down and abandoning module LiveCoding (466)
+[2019.11.18-19.51.33:251][281]LogModuleManager: Shutting down and abandoning module LevelSequence (464)
+[2019.11.18-19.51.33:251][281]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (462)
+[2019.11.18-19.51.33:251][281]LogModuleManager: Shutting down and abandoning module MovieScene (460)
+[2019.11.18-19.51.33:251][281]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (458)
+[2019.11.18-19.51.33:252][281]LogModuleManager: Shutting down and abandoning module LauncherPlatform (456)
+[2019.11.18-19.51.33:252][281]LogModuleManager: Shutting down and abandoning module AnalyticsET (454)
+[2019.11.18-19.51.33:252][281]LogModuleManager: Shutting down and abandoning module PortalServices (452)
+[2019.11.18-19.51.33:252][281]LogModuleManager: Shutting down and abandoning module PortalRpc (450)
+[2019.11.18-19.51.33:252][281]LogModuleManager: Shutting down and abandoning module MessagingRpc (448)
+[2019.11.18-19.51.33:252][281]LogModuleManager: Shutting down and abandoning module AIModule (446)
+[2019.11.18-19.51.33:252][281]LogModuleManager: Shutting down and abandoning module GameplayDebugger (445)
+[2019.11.18-19.51.33:252][281]LogModuleManager: Shutting down and abandoning module AITestSuite (443)
+[2019.11.18-19.51.33:252][281]LogModuleManager: Shutting down and abandoning module NavigationSystem (441)
+[2019.11.18-19.51.33:252][281]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (438)
+[2019.11.18-19.51.33:268][281]LogModuleManager: Shutting down and abandoning module ProfilerService (436)
+[2019.11.18-19.51.33:420][281]LogModuleManager: Shutting down and abandoning module TaskGraph (434)
+[2019.11.18-19.51.33:420][281]LogModuleManager: Shutting down and abandoning module SteamVRController (432)
+[2019.11.18-19.51.33:420][281]LogModuleManager: Shutting down and abandoning module SteamController (430)
+[2019.11.18-19.51.33:420][281]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (428)
+[2019.11.18-19.51.33:420][281]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (426)
+[2019.11.18-19.51.33:420][281]LogModuleManager: Shutting down and abandoning module OculusEditor (424)
+[2019.11.18-19.51.33:421][281]LogModuleManager: Shutting down and abandoning module OculusInput (422)
+[2019.11.18-19.51.33:421][281]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (420)
+[2019.11.18-19.51.33:421][281]LogModuleManager: Shutting down and abandoning module EditableMesh (418)
+[2019.11.18-19.51.33:421][281]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (416)
+[2019.11.18-19.51.33:421][281]LogModuleManager: Shutting down and abandoning module CableComponent (414)
+[2019.11.18-19.51.33:421][281]LogModuleManager: Shutting down and abandoning module AudioCapture (412)
+[2019.11.18-19.51.33:421][281]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (410)
+[2019.11.18-19.51.33:421][281]LogModuleManager: Shutting down and abandoning module AndroidPermission (408)
+[2019.11.18-19.51.33:421][281]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (406)
+[2019.11.18-19.51.33:421][281]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (404)
+[2019.11.18-19.51.33:421][281]LogModuleManager: Shutting down and abandoning module MediaCompositing (402)
+[2019.11.18-19.51.33:421][281]LogModuleManager: Shutting down and abandoning module LinearTimecode (400)
+[2019.11.18-19.51.33:421][281]LogModuleManager: Shutting down and abandoning module ImgMedia (398)
+[2019.11.18-19.51.33:421][281]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (396)
+[2019.11.18-19.51.33:421][281]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (394)
+[2019.11.18-19.51.33:421][281]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (392)
+[2019.11.18-19.51.33:421][281]LogModuleManager: Shutting down and abandoning module HTML5Networking (390)
+[2019.11.18-19.51.33:421][281]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (388)
+[2019.11.18-19.51.33:421][281]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (386)
+[2019.11.18-19.51.33:421][281]LogModuleManager: Shutting down and abandoning module BackChannel (384)
+[2019.11.18-19.51.33:421][281]LogModuleManager: Shutting down and abandoning module AppleVision (382)
+[2019.11.18-19.51.33:421][281]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (380)
+[2019.11.18-19.51.33:421][281]LogModuleManager: Shutting down and abandoning module AppleImageUtils (378)
+[2019.11.18-19.51.33:421][281]LogModuleManager: Shutting down and abandoning module AlembicImporter (376)
+[2019.11.18-19.51.33:421][281]LogModuleManager: Shutting down and abandoning module AlembicLibrary (375)
+[2019.11.18-19.51.33:422][281]LogModuleManager: Shutting down and abandoning module GeometryCache (374)
+[2019.11.18-19.51.33:422][281]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (373)
+[2019.11.18-19.51.33:422][281]LogModuleManager: Shutting down and abandoning module VariantManagerContent (368)
+[2019.11.18-19.51.33:422][281]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (366)
+[2019.11.18-19.51.33:422][281]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (364)
+[2019.11.18-19.51.33:422][281]LogModuleManager: Shutting down and abandoning module PluginBrowser (362)
+[2019.11.18-19.51.33:422][281]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (360)
+[2019.11.18-19.51.33:422][281]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (358)
+[2019.11.18-19.51.33:422][281]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (356)
+[2019.11.18-19.51.33:423][281]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (354)
+[2019.11.18-19.51.33:423][281]LogModuleManager: Shutting down and abandoning module CryptoKeys (352)
+[2019.11.18-19.51.33:423][281]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (350)
+[2019.11.18-19.51.33:423][281]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (348)
+[2019.11.18-19.51.33:423][281]LogModuleManager: Shutting down and abandoning module UObjectPlugin (346)
+[2019.11.18-19.51.33:423][281]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (344)
+[2019.11.18-19.51.33:423][281]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (342)
+[2019.11.18-19.51.33:423][281]LogModuleManager: Shutting down and abandoning module GitSourceControl (340)
+[2019.11.18-19.51.33:423][281]LogModuleManager: Shutting down and abandoning module SourceControl (339)
+[2019.11.18-19.51.33:424][281]LogModuleManager: Shutting down and abandoning module ConcertSyncClientLibrary (336)
+[2019.11.18-19.51.33:424][281]LogModuleManager: Shutting down and abandoning module ConcertUICore (334)
+[2019.11.18-19.51.33:424][281]LogModuleManager: Shutting down and abandoning module ConcertSyncClient (332)
+[2019.11.18-19.51.33:424][281]LogModuleManager: Shutting down and abandoning module ConcertFrontend (330)
+[2019.11.18-19.51.33:424][281]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (328)
+[2019.11.18-19.51.33:424][281]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (326)
+[2019.11.18-19.51.33:424][281]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (324)
+[2019.11.18-19.51.33:424][281]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (322)
+[2019.11.18-19.51.33:424][281]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (320)
+[2019.11.18-19.51.33:424][281]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (318)
+[2019.11.18-19.51.33:425][281]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (316)
+[2019.11.18-19.51.33:425][281]LogModuleManager: Shutting down and abandoning module Paper2DEditor (314)
+[2019.11.18-19.51.33:425][281]LogModuleManager: Shutting down and abandoning module FLIGHT (312)
+[2019.11.18-19.51.33:425][281]LogModuleManager: Shutting down and abandoning module AdvancedSteamSessions (310)
+[2019.11.18-19.51.33:425][281]LogModuleManager: Shutting down and abandoning module AdvancedSessions (308)
+[2019.11.18-19.51.33:425][281]LogModuleManager: Shutting down and abandoning module SignificanceManager (306)
+[2019.11.18-19.51.33:425][281]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (304)
+[2019.11.18-19.51.33:425][281]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (302)
+[2019.11.18-19.51.33:425][281]LogModuleManager: Shutting down and abandoning module PhysXVehicles (300)
+[2019.11.18-19.51.33:425][281]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (298)
+[2019.11.18-19.51.33:425][281]LogModuleManager: Shutting down and abandoning module ActorSequence (296)
+[2019.11.18-19.51.33:425][281]LogModuleManager: Shutting down and abandoning module UdpMessaging (294)
+[2019.11.18-19.51.33:526][281]LogModuleManager: Shutting down and abandoning module TcpMessaging (292)
+[2019.11.18-19.51.33:627][281]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (290)
+[2019.11.18-19.51.33:627][281]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (288)
+[2019.11.18-19.51.33:627][281]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (286)
+[2019.11.18-19.51.33:627][281]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (284)
+[2019.11.18-19.51.33:627][281]LogModuleManager: Shutting down and abandoning module MagicLeapController (282)
+[2019.11.18-19.51.33:627][281]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.11.18-19.51.33:627][281]LogModuleManager: Shutting down and abandoning module MagicLeapAR (280)
+[2019.11.18-19.51.33:627][281]LogModuleManager: Shutting down and abandoning module AugmentedReality (279)
+[2019.11.18-19.51.33:627][281]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (276)
+[2019.11.18-19.51.33:627][281]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (274)
+[2019.11.18-19.51.33:627][281]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (272)
+[2019.11.18-19.51.33:628][281]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (270)
+[2019.11.18-19.51.33:628][281]LogModuleManager: Shutting down and abandoning module FacialAnimation (268)
+[2019.11.18-19.51.33:628][281]LogModuleManager: Shutting down and abandoning module DataValidation (266)
+[2019.11.18-19.51.33:628][281]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (264)
+[2019.11.18-19.51.33:629][281]LogModuleManager: Shutting down and abandoning module LevelEditor (263)
+[2019.11.18-19.51.33:632][281]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (262)
+[2019.11.18-19.51.33:632][281]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (260)
+[2019.11.18-19.51.33:632][281]LogModuleManager: Shutting down and abandoning module MainFrame (258)
+[2019.11.18-19.51.33:632][281]LogModuleManager: Shutting down and abandoning module HotReload (257)
+[2019.11.18-19.51.33:634][281]LogModuleManager: Shutting down and abandoning module ContentBrowser (253)
+[2019.11.18-19.51.33:635][281]LogModuleManager: Shutting down and abandoning module TreeMap (251)
+[2019.11.18-19.51.33:635][281]LogModuleManager: Shutting down and abandoning module ConcertSyncCore (248)
+[2019.11.18-19.51.33:635][281]LogModuleManager: Shutting down and abandoning module ConcertTransport (246)
+[2019.11.18-19.51.33:635][281]LogModuleManager: Shutting down and abandoning module Concert (244)
+[2019.11.18-19.51.33:635][281]LogModuleManager: Shutting down and abandoning module AnimationSharing (242)
+[2019.11.18-19.51.33:635][281]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (240)
+[2019.11.18-19.51.33:635][281]LogModuleManager: Shutting down and abandoning module AISupportModule (238)
+[2019.11.18-19.51.33:635][281]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2019.11.18-19.51.33:635][281]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2019.11.18-19.51.33:635][281]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (232)
+[2019.11.18-19.51.33:635][281]LogModuleManager: Shutting down and abandoning module PacketHandler (230)
+[2019.11.18-19.51.33:635][281]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (228)
+[2019.11.18-19.51.33:635][281]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (226)
+[2019.11.18-19.51.33:636][281]LogModuleManager: Shutting down and abandoning module MediaAssets (224)
+[2019.11.18-19.51.33:636][281]LogModuleManager: Shutting down and abandoning module Overlay (222)
+[2019.11.18-19.51.33:636][281]LogModuleManager: Shutting down and abandoning module OverlayEditor (221)
+[2019.11.18-19.51.33:636][281]LogModuleManager: Shutting down and abandoning module VREditor (218)
+[2019.11.18-19.51.33:636][281]LogModuleManager: Shutting down and abandoning module StringTableEditor (216)
+[2019.11.18-19.51.33:637][281]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (214)
+[2019.11.18-19.51.33:637][281]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (212)
+[2019.11.18-19.51.33:637][281]LogModuleManager: Shutting down and abandoning module FunctionalTesting (210)
+[2019.11.18-19.51.33:637][281]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (208)
+[2019.11.18-19.51.33:638][281]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (207)
+[2019.11.18-19.51.33:638][281]LogModuleManager: Shutting down and abandoning module UMG (204)
+[2019.11.18-19.51.33:638][281]LogModuleManager: Shutting down and abandoning module UMGEditor (203)
+[2019.11.18-19.51.33:638][281]LogModuleManager: Shutting down and abandoning module Sequencer (202)
+[2019.11.18-19.51.33:638][281]LogModuleManager: Shutting down and abandoning module MessageLog (199)
+[2019.11.18-19.51.33:638][281]LogModuleManager: Shutting down and abandoning module SlateReflector (194)
+[2019.11.18-19.51.33:640][281]LogModuleManager: Shutting down and abandoning module Slate (192)
+[2019.11.18-19.51.33:640][281]LogModuleManager: Shutting down and abandoning module EditorStyle (190)
+[2019.11.18-19.51.33:642][281]LogModuleManager: Shutting down and abandoning module UnrealEd (188)
+[2019.11.18-19.51.33:642][281]LogModuleManager: Shutting down and abandoning module MRMesh (186)
+[2019.11.18-19.51.33:642][281]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (184)
+[2019.11.18-19.51.33:642][281]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (182)
+[2019.11.18-19.51.33:643][281]LogModuleManager: Shutting down and abandoning module XAudio2 (180)
+[2019.11.18-19.51.33:643][281]LogModuleManager: Shutting down and abandoning module Networking (178)
+[2019.11.18-19.51.33:643][281]LogModuleManager: Shutting down and abandoning module Core (176)
+[2019.11.18-19.51.33:643][281]LogModuleManager: Shutting down and abandoning module KismetCompiler (174)
+[2019.11.18-19.51.33:643][281]LogModuleManager: Shutting down and abandoning module MeshUtilities (172)
+[2019.11.18-19.51.33:643][281]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (171)
+[2019.11.18-19.51.33:643][281]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (170)
+[2019.11.18-19.51.33:643][281]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (169)
+[2019.11.18-19.51.33:644][281]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (167)
+[2019.11.18-19.51.33:644][281]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (165)
+[2019.11.18-19.51.33:645][281]LogModuleManager: Shutting down and abandoning module MaterialBaking (161)
+[2019.11.18-19.51.33:645][281]LogModuleManager: Shutting down and abandoning module DerivedDataCache (156)
+[2019.11.18-19.51.33:730][281]LogDerivedDataCache: Shutdown
+[2019.11.18-19.51.33:731][281]LogModuleManager: Shutting down and abandoning module XGEController (154)
+[2019.11.18-19.51.33:731][281]LogXGEController: Cleaning working directory: C:/Users/scott/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.11.18-19.51.33:731][281]LogModuleManager: Shutting down and abandoning module TargetPlatform (152)
+[2019.11.18-19.51.33:731][281]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (151)
+[2019.11.18-19.51.33:731][281]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (149)
+[2019.11.18-19.51.33:731][281]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (147)
+[2019.11.18-19.51.33:732][281]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (145)
+[2019.11.18-19.51.33:732][281]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (143)
+[2019.11.18-19.51.33:732][281]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (141)
+[2019.11.18-19.51.33:732][281]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (139)
+[2019.11.18-19.51.33:733][281]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (137)
+[2019.11.18-19.51.33:733][281]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (135)
+[2019.11.18-19.51.33:733][281]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (133)
+[2019.11.18-19.51.33:733][281]LogModuleManager: Shutting down and abandoning module ImageWrapper (132)
+[2019.11.18-19.51.33:733][281]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (129)
+[2019.11.18-19.51.33:733][281]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (127)
+[2019.11.18-19.51.33:733][281]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (125)
+[2019.11.18-19.51.33:733][281]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (123)
+[2019.11.18-19.51.33:733][281]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (121)
+[2019.11.18-19.51.33:734][281]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (119)
+[2019.11.18-19.51.33:734][281]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (117)
+[2019.11.18-19.51.33:734][281]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (115)
+[2019.11.18-19.51.33:734][281]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (113)
+[2019.11.18-19.51.33:734][281]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (111)
+[2019.11.18-19.51.33:735][281]LogModuleManager: Shutting down and abandoning module Messaging (109)
+[2019.11.18-19.51.33:735][281]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (107)
+[2019.11.18-19.51.33:736][281]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (105)
+[2019.11.18-19.51.33:736][281]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (103)
+[2019.11.18-19.51.33:749][281]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (101)
+[2019.11.18-19.51.33:749][281]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (99)
+[2019.11.18-19.51.33:749][281]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (97)
+[2019.11.18-19.51.33:749][281]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (95)
+[2019.11.18-19.51.33:749][281]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (93)
+[2019.11.18-19.51.33:749][281]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (91)
+[2019.11.18-19.51.33:749][281]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (89)
+[2019.11.18-19.51.33:749][281]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (87)
+[2019.11.18-19.51.33:749][281]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (85)
+[2019.11.18-19.51.33:749][281]LogModuleManager: Shutting down and abandoning module InputCore (82)
+[2019.11.18-19.51.33:749][281]LogModuleManager: Shutting down and abandoning module Settings (80)
+[2019.11.18-19.51.33:749][281]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (78)
+[2019.11.18-19.51.33:749][281]LogModuleManager: Shutting down and abandoning module PhysXCooking (76)
+[2019.11.18-19.51.33:749][281]LogModuleManager: Shutting down and abandoning module SteamVR (74)
+[2019.11.18-19.51.33:749][281]LogHMD: Freeing OpenVRDLLHandle.
+[2019.11.18-19.51.33:749][281]LogModuleManager: Shutting down and abandoning module OculusHMD (72)
+[2019.11.18-19.51.33:749][281]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (70)
+[2019.11.18-19.51.33:749][281]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (68)
+[2019.11.18-19.51.33:749][281]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (66)
+[2019.11.18-19.51.33:749][281]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (62)
+[2019.11.18-19.51.33:753][281]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2019.11.18-19.51.33:757][281]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2019.11.18-19.51.33:788][281]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2019.11.18-19.51.33:789][281]LogHttp: Display: Http module shutting down, but needs to wait on 2 outstanding Http requests:
+[2019.11.18-19.51.33:789][281]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B68DE01C6-4168-2C83-332E-3DBC9EBD3836%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.0-5660361%2B%2B%2BUE4%2BRelease-4.22&UserID=029eebb64e8ff508ff4d9798ed7bd7c1%7Cbc009d4cc4b14659877bff6daf05e8bf%7Cfb63b9ff-0888-4740-a239-7034cd56560f&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.11.18-19.51.33:789][281]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B68DE01C6-4168-2C83-332E-3DBC9EBD3836%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.0-5660361%2B%2B%2BUE4%2BRelease-4.22&UserID=029eebb64e8ff508ff4d9798ed7bd7c1%7Cbc009d4cc4b14659877bff6daf05e8bf%7Cfb63b9ff-0888-4740-a239-7034cd56560f&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.11.18-19.51.33:824][281]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2019.11.18-19.51.33:827][281]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2019.11.18-19.51.33:832][281]LogModuleManager: Shutting down and abandoning module Media (45)
+[2019.11.18-19.51.33:838][281]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2019.11.18-19.51.33:839][281]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2019.11.18-19.51.33:839][281]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.11.18-19.51.33:840][281]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.11.18-19.51.33:841][281]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.11.18-19.51.33:841][281]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.11.18-19.51.33:841][281]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.11.18-19.51.33:841][281]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.11.18-19.51.33:841][281]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.11.18-19.51.33:843][281]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.11.18-19.51.33:843][281]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.11.18-19.51.33:843][281]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.11.18-19.51.33:843][281]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.11.18-19.51.33:843][281]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.11.18-19.51.33:843][281]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.11.18-19.51.33:843][281]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.11.18-19.51.33:843][281]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.11.18-19.51.33:843][281]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.11.18-19.51.33:844][281]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.11.18-19.51.33:844][281]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.11.18-19.51.33:844][281]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.11.18-19.51.33:858][281]LogExit: Exiting.
+[2019.11.18-19.51.33:921][281]Log file closed, 11/18/19 14:51:33
