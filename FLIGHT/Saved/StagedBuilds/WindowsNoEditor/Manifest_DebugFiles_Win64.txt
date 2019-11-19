@@ -1,4 +1,4 @@
-FLIGHT/Binaries/Win64/FLIGHT-Win64-Shipping.pdb	2019-11-04T01:44:30.213Z
+FLIGHT/Binaries/Win64/FLIGHT-Win64-Shipping.pdb	2019-11-19T21:29:01.000Z
 Engine/Content/SlateDebug/Fonts/LastResort.tps	2019-04-03T23:58:17.871Z
 Engine/Content/SlateDebug/Fonts/LastResort.ttf	2019-04-03T23:58:17.892Z
 Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PxFoundation_x64.pdb	2019-04-03T23:55:32.382Z
