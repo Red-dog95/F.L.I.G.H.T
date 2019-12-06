@@ -1,192 +1,192 @@
-E:\AstroSourceGames\F.L.I.G.H.T\FLIGHT\Intermediate\Build\Win64\UE4Editor\Development\FLIGHT\Definitions.FLIGHT.h
-E:\AstroSourceGames\F.L.I.G.H.T\FLIGHT\Source\FLIGHT\Public\GamepadDetection.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Slate\Public\SlateBasics.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Core.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Misc/MonolithicHeaderBoilerplate.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\GenericPlatform/GenericPlatformNamedPipe.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\HAL/PlatformNamedPipe.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Windows/WindowsPlatformNamedPipe.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\GenericPlatform/GenericPlatformCriticalSection.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\HAL/PlatformFile.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Windows/WindowsPlatformFile.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\HAL/PlatformIncludes.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Misc/MonolithicHeaderBoilerplate.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\HAL/PlatformFilemanager.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Misc/MessageDialog.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\ProfilingDebugging/ScopedDebugInfo.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\ProfilingDebugging/ExternalProfiler.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Misc/StringUtility.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Serialization/NameAsStringProxyArchive.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Containers/MRUArray.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Containers/TransArray.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Containers/ArrayBuilder.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Misc/SingleThreadEvent.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Containers/StaticBitArray.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Containers/MapBuilder.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\HAL/ThreadingBase.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Internationalization/TextLocalizationManagerGlobals.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Internationalization/Culture.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Logging/LogSuppressionInterface.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Logging/LogScopedCategoryAndVerbosityOverride.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\HAL/OutputDevices.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Logging/LogScopedVerbosityOverride.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Misc/OutputDeviceNull.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Misc/OutputDeviceMemory.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Misc/OutputDeviceFile.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Misc/OutputDeviceDebug.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Misc/OutputDeviceArchiveWrapper.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Misc/OutputDeviceAnsiError.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Misc/TimeGuard.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Serialization/LargeMemoryWriter.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Serialization/LargeMemoryData.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Serialization/LargeMemoryReader.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Serialization/BufferArchive.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Serialization/MemoryReader.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Serialization/ArrayReader.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Serialization/ArrayWriter.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Serialization/BufferWriter.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Misc/Variant.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Misc/WildcardString.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Containers/CircularBuffer.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Containers/CircularQueue.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Misc/OutputDeviceHelper.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Misc/ScopedSlowTask.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Misc/CallbackDevice.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Misc/LocalTimestampDirectoryVisitor.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\UObject/BlueprintsObjectVersion.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\UObject/BuildObjectVersion.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\UObject/CoreObjectVersion.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\UObject/FrameworkObjectVersion.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\UObject/MobileObjectVersion.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\UObject/NetworkingObjectVersion.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\UObject/OnlineObjectVersion.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\UObject/PhysicsObjectVersion.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\UObject/PlatformObjectVersion.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\UObject/SequencerObjectVersion.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\UObject/VRObjectVersion.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Misc/OutputDeviceConsole.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Misc/MonitoredProcess.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\CoreUObject.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\coreuobject\public\UObject/ErrorException.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\coreuobject\public\UObject/UObjectAllocator.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\coreuobject\public\Misc/TextBuffer.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\coreuobject\public\Serialization/PropertyLocalizationDataGathering.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\coreuobject\public\UObject/LevelGuids.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\coreuobject\public\UObject/MetaData.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\coreuobject\public\UObject/ObjectMemoryAnalyzer.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\coreuobject\public\UObject/ReferenceChainSearch.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\HAL/ThreadHeartBeat.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\coreuobject\public\Internationalization/TextPackageNamespaceUtil.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Internationalization/TextNamespaceUtil.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\coreuobject\public\Serialization/ArchiveCountMem.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\coreuobject\public\Serialization/ObjectAndNameAsStringProxyArchive.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\coreuobject\public\Serialization/ObjectWriter.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\coreuobject\public\Serialization/ObjectReader.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\coreuobject\public\Serialization/ArchiveShowReferences.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\coreuobject\public\Serialization/FindReferencersArchive.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\coreuobject\public\Serialization/FindObjectReferencers.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\coreuobject\public\Serialization/ArchiveFindCulprit.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\coreuobject\public\Serialization/ArchiveObjectGraph.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\coreuobject\public\Serialization/TraceReferences.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\coreuobject\public\Serialization/ArchiveTraceRoute.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\coreuobject\public\Serialization/DuplicatedObject.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\coreuobject\public\Serialization/DuplicatedDataReader.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\coreuobject\public\Serialization/DuplicatedDataWriter.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\coreuobject\public\Serialization/ArchiveReplaceObjectRef.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\coreuobject\public\Serialization/ArchiveReplaceOrClearExternalReferences.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\coreuobject\public\Serialization/ArchiveObjectPropertyMapper.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\coreuobject\public\Serialization/ArchiveReferenceMarker.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\coreuobject\public\Serialization/ArchiveObjectCrc32.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\coreuobject\public\UObject/LinkerSave.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\coreuobject\public\Misc/NotifyHook.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\coreuobject\public\Misc/RedirectCollector.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\coreuobject\public\UObject/ScriptStackTracker.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Json\Public\Json.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\SlateCore\Public\SlateCore.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\InputCore\Public\InputCore.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\inputcore\public\InputCoreModule.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\slatecore\public\Layout/LayoutUtils.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\slatecore\public\Animation/SlateSprings.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\slatecore\public\Sound/ISlateSoundDevice.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\slatecore\public\Sound/NullSlateSoundDevice.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\slatecore\public\Textures/SlateUpdatableTexture.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\slatecore\public\Fonts/FontBulkData.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\FontBulkData.generated.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\slatecore\public\Fonts/FontMeasure.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\slatecore\public\Brushes/SlateBorderBrush.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\slatecore\public\Brushes/SlateBoxBrush.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\slatecore\public\Brushes/SlateColorBrush.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\slatecore\public\Brushes/SlateImageBrush.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\slatecore\public\Styling/SlateStyleRegistry.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\slatecore\public\Styling/SlateStyle.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\slatecore\public\Types/NavigationMetaData.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\slatecore\public\Rendering/RenderingPolicy.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\slatecore\public\Rendering/SlateDrawBuffer.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\slatecore\public\Widgets/SUserWidget.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\slate\public\SlateOptMacros.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\slate\public\Framework/Text/PlatformTextField.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\slate\public\Framework/Text/GenericPlatformTextField.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\slate\public\Framework/Application/IPlatformTextField.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\slate\public\Framework/Application/NavigationConfig.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\slate\public\Widgets/SWeakWidget.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\slate\public\Framework/Text/TextHitPoint.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\slate\public\Framework/Text/IRunRenderer.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\slate\public\Framework/Text/ILineHighlighter.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\slate\public\Framework/Text/ILayoutBlock.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\slate\public\Framework/Text/DefaultLayoutBlock.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\slate\public\Framework/Text/WidgetLayoutBlock.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\slate\public\Framework/Text/ISlateRun.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\slate\public\Framework/Text/ISlateRunRenderer.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\slate\public\Framework/Text/ISlateLineHighlighter.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\slate\public\Framework/Text/SlateTextLayout.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\slate\public\Framework/Text/SlateTextRun.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\slate\public\Framework/Text/SlateHyperlinkRun.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\slate\public\Framework/Text/SlateImageRun.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\slate\public\Framework/Text/SlateWidgetRun.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\slate\public\Framework/Text/TextLayoutEngine.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\slate\public\Widgets/Layout/SFxWidget.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\slate\public\Widgets/Layout/SSeparator.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\slate\public\Widgets/Layout/SSpacer.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\slate\public\Widgets/Layout/SWrapBox.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\SlateCore\Public\Widgets/Images/SImage.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\slate\public\Widgets/Images/SSpinningImage.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\slate\public\Widgets/Notifications/SProgressBar.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Slate\SProgressBar.generated.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\slate\public\Widgets/SCanvas.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\slate\public\Framework/Text/ITextDecorator.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\slate\public\Framework/Text/TextDecorators.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\slate\public\Framework/Text/SlateTextLayoutFactory.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\slate\public\Widgets/Text/SRichTextBlock.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\slate\public\Widgets/Layout/SHeader.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\slate\public\Widgets/Layout/SGridPanel.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\slate\public\Widgets/Layout/SUniformGridPanel.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\slate\public\Widgets/Text/ISlateEditableTextWidget.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\slate\public\Widgets/Text/SMultiLineEditableText.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\slate\public\Widgets/Input/SMultiLineEditableTextBox.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\slate\public\Widgets/Input/SEditableText.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\slate\public\Widgets/Input/SEditableTextBox.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\slate\public\Widgets/SToolTip.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\slate\public\Widgets/Layout/SScrollBarTrack.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\slate\public\Widgets/Layout/SScrollBorder.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\slate\public\Widgets/Notifications/SErrorText.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\slate\public\Widgets/Notifications/SErrorHint.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\slate\public\Widgets/Notifications/SPopUpErrorText.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\slate\public\Widgets/Input/SComboButton.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\slate\public\Widgets/Views/STileView.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\slate\public\Widgets/Views/STreeView.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\slate\public\Widgets/Layout/SScrollBox.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\slate\public\Widgets/SViewport.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\SlateCore\Public\Input/HittestGrid.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\slate\public\Widgets/Colors/SColorBlock.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\slate\public\Widgets/Input/NumericTypeInterface.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Math/BasicMathExpressionEvaluator.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Internationalization/FastDecimalFormat.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\slate\public\Widgets/Input/SSpinBox.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\slate\public\Widgets/Input/SSlider.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\slate\public\Widgets/Input/SComboBox.h
-c:\program files\epic games\ue_4.22\engine\source\runtime\slate\public\Framework/Docking/LayoutService.h
+Z:\EpicGames\AstroSourceGames\F.L.I.G.H.T\FLIGHT\Intermediate\Build\Win64\UE4Editor\Development\FLIGHT\Definitions.FLIGHT.h
+Z:\EpicGames\AstroSourceGames\F.L.I.G.H.T\FLIGHT\Source\FLIGHT\Public\GamepadDetection.h
+Z:\EpicGames\Epic Games\UE_4.22\Engine\Source\Runtime\Slate\Public\SlateBasics.h
+Z:\EpicGames\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
+Z:\EpicGames\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Core.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\core\public\Misc/MonolithicHeaderBoilerplate.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\core\public\GenericPlatform/GenericPlatformNamedPipe.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\core\public\HAL/PlatformNamedPipe.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\core\public\Windows/WindowsPlatformNamedPipe.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\core\public\GenericPlatform/GenericPlatformCriticalSection.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\core\public\HAL/PlatformFile.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\core\public\Windows/WindowsPlatformFile.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\core\public\HAL/PlatformIncludes.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\core\public\Misc/MonolithicHeaderBoilerplate.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\core\public\HAL/PlatformFilemanager.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\core\public\Misc/MessageDialog.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\core\public\ProfilingDebugging/ScopedDebugInfo.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\core\public\ProfilingDebugging/ExternalProfiler.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\core\public\Misc/StringUtility.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\core\public\Serialization/NameAsStringProxyArchive.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\core\public\Containers/MRUArray.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\core\public\Containers/TransArray.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\core\public\Containers/ArrayBuilder.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\core\public\Misc/SingleThreadEvent.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\core\public\Containers/StaticBitArray.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\core\public\Containers/MapBuilder.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\core\public\HAL/ThreadingBase.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\core\public\Internationalization/TextLocalizationManagerGlobals.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\core\public\Internationalization/Culture.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\core\public\Logging/LogSuppressionInterface.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\core\public\Logging/LogScopedCategoryAndVerbosityOverride.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\core\public\HAL/OutputDevices.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\core\public\Logging/LogScopedVerbosityOverride.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\core\public\Misc/OutputDeviceNull.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\core\public\Misc/OutputDeviceMemory.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\core\public\Misc/OutputDeviceFile.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\core\public\Misc/OutputDeviceDebug.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\core\public\Misc/OutputDeviceArchiveWrapper.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\core\public\Misc/OutputDeviceAnsiError.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\core\public\Misc/TimeGuard.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\core\public\Serialization/LargeMemoryWriter.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\core\public\Serialization/LargeMemoryData.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\core\public\Serialization/LargeMemoryReader.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\core\public\Serialization/BufferArchive.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\core\public\Serialization/MemoryReader.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\core\public\Serialization/ArrayReader.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\core\public\Serialization/ArrayWriter.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\core\public\Serialization/BufferWriter.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\core\public\Misc/Variant.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\core\public\Misc/WildcardString.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\core\public\Containers/CircularBuffer.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\core\public\Containers/CircularQueue.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\core\public\Misc/OutputDeviceHelper.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\core\public\Misc/ScopedSlowTask.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\core\public\Misc/CallbackDevice.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\core\public\Misc/LocalTimestampDirectoryVisitor.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\core\public\UObject/BlueprintsObjectVersion.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\core\public\UObject/BuildObjectVersion.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\core\public\UObject/CoreObjectVersion.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\core\public\UObject/FrameworkObjectVersion.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\core\public\UObject/MobileObjectVersion.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\core\public\UObject/NetworkingObjectVersion.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\core\public\UObject/OnlineObjectVersion.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\core\public\UObject/PhysicsObjectVersion.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\core\public\UObject/PlatformObjectVersion.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\core\public\UObject/SequencerObjectVersion.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\core\public\UObject/VRObjectVersion.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\core\public\Misc/OutputDeviceConsole.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\core\public\Misc/MonitoredProcess.h
+Z:\EpicGames\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\CoreUObject.h
+Z:\EpicGames\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\coreuobject\public\UObject/ErrorException.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\coreuobject\public\UObject/UObjectAllocator.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\coreuobject\public\Misc/TextBuffer.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\coreuobject\public\Serialization/PropertyLocalizationDataGathering.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\coreuobject\public\UObject/LevelGuids.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\coreuobject\public\UObject/MetaData.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\coreuobject\public\UObject/ObjectMemoryAnalyzer.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\coreuobject\public\UObject/ReferenceChainSearch.h
+Z:\EpicGames\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\HAL/ThreadHeartBeat.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\coreuobject\public\Internationalization/TextPackageNamespaceUtil.h
+Z:\EpicGames\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Internationalization/TextNamespaceUtil.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\coreuobject\public\Serialization/ArchiveCountMem.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\coreuobject\public\Serialization/ObjectAndNameAsStringProxyArchive.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\coreuobject\public\Serialization/ObjectWriter.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\coreuobject\public\Serialization/ObjectReader.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\coreuobject\public\Serialization/ArchiveShowReferences.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\coreuobject\public\Serialization/FindReferencersArchive.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\coreuobject\public\Serialization/FindObjectReferencers.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\coreuobject\public\Serialization/ArchiveFindCulprit.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\coreuobject\public\Serialization/ArchiveObjectGraph.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\coreuobject\public\Serialization/TraceReferences.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\coreuobject\public\Serialization/ArchiveTraceRoute.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\coreuobject\public\Serialization/DuplicatedObject.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\coreuobject\public\Serialization/DuplicatedDataReader.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\coreuobject\public\Serialization/DuplicatedDataWriter.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\coreuobject\public\Serialization/ArchiveReplaceObjectRef.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\coreuobject\public\Serialization/ArchiveReplaceOrClearExternalReferences.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\coreuobject\public\Serialization/ArchiveObjectPropertyMapper.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\coreuobject\public\Serialization/ArchiveReferenceMarker.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\coreuobject\public\Serialization/ArchiveObjectCrc32.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\coreuobject\public\UObject/LinkerSave.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\coreuobject\public\Misc/NotifyHook.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\coreuobject\public\Misc/RedirectCollector.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\coreuobject\public\UObject/ScriptStackTracker.h
+Z:\EpicGames\Epic Games\UE_4.22\Engine\Source\Runtime\Json\Public\Json.h
+Z:\EpicGames\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
+Z:\EpicGames\Epic Games\UE_4.22\Engine\Source\Runtime\SlateCore\Public\SlateCore.h
+Z:\EpicGames\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
+Z:\EpicGames\Epic Games\UE_4.22\Engine\Source\Runtime\InputCore\Public\InputCore.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\inputcore\public\InputCoreModule.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\slatecore\public\Layout/LayoutUtils.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\slatecore\public\Animation/SlateSprings.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\slatecore\public\Sound/ISlateSoundDevice.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\slatecore\public\Sound/NullSlateSoundDevice.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\slatecore\public\Textures/SlateUpdatableTexture.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\slatecore\public\Fonts/FontBulkData.h
+Z:\EpicGames\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\FontBulkData.generated.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\slatecore\public\Fonts/FontMeasure.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\slatecore\public\Brushes/SlateBorderBrush.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\slatecore\public\Brushes/SlateBoxBrush.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\slatecore\public\Brushes/SlateColorBrush.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\slatecore\public\Brushes/SlateImageBrush.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\slatecore\public\Styling/SlateStyleRegistry.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\slatecore\public\Styling/SlateStyle.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\slatecore\public\Types/NavigationMetaData.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\slatecore\public\Rendering/RenderingPolicy.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\slatecore\public\Rendering/SlateDrawBuffer.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\slatecore\public\Widgets/SUserWidget.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\slate\public\SlateOptMacros.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\slate\public\Framework/Text/PlatformTextField.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\slate\public\Framework/Text/GenericPlatformTextField.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\slate\public\Framework/Application/IPlatformTextField.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\slate\public\Framework/Application/NavigationConfig.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\slate\public\Widgets/SWeakWidget.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\slate\public\Framework/Text/TextHitPoint.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\slate\public\Framework/Text/IRunRenderer.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\slate\public\Framework/Text/ILineHighlighter.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\slate\public\Framework/Text/ILayoutBlock.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\slate\public\Framework/Text/DefaultLayoutBlock.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\slate\public\Framework/Text/WidgetLayoutBlock.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\slate\public\Framework/Text/ISlateRun.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\slate\public\Framework/Text/ISlateRunRenderer.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\slate\public\Framework/Text/ISlateLineHighlighter.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\slate\public\Framework/Text/SlateTextLayout.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\slate\public\Framework/Text/SlateTextRun.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\slate\public\Framework/Text/SlateHyperlinkRun.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\slate\public\Framework/Text/SlateImageRun.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\slate\public\Framework/Text/SlateWidgetRun.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\slate\public\Framework/Text/TextLayoutEngine.h
+Z:\EpicGames\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\slate\public\Widgets/Layout/SFxWidget.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\slate\public\Widgets/Layout/SSeparator.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\slate\public\Widgets/Layout/SSpacer.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\slate\public\Widgets/Layout/SWrapBox.h
+Z:\EpicGames\Epic Games\UE_4.22\Engine\Source\Runtime\SlateCore\Public\Widgets/Images/SImage.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\slate\public\Widgets/Images/SSpinningImage.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\slate\public\Widgets/Notifications/SProgressBar.h
+Z:\EpicGames\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Slate\SProgressBar.generated.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\slate\public\Widgets/SCanvas.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\slate\public\Framework/Text/ITextDecorator.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\slate\public\Framework/Text/TextDecorators.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\slate\public\Framework/Text/SlateTextLayoutFactory.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\slate\public\Widgets/Text/SRichTextBlock.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\slate\public\Widgets/Layout/SHeader.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\slate\public\Widgets/Layout/SGridPanel.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\slate\public\Widgets/Layout/SUniformGridPanel.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\slate\public\Widgets/Text/ISlateEditableTextWidget.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\slate\public\Widgets/Text/SMultiLineEditableText.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\slate\public\Widgets/Input/SMultiLineEditableTextBox.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\slate\public\Widgets/Input/SEditableText.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\slate\public\Widgets/Input/SEditableTextBox.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\slate\public\Widgets/SToolTip.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\slate\public\Widgets/Layout/SScrollBarTrack.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\slate\public\Widgets/Layout/SScrollBorder.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\slate\public\Widgets/Notifications/SErrorText.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\slate\public\Widgets/Notifications/SErrorHint.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\slate\public\Widgets/Notifications/SPopUpErrorText.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\slate\public\Widgets/Input/SComboButton.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\slate\public\Widgets/Views/STileView.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\slate\public\Widgets/Views/STreeView.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\slate\public\Widgets/Layout/SScrollBox.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\slate\public\Widgets/SViewport.h
+Z:\EpicGames\Epic Games\UE_4.22\Engine\Source\Runtime\SlateCore\Public\Input/HittestGrid.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\slate\public\Widgets/Colors/SColorBlock.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\slate\public\Widgets/Input/NumericTypeInterface.h
+Z:\EpicGames\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Math/BasicMathExpressionEvaluator.h
+Z:\EpicGames\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Internationalization/FastDecimalFormat.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\slate\public\Widgets/Input/SSpinBox.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\slate\public\Widgets/Input/SSlider.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\slate\public\Widgets/Input/SComboBox.h
+z:\epicgames\epic games\ue_4.22\engine\source\runtime\slate\public\Framework/Docking/LayoutService.h

@@ -1,5 +1,5 @@
-E:\AstroSourceGames\F.L.I.G.H.T\FLIGHT\Source\FLIGHT\FLIGHT.Build.cs
-E:\AstroSourceGames\F.L.I.G.H.T\FLIGHT\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\AdvancedSessions.Build.cs
-E:\AstroSourceGames\F.L.I.G.H.T\FLIGHT\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions\AdvancedSteamSessions.Build.cs
-E:\AstroSourceGames\F.L.I.G.H.T\FLIGHT\Source\FLIGHT.Target.cs
-E:\AstroSourceGames\F.L.I.G.H.T\FLIGHT\Source\FLIGHTEditor.Target.cs
+Z:\EpicGames\AstroSourceGames\F.L.I.G.H.T\FLIGHT\Source\FLIGHT\FLIGHT.Build.cs
+Z:\EpicGames\AstroSourceGames\F.L.I.G.H.T\FLIGHT\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\AdvancedSessions.Build.cs
+Z:\EpicGames\AstroSourceGames\F.L.I.G.H.T\FLIGHT\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions\AdvancedSteamSessions.Build.cs
+Z:\EpicGames\AstroSourceGames\F.L.I.G.H.T\FLIGHT\Source\FLIGHT.Target.cs
+Z:\EpicGames\AstroSourceGames\F.L.I.G.H.T\FLIGHT\Source\FLIGHTEditor.Target.cs
