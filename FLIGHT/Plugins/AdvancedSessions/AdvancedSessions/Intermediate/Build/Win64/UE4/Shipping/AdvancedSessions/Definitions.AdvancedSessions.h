@@ -40,9 +40,10 @@
 #define _WIN32_WINNT 0x0601
 #define WINVER 0x0601
 #define PLATFORM_WINDOWS 1
+#define OVERRIDE_PLATFORM_HEADER_NAME Windows
 #define NDEBUG 1
 #define UE_BUILD_SHIPPING 1
-#define UE_ENGINE_DIRECTORY "C:/Program Files/Epic Games/UE_4.22/Engine/"
+#define UE_ENGINE_DIRECTORY "../../../../../Epic Games/UE_4.22/Engine/"
 #define UE_IS_ENGINE_MODULE 0
 #define UE_PROJECT_NAME FLIGHT
 #define WITH_ADVANCED_SESSIONS 1

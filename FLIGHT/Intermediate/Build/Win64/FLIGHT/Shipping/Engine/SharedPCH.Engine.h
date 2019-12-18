@@ -1,4 +1,4 @@
-// PCH for C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Public\EngineSharedPCH.h
+// PCH for Z:\EpicGames\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Public\EngineSharedPCH.h
 #define IS_PROGRAM 0
 #define UE_GAME 1
 #define ENABLE_PGO_PROFILE 0
@@ -35,9 +35,10 @@
 #define _WIN32_WINNT 0x0601
 #define WINVER 0x0601
 #define PLATFORM_WINDOWS 1
+#define OVERRIDE_PLATFORM_HEADER_NAME Windows
 #define NDEBUG 1
 #define UE_BUILD_SHIPPING 1
-#define UE_ENGINE_DIRECTORY "C:/Program Files/Epic Games/UE_4.22/Engine/"
+#define UE_ENGINE_DIRECTORY "../../../../../Epic Games/UE_4.22/Engine/"
 #define UE_IS_ENGINE_MODULE 1
 #define INCLUDE_CHAOS 0
 #define WITH_PHYSX 1
@@ -106,4 +107,4 @@
 #define AUDIOMIXER_API 
 #define UELIBSAMPLERATE_API 
 #define ANIMATIONCORE_API 
-#include "C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Public\EngineSharedPCH.h"
+#include "Z:\EpicGames\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Public\EngineSharedPCH.h"

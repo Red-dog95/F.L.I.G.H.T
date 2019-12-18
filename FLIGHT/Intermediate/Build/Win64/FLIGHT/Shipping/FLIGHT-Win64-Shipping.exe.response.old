@@ -17,13 +17,14 @@
 /ignore:4099
 /DELAYLOAD:"d3d12.dll"
 /DELAYLOAD:"DBGHELP.DLL"
+/DELAYLOAD:"libsndfile-1.dll"
+/DELAYLOAD:"steam_api64.dll"
 /DELAYLOAD:"mf.dll"
 /DELAYLOAD:"mfplat.dll"
 /DELAYLOAD:"mfplay.dll"
 /DELAYLOAD:"mfuuid.dll"
 /DELAYLOAD:"shlwapi.dll"
 /DELAYLOAD:"GFSDK_Aftermath_Lib.x64.dll"
-/DELAYLOAD:"libsndfile-1.dll"
 /DELAYLOAD:"OVRPlugin.dll"
 /DELAYLOAD:"WinPixEventRuntime.dll"
 /DELAYLOAD:"vulkan-1.dll"
@@ -38,12 +39,13 @@
 /DELAYLOAD:"libogg_64.dll"
 /DELAYLOAD:"libvorbis_64.dll"
 /DELAYLOAD:"libvorbisfile_64.dll"
+/LIBPATH:"C:\Program Files\Epic Games\UE_4.22\Engine\Binaries\ThirdParty\libsndfile\Win64"
+/LIBPATH:"C:\Program Files\Epic Games\UE_4.22\Engine\Source\ThirdParty\Steamworks\Steamv139\sdk\redistributable_bin\win64"
 /LIBPATH:"C:\Program Files\Epic Games\UE_4.22\Engine\Source\ThirdParty\OpenSSL\1.1.1\lib\Win64\VS2015\Release"
 /LIBPATH:"C:\Program Files\Epic Games\UE_4.22\Engine\Source\ThirdParty\libWebSockets\libwebsockets\lib\Win64\VS2015\Release"
 /LIBPATH:"C:\Program Files\Epic Games\UE_4.22\Engine\Source\ThirdParty\zlib\v1.2.8\lib\Win64\VS2015\Release"
 /LIBPATH:"C:\Program Files\Epic Games\UE_4.22\Engine\Source\ThirdParty\openexr\Deploy\lib\VS2015\x64\StaticRelease"
 /LIBPATH:"C:\Program Files\Epic Games\UE_4.22\Engine\Source\ThirdParty\NVIDIA\NVaftermath\amd64"
-/LIBPATH:"C:\Program Files\Epic Games\UE_4.22\Engine\Binaries\ThirdParty\libsndfile\Win64"
 /LIBPATH:"C:\Program Files\Epic Games\UE_4.22\Engine\Source\ThirdParty\Windows\DirectX\Lib\x64"
 /LIBPATH:"C:\Program Files\Epic Games\UE_4.22\Engine\Source\ThirdParty\OpenSubdiv\3.2.0\lib\Win64\VS2015\RelWithDebInfo"
 /LIBPATH:"C:\Program Files\Epic Games\UE_4.22\Engine\Source\ThirdParty\Oculus\OVRPlugin\OVRPlugin\Lib\Win64"
@@ -95,6 +97,19 @@
 "C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4\Shipping\Launch\PCLaunch.rc.res"
 "C:\Program Files\Epic Games\UE_4.22\Engine\Plugins\Developer\Concert\ConcertSync\ConcertSyncClient\Intermediate\Build\Win64\UE4\Shipping\ConcertSyncClientLibrary\Module.ConcertSyncClientLibrary.cpp.obj"
 "C:\Program Files\Epic Games\UE_4.22\Engine\Plugins\Developer\Concert\ConcertSync\ConcertSyncClient\Intermediate\Build\Win64\UE4\Shipping\ConcertSyncClientLibrary\Module.ConcertSyncClientLibrary.gen.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystemSteam\Intermediate\Build\Win64\UE4\Shipping\OnlineSubsystemSteam\Module.OnlineSubsystemSteam.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystemSteam\Intermediate\Build\Win64\UE4\Shipping\OnlineSubsystemSteam\Module.OnlineSubsystemSteam.gen.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4\Shipping\CoreUObject\SharedPCH.CoreUObject.h.obj"
+"C:\Program Files\Epic Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystem\Intermediate\Build\Win64\UE4\Shipping\OnlineSubsystem\Module.OnlineSubsystem.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystem\Intermediate\Build\Win64\UE4\Shipping\OnlineSubsystem\Module.OnlineSubsystem.gen.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystemUtils\Intermediate\Build\Win64\UE4\Shipping\OnlineSubsystemUtils\Module.OnlineSubsystemUtils.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystemUtils\Intermediate\Build\Win64\UE4\Shipping\OnlineSubsystemUtils\Module.OnlineSubsystemUtils.gen.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.22\Engine\Plugins\Runtime\Steam\SteamController\Intermediate\Build\Win64\UE4\Shipping\SteamController\SteamController.cpp.obj"
+"E:\AstroSourceGames\F.L.I.G.H.T\FLIGHT\Intermediate\Build\Win64\FLIGHT\Shipping\Engine\SharedPCH.Engine.h.obj"
+"E:\AstroSourceGames\F.L.I.G.H.T\FLIGHT\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4\Shipping\AdvancedSessions\Module.AdvancedSessions.cpp.obj"
+"E:\AstroSourceGames\F.L.I.G.H.T\FLIGHT\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4\Shipping\AdvancedSessions\Module.AdvancedSessions.gen.cpp.obj"
+"E:\AstroSourceGames\F.L.I.G.H.T\FLIGHT\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4\Shipping\AdvancedSteamSessions\Module.AdvancedSteamSessions.cpp.obj"
+"E:\AstroSourceGames\F.L.I.G.H.T\FLIGHT\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4\Shipping\AdvancedSteamSessions\Module.AdvancedSteamSessions.gen.cpp.obj"
 "C:\Program Files\Epic Games\UE_4.22\Engine\Plugins\2D\Paper2D\Intermediate\Build\Win64\UE4\Shipping\Paper2D\Module.Paper2D.cpp.obj"
 "C:\Program Files\Epic Games\UE_4.22\Engine\Plugins\2D\Paper2D\Intermediate\Build\Win64\UE4\Shipping\Paper2D\Module.Paper2D.gen.cpp.obj"
 "C:\Program Files\Epic Games\UE_4.22\Engine\Plugins\AI\AISupport\Intermediate\Build\Win64\UE4\Shipping\AISupportModule\AISupportModule.cpp.obj"
@@ -124,7 +139,6 @@
 "C:\Program Files\Epic Games\UE_4.22\Engine\Plugins\Experimental\CharacterAI\Intermediate\Build\Win64\UE4\Shipping\CharacterAI\CharacterAIModule.cpp.obj"
 "C:\Program Files\Epic Games\UE_4.22\Engine\Plugins\Experimental\HTML5Networking\Intermediate\Build\Win64\UE4\Shipping\HTML5Networking\Module.HTML5Networking.cpp.obj"
 "C:\Program Files\Epic Games\UE_4.22\Engine\Plugins\Experimental\HTML5Networking\Intermediate\Build\Win64\UE4\Shipping\HTML5Networking\Module.HTML5Networking.gen.cpp.obj"
-"C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4\Shipping\CoreUObject\SharedPCH.CoreUObject.h.obj"
 "C:\Program Files\Epic Games\UE_4.22\Engine\Plugins\Media\AvfMedia\Intermediate\Build\Win64\UE4\Shipping\AvfMediaFactory\Module.AvfMediaFactory.cpp.obj"
 "C:\Program Files\Epic Games\UE_4.22\Engine\Plugins\Media\AvfMedia\Intermediate\Build\Win64\UE4\Shipping\AvfMediaFactory\Module.AvfMediaFactory.gen.cpp.obj"
 "C:\Program Files\Epic Games\UE_4.22\Engine\Plugins\Media\ImgMedia\Intermediate\Build\Win64\UE4\Shipping\ImgMedia\Module.ImgMedia.cpp.obj"
@@ -148,10 +162,6 @@
 "C:\Program Files\Epic Games\UE_4.22\Engine\Plugins\MovieScene\ActorSequence\Intermediate\Build\Win64\UE4\Shipping\ActorSequence\Module.ActorSequence.cpp.obj"
 "C:\Program Files\Epic Games\UE_4.22\Engine\Plugins\MovieScene\ActorSequence\Intermediate\Build\Win64\UE4\Shipping\ActorSequence\Module.ActorSequence.gen.cpp.obj"
 "C:\Program Files\Epic Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystemNull\Intermediate\Build\Win64\UE4\Shipping\OnlineSubsystemNull\Module.OnlineSubsystemNull.cpp.obj"
-"C:\Program Files\Epic Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystem\Intermediate\Build\Win64\UE4\Shipping\OnlineSubsystem\Module.OnlineSubsystem.cpp.obj"
-"C:\Program Files\Epic Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystem\Intermediate\Build\Win64\UE4\Shipping\OnlineSubsystem\Module.OnlineSubsystem.gen.cpp.obj"
-"C:\Program Files\Epic Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystemUtils\Intermediate\Build\Win64\UE4\Shipping\OnlineSubsystemUtils\Module.OnlineSubsystemUtils.cpp.obj"
-"C:\Program Files\Epic Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystemUtils\Intermediate\Build\Win64\UE4\Shipping\OnlineSubsystemUtils\Module.OnlineSubsystemUtils.gen.cpp.obj"
 "C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4\Shipping\Core\SharedPCH.Core.h.obj"
 "C:\Program Files\Epic Games\UE_4.22\Engine\Plugins\Portal\LauncherChunkInstaller\Intermediate\Build\Win64\UE4\Shipping\LauncherChunkInstaller\LauncherChunkInstaller.cpp.obj"
 "C:\Program Files\Epic Games\UE_4.22\Engine\Plugins\Runtime\AndroidPermission\Intermediate\Build\Win64\UE4\Shipping\AndroidPermission\Module.AndroidPermission.cpp.obj"
@@ -191,7 +201,6 @@
 "C:\Program Files\Epic Games\UE_4.22\Engine\Plugins\Media\WebMMedia\Intermediate\Build\Win64\UE4\Shipping\WebMMedia\Module.WebMMedia.cpp.obj"
 "C:\Program Files\Epic Games\UE_4.22\Engine\Plugins\Media\WebMMedia\Intermediate\Build\Win64\UE4\Shipping\WebMMediaFactory\WebMMediaFactoryModule.cpp.obj"
 "C:\Program Files\Epic Games\UE_4.22\Engine\Plugins\Runtime\WindowsMoviePlayer\Intermediate\Build\Win64\UE4\Shipping\WindowsMoviePlayer\Module.WindowsMoviePlayer.cpp.obj"
-"E:\AstroSourceGames\F.L.I.G.H.T\FLIGHT\Intermediate\Build\Win64\FLIGHT\Shipping\Engine\SharedPCH.Engine.h.obj"
 "E:\AstroSourceGames\F.L.I.G.H.T\FLIGHT\Intermediate\Build\Win64\UE4\Shipping\FLIGHT\GamepadDetection.cpp.obj"
 "E:\AstroSourceGames\F.L.I.G.H.T\FLIGHT\Intermediate\Build\Win64\UE4\Shipping\FLIGHT\FLIGHT.cpp.obj"
 "E:\AstroSourceGames\F.L.I.G.H.T\FLIGHT\Intermediate\Build\Win64\UE4\Shipping\FLIGHT\MyBlueprintFunctionLibrary.cpp.obj"
@@ -499,6 +508,9 @@
 "C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4\Shipping\XAudio2\Module.XAudio2.cpp.obj"
 "C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4\Shipping\MediaAssets\Module.MediaAssets.cpp.obj"
 "C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4\Shipping\MediaAssets\Module.MediaAssets.gen.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4\Shipping\Voice\Module.Voice.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4\Shipping\ImageCore\ImageCore.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4\Shipping\InputDevice\InputDeviceModule.cpp.obj"
 "C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4\Shipping\Navmesh\Module.Navmesh.1_of_3.cpp.obj"
 "C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4\Shipping\Navmesh\Module.Navmesh.2_of_3.cpp.obj"
 "C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4\Shipping\Navmesh\Module.Navmesh.3_of_3.cpp.obj"
@@ -517,8 +529,6 @@
 "C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4\Shipping\AIModule\Module.AIModule.gen.5_of_7.cpp.obj"
 "C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4\Shipping\AIModule\Module.AIModule.gen.6_of_7.cpp.obj"
 "C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4\Shipping\AIModule\Module.AIModule.gen.7_of_7.cpp.obj"
-"C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4\Shipping\ImageCore\ImageCore.cpp.obj"
-"C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4\Shipping\Voice\Module.Voice.cpp.obj"
 "C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4\Shipping\GeometryCollectionCore\Module.GeometryCollectionCore.cpp.obj"
 "C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4\Shipping\GeometryCollectionCore\Module.GeometryCollectionCore.gen.cpp.obj"
 "C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4\Shipping\FieldSystemCore\Module.FieldSystemCore.cpp.obj"
@@ -534,7 +544,6 @@
 "C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4\Shipping\ChaosSolverEngine\Module.ChaosSolverEngine.gen.cpp.obj"
 "C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4\Shipping\GeometryCollectionEngine\Module.GeometryCollectionEngine.cpp.obj"
 "C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4\Shipping\GeometryCollectionEngine\Module.GeometryCollectionEngine.gen.cpp.obj"
-"C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4\Shipping\InputDevice\InputDeviceModule.cpp.obj"
 "E:\AstroSourceGames\F.L.I.G.H.T\FLIGHT\Intermediate\Build\Win64\FLIGHT\Shipping\Default.rc2.res"
 "delayimp.lib"
 "wininet.lib"
@@ -560,6 +569,8 @@
 "setupapi.lib"
 "dwmapi.lib"
 "imm32.lib"
+"libsndfile-1.lib"
+"steam_api64.lib"
 "ThirdParty/OpenSSL\1.1.1\lib\Win64\VS2015\Release\libssl.lib"
 "ThirdParty/OpenSSL\1.1.1\lib\Win64\VS2015\Release\libcrypto.lib"
 "crypt32.lib"
@@ -571,7 +582,6 @@
 "IlmThread.lib"
 "Imath.lib"
 "GFSDK_Aftermath_Lib.x64.lib"
-"libsndfile-1.lib"
 "dxguid.lib"
 "dsound.lib"
 "ThirdParty/MikkTSpace/lib/Win64/VS2017/MikkTSpace.lib"
@@ -639,6 +649,12 @@
 /PDB:"E:\AstroSourceGames\F.L.I.G.H.T\FLIGHT\Binaries\Win64\FLIGHT-Win64-Shipping.pdb"
 /ignore:4078
 /INCLUDE:IMPLEMENT_MODULE_ConcertSyncClientLibrary
+/INCLUDE:IMPLEMENT_MODULE_OnlineSubsystemSteam
+/INCLUDE:IMPLEMENT_MODULE_OnlineSubsystem
+/INCLUDE:IMPLEMENT_MODULE_OnlineSubsystemUtils
+/INCLUDE:IMPLEMENT_MODULE_SteamController
+/INCLUDE:IMPLEMENT_MODULE_AdvancedSessions
+/INCLUDE:IMPLEMENT_MODULE_AdvancedSteamSessions
 /INCLUDE:IMPLEMENT_MODULE_Paper2D
 /INCLUDE:IMPLEMENT_MODULE_AISupportModule
 /INCLUDE:IMPLEMENT_MODULE_LightPropagationVolumeRuntime
@@ -666,8 +682,6 @@
 /INCLUDE:IMPLEMENT_MODULE_UdpMessaging
 /INCLUDE:IMPLEMENT_MODULE_ActorSequence
 /INCLUDE:IMPLEMENT_MODULE_OnlineSubsystemNull
-/INCLUDE:IMPLEMENT_MODULE_OnlineSubsystem
-/INCLUDE:IMPLEMENT_MODULE_OnlineSubsystemUtils
 /INCLUDE:IMPLEMENT_MODULE_LauncherChunkInstaller
 /INCLUDE:IMPLEMENT_MODULE_AndroidPermission
 /INCLUDE:IMPLEMENT_MODULE_ArchVisCharacter
@@ -776,12 +790,13 @@
 /INCLUDE:IMPLEMENT_MODULE_AudioMixerXAudio2
 /INCLUDE:IMPLEMENT_MODULE_XAudio2
 /INCLUDE:IMPLEMENT_MODULE_MediaAssets
+/INCLUDE:IMPLEMENT_MODULE_Voice
+/INCLUDE:IMPLEMENT_MODULE_ImageCore
+/INCLUDE:IMPLEMENT_MODULE_InputDevice
 /INCLUDE:IMPLEMENT_MODULE_Navmesh
 /INCLUDE:IMPLEMENT_MODULE_NavigationSystem
 /INCLUDE:IMPLEMENT_MODULE_GameplayTasks
 /INCLUDE:IMPLEMENT_MODULE_AIModule
-/INCLUDE:IMPLEMENT_MODULE_ImageCore
-/INCLUDE:IMPLEMENT_MODULE_Voice
 /INCLUDE:IMPLEMENT_MODULE_GeometryCollectionCore
 /INCLUDE:IMPLEMENT_MODULE_FieldSystemCore
 /INCLUDE:IMPLEMENT_MODULE_Chaos
@@ -791,4 +806,3 @@
 /INCLUDE:IMPLEMENT_MODULE_GeometryCollectionSimulationCore
 /INCLUDE:IMPLEMENT_MODULE_ChaosSolverEngine
 /INCLUDE:IMPLEMENT_MODULE_GeometryCollectionEngine
-/INCLUDE:IMPLEMENT_MODULE_InputDevice

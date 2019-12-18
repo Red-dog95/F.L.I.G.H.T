@@ -26,7 +26,7 @@
 /wd4838
 /we4668
 /I .
-/I E:\AstroSourceGames\F.L.I.G.H.T\FLIGHT\Source\FLIGHT\Private
+/I Z:\EpicGames\AstroSourceGames\F.L.I.G.H.T\FLIGHT\Source\FLIGHT\Private
 /I ..\Intermediate\Build\Win64\UE4\Inc\Engine
 /I Runtime
 /I Runtime\Engine\Classes
@@ -220,24 +220,23 @@
 /I ..\Intermediate\Build\Win64\UE4\Inc\AnimationCore
 /I Runtime\AnimationCore\Public
 /I Runtime\AnimationCore
-/I E:\AstroSourceGames\F.L.I.G.H.T\FLIGHT\Intermediate\Build\Win64\UE4\Inc\FLIGHT
-/I E:\AstroSourceGames\F.L.I.G.H.T\FLIGHT\Source
-/I E:\AstroSourceGames\F.L.I.G.H.T\FLIGHT\Source\FLIGHT\Public
-/I E:\AstroSourceGames\F.L.I.G.H.T\FLIGHT\Source\FLIGHT
+/I Z:\EpicGames\AstroSourceGames\F.L.I.G.H.T\FLIGHT\Intermediate\Build\Win64\UE4\Inc\FLIGHT
+/I Z:\EpicGames\AstroSourceGames\F.L.I.G.H.T\FLIGHT\Source
+/I Z:\EpicGames\AstroSourceGames\F.L.I.G.H.T\FLIGHT\Source\FLIGHT\Public
+/I Z:\EpicGames\AstroSourceGames\F.L.I.G.H.T\FLIGHT\Source\FLIGHT
 /I "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE"
-/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.15063.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.15063.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.15063.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.15063.0\winrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"
 /D_HAS_EXCEPTIONS=0
 /D_HAS_EXCEPTIONS=0
-/FI"E:\AstroSourceGames\F.L.I.G.H.T\FLIGHT\Intermediate\Build\Win64\FLIGHT\Shipping\Engine\SharedPCH.Engine.h"
-/Yu"E:\AstroSourceGames\F.L.I.G.H.T\FLIGHT\Intermediate\Build\Win64\FLIGHT\Shipping\Engine\SharedPCH.Engine.h"
-/Fp"E:\AstroSourceGames\F.L.I.G.H.T\FLIGHT\Intermediate\Build\Win64\FLIGHT\Shipping\Engine\SharedPCH.Engine.h.pch"
-"E:\AstroSourceGames\F.L.I.G.H.T\FLIGHT\Intermediate\Build\Win64\UE4\Inc\FLIGHT\FLIGHT.init.gen.cpp"
-/FI"E:\AstroSourceGames\F.L.I.G.H.T\FLIGHT\Intermediate\Build\Win64\UE4\Shipping\FLIGHT\Definitions.FLIGHT.h"
-/Fo"E:\AstroSourceGames\F.L.I.G.H.T\FLIGHT\Intermediate\Build\Win64\UE4\Shipping\FLIGHT\FLIGHT.init.gen.cpp.obj"
+/FI"Z:\EpicGames\AstroSourceGames\F.L.I.G.H.T\FLIGHT\Intermediate\Build\Win64\FLIGHT\Shipping\Engine\SharedPCH.Engine.h"
+/Yu"Z:\EpicGames\AstroSourceGames\F.L.I.G.H.T\FLIGHT\Intermediate\Build\Win64\FLIGHT\Shipping\Engine\SharedPCH.Engine.h"
+/Fp"Z:\EpicGames\AstroSourceGames\F.L.I.G.H.T\FLIGHT\Intermediate\Build\Win64\FLIGHT\Shipping\Engine\SharedPCH.Engine.h.pch"
+"Z:\EpicGames\AstroSourceGames\F.L.I.G.H.T\FLIGHT\Intermediate\Build\Win64\UE4\Inc\FLIGHT\FLIGHT.init.gen.cpp"
+/FI"Z:\EpicGames\AstroSourceGames\F.L.I.G.H.T\FLIGHT\Intermediate\Build\Win64\UE4\Shipping\FLIGHT\Definitions.FLIGHT.h"
+/Fo"Z:\EpicGames\AstroSourceGames\F.L.I.G.H.T\FLIGHT\Intermediate\Build\Win64\UE4\Shipping\FLIGHT\FLIGHT.init.gen.cpp.obj"
 /TP
 /GR-
 /W4
